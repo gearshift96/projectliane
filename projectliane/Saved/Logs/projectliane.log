@@ -995,3 +995,299 @@ LogInit: Object subsystem initialized
 [2018.01.13-18.02.00:809][  0]LogSavePackage: Save=11.18ms
 [2018.01.13-18.02.00:809][  0]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/S_sofa_low704C30874FE5E732523BD1BDA49EF632.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_Sofa/S_sofa_low.uasset'
 [2018.01.13-18.02.00:810][  0]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_Sofa/S_sofa_low.uasset
+[2018.01.13-18.07.19:022][973]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../Project Liane/Art_assets/Hospital/Props/S_TopCab_Bot/Textures/DrawCab_low_DrawCab_low_BaseColor.png)
+[2018.01.13-18.07.19:173][973]LogTexture:Display: Building textures: DrawCab_low_DrawCab_low_BaseColor (AutoDXT, 2048X2048)
+[2018.01.13-18.07.19:647][973]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../Project Liane/Art_assets/Hospital/Props/S_TopCab_Bot/Textures/DrawCab_low_DrawCab_low_Normal.png)
+[2018.01.13-18.07.19:797][973]LogTexture:Display: Building textures: DrawCab_low_DrawCab_low_Normal (BC5, 2048X2048)
+[2018.01.13-18.07.20:049][973]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../Project Liane/Art_assets/Hospital/Props/S_TopCab_Bot/Textures/DrawCab_low_DrawCab_low_OcclusionRoughnessMetallic.png)
+[2018.01.13-18.07.20:208][973]LogTexture:Display: Building textures: DrawCab_low_DrawCab_low_OcclusionRoughnessMetallic (AutoDXT, 2048X2048)
+[2018.01.13-18.07.23:788][201]LogTexture:Display: Building textures: DrawCab_low_DrawCab_low_OcclusionRoughnessMetallic (AutoDXT, 2048X2048)
+[2018.01.13-18.07.25:452][274]LogSavePackage: Save=204.73ms
+[2018.01.13-18.07.25:452][274]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/DrawCab_low_DrawCab_low_OcclusionRoughnessMetallic9C96FF75464B10E43BFC57A01F4CB226.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/Draws/Textures/DrawCab_low_DrawCab_low_OcclusionRoughnessMetallic.uasset'
+[2018.01.13-18.07.25:454][274]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/Draws/Textures/DrawCab_low_DrawCab_low_OcclusionRoughnessMetallic.uasset
+[2018.01.13-18.07.39:975][539]LogSavePackage: Save=120.81ms
+[2018.01.13-18.07.39:975][539]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/DrawCab_low_DrawCab_low_Normal4990868240D58C1E88C045B0102606C8.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_TopCabBot/Textures/DrawCab_low_DrawCab_low_Normal.uasset'
+[2018.01.13-18.07.39:976][539]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_TopCabBot/Textures/DrawCab_low_DrawCab_low_Normal.uasset
+[2018.01.13-18.07.40:170][539]LogSavePackage: Save=185.64ms
+[2018.01.13-18.07.40:170][539]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/DrawCab_low_DrawCab_low_BaseColor3A17CDC34535D5B6A3A1BEAD61BA07FC.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_TopCabBot/Textures/DrawCab_low_DrawCab_low_BaseColor.uasset'
+[2018.01.13-18.07.40:171][539]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_TopCabBot/Textures/DrawCab_low_DrawCab_low_BaseColor.uasset
+[2018.01.13-18.07.40:206][539]LogSavePackage: Save=27.52ms
+[2018.01.13-18.07.40:206][539]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/DrawCab_low_DrawCab_low_OcclusionRoughnessMetallicC8E02D244898AA632F63E095220BF560.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_TopCabBot/Textures/DrawCab_low_DrawCab_low_OcclusionRoughnessMetallic.uasset'
+[2018.01.13-18.07.40:207][539]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_TopCabBot/Textures/DrawCab_low_DrawCab_low_OcclusionRoughnessMetallic.uasset
+[2018.01.13-18.07.40:221][539]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Props/S_TopCabBot/DrawCab_low" FILE="../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_TopCabBot/DrawCab_low.uasset" SILENT=true
+[2018.01.13-18.07.40:232][539]LogSavePackage: Save=10.80ms
+[2018.01.13-18.07.40:233][539]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/DrawCab_lowE99C99D44A37FBFA5D5BDE9AD279CB15.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_TopCabBot/DrawCab_low.uasset'
+[2018.01.13-18.07.40:234][539]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_TopCabBot/DrawCab_low.uasset
+[2018.01.13-18.08.18:697][869]LogMaterial: Missing cached shader map for material M_TopCabBot, compiling. 
+[2018.01.13-18.08.18:739][869]LogMaterial: Missing cached shader map for material M_TopCabBot, compiling. 
+[2018.01.13-18.08.18:748][869]LogMaterial: Missing cached shader map for material M_TopCabBot, compiling. 
+[2018.01.13-18.08.19:792][928]MaterialEditorStats: Info Base pass shader: 78 instructions
+[2018.01.13-18.08.19:792][928]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2018.01.13-18.08.19:792][928]MaterialEditorStats: Info Texture samplers: 1/16
+[2018.01.13-18.08.23:700][235]LogMaterial: Missing cached shader map for material M_TopCabBot, compiling. 
+[2018.01.13-18.08.23:708][235]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_18, compiling. 
+[2018.01.13-18.08.23:735][235]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_18, compiling. 
+[2018.01.13-18.08.25:109][352]LogMaterial: Missing cached shader map for material M_TopCabBot, compiling. 
+[2018.01.13-18.08.25:120][352]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_18, compiling. 
+[2018.01.13-18.08.25:939][401]MaterialEditorStats: Info Base pass shader: 81 instructions
+[2018.01.13-18.08.25:939][401]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2018.01.13-18.08.25:939][401]MaterialEditorStats: Info Texture samplers: 2/16
+[2018.01.13-18.08.25:940][401]MaterialEditorStats: Info User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.13-18.08.26:919][497]LogMaterial: Missing cached shader map for material M_TopCabBot, compiling. 
+[2018.01.13-18.08.26:928][497]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_19, compiling. 
+[2018.01.13-18.08.26:959][497]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_18, compiling. 
+[2018.01.13-18.08.26:963][497]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_19, compiling. 
+[2018.01.13-18.08.27:750][544]MaterialEditorStats: Info Base pass shader: 81 instructions
+[2018.01.13-18.08.27:750][544]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2018.01.13-18.08.27:750][544]MaterialEditorStats: Info Texture samplers: 2/16
+[2018.01.13-18.08.27:750][544]MaterialEditorStats: Info User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.13-18.08.29:893][761]LogMaterial: Missing cached shader map for material M_TopCabBot, compiling. 
+[2018.01.13-18.08.29:908][761]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_19, compiling. 
+[2018.01.13-18.08.30:695][808]MaterialEditorStats: Info Base pass shader: 87 instructions
+[2018.01.13-18.08.30:695][808]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2018.01.13-18.08.30:695][808]MaterialEditorStats: Info Texture samplers: 3/16
+[2018.01.13-18.08.30:695][808]MaterialEditorStats: Info User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.13-18.08.34:784][145]LogMaterial: Missing cached shader map for material M_TopCabBot, compiling. 
+[2018.01.13-18.08.34:792][145]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_20, compiling. 
+[2018.01.13-18.08.34:824][145]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_18, compiling. 
+[2018.01.13-18.08.34:828][145]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_19, compiling. 
+[2018.01.13-18.08.34:833][145]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_20, compiling. 
+[2018.01.13-18.08.35:620][192]MaterialEditorStats: Info Base pass shader: 87 instructions
+[2018.01.13-18.08.35:620][192]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2018.01.13-18.08.35:620][192]MaterialEditorStats: Info Texture samplers: 3/16
+[2018.01.13-18.08.35:620][192]MaterialEditorStats: Info User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.13-18.08.37:733][371]LogMaterial: Missing cached shader map for material M_TopCabBot, compiling. 
+[2018.01.13-18.08.37:747][371]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_20, compiling. 
+[2018.01.13-18.08.38:540][421]MaterialEditorStats: Info Base pass shader: 87 instructions
+[2018.01.13-18.08.38:540][421]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2018.01.13-18.08.38:540][421]MaterialEditorStats: Info Texture samplers: 4/16
+[2018.01.13-18.08.38:540][421]MaterialEditorStats: Info User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.13-18.08.39:839][556]LogMaterial: Missing cached shader map for material M_TopCabBot, compiling. 
+[2018.01.13-18.08.39:853][556]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_20, compiling. 
+[2018.01.13-18.08.40:672][605]MaterialEditorStats: Info Base pass shader: 89 instructions
+[2018.01.13-18.08.40:672][605]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2018.01.13-18.08.40:672][605]MaterialEditorStats: Info Texture samplers: 4/16
+[2018.01.13-18.08.40:672][605]MaterialEditorStats: Info User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.13-18.08.41:963][741]LogMaterial: Missing cached shader map for material M_TopCabBot, compiling. 
+[2018.01.13-18.08.41:975][741]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_20, compiling. 
+[2018.01.13-18.08.42:770][787]LogMaterialEditor: Saving and Compiling material M_TopCabBot
+[2018.01.13-18.08.43:162][787]LogMaterial: Missing cached shader map for material M_TopCabBot, compiling. 
+[2018.01.13-18.08.43:192][787]LogMaterial: Missing cached shader map for material M_TopCabBot, compiling. 
+[2018.01.13-18.08.43:213][787]LogMaterial: Missing cached shader map for material M_TopCabBot, compiling. 
+[2018.01.13-18.08.43:243][787]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_TopCabBot, compiling. 
+[2018.01.13-18.08.43:833][787]TextureStreamingBuild:Display: Compiling optional shaders took 0.595 seconds.
+[2018.01.13-18.08.44:877][787]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Props/S_TopCabBot/M_TopCabBot" FILE="../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_TopCabBot/M_TopCabBot.uasset" SILENT=true
+[2018.01.13-18.08.44:890][787]LogSavePackage: Save=12.22ms
+[2018.01.13-18.08.44:890][787]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/M_TopCabBot08633BD143A015B9DA2A6B861939686E.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_TopCabBot/M_TopCabBot.uasset'
+[2018.01.13-18.08.44:891][787]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_TopCabBot/M_TopCabBot.uasset
+[2018.01.13-18.08.44:896][787]MaterialEditorStats: Info Base pass shader: 94 instructions
+[2018.01.13-18.08.44:896][787]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2018.01.13-18.08.44:896][787]MaterialEditorStats: Info Texture samplers: 5/16
+[2018.01.13-18.08.44:896][787]MaterialEditorStats: Info User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.13-18.08.55:031][502]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Props/S_TopCabBot/DrawCab_low" FILE="../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_TopCabBot/DrawCab_low.uasset" SILENT=true
+[2018.01.13-18.08.55:048][502]LogSavePackage: Save=10.30ms
+[2018.01.13-18.08.55:048][502]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/DrawCab_low5D20569940FFDABCA2D4688219A64C8A.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_TopCabBot/DrawCab_low.uasset'
+[2018.01.13-18.08.55:049][502]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_TopCabBot/DrawCab_low.uasset
+[2018.01.13-18.09.02:166][ 89]LogActorFactory: Actor Factory created DrawCab_low
+[2018.01.13-18.09.03:061][153]LogActorFactory: Actor Factory created DrawCab_low
+[2018.01.13-18.09.14:375][ 35]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Modernstand_low)
+[2018.01.13-18.09.14:889][ 59]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Modernstand_low2)
+[2018.01.13-18.09.47:479][565]Cmd: POLY TEXSCALE  UU=0.142857 VV=0.001340
+[2018.01.13-18.09.55:181][141]Cmd: POLY TEXSCALE  UU=0.142857 VV=0.142857
+[2018.01.13-18.09.58:651][385]Cmd: POLY TEXSCALE  UU=1.000000 VV=1.000000
+[2018.01.13-18.10.07:487][ 91]Cmd: TRANSACTION UNDO
+[2018.01.13-18.10.07:487][ 91]LogEditorTransaction: Undo Create Actors
+[2018.01.13-18.10.07:510][ 91]LogPhysics:Warning: FDerivedDataPhysXCooker::BuildTriMesh: Triangle data from '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_53' invalid (2364 verts, 0 indices).
+[2018.01.13-18.10.34:764][194]LogPhysics:Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.01.13-18.10.34:764][194]LogPhysics:Warning: ForeachShape(Convex): [/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PostProcessVolume_1.BrushComponent0] ScaledElem[0] invalid
+[2018.01.13-18.10.43:849][867]Cmd: POLY TEXSCALE  UU=1.000000 VV=1.000000
+[2018.01.13-18.10.49:278][274]Cmd: POLY TEXSCALE  UU=1.000000 VV=1.000000
+[2018.01.13-18.11.01:828][299]LogPhysics:Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.01.13-18.11.01:828][299]LogPhysics:Warning: ForeachShape(Convex): [/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PostProcessVolume_1.BrushComponent0] ScaledElem[0] invalid
+[2018.01.13-18.11.03:053][395]Cmd: TRANSACTION UNDO
+[2018.01.13-18.11.03:053][395]LogEditorTransaction: Undo Move Actors
+[2018.01.13-18.11.03:072][395]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush58.BrushComponent0) Component already registered.
+[2018.01.13-18.11.03:073][395]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush57.BrushComponent0) Component already registered.
+[2018.01.13-18.11.03:074][395]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush18.BrushComponent0) Component already registered.
+[2018.01.13-18.11.03:074][395]LogPhysics:Warning: FDerivedDataPhysXCooker::BuildTriMesh: Triangle data from '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_66' invalid (2392 verts, 0 indices).
+[2018.01.13-18.11.03:074][395]LogPhysics:Warning: FDerivedDataPhysXCooker::BuildTriMesh: Triangle data from '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_67' invalid (2392 verts, 0 indices).
+[2018.01.13-18.11.03:075][395]LogPhysics:Warning: FDerivedDataPhysXCooker::BuildTriMesh: Triangle data from '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_68' invalid (2392 verts, 0 indices).
+[2018.01.13-18.11.03:077][395]LogPhysics:Warning: FDerivedDataPhysXCooker::BuildTriMesh: Triangle data from '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_69' invalid (2392 verts, 0 indices).
+[2018.01.13-18.11.03:078][395]LogPhysics:Warning: FDerivedDataPhysXCooker::BuildTriMesh: Triangle data from '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_70' invalid (2392 verts, 0 indices).
+[2018.01.13-18.11.03:078][395]LogPhysics:Warning: FDerivedDataPhysXCooker::BuildTriMesh: Triangle data from '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_71' invalid (2392 verts, 0 indices).
+[2018.01.13-18.11.03:078][395]LogPhysics:Warning: FDerivedDataPhysXCooker::BuildTriMesh: Triangle data from '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_72' invalid (2392 verts, 0 indices).
+[2018.01.13-18.11.03:078][395]LogPhysics:Warning: FDerivedDataPhysXCooker::BuildTriMesh: Triangle data from '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_73' invalid (2392 verts, 0 indices).
+[2018.01.13-18.11.03:078][395]LogPhysics:Warning: FDerivedDataPhysXCooker::BuildTriMesh: Triangle data from '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_74' invalid (2392 verts, 0 indices).
+[2018.01.13-18.11.03:078][395]LogPhysics:Warning: FDerivedDataPhysXCooker::BuildTriMesh: Triangle data from '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_75' invalid (2392 verts, 0 indices).
+[2018.01.13-18.11.03:079][395]LogPhysics:Warning: FDerivedDataPhysXCooker::BuildTriMesh: Triangle data from '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_76' invalid (2392 verts, 0 indices).
+[2018.01.13-18.11.03:079][395]LogPhysics:Warning: FDerivedDataPhysXCooker::BuildTriMesh: Triangle data from '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_77' invalid (2392 verts, 0 indices).
+[2018.01.13-18.11.03:079][395]LogPhysics:Warning: FDerivedDataPhysXCooker::BuildTriMesh: Triangle data from '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_78' invalid (2392 verts, 0 indices).
+[2018.01.13-18.11.03:079][395]LogPhysics:Warning: FDerivedDataPhysXCooker::BuildTriMesh: Triangle data from '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_79' invalid (2392 verts, 0 indices).
+[2018.01.13-18.11.03:079][395]LogPhysics:Warning: FDerivedDataPhysXCooker::BuildTriMesh: Triangle data from '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_80' invalid (2392 verts, 0 indices).
+[2018.01.13-18.11.03:079][395]LogPhysics:Warning: FDerivedDataPhysXCooker::BuildTriMesh: Triangle data from '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_81' invalid (2392 verts, 0 indices).
+[2018.01.13-18.11.03:079][395]LogPhysics:Warning: FDerivedDataPhysXCooker::BuildTriMesh: Triangle data from '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_82' invalid (2392 verts, 0 indices).
+[2018.01.13-18.11.03:079][395]LogPhysics:Warning: FDerivedDataPhysXCooker::BuildTriMesh: Triangle data from '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_83' invalid (2392 verts, 0 indices).
+[2018.01.13-18.11.03:079][395]LogPhysics:Warning: FDerivedDataPhysXCooker::BuildTriMesh: Triangle data from '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_84' invalid (2392 verts, 0 indices).
+[2018.01.13-18.11.03:079][395]LogPhysics:Warning: FDerivedDataPhysXCooker::BuildTriMesh: Triangle data from '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_85' invalid (2392 verts, 0 indices).
+[2018.01.13-18.11.03:079][395]LogPhysics:Warning: FDerivedDataPhysXCooker::BuildTriMesh: Triangle data from '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_86' invalid (2392 verts, 0 indices).
+[2018.01.13-18.11.03:080][395]LogPhysics:Warning: FDerivedDataPhysXCooker::BuildTriMesh: Triangle data from '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_87' invalid (2392 verts, 0 indices).
+[2018.01.13-18.11.03:080][395]LogPhysics:Warning: FDerivedDataPhysXCooker::BuildTriMesh: Triangle data from '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_88' invalid (2392 verts, 0 indices).
+[2018.01.13-18.11.03:080][395]LogPhysics:Warning: FDerivedDataPhysXCooker::BuildTriMesh: Triangle data from '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_89' invalid (2392 verts, 0 indices).
+[2018.01.13-18.11.03:080][395]LogPhysics:Warning: FDerivedDataPhysXCooker::BuildTriMesh: Triangle data from '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_90' invalid (2392 verts, 0 indices).
+[2018.01.13-18.11.03:080][395]LogPhysics:Warning: FDerivedDataPhysXCooker::BuildTriMesh: Triangle data from '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_91' invalid (2392 verts, 0 indices).
+[2018.01.13-18.11.03:080][395]LogPhysics:Warning: FDerivedDataPhysXCooker::BuildTriMesh: Triangle data from '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_92' invalid (2392 verts, 0 indices).
+[2018.01.13-18.11.03:080][395]LogPhysics:Warning: FDerivedDataPhysXCooker::BuildTriMesh: Triangle data from '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_93' invalid (2392 verts, 0 indices).
+[2018.01.13-18.11.03:080][395]LogPhysics:Warning: FDerivedDataPhysXCooker::BuildTriMesh: Triangle data from '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_94' invalid (2392 verts, 0 indices).
+[2018.01.13-18.11.03:080][395]LogPhysics:Warning: FDerivedDataPhysXCooker::BuildTriMesh: Triangle data from '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_95' invalid (2392 verts, 0 indices).
+[2018.01.13-18.11.03:080][395]LogPhysics:Warning: FDerivedDataPhysXCooker::BuildTriMesh: Triangle data from '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_96' invalid (2392 verts, 0 indices).
+[2018.01.13-18.11.03:081][395]LogPhysics:Warning: FDerivedDataPhysXCooker::BuildTriMesh: Triangle data from '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_97' invalid (2392 verts, 0 indices).
+[2018.01.13-18.11.03:081][395]LogPhysics:Warning: FDerivedDataPhysXCooker::BuildTriMesh: Triangle data from '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_98' invalid (2392 verts, 0 indices).
+[2018.01.13-18.11.03:082][395]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush15.BrushComponent0) Component already registered.
+[2018.01.13-18.11.03:083][395]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush16.BrushComponent0) Component already registered.
+[2018.01.13-18.11.03:083][395]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush46.BrushComponent0) Component already registered.
+[2018.01.13-18.11.03:083][395]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush19_5.BrushComponent0) Component already registered.
+[2018.01.13-18.11.03:085][395]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush63.BrushComponent0) Component already registered.
+[2018.01.13-18.11.03:085][395]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush.BrushComponent0) Component already registered.
+[2018.01.13-18.11.03:085][395]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush75.BrushComponent0) Component already registered.
+[2018.01.13-18.11.03:086][395]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush51.BrushComponent0) Component already registered.
+[2018.01.13-18.11.07:270][725]LogPhysics:Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.01.13-18.11.07:270][725]LogPhysics:Warning: ForeachShape(Convex): [/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PostProcessVolume_1.BrushComponent0] ScaledElem[0] invalid
+[2018.01.13-18.11.08:479][820]Cmd: TRANSACTION UNDO
+[2018.01.13-18.11.08:479][820]LogEditorTransaction: Undo Scale Actors
+[2018.01.13-18.11.08:499][820]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush58.BrushComponent0) Component already registered.
+[2018.01.13-18.11.08:499][820]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush57.BrushComponent0) Component already registered.
+[2018.01.13-18.11.08:500][820]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush18.BrushComponent0) Component already registered.
+[2018.01.13-18.11.08:503][820]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush15.BrushComponent0) Component already registered.
+[2018.01.13-18.11.08:504][820]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush16.BrushComponent0) Component already registered.
+[2018.01.13-18.11.08:504][820]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush46.BrushComponent0) Component already registered.
+[2018.01.13-18.11.08:504][820]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush19_5.BrushComponent0) Component already registered.
+[2018.01.13-18.11.08:505][820]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush63.BrushComponent0) Component already registered.
+[2018.01.13-18.11.08:505][820]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush.BrushComponent0) Component already registered.
+[2018.01.13-18.11.08:506][820]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush75.BrushComponent0) Component already registered.
+[2018.01.13-18.11.08:506][820]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush51.BrushComponent0) Component already registered.
+[2018.01.13-18.11.11:519][ 68]LogPhysics:Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.01.13-18.11.11:520][ 68]LogPhysics:Warning: ForeachShape(Convex): [/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PostProcessVolume_1.BrushComponent0] ScaledElem[0] invalid
+[2018.01.13-18.11.13:000][183]LogPhysics:Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.01.13-18.11.13:000][183]LogPhysics:Warning: ForeachShape(Convex): [/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PostProcessVolume_1.BrushComponent0] ScaledElem[0] invalid
+[2018.01.13-18.11.15:124][362]LogPhysics:Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.01.13-18.11.15:124][362]LogPhysics:Warning: ForeachShape(Convex): [/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PostProcessVolume_1.BrushComponent0] ScaledElem[0] invalid
+[2018.01.13-18.11.19:310][716]LogPhysics:Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.01.13-18.11.19:310][716]LogPhysics:Warning: ForeachShape(Convex): [/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PostProcessVolume_1.BrushComponent0] ScaledElem[0] invalid
+[2018.01.13-18.11.29:997][506]LogPhysics:Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.01.13-18.11.29:997][506]LogPhysics:Warning: ForeachShape(Convex): [/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PostProcessVolume_1.BrushComponent0] ScaledElem[0] invalid
+[2018.01.13-18.11.31:560][630]Cmd: TRANSACTION UNDO
+[2018.01.13-18.11.31:560][630]LogEditorTransaction: Undo Select Brush Surface
+[2018.01.13-18.11.31:997][658]Cmd: TRANSACTION UNDO
+[2018.01.13-18.11.31:997][658]LogEditorTransaction: Undo Scale Actors
+[2018.01.13-18.11.32:006][658]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush58.BrushComponent0) Component already registered.
+[2018.01.13-18.11.32:006][658]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush57.BrushComponent0) Component already registered.
+[2018.01.13-18.11.32:007][658]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush18.BrushComponent0) Component already registered.
+[2018.01.13-18.11.32:010][658]LogPhysics:Warning: FDerivedDataPhysXCooker::BuildTriMesh: Triangle data from '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_264' invalid (2404 verts, 0 indices).
+[2018.01.13-18.11.32:010][658]LogPhysics:Warning: FDerivedDataPhysXCooker::BuildTriMesh: Triangle data from '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_265' invalid (2404 verts, 0 indices).
+[2018.01.13-18.11.32:010][658]LogPhysics:Warning: FDerivedDataPhysXCooker::BuildTriMesh: Triangle data from '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_266' invalid (2404 verts, 0 indices).
+[2018.01.13-18.11.32:010][658]LogPhysics:Warning: FDerivedDataPhysXCooker::BuildTriMesh: Triangle data from '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_267' invalid (2404 verts, 0 indices).
+[2018.01.13-18.11.32:010][658]LogPhysics:Warning: FDerivedDataPhysXCooker::BuildTriMesh: Triangle data from '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_268' invalid (2404 verts, 0 indices).
+[2018.01.13-18.11.32:010][658]LogPhysics:Warning: FDerivedDataPhysXCooker::BuildTriMesh: Triangle data from '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_269' invalid (2404 verts, 0 indices).
+[2018.01.13-18.11.32:010][658]LogPhysics:Warning: FDerivedDataPhysXCooker::BuildTriMesh: Triangle data from '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_270' invalid (2404 verts, 0 indices).
+[2018.01.13-18.11.32:011][658]LogPhysics:Warning: FDerivedDataPhysXCooker::BuildTriMesh: Triangle data from '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_271' invalid (2404 verts, 0 indices).
+[2018.01.13-18.11.32:011][658]LogPhysics:Warning: FDerivedDataPhysXCooker::BuildTriMesh: Triangle data from '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_272' invalid (2404 verts, 0 indices).
+[2018.01.13-18.11.32:011][658]LogPhysics:Warning: FDerivedDataPhysXCooker::BuildTriMesh: Triangle data from '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_273' invalid (2404 verts, 0 indices).
+[2018.01.13-18.11.32:011][658]LogPhysics:Warning: FDerivedDataPhysXCooker::BuildTriMesh: Triangle data from '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_274' invalid (2404 verts, 0 indices).
+[2018.01.13-18.11.32:011][658]LogPhysics:Warning: FDerivedDataPhysXCooker::BuildTriMesh: Triangle data from '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_275' invalid (2404 verts, 0 indices).
+[2018.01.13-18.11.32:011][658]LogPhysics:Warning: FDerivedDataPhysXCooker::BuildTriMesh: Triangle data from '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_276' invalid (2404 verts, 0 indices).
+[2018.01.13-18.11.32:011][658]LogPhysics:Warning: FDerivedDataPhysXCooker::BuildTriMesh: Triangle data from '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_277' invalid (2404 verts, 0 indices).
+[2018.01.13-18.11.32:011][658]LogPhysics:Warning: FDerivedDataPhysXCooker::BuildTriMesh: Triangle data from '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_278' invalid (2404 verts, 0 indices).
+[2018.01.13-18.11.32:011][658]LogPhysics:Warning: FDerivedDataPhysXCooker::BuildTriMesh: Triangle data from '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_279' invalid (2404 verts, 0 indices).
+[2018.01.13-18.11.32:011][658]LogPhysics:Warning: FDerivedDataPhysXCooker::BuildTriMesh: Triangle data from '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_280' invalid (2404 verts, 0 indices).
+[2018.01.13-18.11.32:011][658]LogPhysics:Warning: FDerivedDataPhysXCooker::BuildTriMesh: Triangle data from '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_281' invalid (2404 verts, 0 indices).
+[2018.01.13-18.11.32:011][658]LogPhysics:Warning: FDerivedDataPhysXCooker::BuildTriMesh: Triangle data from '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_282' invalid (2404 verts, 0 indices).
+[2018.01.13-18.11.32:011][658]LogPhysics:Warning: FDerivedDataPhysXCooker::BuildTriMesh: Triangle data from '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_283' invalid (2404 verts, 0 indices).
+[2018.01.13-18.11.32:011][658]LogPhysics:Warning: FDerivedDataPhysXCooker::BuildTriMesh: Triangle data from '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_284' invalid (2404 verts, 0 indices).
+[2018.01.13-18.11.32:012][658]LogPhysics:Warning: FDerivedDataPhysXCooker::BuildTriMesh: Triangle data from '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_285' invalid (2404 verts, 0 indices).
+[2018.01.13-18.11.32:012][658]LogPhysics:Warning: FDerivedDataPhysXCooker::BuildTriMesh: Triangle data from '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_286' invalid (2404 verts, 0 indices).
+[2018.01.13-18.11.32:012][658]LogPhysics:Warning: FDerivedDataPhysXCooker::BuildTriMesh: Triangle data from '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_287' invalid (2404 verts, 0 indices).
+[2018.01.13-18.11.32:012][658]LogPhysics:Warning: FDerivedDataPhysXCooker::BuildTriMesh: Triangle data from '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_288' invalid (2404 verts, 0 indices).
+[2018.01.13-18.11.32:012][658]LogPhysics:Warning: FDerivedDataPhysXCooker::BuildTriMesh: Triangle data from '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_289' invalid (2404 verts, 0 indices).
+[2018.01.13-18.11.32:012][658]LogPhysics:Warning: FDerivedDataPhysXCooker::BuildTriMesh: Triangle data from '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_290' invalid (2404 verts, 0 indices).
+[2018.01.13-18.11.32:012][658]LogPhysics:Warning: FDerivedDataPhysXCooker::BuildTriMesh: Triangle data from '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_291' invalid (2404 verts, 0 indices).
+[2018.01.13-18.11.32:012][658]LogPhysics:Warning: FDerivedDataPhysXCooker::BuildTriMesh: Triangle data from '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_292' invalid (2404 verts, 0 indices).
+[2018.01.13-18.11.32:013][658]LogPhysics:Warning: FDerivedDataPhysXCooker::BuildTriMesh: Triangle data from '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_293' invalid (2404 verts, 0 indices).
+[2018.01.13-18.11.32:013][658]LogPhysics:Warning: FDerivedDataPhysXCooker::BuildTriMesh: Triangle data from '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_294' invalid (2404 verts, 0 indices).
+[2018.01.13-18.11.32:013][658]LogPhysics:Warning: FDerivedDataPhysXCooker::BuildTriMesh: Triangle data from '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_295' invalid (2404 verts, 0 indices).
+[2018.01.13-18.11.32:013][658]LogPhysics:Warning: FDerivedDataPhysXCooker::BuildTriMesh: Triangle data from '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_296' invalid (2404 verts, 0 indices).
+[2018.01.13-18.11.32:015][658]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush15.BrushComponent0) Component already registered.
+[2018.01.13-18.11.32:015][658]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush16.BrushComponent0) Component already registered.
+[2018.01.13-18.11.32:015][658]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush46.BrushComponent0) Component already registered.
+[2018.01.13-18.11.32:016][658]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush19_5.BrushComponent0) Component already registered.
+[2018.01.13-18.11.32:017][658]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush63.BrushComponent0) Component already registered.
+[2018.01.13-18.11.32:017][658]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush.BrushComponent0) Component already registered.
+[2018.01.13-18.11.32:018][658]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush75.BrushComponent0) Component already registered.
+[2018.01.13-18.11.32:018][658]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush51.BrushComponent0) Component already registered.
+[2018.01.13-18.11.48:799][ 36]LogTemp: Repeting last play command: New Editor Window (PIE)
+[2018.01.13-18.11.48:818][ 36]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.01.13-18.11.48:818][ 36]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.13-18.11.48:818][ 36]PIE: New page: PIE session: ThirdPersonExampleMap (Jan 13, 2018, 2:11:48 AM)
+[2018.01.13-18.11.48:818][ 36]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.01.13-18.11.48:853][ 36]LogPlayLevel: PIE: StaticDuplicateObject took: (0.034453s)
+[2018.01.13-18.11.48:853][ 36]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.01.13-18.11.48:854][ 36]LogPlayLevel: PIE: World Init took: (0.000722s)
+[2018.01.13-18.11.48:854][ 36]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.035485s)
+[2018.01.13-18.11.48:884][ 36]LogInit: XAudio2 using 'Headphones (Strix Wireless Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.01.13-18.11.48:913][ 36]LogInit: FAudioDevice initialized.
+[2018.01.13-18.11.48:955][ 36]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.01.13-18.11.48:958][ 36]LogPhysics:Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.01.13-18.11.48:958][ 36]LogPhysics:Warning: ForeachShape(Convex): [/Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PostProcessVolume_1.BrushComponent0] ScaledElem[0] invalid
+[2018.01.13-18.11.48:962][ 36]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.01.13-10.11.48
+[2018.01.13-18.11.48:964][ 36]LogWorld: Bringing up level for play took: 0.007905
+[2018.01.13-18.11.48:969][ 36]PIE: Info Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.224
+[2018.01.13-18.11.48:975][ 36]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.01.13-18.11.52:784][243]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.01.13-18.11.52:839][243]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.01.13-18.12.15:076][ 10]Cmd: POLY TEXSCALE  UU=1.000000 VV=1.000000
+[2018.01.13-18.12.18:539][243]Cmd: POLY TEXSCALE  UU=0.007246 VV=0.000083
+[2018.01.13-18.12.30:664][182]Cmd: POLY TEXSCALE  UU=1.000000 VV=1.000000
+[2018.01.13-18.12.33:966][360]LogSavePackage: Save=996.88ms
+[2018.01.13-18.12.33:966][360]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/ThirdPersonExampleMapA640B3BF42CA2E7A79325D8CE97A9653.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.01.13-18.12.33:969][360]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2018.01.13-18.12.34:563][360]LogSavePackage: Save=543.64ms
+[2018.01.13-18.12.34:563][360]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/ThirdPersonExampleMap_BuiltData0299585B468A38831EA3C599AA1EA2DA.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2018.01.13-18.12.34:565][360]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset
+[2018.01.13-18.12.44:509][491]LogSavePackage: Save=10.54ms
+[2018.01.13-18.12.44:509][491]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/M_fluorsscentlightC319526D47D6421D31EC20B0427447E0.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/fluorscentlight/M_fluorsscentlight.uasset'
+[2018.01.13-18.12.44:513][491]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/fluorscentlight/M_fluorsscentlight.uasset
+[2018.01.13-18.12.44:753][491]LogSavePackage: Save=232.06ms
+[2018.01.13-18.12.44:753][491]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/Fabric_T_Base_Color6069E8FD4FA55DC525455B999AE41BAD.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_Sofa/Textures/Fabric_T_Base_Color.uasset'
+[2018.01.13-18.12.44:754][491]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_Sofa/Textures/Fabric_T_Base_Color.uasset
+[2018.01.13-18.12.44:805][491]LogSavePackage: Save=42.29ms
+[2018.01.13-18.12.44:805][491]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/Fabric_T_Mixed_AO9C97662E40FAE6EC5A63D4A8C57D4BDC.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_Sofa/Textures/Fabric_T_Mixed_AO.uasset'
+[2018.01.13-18.12.44:807][491]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_Sofa/Textures/Fabric_T_Mixed_AO.uasset
+[2018.01.13-18.12.45:007][491]LogSavePackage: Save=190.80ms
+[2018.01.13-18.12.45:007][491]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/Fabric_T_Normal_OpenGL10EAA041429A3338668863985A89EE67.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_Sofa/Textures/Fabric_T_Normal_OpenGL.uasset'
+[2018.01.13-18.12.45:010][491]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_Sofa/Textures/Fabric_T_Normal_OpenGL.uasset
+[2018.01.13-18.12.45:137][491]LogSavePackage: Save=119.29ms
+[2018.01.13-18.12.45:137][491]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/Metal_T_Base_ColorC57B62DB4274467225360FB10033AFD1.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_Sofa/Textures/Metal_T_Base_Color.uasset'
+[2018.01.13-18.12.45:138][491]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_Sofa/Textures/Metal_T_Base_Color.uasset
+[2018.01.13-18.12.45:181][491]LogSavePackage: Save=35.70ms
+[2018.01.13-18.12.45:181][491]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/Metal_T_Metallic9BF434704876099FFF559AB96F14E327.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_Sofa/Textures/Metal_T_Metallic.uasset'
+[2018.01.13-18.12.45:182][491]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_Sofa/Textures/Metal_T_Metallic.uasset
+[2018.01.13-18.12.45:363][491]LogSavePackage: Save=172.86ms
+[2018.01.13-18.12.45:363][491]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/Wood_T_Base_Color7B2894D94E96C27C58B61D8429254677.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_Sofa/Textures/Wood_T_Base_Color.uasset'
+[2018.01.13-18.12.45:364][491]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_Sofa/Textures/Wood_T_Base_Color.uasset
+[2018.01.13-18.12.45:407][491]LogSavePackage: Save=36.07ms
+[2018.01.13-18.12.45:407][491]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/Wood_T_Metallic57218C1F4F6C2DBF65A7B39B71D61246.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_Sofa/Textures/Wood_T_Metallic.uasset'
+[2018.01.13-18.12.45:408][491]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_Sofa/Textures/Wood_T_Metallic.uasset
+[2018.01.13-18.12.45:461][491]LogSavePackage: Save=44.84ms
+[2018.01.13-18.12.45:461][491]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/Wood_T_Mixed_AO926D758749FE683D1703BBAF98B10826.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_Sofa/Textures/Wood_T_Mixed_AO.uasset'
+[2018.01.13-18.12.45:462][491]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_Sofa/Textures/Wood_T_Mixed_AO.uasset
+[2018.01.13-18.12.45:678][491]LogSavePackage: Save=202.24ms
+[2018.01.13-18.12.45:678][491]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/Wood_T_Normal_OpenGL58EF83C64A05A2741197F994149222F5.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_Sofa/Textures/Wood_T_Normal_OpenGL.uasset'
+[2018.01.13-18.12.45:680][491]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_Sofa/Textures/Wood_T_Normal_OpenGL.uasset
+[2018.01.13-18.12.45:740][491]LogSavePackage: Save=52.31ms
+[2018.01.13-18.12.45:740][491]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/Wood_T_RoughnessB23BFE2245704EEFCD47039BC280C7AE.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_Sofa/Textures/Wood_T_Roughness.uasset'
+[2018.01.13-18.12.45:741][491]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_Sofa/Textures/Wood_T_Roughness.uasset
+[2018.01.13-18.12.45:799][491]LogSavePackage: Save=49.59ms
+[2018.01.13-18.12.45:799][491]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/Metal_T_Mixed_AO56270A6E4733F7C0D93D0EABCCE42163.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_Sofa/Textures/Metal_T_Mixed_AO.uasset'
+[2018.01.13-18.12.45:800][491]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_Sofa/Textures/Metal_T_Mixed_AO.uasset
+[2018.01.13-18.12.45:925][491]LogSavePackage: Save=116.37ms
+[2018.01.13-18.12.45:925][491]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/Metal_T_Normal_OpenGLC7EC2852472D8EA6FC2B91B488426220.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_Sofa/Textures/Metal_T_Normal_OpenGL.uasset'
+[2018.01.13-18.12.45:926][491]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_Sofa/Textures/Metal_T_Normal_OpenGL.uasset
