@@ -3737,3 +3737,161 @@ Exception rethrown at [0]:
 [2018.01.13-18.38.17:874][586]LogSavePackage: Save=124.26ms
 [2018.01.13-18.38.17:874][586]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/examtable_low_plastic_Normal6079159D448A9B1D930772BDBB2F4D77.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_Examtable/Textures/examtable_low_plastic_Normal.uasset'
 [2018.01.13-18.38.17:877][586]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_Examtable/Textures/examtable_low_plastic_Normal.uasset
+[2018.01.13-18.39.10:477][732]LogTemp: Repeting last play command: New Editor Window (PIE)
+[2018.01.13-18.39.10:495][732]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.01.13-18.39.10:495][732]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.13-18.39.10:495][732]PIE: New page: PIE session: ThirdPersonExampleMap (Jan 13, 2018, 2:39:10 AM)
+[2018.01.13-18.39.10:495][732]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.01.13-18.39.10:537][732]LogPlayLevel: PIE: StaticDuplicateObject took: (0.041381s)
+[2018.01.13-18.39.10:537][732]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.01.13-18.39.10:537][732]LogPlayLevel: PIE: World Init took: (0.000483s)
+[2018.01.13-18.39.10:537][732]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.042091s)
+[2018.01.13-18.39.10:561][732]LogInit: XAudio2 using 'Headphones (Strix Wireless Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.01.13-18.39.10:587][732]LogInit: FAudioDevice initialized.
+[2018.01.13-18.39.10:634][732]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.01.13-18.39.10:637][732]LogPhysics:Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.01.13-18.39.10:637][732]LogPhysics:Warning: ForeachShape(Convex): [/Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PostProcessVolume_1.BrushComponent0] ScaledElem[0] invalid
+[2018.01.13-18.39.10:641][732]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.01.13-10.39.10
+[2018.01.13-18.39.10:642][732]LogWorld: Bringing up level for play took: 0.007749
+[2018.01.13-18.39.10:647][732]PIE: Info Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.098
+[2018.01.13-18.39.10:653][732]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.01.13-18.39.24:857][426]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.01.13-18.39.24:923][426]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.01.13-18.39.29:920][969]Cmd: POLY TEXSCALE  UU=0.500000 VV=0.500000
+[2018.01.13-18.39.31:422][120]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (S_sofa_low5)
+[2018.01.13-18.39.36:132][625]Cmd: POLY TEXSCALE  UU=1.000000 VV=1.000000
+[2018.01.13-18.39.49:352][106]Cmd: POLY TEXSCALE  UU=0.666667 VV=0.666667
+[2018.01.13-18.39.50:618][245]Cmd: EDCALLBACK SURFPROPS
+[2018.01.13-18.40.00:817][348]Cmd: POLY TEXSCALE  UU=0.666667 VV=0.666667
+[2018.01.13-18.40.05:299][843]Cmd: POLY TEXSCALE  UU=0.666667 VV=0.666667
+[2018.01.13-18.40.11:574][527]Cmd: POLY TEXSCALE  UU=0.666667 VV=0.666667
+[2018.01.13-18.40.15:085][938]Cmd: POLY TEXSCALE  UU=0.666667 VV=0.666667
+[2018.01.13-18.40.20:571][545]LogPhysics:Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.01.13-18.40.20:571][545]LogPhysics:Warning: ForeachShape(Convex): [/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PostProcessVolume_1.BrushComponent0] ScaledElem[0] invalid
+[2018.01.13-18.40.21:685][670]Cmd: TRANSACTION UNDO
+[2018.01.13-18.40.21:685][670]LogEditorTransaction: Undo Move Actors
+[2018.01.13-18.40.21:695][670]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush57.BrushComponent0) Component already registered.
+[2018.01.13-18.40.21:695][670]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush59_24.BrushComponent0) Component already registered.
+[2018.01.13-18.40.21:695][670]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush50.BrushComponent0) Component already registered.
+[2018.01.13-18.40.21:696][670]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush73.BrushComponent0) Component already registered.
+[2018.01.13-18.40.21:696][670]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush67_13.BrushComponent0) Component already registered.
+[2018.01.13-18.40.21:697][670]LogPhysics:Warning: FDerivedDataPhysXCooker::BuildTriMesh: Triangle data from '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_1618' invalid (2560 verts, 0 indices).
+[2018.01.13-18.40.21:697][670]LogPhysics:Warning: FDerivedDataPhysXCooker::BuildTriMesh: Triangle data from '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_1619' invalid (2560 verts, 0 indices).
+[2018.01.13-18.40.21:697][670]LogPhysics:Warning: FDerivedDataPhysXCooker::BuildTriMesh: Triangle data from '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_1620' invalid (2560 verts, 0 indices).
+[2018.01.13-18.40.21:698][670]LogPhysics:Warning: FDerivedDataPhysXCooker::BuildTriMesh: Triangle data from '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_1621' invalid (2560 verts, 0 indices).
+[2018.01.13-18.40.21:698][670]LogPhysics:Warning: FDerivedDataPhysXCooker::BuildTriMesh: Triangle data from '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_1622' invalid (2560 verts, 0 indices).
+[2018.01.13-18.40.21:699][670]LogPhysics:Warning: FDerivedDataPhysXCooker::BuildTriMesh: Triangle data from '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_1623' invalid (2560 verts, 0 indices).
+[2018.01.13-18.40.21:699][670]LogPhysics:Warning: FDerivedDataPhysXCooker::BuildTriMesh: Triangle data from '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_1624' invalid (2560 verts, 0 indices).
+[2018.01.13-18.40.21:699][670]LogPhysics:Warning: FDerivedDataPhysXCooker::BuildTriMesh: Triangle data from '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_1625' invalid (2560 verts, 0 indices).
+[2018.01.13-18.40.21:699][670]LogPhysics:Warning: FDerivedDataPhysXCooker::BuildTriMesh: Triangle data from '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_1626' invalid (2560 verts, 0 indices).
+[2018.01.13-18.40.21:699][670]LogPhysics:Warning: FDerivedDataPhysXCooker::BuildTriMesh: Triangle data from '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_1627' invalid (2560 verts, 0 indices).
+[2018.01.13-18.40.21:699][670]LogPhysics:Warning: FDerivedDataPhysXCooker::BuildTriMesh: Triangle data from '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_1628' invalid (2560 verts, 0 indices).
+[2018.01.13-18.40.21:699][670]LogPhysics:Warning: FDerivedDataPhysXCooker::BuildTriMesh: Triangle data from '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_1629' invalid (2560 verts, 0 indices).
+[2018.01.13-18.40.21:699][670]LogPhysics:Warning: FDerivedDataPhysXCooker::BuildTriMesh: Triangle data from '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_1630' invalid (2560 verts, 0 indices).
+[2018.01.13-18.40.21:700][670]LogPhysics:Warning: FDerivedDataPhysXCooker::BuildTriMesh: Triangle data from '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_1631' invalid (2560 verts, 0 indices).
+[2018.01.13-18.40.21:700][670]LogPhysics:Warning: FDerivedDataPhysXCooker::BuildTriMesh: Triangle data from '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_1632' invalid (2560 verts, 0 indices).
+[2018.01.13-18.40.21:700][670]LogPhysics:Warning: FDerivedDataPhysXCooker::BuildTriMesh: Triangle data from '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_1633' invalid (2560 verts, 0 indices).
+[2018.01.13-18.40.21:700][670]LogPhysics:Warning: FDerivedDataPhysXCooker::BuildTriMesh: Triangle data from '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_1634' invalid (2560 verts, 0 indices).
+[2018.01.13-18.40.21:700][670]LogPhysics:Warning: FDerivedDataPhysXCooker::BuildTriMesh: Triangle data from '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_1635' invalid (2560 verts, 0 indices).
+[2018.01.13-18.40.21:700][670]LogPhysics:Warning: FDerivedDataPhysXCooker::BuildTriMesh: Triangle data from '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_1636' invalid (2560 verts, 0 indices).
+[2018.01.13-18.40.21:700][670]LogPhysics:Warning: FDerivedDataPhysXCooker::BuildTriMesh: Triangle data from '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_1637' invalid (2560 verts, 0 indices).
+[2018.01.13-18.40.21:700][670]LogPhysics:Warning: FDerivedDataPhysXCooker::BuildTriMesh: Triangle data from '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_1638' invalid (2560 verts, 0 indices).
+[2018.01.13-18.40.21:700][670]LogPhysics:Warning: FDerivedDataPhysXCooker::BuildTriMesh: Triangle data from '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_1639' invalid (2560 verts, 0 indices).
+[2018.01.13-18.40.21:700][670]LogPhysics:Warning: FDerivedDataPhysXCooker::BuildTriMesh: Triangle data from '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_1640' invalid (2560 verts, 0 indices).
+[2018.01.13-18.40.21:700][670]LogPhysics:Warning: FDerivedDataPhysXCooker::BuildTriMesh: Triangle data from '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_1641' invalid (2560 verts, 0 indices).
+[2018.01.13-18.40.21:700][670]LogPhysics:Warning: FDerivedDataPhysXCooker::BuildTriMesh: Triangle data from '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_1642' invalid (2560 verts, 0 indices).
+[2018.01.13-18.40.21:700][670]LogPhysics:Warning: FDerivedDataPhysXCooker::BuildTriMesh: Triangle data from '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_1643' invalid (2560 verts, 0 indices).
+[2018.01.13-18.40.21:700][670]LogPhysics:Warning: FDerivedDataPhysXCooker::BuildTriMesh: Triangle data from '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_1644' invalid (2560 verts, 0 indices).
+[2018.01.13-18.40.21:700][670]LogPhysics:Warning: FDerivedDataPhysXCooker::BuildTriMesh: Triangle data from '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_1645' invalid (2560 verts, 0 indices).
+[2018.01.13-18.40.21:700][670]LogPhysics:Warning: FDerivedDataPhysXCooker::BuildTriMesh: Triangle data from '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_1646' invalid (2560 verts, 0 indices).
+[2018.01.13-18.40.21:701][670]LogPhysics:Warning: FDerivedDataPhysXCooker::BuildTriMesh: Triangle data from '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_1647' invalid (2560 verts, 0 indices).
+[2018.01.13-18.40.21:701][670]LogPhysics:Warning: FDerivedDataPhysXCooker::BuildTriMesh: Triangle data from '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_1648' invalid (2560 verts, 0 indices).
+[2018.01.13-18.40.21:701][670]LogPhysics:Warning: FDerivedDataPhysXCooker::BuildTriMesh: Triangle data from '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_1649' invalid (2560 verts, 0 indices).
+[2018.01.13-18.40.21:701][670]LogPhysics:Warning: FDerivedDataPhysXCooker::BuildTriMesh: Triangle data from '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_1650' invalid (2560 verts, 0 indices).
+[2018.01.13-18.40.21:701][670]LogPhysics:Warning: FDerivedDataPhysXCooker::BuildTriMesh: Triangle data from '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_1651' invalid (2560 verts, 0 indices).
+[2018.01.13-18.40.21:703][670]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush28.BrushComponent0) Component already registered.
+[2018.01.13-18.40.21:703][670]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush11.BrushComponent0) Component already registered.
+[2018.01.13-18.40.21:704][670]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush25.BrushComponent0) Component already registered.
+[2018.01.13-18.40.21:704][670]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush63.BrushComponent0) Component already registered.
+[2018.01.13-18.40.21:704][670]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush24_20.BrushComponent0) Component already registered.
+[2018.01.13-18.40.21:706][670]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush62.BrushComponent0) Component already registered.
+[2018.01.13-18.40.21:706][670]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush8.BrushComponent0) Component already registered.
+[2018.01.13-18.40.21:707][670]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush37.BrushComponent0) Component already registered.
+[2018.01.13-18.40.31:293][737]Cmd: POLY TEXSCALE  UU=0.666667 VV=0.666667
+[2018.01.13-18.40.51:521][ 61]Cmd: POLY TEXSCALE  UU=0.666667 VV=0.666667
+[2018.01.13-18.41.00:467][ 99]Cmd: POLY TEXSCALE  UU=0.666667 VV=0.666667
+[2018.01.13-18.41.06:375][791]Cmd: POLY TEXSCALE  UU=0.666667 VV=0.666667
+[2018.01.13-18.41.13:898][653]Cmd: POLY TEXSCALE  UU=0.666667 VV=0.666667
+[2018.01.13-18.41.23:018][192]Cmd: POLY TEXSCALE  UU=0.666667 VV=0.652273
+[2018.01.13-18.41.32:768][326]Cmd: TRANSACTION UNDO
+[2018.01.13-18.41.32:768][326]LogEditorTransaction: Undo Create Actors
+[2018.01.13-18.41.32:770][326]LogPhysics:Warning: FDerivedDataPhysXCooker::BuildTriMesh: Triangle data from '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_1650' invalid (2560 verts, 0 indices).
+[2018.01.13-18.41.40:468][238]Cmd: POLY TEXSCALE  UU=0.500000 VV=0.500000
+[2018.01.13-18.41.43:257][572]Cmd: POLY TEXSCALE  UU=0.500000 VV=0.500000
+[2018.01.13-18.41.48:293][176]Cmd: POLY TEXSCALE  UU=0.500000 VV=0.333333
+[2018.01.13-18.41.51:019][499]Cmd: TRANSACTION UNDO
+[2018.01.13-18.41.51:019][499]LogEditorTransaction: Undo Select Brush Surface
+[2018.01.13-18.41.51:621][566]Cmd: TRANSACTION UNDO
+[2018.01.13-18.41.51:621][566]LogEditorTransaction: Undo Set Texscale
+[2018.01.13-18.41.54:982][962]Cmd: POLY TEXSCALE  UU=1.000000 VV=1.000000
+[2018.01.13-18.41.57:776][297]Cmd: POLY TEXSCALE  UU=0.500000 VV=0.500000
+[2018.01.13-18.42.11:223][876]Cmd: POLY TEXSCALE  UU=0.666667 VV=0.666667
+[2018.01.13-18.42.30:867][194]Cmd: POLY TEXSCALE  UU=0.500000 VV=0.500000
+[2018.01.13-18.42.44:258][759]Cmd: POLY TEXSCALE  UU=0.500000 VV=0.500000
+[2018.01.13-18.43.03:775][ 57]Cmd: POLY TEXPAN U=1.000000 V=0.000000
+[2018.01.13-18.43.07:921][554]Cmd: POLY TEXPAN U=4.000000 V=0.000000
+[2018.01.13-18.43.11:047][929]Cmd: TRANSACTION UNDO
+[2018.01.13-18.43.11:047][929]LogEditorTransaction: Undo Set Texpan
+[2018.01.13-18.43.12:560][ 97]Cmd: POLY TEXPAN U=0.000000 V=4.000000
+[2018.01.13-18.43.13:385][196]Cmd: POLY TEXPAN U=0.000000 V=4.000000
+[2018.01.13-18.43.14:419][320]Cmd: TRANSACTION UNDO
+[2018.01.13-18.43.14:419][320]LogEditorTransaction: Undo Set Texpan
+[2018.01.13-18.43.15:166][396]Cmd: POLY TEXPAN U=0.000000 V=1.000000
+[2018.01.13-18.43.15:716][462]Cmd: POLY TEXPAN U=0.000000 V=1.000000
+[2018.01.13-18.43.15:916][486]Cmd: POLY TEXPAN U=0.000000 V=1.000000
+[2018.01.13-18.43.16:091][507]Cmd: POLY TEXPAN U=0.000000 V=1.000000
+[2018.01.13-18.43.16:249][526]Cmd: POLY TEXPAN U=0.000000 V=1.000000
+[2018.01.13-18.43.16:424][547]Cmd: POLY TEXPAN U=0.000000 V=1.000000
+[2018.01.13-18.43.16:591][567]Cmd: POLY TEXPAN U=0.000000 V=1.000000
+[2018.01.13-18.43.16:782][590]Cmd: POLY TEXPAN U=0.000000 V=1.000000
+[2018.01.13-18.43.16:966][612]Cmd: POLY TEXPAN U=0.000000 V=1.000000
+[2018.01.13-18.43.17:132][632]Cmd: POLY TEXPAN U=0.000000 V=1.000000
+[2018.01.13-18.43.17:307][653]Cmd: POLY TEXPAN U=0.000000 V=1.000000
+[2018.01.13-18.43.17:491][675]Cmd: POLY TEXPAN U=0.000000 V=1.000000
+[2018.01.13-18.43.17:675][697]Cmd: POLY TEXPAN U=0.000000 V=1.000000
+[2018.01.13-18.43.17:850][718]Cmd: POLY TEXPAN U=0.000000 V=1.000000
+[2018.01.13-18.43.18:033][740]Cmd: POLY TEXPAN U=0.000000 V=1.000000
+[2018.01.13-18.43.18:208][761]Cmd: POLY TEXPAN U=0.000000 V=1.000000
+[2018.01.13-18.43.18:400][784]Cmd: POLY TEXPAN U=0.000000 V=1.000000
+[2018.01.13-18.43.48:742][276]Cmd: POLY TEXSCALE  UU=0.666667 VV=0.666667
+[2018.01.13-18.43.55:813][ 98]Cmd: POLY TEXSCALE  UU=0.500000 VV=0.500000
+[2018.01.13-18.44.00:303][621]Cmd: TRANSACTION UNDO
+[2018.01.13-18.44.00:303][621]LogEditorTransaction: Undo Select Brush Surface
+[2018.01.13-18.44.08:620][613]Cmd: POLY TEXSCALE  UU=0.666667 VV=0.666667
+[2018.01.13-18.44.13:809][232]Cmd: POLY TEXSCALE  UU=0.500000 VV=0.500000
+[2018.01.13-18.44.19:813][937]LogTemp: Repeting last play command: New Editor Window (PIE)
+[2018.01.13-18.44.19:831][937]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.01.13-18.44.19:831][937]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.13-18.44.19:831][937]PIE: New page: PIE session: ThirdPersonExampleMap (Jan 13, 2018, 2:44:19 AM)
+[2018.01.13-18.44.19:831][937]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.01.13-18.44.19:865][937]LogPlayLevel: PIE: StaticDuplicateObject took: (0.033989s)
+[2018.01.13-18.44.19:866][937]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.01.13-18.44.19:866][937]LogPlayLevel: PIE: World Init took: (0.000712s)
+[2018.01.13-18.44.19:866][937]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.035052s)
+[2018.01.13-18.44.19:895][937]LogInit: XAudio2 using 'Headphones (Strix Wireless Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.01.13-18.44.19:924][937]LogInit: FAudioDevice initialized.
+[2018.01.13-18.44.19:966][937]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.01.13-18.44.19:970][937]LogPhysics:Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.01.13-18.44.19:970][937]LogPhysics:Warning: ForeachShape(Convex): [/Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PostProcessVolume_1.BrushComponent0] ScaledElem[0] invalid
+[2018.01.13-18.44.19:974][937]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.01.13-10.44.19
+[2018.01.13-18.44.19:976][937]LogWorld: Bringing up level for play took: 0.008931
+[2018.01.13-18.44.19:981][937]PIE: Info Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.764
+[2018.01.13-18.44.19:987][937]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.01.13-18.44.21:296][ 79]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.01.13-18.44.21:360][ 79]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.01.13-18.44.23:858][249]LogSavePackage: Save=1024.71ms
+[2018.01.13-18.44.23:858][249]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/ThirdPersonExampleMap6896515F408281CB599430A279DD64BA.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.01.13-18.44.23:862][249]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2018.01.13-18.44.24:408][249]LogSavePackage: Save=495.53ms
+[2018.01.13-18.44.24:408][249]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/ThirdPersonExampleMap_BuiltDataF3C807E3450A278FE8FC65A82BE36F37.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2018.01.13-18.44.24:410][249]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset
