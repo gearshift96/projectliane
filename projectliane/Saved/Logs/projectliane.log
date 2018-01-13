@@ -4779,3 +4779,1074 @@ Exception rethrown at [0]:
 [2018.01.13-19.15.04:251][570]LogSavePackage: Save=509.05ms
 [2018.01.13-19.15.04:251][570]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/ThirdPersonExampleMap_BuiltDataF2862031408370360924319B8FB138F4.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
 [2018.01.13-19.15.04:254][570]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset
+[2018.01.13-19.17.38:801][213]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight11)
+[2018.01.13-19.17.39:710][271]LogEditorViewport: Clicking on Actor (CTRL LMB): PointLight (PointLight5)
+[2018.01.13-19.17.47:628][725]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight13)
+[2018.01.13-19.17.48:151][753]Cmd: DELETE
+[2018.01.13-19.17.48:151][753]Cmd: ACTOR DELETE
+[2018.01.13-19.17.48:152][753]LogEditorActor: Deleted Actor: PointLight
+[2018.01.13-19.17.48:178][753]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2018.01.13-19.17.50:094][854]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight14)
+[2018.01.13-19.17.51:649][939]Cmd: DELETE
+[2018.01.13-19.17.51:649][939]Cmd: ACTOR DELETE
+[2018.01.13-19.17.51:651][939]LogEditorActor: Deleted Actor: PointLight
+[2018.01.13-19.17.51:676][939]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2018.01.13-19.17.52:183][969]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight44)
+[2018.01.13-19.17.53:311][ 28]LogEditorViewport: Clicking on Actor (CTRL LMB): PointLight (PointLight6)
+[2018.01.13-19.17.59:323][339]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight11)
+[2018.01.13-19.18.00:033][374]LogEditorViewport: Clicking on Actor (CTRL LMB): PointLight (PointLight5)
+[2018.01.13-19.18.11:206][949]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight12)
+[2018.01.13-19.18.12:240][  2]LogEditorViewport: Clicking on Actor (CTRL LMB): PointLight (PointLight10)
+[2018.01.13-19.18.17:338][247]MapCheck: New page: Map Check
+[2018.01.13-19.18.17:352][247]Cmd: MAP REBUILD ALLVISIBLE
+[2018.01.13-19.18.17:352][247]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2018.01.13-19.18.17:404][247]LogPhysics:Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.01.13-19.18.17:404][247]LogPhysics:Warning: ForeachShape(Convex): [/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PostProcessVolume_1.BrushComponent0] ScaledElem[0] invalid
+[2018.01.13-19.18.17:450][247]LogPhysics:Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.01.13-19.18.17:450][247]LogPhysics:Warning: ForeachShape(Convex): [/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PostProcessVolume_1.BrushComponent0] ScaledElem[0] invalid
+[2018.01.13-19.18.17:612][247]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2018.01.13-19.18.17:617][247]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy 10_-_Default, compiling. 
+[2018.01.13-19.18.17:622][247]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_AssetPlatform, compiling. 
+[2018.01.13-19.18.17:626][247]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy ERwall, compiling. 
+[2018.01.13-19.18.17:632][247]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy celiling_mat, compiling. 
+[2018.01.13-19.18.17:637][247]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy FloorM1, compiling. 
+[2018.01.13-19.18.17:641][247]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_9, compiling. 
+[2018.01.13-19.18.17:647][247]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Wall2, compiling. 
+[2018.01.13-19.18.17:654][247]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy FloorM2, compiling. 
+[2018.01.13-19.18.17:661][247]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy wall, compiling. 
+[2018.01.13-19.18.17:667][247]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy BasicShapeMaterial, compiling. 
+[2018.01.13-19.18.17:672][247]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_circuit, compiling. 
+[2018.01.13-19.18.17:677][247]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy TK_ObjectMat1, compiling. 
+[2018.01.13-19.18.17:683][247]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy BatterySignMat, compiling. 
+[2018.01.13-19.18.17:688][247]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy ElectricitySignMat, compiling. 
+[2018.01.13-19.18.17:693][247]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Door, compiling. 
+[2018.01.13-19.18.17:699][247]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Metal_Gold, compiling. 
+[2018.01.13-19.18.17:706][247]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy lights, compiling. 
+[2018.01.13-19.18.17:711][247]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_fluorsscentlight, compiling. 
+[2018.01.13-19.18.17:717][247]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy fast2A, compiling. 
+[2018.01.13-19.18.17:721][247]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Ventpaint, compiling. 
+[2018.01.13-19.18.17:725][247]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy TK_ObjectMat, compiling. 
+[2018.01.13-19.18.17:730][247]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Tech_Panel, compiling. 
+[2018.01.13-19.18.17:736][247]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy desk_base, compiling. 
+[2018.01.13-19.18.17:742][247]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy metal2, compiling. 
+[2018.01.13-19.18.17:747][247]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy draws, compiling. 
+[2018.01.13-19.18.17:753][247]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy SK_MannequinSG, compiling. 
+[2018.01.13-19.18.17:758][247]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Water_Lake, compiling. 
+[2018.01.13-19.18.17:763][247]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy DefaultTextMaterialOpaque, compiling. 
+[2018.01.13-19.18.17:768][247]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy inner, compiling. 
+[2018.01.13-19.18.17:773][247]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Box, compiling. 
+[2018.01.13-19.18.17:778][247]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Curcuits, compiling. 
+[2018.01.13-19.18.17:784][247]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Cover, compiling. 
+[2018.01.13-19.18.17:790][247]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy lens, compiling. 
+[2018.01.13-19.18.17:795][247]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy bulb, compiling. 
+[2018.01.13-19.18.17:801][247]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy whiteshine, compiling. 
+[2018.01.13-19.18.17:807][247]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy 01_-_Default, compiling. 
+[2018.01.13-19.18.17:813][247]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy metal, compiling. 
+[2018.01.13-19.18.17:819][247]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy plastic, compiling. 
+[2018.01.13-19.18.17:823][247]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy mat, compiling. 
+[2018.01.13-19.18.17:827][247]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_smoke_subUV, compiling. 
+[2018.01.13-19.18.17:833][247]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Radial_Gradient, compiling. 
+[2018.01.13-19.18.17:838][247]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Spark, compiling. 
+[2018.01.13-19.18.17:843][247]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy defaultPolygonShader, compiling. 
+[2018.01.13-19.18.17:850][247]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Moderndesk_M, compiling. 
+[2018.01.13-19.18.17:856][247]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Laptop, compiling. 
+[2018.01.13-19.18.17:862][247]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy keyboard1, compiling. 
+[2018.01.13-19.18.17:869][247]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Book_M, compiling. 
+[2018.01.13-19.18.17:876][247]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Glass, compiling. 
+[2018.01.13-19.18.17:883][247]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_ExitSign, compiling. 
+[2018.01.13-19.18.17:888][247]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_ModernStand, compiling. 
+[2018.01.13-19.18.17:895][247]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Fountain, compiling. 
+[2018.01.13-19.18.17:902][247]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Metal, compiling. 
+[2018.01.13-19.18.17:908][247]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Fabric_M, compiling. 
+[2018.01.13-19.18.17:914][247]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Wood_M, compiling. 
+[2018.01.13-19.18.17:922][247]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_TopCabBot, compiling. 
+[2018.01.13-19.18.17:929][247]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Bodymat, compiling. 
+[2018.01.13-19.18.17:937][247]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Bodymat_ncl1_1, compiling. 
+[2018.01.13-19.18.17:944][247]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Shoesmat, compiling. 
+[2018.01.13-19.18.17:950][247]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Hairmat, compiling. 
+[2018.01.13-19.18.17:957][247]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Topmat, compiling. 
+[2018.01.13-19.18.17:965][247]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Bottommat, compiling. 
+[2018.01.13-19.18.17:973][247]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Eyewearmat, compiling. 
+[2018.01.13-19.18.17:983][247]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Hatmat, compiling. 
+[2018.01.13-19.18.17:990][247]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Bodymat, compiling. 
+[2018.01.13-19.18.17:997][247]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Glovemat, compiling. 
+[2018.01.13-19.18.18:004][247]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Eyewearmat, compiling. 
+[2018.01.13-19.18.18:011][247]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Shoesmat, compiling. 
+[2018.01.13-19.18.18:019][247]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Bottommat, compiling. 
+[2018.01.13-19.18.18:026][247]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Topmat, compiling. 
+[2018.01.13-19.18.18:033][247]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Hairmat, compiling. 
+[2018.01.13-19.18.18:040][247]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MatineeCam_mat, compiling. 
+[2018.01.13-19.18.21:156][247]TextureStreamingBuild:Display: Compiling optional shaders took 3.548 seconds.
+[2018.01.13-19.18.21:200][247]LogLevel:Display: Export Material TexCoord Scales took 0.043 seconds.
+[2018.01.13-19.18.21:223][247]TextureStreamingBuild:Display: Build Texture Streaming took 0.023 seconds.
+[2018.01.13-19.18.21:234][247]LightingResults: New page: Lighting Build - Jan 13, 2018, 3:18:21 AM
+[2018.01.13-19.18.21:241][247]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.01.13-19.18.21:243][247]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.01.13-19.18.21:243][247]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.01.13-19.18.21:244][247]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.01.13-19.18.21:244][247]LogSwarmInterface: [TryOpenConnection] Local Process ID is 15040
+[2018.01.13-19.18.25:754][247]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.01.13-19.18.25:754][247]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.01.13-19.18.25:754][247]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.01.13-19.18.25:754][247]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.01.13-19.18.25:754][247]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.01.13-19.18.25:839][247]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2018.01.13-19.18.25:839][247]MapCheck: New page: ThirdPersonExampleMap - Jan 13, 2018, 3:18:25 AM
+[2018.01.13-19.18.25:840][247]MapCheck:Error: Error WorldInfo_0 Maps need lighting rebuilt 
+[2018.01.13-19.18.25:908][247]MapCheck: Info Map check complete: 1 Error(s), 0 Warning(s), took 68.301ms to complete.
+[2018.01.13-19.18.25:930][247]LogEditorBuildUtils: Build time 0:08
+[2018.01.13-19.19.14:869][510]Job is a success!
+[2018.01.13-19.19.17:938][511]LogTexture:Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 2048X2048)
+[2018.01.13-19.19.17:938][511]LogTexture:Display: Building textures: LQ_Lightmap_1_1 (DXT1, 2048X2048)
+[2018.01.13-19.19.17:938][511]LogTexture:Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 1024X1024)
+[2018.01.13-19.19.17:938][511]LogTexture:Display: Building textures: LQ_Lightmap_0_2 (DXT1, 1024X1024)
+[2018.01.13-19.19.17:938][511]LogTexture:Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 64X64)
+[2018.01.13-19.19.17:938][511]LogTexture:Display: Building textures: LQ_Lightmap_0_3 (DXT1, 64X64)
+[2018.01.13-19.19.18:148][511]LogTexture:Display: Building textures: ShadowMapTexture2D_26 (BGRA8, 1024X128)
+[2018.01.13-19.19.18:148][511]LogTexture:Display: Building textures: ShadowMapTexture2D_27 (G8, 32X32)
+[2018.01.13-19.19.18:148][511]LogTexture:Display: Building textures: ShadowMapTexture2D_25 (G8, 512X1024)
+[2018.01.13-19.19.18:148][511]LogTexture:Display: Building textures: ShadowMapTexture2D_24 (BGRA8, 1024X1024)
+[2018.01.13-19.19.18:174][511]Lightmass on DREAM3D: 51.6 sec total, 142 ms importing, 42 ms setup, 9.14 sec photons, 42.3 sec processing, 0 ms extra exporting [363/363 mappings]. Threads: 4:56 min total, 3:53 min processing.
+[2018.01.13-19.19.18:205][511]LogStaticLightingSystem: Illumination: 56.9 sec (2.41 sec encoding lightmaps, 210 ms encoding shadowmaps)
+[2018.01.13-19.19.18:205][511]LogStaticLightingSystem: Lightmap texture memory:  10.0 MB (2.0 MB streaming, 8.0 MB non-streaming), 6 textures
+[2018.01.13-19.19.18:205][511]LogStaticLightingSystem: Shadowmap texture memory: 6.7 MB (0.7 MB streaming, 6.0 MB non-streaming), 4 textures
+[2018.01.13-19.19.18:765][511]DumpUnbuiltLightIteractions
+[2018.01.13-19.19.18:765][511]Lights with unbuilt interactions: 0
+[2018.01.13-19.19.18:765][511]
+[2018.01.13-19.19.18:765][511]Primitives with unbuilt interactions: 0
+[2018.01.13-19.19.18:775][512]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.01.13-19.19.18:775][512]MapCheck: New page: ThirdPersonExampleMap - Jan 13, 2018, 3:19:18 AM
+[2018.01.13-19.19.18:855][512]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 79.681ms to complete.
+[2018.01.13-19.19.26:509][363]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight12)
+[2018.01.13-19.19.27:629][480]LogEditorViewport: Clicking on Actor (CTRL LMB): PointLight (PointLight10)
+[2018.01.13-19.19.46:451][514]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2018.01.13-19.19.48:452][717]LogPhysics:Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.01.13-19.19.48:452][717]LogPhysics:Warning: ForeachShape(Convex): [/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PostProcessVolume_1.BrushComponent0] ScaledElem[0] invalid
+[2018.01.13-19.19.50:259][901]LogPhysics:Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.01.13-19.19.50:259][901]LogPhysics:Warning: ForeachShape(Convex): [/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PostProcessVolume_1.BrushComponent0] ScaledElem[0] invalid
+[2018.01.13-19.19.52:418][140]LogPhysics:Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.01.13-19.19.52:418][140]LogPhysics:Warning: ForeachShape(Convex): [/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PostProcessVolume_1.BrushComponent0] ScaledElem[0] invalid
+[2018.01.13-19.19.55:193][436]LogPhysics:Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.01.13-19.19.55:193][436]LogPhysics:Warning: ForeachShape(Convex): [/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PostProcessVolume_1.BrushComponent0] ScaledElem[0] invalid
+[2018.01.13-19.19.55:774][485]LogPhysics:Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.01.13-19.19.55:774][485]LogPhysics:Warning: ForeachShape(Convex): [/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PostProcessVolume_1.BrushComponent0] ScaledElem[0] invalid
+[2018.01.13-19.19.59:097][853]LogPhysics:Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.01.13-19.19.59:097][853]LogPhysics:Warning: ForeachShape(Convex): [/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PostProcessVolume_1.BrushComponent0] ScaledElem[0] invalid
+[2018.01.13-19.19.59:729][905]LogPhysics:Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.01.13-19.19.59:729][905]LogPhysics:Warning: ForeachShape(Convex): [/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PostProcessVolume_1.BrushComponent0] ScaledElem[0] invalid
+[2018.01.13-19.20.01:308][ 36]LogPhysics:Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.01.13-19.20.01:308][ 36]LogPhysics:Warning: ForeachShape(Convex): [/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PostProcessVolume_1.BrushComponent0] ScaledElem[0] invalid
+[2018.01.13-19.20.02:928][167]LogPhysics:Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.01.13-19.20.02:928][167]LogPhysics:Warning: ForeachShape(Convex): [/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PostProcessVolume_1.BrushComponent0] ScaledElem[0] invalid
+[2018.01.13-19.20.05:441][451]LogPhysics:Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.01.13-19.20.05:441][451]LogPhysics:Warning: ForeachShape(Convex): [/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PostProcessVolume_1.BrushComponent0] ScaledElem[0] invalid
+[2018.01.13-19.20.08:340][751]LogPhysics:Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.01.13-19.20.08:340][751]LogPhysics:Warning: ForeachShape(Convex): [/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PostProcessVolume_1.BrushComponent0] ScaledElem[0] invalid
+[2018.01.13-19.20.09:829][898]LogPhysics:Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.01.13-19.20.09:829][898]LogPhysics:Warning: ForeachShape(Convex): [/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PostProcessVolume_1.BrushComponent0] ScaledElem[0] invalid
+[2018.01.13-19.20.10:663][987]LogPhysics:Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.01.13-19.20.10:663][987]LogPhysics:Warning: ForeachShape(Convex): [/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PostProcessVolume_1.BrushComponent0] ScaledElem[0] invalid
+[2018.01.13-19.20.14:287][291]LogPhysics:Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.01.13-19.20.14:287][291]LogPhysics:Warning: ForeachShape(Convex): [/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PostProcessVolume_1.BrushComponent0] ScaledElem[0] invalid
+[2018.01.13-19.20.17:954][603]LogPhysics:Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.01.13-19.20.17:954][603]LogPhysics:Warning: ForeachShape(Convex): [/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PostProcessVolume_1.BrushComponent0] ScaledElem[0] invalid
+[2018.01.13-19.20.19:698][785]LogPhysics:Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.01.13-19.20.19:698][785]LogPhysics:Warning: ForeachShape(Convex): [/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PostProcessVolume_1.BrushComponent0] ScaledElem[0] invalid
+[2018.01.13-19.20.20:780][903]LogPhysics:Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.01.13-19.20.20:780][903]LogPhysics:Warning: ForeachShape(Convex): [/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PostProcessVolume_1.BrushComponent0] ScaledElem[0] invalid
+[2018.01.13-19.20.23:928][196]LogPhysics:Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.01.13-19.20.23:928][196]LogPhysics:Warning: ForeachShape(Convex): [/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PostProcessVolume_1.BrushComponent0] ScaledElem[0] invalid
+[2018.01.13-19.20.33:605][232]LogPhysics:Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.01.13-19.20.33:605][232]LogPhysics:Warning: ForeachShape(Convex): [/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PostProcessVolume_1.BrushComponent0] ScaledElem[0] invalid
+[2018.01.13-19.20.34:792][346]LogPhysics:Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.01.13-19.20.34:792][346]LogPhysics:Warning: ForeachShape(Convex): [/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PostProcessVolume_1.BrushComponent0] ScaledElem[0] invalid
+[2018.01.13-19.20.35:793][451]LogPhysics:Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.01.13-19.20.35:793][451]LogPhysics:Warning: ForeachShape(Convex): [/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PostProcessVolume_1.BrushComponent0] ScaledElem[0] invalid
+[2018.01.13-19.20.39:283][802]Cmd: TRANSACTION UNDO
+[2018.01.13-19.20.39:284][802]LogEditorTransaction: Undo Move Actors
+[2018.01.13-19.20.39:303][802]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush56.BrushComponent0) Component already registered.
+[2018.01.13-19.20.39:303][802]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush75.BrushComponent0) Component already registered.
+[2018.01.13-19.20.39:308][802]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush47.BrushComponent0) Component already registered.
+[2018.01.13-19.20.39:308][802]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush16.BrushComponent0) Component already registered.
+[2018.01.13-19.20.39:309][802]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush63.BrushComponent0) Component already registered.
+[2018.01.13-19.20.39:310][802]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush6.BrushComponent0) Component already registered.
+[2018.01.13-19.20.39:311][802]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush64.BrushComponent0) Component already registered.
+[2018.01.13-19.20.39:312][802]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush12_3.BrushComponent0) Component already registered.
+[2018.01.13-19.20.39:313][802]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush61_6.BrushComponent0) Component already registered.
+[2018.01.13-19.20.39:927][854]Cmd: TRANSACTION UNDO
+[2018.01.13-19.20.39:927][854]LogEditorTransaction: Undo Move Actors
+[2018.01.13-19.20.39:946][854]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush56.BrushComponent0) Component already registered.
+[2018.01.13-19.20.39:946][854]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush75.BrushComponent0) Component already registered.
+[2018.01.13-19.20.39:952][854]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush47.BrushComponent0) Component already registered.
+[2018.01.13-19.20.39:953][854]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush16.BrushComponent0) Component already registered.
+[2018.01.13-19.20.39:954][854]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush63.BrushComponent0) Component already registered.
+[2018.01.13-19.20.39:956][854]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush6.BrushComponent0) Component already registered.
+[2018.01.13-19.20.39:956][854]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush64.BrushComponent0) Component already registered.
+[2018.01.13-19.20.39:957][854]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush12_3.BrushComponent0) Component already registered.
+[2018.01.13-19.20.39:958][854]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush61_6.BrushComponent0) Component already registered.
+[2018.01.13-19.20.42:304][108]Cmd: TRANSACTION UNDO
+[2018.01.13-19.20.42:304][108]LogEditorTransaction: Undo Select Brush Surface
+[2018.01.13-19.20.42:735][153]Cmd: TRANSACTION UNDO
+[2018.01.13-19.20.42:735][153]LogEditorTransaction: Undo Move Actors
+[2018.01.13-19.20.42:753][153]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush56.BrushComponent0) Component already registered.
+[2018.01.13-19.20.42:753][153]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush75.BrushComponent0) Component already registered.
+[2018.01.13-19.20.42:757][153]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush47.BrushComponent0) Component already registered.
+[2018.01.13-19.20.42:758][153]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush16.BrushComponent0) Component already registered.
+[2018.01.13-19.20.42:759][153]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush63.BrushComponent0) Component already registered.
+[2018.01.13-19.20.42:760][153]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush6.BrushComponent0) Component already registered.
+[2018.01.13-19.20.42:761][153]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush64.BrushComponent0) Component already registered.
+[2018.01.13-19.20.42:761][153]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush12_3.BrushComponent0) Component already registered.
+[2018.01.13-19.20.42:762][153]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush61_6.BrushComponent0) Component already registered.
+[2018.01.13-19.20.43:206][200]Cmd: TRANSACTION UNDO
+[2018.01.13-19.20.43:207][200]LogEditorTransaction: Undo Move Actors
+[2018.01.13-19.20.43:225][200]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush56.BrushComponent0) Component already registered.
+[2018.01.13-19.20.43:225][200]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush75.BrushComponent0) Component already registered.
+[2018.01.13-19.20.43:230][200]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush47.BrushComponent0) Component already registered.
+[2018.01.13-19.20.43:230][200]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush16.BrushComponent0) Component already registered.
+[2018.01.13-19.20.43:231][200]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush63.BrushComponent0) Component already registered.
+[2018.01.13-19.20.43:232][200]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush6.BrushComponent0) Component already registered.
+[2018.01.13-19.20.43:233][200]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush64.BrushComponent0) Component already registered.
+[2018.01.13-19.20.43:234][200]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush12_3.BrushComponent0) Component already registered.
+[2018.01.13-19.20.43:234][200]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush61_6.BrushComponent0) Component already registered.
+[2018.01.13-19.20.44:919][388]LogPhysics:Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.01.13-19.20.44:919][388]LogPhysics:Warning: ForeachShape(Convex): [/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PostProcessVolume_1.BrushComponent0] ScaledElem[0] invalid
+[2018.01.13-19.20.47:457][657]LogPhysics:Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.01.13-19.20.47:457][657]LogPhysics:Warning: ForeachShape(Convex): [/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PostProcessVolume_1.BrushComponent0] ScaledElem[0] invalid
+[2018.01.13-19.20.48:826][794]LogPhysics:Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.01.13-19.20.48:826][794]LogPhysics:Warning: ForeachShape(Convex): [/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PostProcessVolume_1.BrushComponent0] ScaledElem[0] invalid
+[2018.01.13-19.21.23:265][523]LogPhysics:Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.01.13-19.21.23:265][523]LogPhysics:Warning: ForeachShape(Convex): [/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PostProcessVolume_1.BrushComponent0] ScaledElem[0] invalid
+[2018.01.13-19.21.24:742][676]LogPhysics:Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.01.13-19.21.24:742][676]LogPhysics:Warning: ForeachShape(Convex): [/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PostProcessVolume_1.BrushComponent0] ScaledElem[0] invalid
+[2018.01.13-19.21.26:708][893]LogPhysics:Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.01.13-19.21.26:708][893]LogPhysics:Warning: ForeachShape(Convex): [/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PostProcessVolume_1.BrushComponent0] ScaledElem[0] invalid
+[2018.01.13-19.21.29:530][169]LogPhysics:Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.01.13-19.21.29:530][169]LogPhysics:Warning: ForeachShape(Convex): [/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PostProcessVolume_1.BrushComponent0] ScaledElem[0] invalid
+[2018.01.13-19.21.40:023][294]LogPhysics:Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.01.13-19.21.40:023][294]LogPhysics:Warning: ForeachShape(Convex): [/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PostProcessVolume_1.BrushComponent0] ScaledElem[0] invalid
+[2018.01.13-19.22.39:721][808]LogMaterial: Missing cached shader map for material Glass, compiling. 
+[2018.01.13-19.22.39:780][808]LogMaterial: Missing cached shader map for material Glass, compiling. 
+[2018.01.13-19.22.39:789][808]LogMaterial: Missing cached shader map for material Glass, compiling. 
+[2018.01.13-19.22.40:890][875]MaterialEditorStats: Info Base pass shader: 78 instructions
+[2018.01.13-19.22.40:890][875]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2018.01.13-19.22.40:890][875]MaterialEditorStats: Info Texture samplers: 1/16
+[2018.01.13-19.22.51:216][ 44]LogMaterial: Missing cached shader map for material Glass, compiling. 
+[2018.01.13-19.22.52:462][148]MaterialEditorStats: Info Base pass shader: 78 instructions
+[2018.01.13-19.22.52:462][148]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2018.01.13-19.22.52:462][148]MaterialEditorStats: Info Texture samplers: 1/16
+[2018.01.13-19.22.58:105][715]LogMaterial: Missing cached shader map for material Glass, compiling. 
+[2018.01.13-19.22.58:105][715]LogMaterial:Warning: Failed to compile Material /Engine/Transient.Glass for platform PCD3D_SM5, Default Material will be used in game.
+[2018.01.13-19.22.58:105][715]LogMaterial:Warning: 	Material using the DeferredDecal domain need to use the BlendModel Translucent (this saves performance)
+[2018.01.13-19.22.58:111][715]LogMaterial: Missing cached shader map for material Glass, compiling. 
+[2018.01.13-19.22.58:111][715]LogMaterial:Warning: Failed to compile Material /Engine/Transient.Glass for platform PCD3D_SM5, Default Material will be used in game.
+[2018.01.13-19.22.58:111][715]LogMaterial:Warning: 	Material using the DeferredDecal domain need to use the BlendModel Translucent (this saves performance)
+[2018.01.13-19.22.58:114][715]MaterialEditorStats:Error: Error [SM5] Material using the DeferredDecal domain need to use the BlendModel Translucent (this saves performance)
+[2018.01.13-19.23.16:411][720]LogMaterial: Missing cached shader map for material Glass, compiling. 
+[2018.01.13-19.23.16:411][720]LogMaterial:Warning: Failed to compile Material /Engine/Transient.Glass for platform PCD3D_SM5, Default Material will be used in game.
+[2018.01.13-19.23.16:411][720]LogMaterial:Warning: 	Material using the DeferredDecal domain need to use the BlendModel Translucent (this saves performance)
+[2018.01.13-19.23.16:412][720]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.01.13-19.23.17:767][845]LogMaterial: Missing cached shader map for material Glass, compiling. 
+[2018.01.13-19.23.17:767][845]LogMaterial:Warning: Failed to compile Material /Engine/Transient.Glass for platform PCD3D_SM5, Default Material will be used in game.
+[2018.01.13-19.23.17:767][845]LogMaterial:Warning: 	Material using the DeferredDecal domain need to use the BlendModel Translucent (this saves performance)
+[2018.01.13-19.23.31:370][398]LogMaterial: Missing cached shader map for material Glass, compiling. 
+[2018.01.13-19.23.31:371][398]LogMaterial:Warning: Failed to compile Material /Engine/Transient.Glass for platform PCD3D_SM5, Default Material will be used in game.
+[2018.01.13-19.23.31:371][398]LogMaterial:Warning: 	Material using the DeferredDecal domain need to use the BlendModel Translucent (this saves performance)
+[2018.01.13-19.23.31:372][398]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionCollectionParameter_0, compiling. 
+[2018.01.13-19.23.39:196][154]LogMaterial: Missing cached shader map for material Glass, compiling. 
+[2018.01.13-19.23.39:196][154]LogMaterial:Warning: Failed to compile Material /Engine/Transient.Glass for platform PCD3D_SM5, Default Material will be used in game.
+[2018.01.13-19.23.39:196][154]LogMaterial:Warning: 	Material using the DeferredDecal domain need to use the BlendModel Translucent (this saves performance)
+[2018.01.13-19.23.49:427][279]LogMaterial: Missing cached shader map for material Glass, compiling. 
+[2018.01.13-19.23.49:428][279]LogMaterial:Warning: Failed to compile Material /Engine/Transient.Glass for platform PCD3D_SM5, Default Material will be used in game.
+[2018.01.13-19.23.49:428][279]LogMaterial:Warning: 	Material using the DeferredDecal domain need to use the BlendModel Translucent (this saves performance)
+[2018.01.13-19.23.49:475][280]LogMaterial: Missing cached shader map for material Material_0, compiling. 
+[2018.01.13-19.23.51:220][444]LogMaterial: Missing cached shader map for material Glass, compiling. 
+[2018.01.13-19.23.51:221][444]LogMaterial:Warning: Failed to compile Material /Engine/Transient.Glass for platform PCD3D_SM5, Default Material will be used in game.
+[2018.01.13-19.23.51:221][444]LogMaterial:Warning: 	Material using the DeferredDecal domain need to use the BlendModel Translucent (this saves performance)
+[2018.01.13-19.24.07:158][307]LogMaterial: Missing cached shader map for material Glass, compiling. 
+[2018.01.13-19.24.07:158][307]LogMaterial:Warning: Failed to compile Material /Engine/Transient.Glass for platform PCD3D_SM5, Default Material will be used in game.
+[2018.01.13-19.24.07:158][307]LogMaterial:Warning: 	Material using the DeferredDecal domain need to use the BlendModel Translucent (this saves performance)
+[2018.01.13-19.24.07:159][307]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionCollectionParameter_1, compiling. 
+[2018.01.13-19.24.59:733][340]LogMaterial: Missing cached shader map for material Glass, compiling. 
+[2018.01.13-19.24.59:734][340]LogMaterial:Warning: Failed to compile Material /Engine/Transient.Glass for platform PCD3D_SM5, Default Material will be used in game.
+[2018.01.13-19.24.59:734][340]LogMaterial:Warning: 	Material using the DeferredDecal domain need to use the BlendModel Translucent (this saves performance)
+[2018.01.13-19.25.03:391][764]LogMaterial: Missing cached shader map for material Glass, compiling. 
+[2018.01.13-19.25.03:391][764]LogMaterial:Warning: Failed to compile Material /Engine/Transient.Glass for platform PCD3D_SM5, Default Material will be used in game.
+[2018.01.13-19.25.03:391][764]LogMaterial:Warning: 	Material using the DeferredDecal domain need to use the BlendModel Translucent (this saves performance)
+[2018.01.13-19.25.08:240][264]LogMaterial: Missing cached shader map for material Glass, compiling. 
+[2018.01.13-19.25.08:241][264]LogMaterial:Warning: Failed to compile Material /Engine/Transient.Glass for platform PCD3D_SM5, Default Material will be used in game.
+[2018.01.13-19.25.08:241][264]LogMaterial:Warning: 	Material using the DeferredDecal domain need to use the BlendModel Translucent (this saves performance)
+[2018.01.13-19.25.14:964][947]LogMaterial: Missing cached shader map for material Glass, compiling. 
+[2018.01.13-19.25.14:965][947]LogMaterial:Warning: Failed to compile Material /Engine/Transient.Glass for platform PCD3D_SM5, Default Material will be used in game.
+[2018.01.13-19.25.14:965][947]LogMaterial:Warning: 	Material using the DeferredDecal domain need to use the BlendModel Translucent (this saves performance)
+[2018.01.13-19.25.21:751][729]LogMaterial: Missing cached shader map for material Glass, compiling. 
+[2018.01.13-19.25.21:751][729]LogMaterial:Warning: Failed to compile Material /Engine/Transient.Glass for platform PCD3D_SM5, Default Material will be used in game.
+[2018.01.13-19.25.21:751][729]LogMaterial:Warning: 	Material using the DeferredDecal domain need to use the BlendModel Translucent (this saves performance)
+[2018.01.13-19.25.25:944][142]LogMaterial: Missing cached shader map for material Glass, compiling. 
+[2018.01.13-19.25.25:944][142]LogMaterial:Warning: Failed to compile Material /Engine/Transient.Glass for platform PCD3D_SM5, Default Material will be used in game.
+[2018.01.13-19.25.25:944][142]LogMaterial:Warning: 	Material using the DeferredDecal domain need to use the BlendModel Translucent (this saves performance)
+[2018.01.13-19.25.28:171][372]LogMaterial: Missing cached shader map for material Glass, compiling. 
+[2018.01.13-19.25.28:171][372]LogMaterial:Warning: Failed to compile Material /Engine/Transient.Glass for platform PCD3D_SM5, Default Material will be used in game.
+[2018.01.13-19.25.28:171][372]LogMaterial:Warning: 	(Node Clamp) Missing Clamp input
+[2018.01.13-19.25.28:171][372]LogMaterial:Warning: 	Material using the DeferredDecal domain need to use the BlendModel Translucent (this saves performance)
+[2018.01.13-19.25.28:172][372]MaterialEditorStats:Error: Error [SM5] (Node Clamp) Missing Clamp input
+[2018.01.13-19.25.28:172][372]MaterialEditorStats:Error: Error [SM5] Material using the DeferredDecal domain need to use the BlendModel Translucent (this saves performance)
+[2018.01.13-19.25.30:721][629]LogMaterial: Missing cached shader map for material Glass, compiling. 
+[2018.01.13-19.25.30:721][629]LogMaterial:Warning: Failed to compile Material /Engine/Transient.Glass for platform PCD3D_SM5, Default Material will be used in game.
+[2018.01.13-19.25.30:721][629]LogMaterial:Warning: 	Material using the DeferredDecal domain need to use the BlendModel Translucent (this saves performance)
+[2018.01.13-19.25.30:722][629]MaterialEditorStats:Error: Error [SM5] Material using the DeferredDecal domain need to use the BlendModel Translucent (this saves performance)
+[2018.01.13-19.25.52:642][106]LogMaterial: Missing cached shader map for material Glass, compiling. 
+[2018.01.13-19.25.52:643][106]LogMaterial:Warning: Failed to compile Material /Engine/Transient.Glass for platform PCD3D_SM5, Default Material will be used in game.
+[2018.01.13-19.25.52:643][106]LogMaterial:Warning: 	Material using the DeferredDecal domain need to use the BlendModel Translucent (this saves performance)
+[2018.01.13-19.25.52:681][107]LogMaterial: Missing cached shader map for material Material_1, compiling. 
+[2018.01.13-19.25.54:389][226]LogMaterial: Missing cached shader map for material Glass, compiling. 
+[2018.01.13-19.25.54:389][226]LogMaterial:Warning: Failed to compile Material /Engine/Transient.Glass for platform PCD3D_SM5, Default Material will be used in game.
+[2018.01.13-19.25.54:389][226]LogMaterial:Warning: 	Material using the DeferredDecal domain need to use the BlendModel Translucent (this saves performance)
+[2018.01.13-19.25.56:958][468]LogMaterial: Missing cached shader map for material Glass, compiling. 
+[2018.01.13-19.25.56:958][468]LogMaterial:Warning: Failed to compile Material /Engine/Transient.Glass for platform PCD3D_SM5, Default Material will be used in game.
+[2018.01.13-19.25.56:958][468]LogMaterial:Warning: 	Material using the DeferredDecal domain need to use the BlendModel Translucent (this saves performance)
+[2018.01.13-19.25.58:598][641]LogMaterial: Missing cached shader map for material Glass, compiling. 
+[2018.01.13-19.25.58:599][641]LogMaterial:Warning: Failed to compile Material /Engine/Transient.Glass for platform PCD3D_SM5, Default Material will be used in game.
+[2018.01.13-19.25.58:599][641]LogMaterial:Warning: 	Material using the DeferredDecal domain need to use the BlendModel Translucent (this saves performance)
+[2018.01.13-19.26.01:401][920]LogMaterial: Missing cached shader map for material Glass, compiling. 
+[2018.01.13-19.26.01:401][920]LogMaterial:Warning: Failed to compile Material /Engine/Transient.Glass for platform PCD3D_SM5, Default Material will be used in game.
+[2018.01.13-19.26.01:401][920]LogMaterial:Warning: 	Material using the DeferredDecal domain need to use the BlendModel Translucent (this saves performance)
+[2018.01.13-19.26.06:591][213]LogMaterial: Missing cached shader map for material Glass, compiling. 
+[2018.01.13-19.26.06:591][213]LogMaterial:Warning: Failed to compile Material /Engine/Transient.Glass for platform PCD3D_SM5, Default Material will be used in game.
+[2018.01.13-19.26.06:591][213]LogMaterial:Warning: 	Material using the DeferredDecal domain need to use the BlendModel Translucent (this saves performance)
+[2018.01.13-19.26.11:105][663]LogMaterial: Missing cached shader map for material Glass, compiling. 
+[2018.01.13-19.26.11:105][663]LogMaterial:Warning: Failed to compile Material /Engine/Transient.Glass for platform PCD3D_SM5, Default Material will be used in game.
+[2018.01.13-19.26.11:105][663]LogMaterial:Warning: 	Material using the DeferredDecal domain need to use the BlendModel Translucent (this saves performance)
+[2018.01.13-19.26.13:042][857]LogMaterial: Missing cached shader map for material Glass, compiling. 
+[2018.01.13-19.26.13:042][857]LogMaterial:Warning: Failed to compile Material /Engine/Transient.Glass for platform PCD3D_SM5, Default Material will be used in game.
+[2018.01.13-19.26.13:042][857]LogMaterial:Warning: 	Material using the DeferredDecal domain need to use the BlendModel Translucent (this saves performance)
+[2018.01.13-19.26.17:354][280]LogMaterial: Missing cached shader map for material Glass, compiling. 
+[2018.01.13-19.26.17:354][280]LogMaterial:Warning: Failed to compile Material /Engine/Transient.Glass for platform PCD3D_SM5, Default Material will be used in game.
+[2018.01.13-19.26.17:354][280]LogMaterial:Warning: 	Material using the DeferredDecal domain need to use the BlendModel Translucent (this saves performance)
+[2018.01.13-19.26.17:355][280]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_1, compiling. 
+[2018.01.13-19.26.19:300][486]LogMaterial: Missing cached shader map for material Glass, compiling. 
+[2018.01.13-19.26.19:300][486]LogMaterial:Warning: Failed to compile Material /Engine/Transient.Glass for platform PCD3D_SM5, Default Material will be used in game.
+[2018.01.13-19.26.19:300][486]LogMaterial:Warning: 	Material using the DeferredDecal domain need to use the BlendModel Translucent (this saves performance)
+[2018.01.13-19.26.19:307][486]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_1, compiling. 
+[2018.01.13-19.26.20:608][605]LogMaterialEditor: Saving and Compiling material Glass
+[2018.01.13-19.26.24:860][605]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Environment/Glass/Glass" FILE="../../../../../Project Liane/Liane/projectliane/projectliane/Content/Environment/Glass/Glass.uasset" SILENT=true
+[2018.01.13-19.26.24:878][605]LogSavePackage: Save=16.39ms
+[2018.01.13-19.26.24:878][605]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/Glass3CF874034EE90C05EEC15DBCF5D5977E.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Content/Environment/Glass/Glass.uasset'
+[2018.01.13-19.26.24:881][605]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Content/Environment/Glass/Glass.uasset
+[2018.01.13-19.26.36:916][780]LogMaterialEditor: Saving and Compiling material Glass
+[2018.01.13-19.26.38:536][780]LogMaterial: Missing cached shader map for material Glass, compiling. 
+[2018.01.13-19.26.38:536][780]LogMaterial:Warning: Failed to compile Material /Engine/Transient.Glass for platform PCD3D_SM5, Default Material will be used in game.
+[2018.01.13-19.26.38:536][780]LogMaterial:Warning: 	Material using the DeferredDecal domain need to use the BlendModel Translucent (this saves performance)
+[2018.01.13-19.26.38:552][780]LogMaterial: Missing cached shader map for material Glass, compiling. 
+[2018.01.13-19.26.38:552][780]LogMaterial:Warning: Failed to compile Material /Game/Environment/Glass/Glass.Glass for platform PCD3D_SM5, Default Material will be used in game.
+[2018.01.13-19.26.38:552][780]LogMaterial:Warning: 	Material using the DeferredDecal domain need to use the BlendModel Translucent (this saves performance)
+[2018.01.13-19.26.38:554][780]LogMaterial: Missing cached shader map for material Glass, compiling. 
+[2018.01.13-19.26.38:554][780]LogMaterial:Warning: Failed to compile Material /Game/Environment/Glass/Glass.Glass for platform PCD3D_SM5, Default Material will be used in game.
+[2018.01.13-19.26.38:554][780]LogMaterial:Warning: 	Material using the DeferredDecal domain need to use the BlendModel Translucent (this saves performance)
+[2018.01.13-19.26.38:573][780]TextureStreamingBuild:Display: Compiling optional shaders took 0.003 seconds.
+[2018.01.13-19.26.38:616][780]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Environment/Glass/Glass" FILE="../../../../../Project Liane/Liane/projectliane/projectliane/Content/Environment/Glass/Glass.uasset" SILENT=true
+[2018.01.13-19.26.38:634][780]LogSavePackage: Save=11.83ms
+[2018.01.13-19.26.38:634][780]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/Glass4311E4534488EB642D1888B62C48AB23.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Content/Environment/Glass/Glass.uasset'
+[2018.01.13-19.26.38:636][780]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Content/Environment/Glass/Glass.uasset
+[2018.01.13-19.26.47:239][634]LogMaterial: Missing cached shader map for material PreviewMaterial_3, compiling. 
+[2018.01.13-19.26.47:239][634]LogMaterial:Warning: Failed to compile Material /Engine/Transient.PreviewMaterial_3 for platform PCD3D_SM5, Default Material will be used in game.
+[2018.01.13-19.26.47:239][634]LogMaterial:Warning: 	Material using the DeferredDecal domain need to use the BlendModel Translucent (this saves performance)
+[2018.01.13-19.26.47:307][634]LogMaterial: Missing cached shader map for material PreviewMaterial_3, compiling. 
+[2018.01.13-19.26.47:307][634]LogMaterial:Warning: Failed to compile Material /Engine/Transient.PreviewMaterial_3 for platform PCD3D_SM5, Default Material will be used in game.
+[2018.01.13-19.26.47:307][634]LogMaterial:Warning: 	Material using the DeferredDecal domain need to use the BlendModel Translucent (this saves performance)
+[2018.01.13-19.26.47:309][634]LogMaterial: Missing cached shader map for material PreviewMaterial_3, compiling. 
+[2018.01.13-19.26.47:310][634]LogMaterial:Warning: Failed to compile Material /Engine/Transient.PreviewMaterial_3 for platform PCD3D_SM5, Default Material will be used in game.
+[2018.01.13-19.26.47:310][634]LogMaterial:Warning: 	Material using the DeferredDecal domain need to use the BlendModel Translucent (this saves performance)
+[2018.01.13-19.26.47:340][634]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_1, compiling. 
+[2018.01.13-19.26.47:345][634]MaterialEditorStats:Error: Error [SM5] Material using the DeferredDecal domain need to use the BlendModel Translucent (this saves performance)
+[2018.01.13-19.26.59:960][794]LogMaterial: Missing cached shader map for material PreviewMaterial_3, compiling. 
+[2018.01.13-19.26.59:979][794]LogMaterial: Missing cached shader map for material PreviewMaterial_3, compiling. 
+[2018.01.13-19.27.00:971][853]MaterialEditorStats: Info Base pass shader: 81 instructions
+[2018.01.13-19.27.00:971][853]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2018.01.13-19.27.00:971][853]MaterialEditorStats: Info Texture samplers: 1/16
+[2018.01.13-19.27.01:121][869]LogMaterialEditor: Saving and Compiling material Glass
+[2018.01.13-19.27.01:507][869]LogMaterial: Missing cached shader map for material PreviewMaterial_3, compiling. 
+[2018.01.13-19.27.01:538][869]LogMaterial: Missing cached shader map for material Glass, compiling. 
+[2018.01.13-19.27.01:554][869]LogMaterial: Missing cached shader map for material Glass, compiling. 
+[2018.01.13-19.27.01:592][869]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Glass, compiling. 
+[2018.01.13-19.27.02:124][869]TextureStreamingBuild:Display: Compiling optional shaders took 0.537 seconds.
+[2018.01.13-19.27.03:214][869]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Environment/Glass/Glass" FILE="../../../../../Project Liane/Liane/projectliane/projectliane/Content/Environment/Glass/Glass.uasset" SILENT=true
+[2018.01.13-19.27.03:228][869]LogSavePackage: Save=11.61ms
+[2018.01.13-19.27.03:228][869]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/Glass248B12DD44E0B3066CE156AEFFD46355.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Content/Environment/Glass/Glass.uasset'
+[2018.01.13-19.27.03:230][869]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Content/Environment/Glass/Glass.uasset
+[2018.01.13-19.27.03:237][869]MaterialEditorStats: Info Base pass shader: 81 instructions
+[2018.01.13-19.27.03:237][869]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2018.01.13-19.27.03:237][869]MaterialEditorStats: Info Texture samplers: 2/16
+[2018.01.13-19.27.05:990][138]LogMaterial: Missing cached shader map for material PreviewMaterial_4, compiling. 
+[2018.01.13-19.27.06:061][138]LogMaterial: Missing cached shader map for material PreviewMaterial_4, compiling. 
+[2018.01.13-19.27.06:070][138]LogMaterial: Missing cached shader map for material PreviewMaterial_4, compiling. 
+[2018.01.13-19.27.06:101][138]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_1, compiling. 
+[2018.01.13-19.27.06:903][186]MaterialEditorStats: Info Base pass shader: 81 instructions
+[2018.01.13-19.27.06:903][186]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2018.01.13-19.27.06:903][186]MaterialEditorStats: Info Texture samplers: 1/16
+[2018.01.13-19.27.18:658][180]LogMaterial: Missing cached shader map for material M_Glass, compiling. 
+[2018.01.13-19.27.18:736][180]LogMaterial: Missing cached shader map for material M_Glass, compiling. 
+[2018.01.13-19.27.18:750][180]LogMaterial: Missing cached shader map for material M_Glass, compiling. 
+[2018.01.13-19.27.18:789][180]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.01.13-19.27.28:895][779]MaterialEditorStats: Info Base pass shader: 280 instructions
+[2018.01.13-19.27.28:895][779]MaterialEditorStats: Info Vertex shader: 121 instructions
+[2018.01.13-19.27.28:895][779]MaterialEditorStats: Info Texture samplers: 8/16
+[2018.01.13-19.27.37:600][579]LogMaterial: Missing cached shader map for material PreviewMaterial_4, compiling. 
+[2018.01.13-19.27.38:406][633]MaterialEditorStats: Info Base pass shader: 78 instructions
+[2018.01.13-19.27.38:406][633]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2018.01.13-19.27.38:406][633]MaterialEditorStats: Info Texture samplers: 1/16
+[2018.01.13-19.27.39:196][708]LogMaterial: Missing cached shader map for material PreviewMaterial_4, compiling. 
+[2018.01.13-19.27.39:206][708]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.01.13-19.27.40:057][760]MaterialEditorStats: Info Base pass shader: 78 instructions
+[2018.01.13-19.27.40:057][760]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2018.01.13-19.27.40:057][760]MaterialEditorStats: Info Texture samplers: 1/16
+[2018.01.13-19.27.43:048][ 48]LogMaterial: Missing cached shader map for material PreviewMaterial_4, compiling. 
+[2018.01.13-19.27.43:085][ 48]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.01.13-19.27.43:838][ 93]MaterialEditorStats: Info Base pass shader: 78 instructions
+[2018.01.13-19.27.43:838][ 93]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2018.01.13-19.27.43:838][ 93]MaterialEditorStats: Info Texture samplers: 1/16
+[2018.01.13-19.27.45:862][305]LogMaterial: Missing cached shader map for material PreviewMaterial_4, compiling. 
+[2018.01.13-19.27.46:637][356]MaterialEditorStats: Info Base pass shader: 78 instructions
+[2018.01.13-19.27.46:637][356]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2018.01.13-19.27.46:637][356]MaterialEditorStats: Info Texture samplers: 1/16
+[2018.01.13-19.27.52:002][885]LogMaterial: Missing cached shader map for material PreviewMaterial_4, compiling. 
+[2018.01.13-19.27.52:014][885]LogMaterial: Missing cached shader map for material PreviewMaterial_4, compiling. 
+[2018.01.13-19.27.53:636][982]MaterialEditorStats: Info Base pass shader: 48 instructions
+[2018.01.13-19.27.53:636][982]MaterialEditorStats: Info Vertex shader: 121 instructions
+[2018.01.13-19.27.53:636][982]MaterialEditorStats: Info Texture samplers: 4/16
+[2018.01.13-19.28.02:084][828]LogMaterial: Missing cached shader map for material PreviewMaterial_4, compiling. 
+[2018.01.13-19.28.02:094][828]LogMaterial: Missing cached shader map for material PreviewMaterial_4, compiling. 
+[2018.01.13-19.28.02:882][876]MaterialEditorStats: Info Base pass shader: 78 instructions
+[2018.01.13-19.28.02:882][876]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2018.01.13-19.28.02:882][876]MaterialEditorStats: Info Texture samplers: 1/16
+[2018.01.13-19.28.05:884][171]LogMaterial: Missing cached shader map for material PreviewMaterial_4, compiling. 
+[2018.01.13-19.28.06:690][219]MaterialEditorStats: Info Base pass shader: 79 instructions
+[2018.01.13-19.28.06:690][219]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2018.01.13-19.28.06:690][219]MaterialEditorStats: Info Texture samplers: 1/16
+[2018.01.13-19.28.08:328][386]LogMaterial: Missing cached shader map for material PreviewMaterial_4, compiling. 
+[2018.01.13-19.28.09:105][435]MaterialEditorStats: Info Base pass shader: 80 instructions
+[2018.01.13-19.28.09:105][435]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2018.01.13-19.28.09:105][435]MaterialEditorStats: Info Texture samplers: 1/16
+[2018.01.13-19.28.16:388][152]LogMaterial: Missing cached shader map for material PreviewMaterial_4, compiling. 
+[2018.01.13-19.28.16:401][152]LogMaterial: Missing cached shader map for material PreviewMaterial_4, compiling. 
+[2018.01.13-19.28.17:403][214]MaterialEditorStats: Info Base pass shader: 84 instructions
+[2018.01.13-19.28.17:403][214]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2018.01.13-19.28.17:403][214]MaterialEditorStats: Info Texture samplers: 1/16
+[2018.01.13-19.28.20:372][513]LogMaterial: Missing cached shader map for material PreviewMaterial_4, compiling. 
+[2018.01.13-19.28.20:387][513]LogMaterial: Missing cached shader map for material PreviewMaterial_4, compiling. 
+[2018.01.13-19.28.21:930][602]MaterialEditorStats: Info Base pass shader: 49 instructions
+[2018.01.13-19.28.21:930][602]MaterialEditorStats: Info Vertex shader: 121 instructions
+[2018.01.13-19.28.21:930][602]MaterialEditorStats: Info Texture samplers: 4/16
+[2018.01.13-19.28.25:490][932]LogMaterialEditor: Saving and Compiling material Glass
+[2018.01.13-19.28.25:874][932]LogMaterial: Missing cached shader map for material PreviewMaterial_4, compiling. 
+[2018.01.13-19.28.25:913][932]LogMaterial: Missing cached shader map for material Glass, compiling. 
+[2018.01.13-19.28.25:934][932]LogMaterial: Missing cached shader map for material Glass, compiling. 
+[2018.01.13-19.28.25:978][932]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Glass, compiling. 
+[2018.01.13-19.28.26:959][932]TextureStreamingBuild:Display: Compiling optional shaders took 0.986 seconds.
+[2018.01.13-19.28.28:826][932]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Environment/Glass/Glass" FILE="../../../../../Project Liane/Liane/projectliane/projectliane/Content/Environment/Glass/Glass.uasset" SILENT=true
+[2018.01.13-19.28.28:839][932]LogSavePackage: Save=11.34ms
+[2018.01.13-19.28.28:839][932]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/Glass666650504D7E585D811B0088FE0D3FE8.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Content/Environment/Glass/Glass.uasset'
+[2018.01.13-19.28.28:840][932]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Content/Environment/Glass/Glass.uasset
+[2018.01.13-19.29.04:443][ 36]LogSavePackage: Save=1427.11ms
+[2018.01.13-19.29.04:443][ 36]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/ThirdPersonExampleMap_Auto498D16181449179C85E63629F6BDEEA8F.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto4.umap'
+[2018.01.13-19.29.04:443][ 36]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto4.umap
+[2018.01.13-19.29.04:447][ 36]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 1.458
+[2018.01.13-19.29.04:447][ 36]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.458
+[2018.01.13-19.29.04:449][ 36]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData] ([1] browsable assets)...
+[2018.01.13-19.29.04:449][ 36]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData]
+[2018.01.13-19.29.04:513][ 36]LogSavePackage: Save=44.16ms
+[2018.01.13-19.29.04:513][ 36]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/ThirdPersonExampleMap_BuiltData_Auto493731AA54DBC874173B65F8ECBE5C3CF.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData_Auto4.uasset'
+[2018.01.13-19.29.04:514][ 36]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData_Auto4.uasset
+[2018.01.13-19.29.04:514][ 36]LogFileHelpers: Auto-saving content packages took 0.066
+[2018.01.13-19.29.28:678][913]LogMaterial: Missing cached shader map for material PreviewMaterial_4, compiling. 
+[2018.01.13-19.29.30:758][ 90]MaterialEditorStats: Info Base pass shader: 49 instructions
+[2018.01.13-19.29.30:758][ 90]MaterialEditorStats: Info Vertex shader: 121 instructions
+[2018.01.13-19.29.30:758][ 90]MaterialEditorStats: Info Texture samplers: 4/16
+[2018.01.13-19.29.36:480][749]LogMaterial: Missing cached shader map for material PreviewMaterial_4, compiling. 
+[2018.01.13-19.29.36:493][749]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.01.13-19.29.38:157][881]MaterialEditorStats: Info Base pass shader: 50 instructions
+[2018.01.13-19.29.38:157][881]MaterialEditorStats: Info Vertex shader: 121 instructions
+[2018.01.13-19.29.38:157][881]MaterialEditorStats: Info Texture samplers: 4/16
+[2018.01.13-19.29.41:380][241]LogMaterial: Missing cached shader map for material PreviewMaterial_4, compiling. 
+[2018.01.13-19.29.42:387][314]LogMaterial: Missing cached shader map for material PreviewMaterial_4, compiling. 
+[2018.01.13-19.29.44:220][457]MaterialEditorStats: Info Base pass shader: 46 instructions
+[2018.01.13-19.29.44:220][457]MaterialEditorStats: Info Vertex shader: 121 instructions
+[2018.01.13-19.29.44:220][457]MaterialEditorStats: Info Texture samplers: 4/16
+[2018.01.13-19.29.48:489][936]LogMaterial: Missing cached shader map for material PreviewMaterial_4, compiling. 
+[2018.01.13-19.29.50:258][ 78]MaterialEditorStats: Info Base pass shader: 46 instructions
+[2018.01.13-19.29.50:258][ 78]MaterialEditorStats: Info Vertex shader: 121 instructions
+[2018.01.13-19.29.50:258][ 78]MaterialEditorStats: Info Texture samplers: 4/16
+[2018.01.13-19.29.52:289][312]LogMaterial: Missing cached shader map for material PreviewMaterial_4, compiling. 
+[2018.01.13-19.29.54:352][477]MaterialEditorStats: Info Base pass shader: 46 instructions
+[2018.01.13-19.29.54:352][477]MaterialEditorStats: Info Vertex shader: 121 instructions
+[2018.01.13-19.29.54:352][477]MaterialEditorStats: Info Texture samplers: 4/16
+[2018.01.13-19.29.58:007][904]LogMaterial: Missing cached shader map for material PreviewMaterial_4, compiling. 
+[2018.01.13-19.29.59:668][ 21]MaterialEditorStats: Info Base pass shader: 46 instructions
+[2018.01.13-19.29.59:668][ 21]MaterialEditorStats: Info Vertex shader: 121 instructions
+[2018.01.13-19.29.59:668][ 21]MaterialEditorStats: Info Texture samplers: 4/16
+[2018.01.13-19.30.04:313][544]LogMaterial: Missing cached shader map for material PreviewMaterial_4, compiling. 
+[2018.01.13-19.30.04:326][544]LogMaterial: Missing cached shader map for material PreviewMaterial_4, compiling. 
+[2018.01.13-19.30.05:265][614]MaterialEditorStats: Info Base pass shader: 84 instructions
+[2018.01.13-19.30.05:265][614]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2018.01.13-19.30.05:265][614]MaterialEditorStats: Info Texture samplers: 1/16
+[2018.01.13-19.30.06:623][773]LogMaterial: Missing cached shader map for material PreviewMaterial_4, compiling. 
+[2018.01.13-19.30.07:535][842]MaterialEditorStats: Info Base pass shader: 84 instructions
+[2018.01.13-19.30.07:535][842]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2018.01.13-19.30.07:535][842]MaterialEditorStats: Info Texture samplers: 1/16
+[2018.01.13-19.30.10:482][186]LogMaterial: Missing cached shader map for material PreviewMaterial_4, compiling. 
+[2018.01.13-19.30.11:349][253]MaterialEditorStats: Info Base pass shader: 84 instructions
+[2018.01.13-19.30.11:349][253]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2018.01.13-19.30.11:349][253]MaterialEditorStats: Info Texture samplers: 1/16
+[2018.01.13-19.30.25:642][885]LogMaterial: Missing cached shader map for material PreviewMaterial_4, compiling. 
+[2018.01.13-19.30.26:617][963]MaterialEditorStats: Info Base pass shader: 89 instructions
+[2018.01.13-19.30.26:617][963]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2018.01.13-19.30.26:617][963]MaterialEditorStats: Info Texture samplers: 1/16
+[2018.01.13-19.30.30:014][342]LogMaterial: Missing cached shader map for material PreviewMaterial_4, compiling. 
+[2018.01.13-19.30.30:085][349]LogMaterialEditor: Saving and Compiling material Glass
+[2018.01.13-19.30.30:661][349]LogMaterial: Missing cached shader map for material PreviewMaterial_4, compiling. 
+[2018.01.13-19.30.30:698][349]LogMaterial: Missing cached shader map for material Glass, compiling. 
+[2018.01.13-19.30.30:718][349]LogMaterial: Missing cached shader map for material Glass, compiling. 
+[2018.01.13-19.30.30:761][349]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Glass, compiling. 
+[2018.01.13-19.30.31:341][349]TextureStreamingBuild:Display: Compiling optional shaders took 0.587 seconds.
+[2018.01.13-19.30.32:469][349]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Environment/Glass/Glass" FILE="../../../../../Project Liane/Liane/projectliane/projectliane/Content/Environment/Glass/Glass.uasset" SILENT=true
+[2018.01.13-19.30.32:482][349]LogSavePackage: Save=10.92ms
+[2018.01.13-19.30.32:482][349]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/Glass0E705FE248548BBB41F1318E8F1E525E.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Content/Environment/Glass/Glass.uasset'
+[2018.01.13-19.30.32:484][349]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Content/Environment/Glass/Glass.uasset
+[2018.01.13-19.30.32:491][349]MaterialEditorStats: Info Base pass shader: 89 instructions
+[2018.01.13-19.30.32:491][349]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2018.01.13-19.30.32:491][349]MaterialEditorStats: Info Texture samplers: 2/16
+[2018.01.13-19.30.50:406][299]LogMaterial: Missing cached shader map for material PreviewMaterial_4, compiling. 
+[2018.01.13-19.30.50:426][299]LogMaterial: Missing cached shader map for material PreviewMaterial_4, compiling. 
+[2018.01.13-19.30.52:084][425]MaterialEditorStats: Info Base pass shader: 50 instructions
+[2018.01.13-19.30.52:084][425]MaterialEditorStats: Info Vertex shader: 121 instructions
+[2018.01.13-19.30.52:084][425]MaterialEditorStats: Info Texture samplers: 4/16
+[2018.01.13-19.31.01:464][457]LogMaterial: Missing cached shader map for material PreviewMaterial_4, compiling. 
+[2018.01.13-19.31.01:477][457]LogMaterial: Missing cached shader map for material PreviewMaterial_4, compiling. 
+[2018.01.13-19.31.02:679][531]LogMaterialEditor: Saving and Compiling material Glass
+[2018.01.13-19.31.03:279][531]LogMaterial: Missing cached shader map for material PreviewMaterial_4, compiling. 
+[2018.01.13-19.31.03:334][531]LogMaterial: Missing cached shader map for material Glass, compiling. 
+[2018.01.13-19.31.03:357][531]LogMaterial: Missing cached shader map for material Glass, compiling. 
+[2018.01.13-19.31.03:401][531]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Glass, compiling. 
+[2018.01.13-19.31.11:255][531]TextureStreamingBuild:Display: Compiling optional shaders took 7.860 seconds.
+[2018.01.13-19.31.22:938][531]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Environment/Glass/Glass" FILE="../../../../../Project Liane/Liane/projectliane/projectliane/Content/Environment/Glass/Glass.uasset" SILENT=true
+[2018.01.13-19.31.22:952][531]LogSavePackage: Save=11.43ms
+[2018.01.13-19.31.22:952][531]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/Glass8B015C1141D84E9874818F97ACE7BFC3.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Content/Environment/Glass/Glass.uasset'
+[2018.01.13-19.31.22:953][531]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Content/Environment/Glass/Glass.uasset
+[2018.01.13-19.31.22:962][531]MaterialEditorStats: Info Base pass shader: 281 instructions
+[2018.01.13-19.31.22:962][531]MaterialEditorStats: Info Vertex shader: 121 instructions
+[2018.01.13-19.31.22:962][531]MaterialEditorStats: Info Texture samplers: 8/16
+[2018.01.13-19.31.50:272][471]LogMaterialEditor: Saving and Compiling material Glass
+[2018.01.13-19.31.50:283][471]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Environment/Glass/Glass" FILE="../../../../../Project Liane/Liane/projectliane/projectliane/Content/Environment/Glass/Glass.uasset" SILENT=true
+[2018.01.13-19.31.50:295][471]LogSavePackage: Save=5.86ms
+[2018.01.13-19.31.50:295][471]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/Glass2CA580874B96A10E5D842BB87E9A04C6.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Content/Environment/Glass/Glass.uasset'
+[2018.01.13-19.31.50:295][471]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Content/Environment/Glass/Glass.uasset
+[2018.01.13-19.32.08:357][557]LogMaterial: Missing cached shader map for material Glass1, compiling. 
+[2018.01.13-19.32.45:637][222]LogMaterial: Missing cached shader map for material Glass1, compiling. 
+[2018.01.13-19.32.45:682][222]LogMaterial: Missing cached shader map for material Glass1, compiling. 
+[2018.01.13-19.32.45:693][222]LogMaterial: Missing cached shader map for material Glass1, compiling. 
+[2018.01.13-19.32.45:727][222]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.01.13-19.32.47:769][365]LogMaterial: Missing cached shader map for material Glass1, compiling. 
+[2018.01.13-19.32.57:025][510]MaterialEditorStats: Info Base pass shader: 272 instructions
+[2018.01.13-19.32.57:025][510]MaterialEditorStats: Info Vertex shader: 121 instructions
+[2018.01.13-19.32.57:025][510]MaterialEditorStats: Info Texture samplers: 8/16
+[2018.01.13-19.33.30:040][ 29]LogMaterial: Missing cached shader map for material GlassNew, compiling. 
+[2018.01.13-19.33.30:086][ 29]LogMaterial: Missing cached shader map for material GlassNew, compiling. 
+[2018.01.13-19.33.30:096][ 29]LogMaterial: Missing cached shader map for material GlassNew, compiling. 
+[2018.01.13-19.33.31:407][116]MaterialEditorStats: Info Base pass shader: 78 instructions
+[2018.01.13-19.33.31:407][116]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2018.01.13-19.33.31:407][116]MaterialEditorStats: Info Texture samplers: 1/16
+[2018.01.13-19.33.36:093][204]LogMaterial: Missing cached shader map for material GlassNew, compiling. 
+[2018.01.13-19.33.36:101][204]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_2, compiling. 
+[2018.01.13-19.33.37:400][323]LogMaterial: Missing cached shader map for material GlassNew, compiling. 
+[2018.01.13-19.33.37:410][323]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_2, compiling. 
+[2018.01.13-19.33.38:200][382]MaterialEditorStats: Info Base pass shader: 78 instructions
+[2018.01.13-19.33.38:200][382]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2018.01.13-19.33.38:200][382]MaterialEditorStats: Info Texture samplers: 1/16
+[2018.01.13-19.34.02:717][754]LogMaterial: Missing cached shader map for material GlassNew, compiling. 
+[2018.01.13-19.34.02:729][754]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_2, compiling. 
+[2018.01.13-19.34.03:758][835]MaterialEditorStats: Info Base pass shader: 79 instructions
+[2018.01.13-19.34.03:759][835]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2018.01.13-19.34.03:759][835]MaterialEditorStats: Info Texture samplers: 1/16
+[2018.01.13-19.34.16:760][696]LogMaterial: Missing cached shader map for material GlassNew, compiling. 
+[2018.01.13-19.34.16:775][696]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_2, compiling. 
+[2018.01.13-19.34.17:573][757]MaterialEditorStats: Info Base pass shader: 79 instructions
+[2018.01.13-19.34.17:573][757]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2018.01.13-19.34.17:573][757]MaterialEditorStats: Info Texture samplers: 1/16
+[2018.01.13-19.34.24:391][558]LogMaterial: Missing cached shader map for material GlassNew, compiling. 
+[2018.01.13-19.34.24:406][558]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_2, compiling. 
+[2018.01.13-19.34.24:452][560]LogMaterialEditor: Saving and Compiling material GlassNew
+[2018.01.13-19.34.25:034][560]LogMaterial: Missing cached shader map for material GlassNew, compiling. 
+[2018.01.13-19.34.25:080][560]LogMaterial: Missing cached shader map for material GlassNew, compiling. 
+[2018.01.13-19.34.25:103][560]LogMaterial: Missing cached shader map for material GlassNew, compiling. 
+[2018.01.13-19.34.25:144][560]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy GlassNew, compiling. 
+[2018.01.13-19.34.25:653][560]TextureStreamingBuild:Display: Compiling optional shaders took 0.515 seconds.
+[2018.01.13-19.34.26:744][560]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Environment/Glass/GlassNew" FILE="../../../../../Project Liane/Liane/projectliane/projectliane/Content/Environment/Glass/GlassNew.uasset" SILENT=true
+[2018.01.13-19.34.26:756][560]LogSavePackage: Save=10.61ms
+[2018.01.13-19.34.26:756][560]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/GlassNew5A697551404F7C836C1AADB0E748C880.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Content/Environment/Glass/GlassNew.uasset'
+[2018.01.13-19.34.26:757][560]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Content/Environment/Glass/GlassNew.uasset
+[2018.01.13-19.34.26:763][560]MaterialEditorStats: Info Base pass shader: 79 instructions
+[2018.01.13-19.34.26:763][560]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2018.01.13-19.34.26:763][560]MaterialEditorStats: Info Texture samplers: 2/16
+[2018.01.13-19.34.36:066][371]LogMaterial: Missing cached shader map for material GlassNew, compiling. 
+[2018.01.13-19.34.36:079][371]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_2, compiling. 
+[2018.01.13-19.34.36:144][375]LogMaterialEditor: Saving and Compiling material GlassNew
+[2018.01.13-19.34.36:725][375]LogMaterial: Missing cached shader map for material GlassNew, compiling. 
+[2018.01.13-19.34.36:765][375]LogMaterial: Missing cached shader map for material GlassNew, compiling. 
+[2018.01.13-19.34.36:786][375]LogMaterial: Missing cached shader map for material GlassNew, compiling. 
+[2018.01.13-19.34.36:824][375]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy GlassNew, compiling. 
+[2018.01.13-19.34.37:312][375]TextureStreamingBuild:Display: Compiling optional shaders took 0.494 seconds.
+[2018.01.13-19.34.38:409][375]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Environment/Glass/GlassNew" FILE="../../../../../Project Liane/Liane/projectliane/projectliane/Content/Environment/Glass/GlassNew.uasset" SILENT=true
+[2018.01.13-19.34.38:425][375]LogSavePackage: Save=10.52ms
+[2018.01.13-19.34.38:425][375]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/GlassNew2BFA13B9474A05F97F956C87D44035F2.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Content/Environment/Glass/GlassNew.uasset'
+[2018.01.13-19.34.38:427][375]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Content/Environment/Glass/GlassNew.uasset
+[2018.01.13-19.34.45:196][578]LogMaterial: Missing cached shader map for material GlassNew, compiling. 
+[2018.01.13-19.34.45:996][639]MaterialEditorStats: Info Base pass shader: 79 instructions
+[2018.01.13-19.34.45:996][639]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2018.01.13-19.34.45:996][639]MaterialEditorStats: Info Texture samplers: 1/16
+[2018.01.13-19.34.46:736][725]LogMaterial: Missing cached shader map for material GlassNew, compiling. 
+[2018.01.13-19.34.47:473][782]MaterialEditorStats: Info Base pass shader: 79 instructions
+[2018.01.13-19.34.47:473][782]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2018.01.13-19.34.47:473][782]MaterialEditorStats: Info Texture samplers: 1/16
+[2018.01.13-19.34.51:352][231]LogMaterial: Missing cached shader map for material GlassNew, compiling. 
+[2018.01.13-19.34.52:141][293]MaterialEditorStats: Info Base pass shader: 84 instructions
+[2018.01.13-19.34.52:141][293]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2018.01.13-19.34.52:141][293]MaterialEditorStats: Info Texture samplers: 1/16
+[2018.01.13-19.34.54:269][536]LogMaterial: Missing cached shader map for material GlassNew, compiling. 
+[2018.01.13-19.34.55:075][601]MaterialEditorStats: Info Base pass shader: 84 instructions
+[2018.01.13-19.34.55:075][601]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2018.01.13-19.34.55:075][601]MaterialEditorStats: Info Texture samplers: 1/16
+[2018.01.13-19.34.57:009][825]LogMaterial: Missing cached shader map for material GlassNew, compiling. 
+[2018.01.13-19.34.58:099][922]MaterialEditorStats: Info Base pass shader: 84 instructions
+[2018.01.13-19.34.58:099][922]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2018.01.13-19.34.58:099][922]MaterialEditorStats: Info Texture samplers: 1/16
+[2018.01.13-19.34.59:776][112]LogMaterial: Missing cached shader map for material GlassNew, compiling. 
+[2018.01.13-19.35.00:720][187]MaterialEditorStats: Info Base pass shader: 84 instructions
+[2018.01.13-19.35.00:720][187]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2018.01.13-19.35.00:720][187]MaterialEditorStats: Info Texture samplers: 1/16
+[2018.01.13-19.35.02:659][414]LogMaterial: Missing cached shader map for material GlassNew, compiling. 
+[2018.01.13-19.35.03:444][472]MaterialEditorStats: Info Base pass shader: 84 instructions
+[2018.01.13-19.35.03:444][472]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2018.01.13-19.35.03:444][472]MaterialEditorStats: Info Texture samplers: 1/16
+[2018.01.13-19.35.05:600][722]LogMaterial: Missing cached shader map for material GlassNew, compiling. 
+[2018.01.13-19.35.06:390][784]MaterialEditorStats: Info Base pass shader: 84 instructions
+[2018.01.13-19.35.06:390][784]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2018.01.13-19.35.06:390][784]MaterialEditorStats: Info Texture samplers: 1/16
+[2018.01.13-19.35.10:707][279]LogMaterial: Missing cached shader map for material GlassNew, compiling. 
+[2018.01.13-19.35.11:468][334]MaterialEditorStats: Info Base pass shader: 84 instructions
+[2018.01.13-19.35.11:468][334]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2018.01.13-19.35.11:468][334]MaterialEditorStats: Info Texture samplers: 1/16
+[2018.01.13-19.35.14:800][713]LogMaterial: Missing cached shader map for material GlassNew, compiling. 
+[2018.01.13-19.35.15:594][772]MaterialEditorStats: Info Base pass shader: 84 instructions
+[2018.01.13-19.35.15:594][772]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2018.01.13-19.35.15:594][772]MaterialEditorStats: Info Texture samplers: 1/16
+[2018.01.13-19.35.19:861][272]LogMaterial: Missing cached shader map for material GlassNew, compiling. 
+[2018.01.13-19.35.20:624][328]MaterialEditorStats: Info Base pass shader: 84 instructions
+[2018.01.13-19.35.20:624][328]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2018.01.13-19.35.20:624][328]MaterialEditorStats: Info Texture samplers: 1/16
+[2018.01.13-19.35.25:783][906]LogMaterial: Missing cached shader map for material GlassNew, compiling. 
+[2018.01.13-19.35.26:885][  1]MaterialEditorStats: Info Base pass shader: 84 instructions
+[2018.01.13-19.35.26:885][  1]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2018.01.13-19.35.26:885][  1]MaterialEditorStats: Info Texture samplers: 1/16
+[2018.01.13-19.35.40:157][547]LogMaterial: Missing cached shader map for material GlassNew, compiling. 
+[2018.01.13-19.35.40:933][603]MaterialEditorStats: Info Base pass shader: 84 instructions
+[2018.01.13-19.35.40:933][603]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2018.01.13-19.35.40:933][603]MaterialEditorStats: Info Texture samplers: 1/16
+[2018.01.13-19.35.43:191][856]LogMaterial: Missing cached shader map for material GlassNew, compiling. 
+[2018.01.13-19.35.43:974][910]MaterialEditorStats: Info Base pass shader: 84 instructions
+[2018.01.13-19.35.43:974][910]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2018.01.13-19.35.43:974][910]MaterialEditorStats: Info Texture samplers: 1/16
+[2018.01.13-19.35.44:653][985]LogMaterial: Missing cached shader map for material GlassNew, compiling. 
+[2018.01.13-19.35.45:447][ 39]MaterialEditorStats: Info Base pass shader: 84 instructions
+[2018.01.13-19.35.45:447][ 39]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2018.01.13-19.35.45:447][ 39]MaterialEditorStats: Info Texture samplers: 1/16
+[2018.01.13-19.35.46:407][149]LogMaterial: Missing cached shader map for material GlassNew, compiling. 
+[2018.01.13-19.35.47:186][204]MaterialEditorStats: Info Base pass shader: 84 instructions
+[2018.01.13-19.35.47:186][204]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2018.01.13-19.35.47:186][204]MaterialEditorStats: Info Texture samplers: 1/16
+[2018.01.13-19.35.50:303][557]LogMaterial: Missing cached shader map for material GlassNew, compiling. 
+[2018.01.13-19.35.51:075][614]MaterialEditorStats: Info Base pass shader: 84 instructions
+[2018.01.13-19.35.51:075][614]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2018.01.13-19.35.51:075][614]MaterialEditorStats: Info Texture samplers: 1/16
+[2018.01.13-19.35.51:996][720]LogMaterial: Missing cached shader map for material GlassNew, compiling. 
+[2018.01.13-19.35.52:776][778]MaterialEditorStats: Info Base pass shader: 84 instructions
+[2018.01.13-19.35.52:776][778]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2018.01.13-19.35.52:776][778]MaterialEditorStats: Info Texture samplers: 1/16
+[2018.01.13-19.35.56:380][177]LogMaterial: Missing cached shader map for material GlassNew, compiling. 
+[2018.01.13-19.35.57:165][234]MaterialEditorStats: Info Base pass shader: 84 instructions
+[2018.01.13-19.35.57:165][234]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2018.01.13-19.35.57:165][234]MaterialEditorStats: Info Texture samplers: 1/16
+[2018.01.13-19.36.00:839][642]LogMaterial: Missing cached shader map for material GlassNew, compiling. 
+[2018.01.13-19.36.01:615][699]MaterialEditorStats: Info Base pass shader: 84 instructions
+[2018.01.13-19.36.01:615][699]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2018.01.13-19.36.01:615][699]MaterialEditorStats: Info Texture samplers: 1/16
+[2018.01.13-19.36.03:153][871]LogMaterial: Missing cached shader map for material GlassNew, compiling. 
+[2018.01.13-19.36.03:919][925]MaterialEditorStats: Info Base pass shader: 84 instructions
+[2018.01.13-19.36.03:919][925]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2018.01.13-19.36.03:919][925]MaterialEditorStats: Info Texture samplers: 1/16
+[2018.01.13-19.36.05:130][ 63]LogMaterial: Missing cached shader map for material GlassNew, compiling. 
+[2018.01.13-19.36.05:915][119]MaterialEditorStats: Info Base pass shader: 84 instructions
+[2018.01.13-19.36.05:915][119]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2018.01.13-19.36.05:915][119]MaterialEditorStats: Info Texture samplers: 1/16
+[2018.01.13-19.36.06:925][237]LogMaterial: Missing cached shader map for material GlassNew, compiling. 
+[2018.01.13-19.36.07:707][295]MaterialEditorStats: Info Base pass shader: 84 instructions
+[2018.01.13-19.36.07:707][295]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2018.01.13-19.36.07:707][295]MaterialEditorStats: Info Texture samplers: 1/16
+[2018.01.13-19.36.15:731][177]LogMaterial: Missing cached shader map for material GlassNew, compiling. 
+[2018.01.13-19.36.16:519][236]MaterialEditorStats: Info Base pass shader: 84 instructions
+[2018.01.13-19.36.16:519][236]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2018.01.13-19.36.16:519][236]MaterialEditorStats: Info Texture samplers: 1/16
+[2018.01.13-19.36.19:204][529]LogMaterial: Missing cached shader map for material GlassNew, compiling. 
+[2018.01.13-19.36.19:994][588]MaterialEditorStats: Info Base pass shader: 84 instructions
+[2018.01.13-19.36.19:994][588]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2018.01.13-19.36.19:994][588]MaterialEditorStats: Info Texture samplers: 1/16
+[2018.01.13-19.36.27:321][436]LogMaterial: Missing cached shader map for material GlassNew, compiling. 
+[2018.01.13-19.36.28:079][488]MaterialEditorStats: Info Base pass shader: 84 instructions
+[2018.01.13-19.36.28:079][488]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2018.01.13-19.36.28:079][488]MaterialEditorStats: Info Texture samplers: 1/16
+[2018.01.13-19.36.43:804][632]LogMaterial: Missing cached shader map for material GlassNew, compiling. 
+[2018.01.13-19.36.44:563][687]MaterialEditorStats: Info Base pass shader: 84 instructions
+[2018.01.13-19.36.44:563][687]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2018.01.13-19.36.44:563][687]MaterialEditorStats: Info Texture samplers: 1/16
+[2018.01.13-19.36.45:881][838]LogMaterial: Missing cached shader map for material GlassNew, compiling. 
+[2018.01.13-19.36.46:772][913]MaterialEditorStats: Info Base pass shader: 84 instructions
+[2018.01.13-19.36.46:772][913]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2018.01.13-19.36.46:772][913]MaterialEditorStats: Info Texture samplers: 1/16
+[2018.01.13-19.36.48:567][117]LogMaterial: Missing cached shader map for material GlassNew, compiling. 
+[2018.01.13-19.36.49:330][175]MaterialEditorStats: Info Base pass shader: 84 instructions
+[2018.01.13-19.36.49:330][175]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2018.01.13-19.36.49:330][175]MaterialEditorStats: Info Texture samplers: 1/16
+[2018.01.13-19.37.00:436][467]LogMaterial: Missing cached shader map for material GlassNew, compiling. 
+[2018.01.13-19.37.00:494][468]LogMaterial: Missing cached shader map for material Material_2, compiling. 
+[2018.01.13-19.37.01:258][529]MaterialEditorStats: Info Base pass shader: 84 instructions
+[2018.01.13-19.37.01:258][529]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2018.01.13-19.37.01:258][529]MaterialEditorStats: Info Texture samplers: 1/16
+[2018.01.13-19.37.03:104][733]LogMaterial: Missing cached shader map for material GlassNew, compiling. 
+[2018.01.13-19.37.03:836][789]MaterialEditorStats: Info Base pass shader: 84 instructions
+[2018.01.13-19.37.03:836][789]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2018.01.13-19.37.03:836][789]MaterialEditorStats: Info Texture samplers: 1/16
+[2018.01.13-19.37.06:477][ 96]LogMaterial: Missing cached shader map for material GlassNew, compiling. 
+[2018.01.13-19.37.07:247][154]MaterialEditorStats: Info Base pass shader: 84 instructions
+[2018.01.13-19.37.07:247][154]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2018.01.13-19.37.07:247][154]MaterialEditorStats: Info Texture samplers: 1/16
+[2018.01.13-19.37.08:577][311]LogMaterial: Missing cached shader map for material GlassNew, compiling. 
+[2018.01.13-19.37.09:372][372]MaterialEditorStats: Info Base pass shader: 84 instructions
+[2018.01.13-19.37.09:372][372]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2018.01.13-19.37.09:372][372]MaterialEditorStats: Info Texture samplers: 1/16
+[2018.01.13-19.37.10:170][465]LogMaterial: Missing cached shader map for material GlassNew, compiling. 
+[2018.01.13-19.37.11:193][542]MaterialEditorStats: Info Base pass shader: 84 instructions
+[2018.01.13-19.37.11:193][542]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2018.01.13-19.37.11:193][542]MaterialEditorStats: Info Texture samplers: 1/16
+[2018.01.13-19.37.19:108][909]LogMaterial: Missing cached shader map for material GlassNew, compiling. 
+[2018.01.13-19.37.19:907][973]MaterialEditorStats: Info Base pass shader: 84 instructions
+[2018.01.13-19.37.19:907][973]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2018.01.13-19.37.19:907][973]MaterialEditorStats: Info Texture samplers: 1/16
+[2018.01.13-19.37.33:435][482]LogMaterial: Missing cached shader map for material GlassNew, compiling. 
+[2018.01.13-19.37.33:456][482]LogMaterial: Missing cached shader map for material GlassNew, compiling. 
+[2018.01.13-19.37.35:007][594]MaterialEditorStats: Info Base pass shader: 57 instructions
+[2018.01.13-19.37.35:007][594]MaterialEditorStats: Info Vertex shader: 121 instructions
+[2018.01.13-19.37.35:007][594]MaterialEditorStats: Info Texture samplers: 4/16
+[2018.01.13-19.38.00:826][514]LogMaterial: Missing cached shader map for material GlassNew, compiling. 
+[2018.01.13-19.38.00:843][514]LogMaterial: Missing cached shader map for material GlassNew, compiling. 
+[2018.01.13-19.38.02:075][596]LogMaterialEditor: Saving and Compiling material GlassNew
+[2018.01.13-19.38.02:653][596]LogMaterial: Missing cached shader map for material GlassNew, compiling. 
+[2018.01.13-19.38.02:709][596]LogMaterial: Missing cached shader map for material GlassNew, compiling. 
+[2018.01.13-19.38.02:732][596]LogMaterial: Missing cached shader map for material GlassNew, compiling. 
+[2018.01.13-19.38.02:776][596]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy GlassNew, compiling. 
+[2018.01.13-19.38.09:202][596]TextureStreamingBuild:Display: Compiling optional shaders took 6.431 seconds.
+[2018.01.13-19.38.16:129][596]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Environment/Glass/GlassNew" FILE="../../../../../Project Liane/Liane/projectliane/projectliane/Content/Environment/Glass/GlassNew.uasset" SILENT=true
+[2018.01.13-19.38.16:145][596]LogSavePackage: Save=13.79ms
+[2018.01.13-19.38.16:145][596]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/GlassNewA4FDA91A4472006746C2599F0AD51DC6.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Content/Environment/Glass/GlassNew.uasset'
+[2018.01.13-19.38.16:146][596]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Content/Environment/Glass/GlassNew.uasset
+[2018.01.13-19.38.16:153][596]MaterialEditorStats: Info Base pass shader: 283 instructions
+[2018.01.13-19.38.16:153][596]MaterialEditorStats: Info Vertex shader: 121 instructions
+[2018.01.13-19.38.16:153][596]MaterialEditorStats: Info Texture samplers: 8/16
+[2018.01.13-19.38.41:196][357]LogPhysics:Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.01.13-19.38.41:196][357]LogPhysics:Warning: ForeachShape(Convex): [/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PostProcessVolume_1.BrushComponent0] ScaledElem[0] invalid
+[2018.01.13-19.39.01:880][359]LogPhysics:Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.01.13-19.39.01:880][359]LogPhysics:Warning: ForeachShape(Convex): [/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PostProcessVolume_1.BrushComponent0] ScaledElem[0] invalid
+[2018.01.13-19.39.01:904][359]LogPhysics:Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.01.13-19.39.01:904][359]LogPhysics:Warning: ForeachShape(Convex): [/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PostProcessVolume_1.BrushComponent0] ScaledElem[0] invalid
+[2018.01.13-19.39.03:625][548]Cmd: TRANSACTION UNDO
+[2018.01.13-19.39.03:625][548]LogEditorTransaction: Undo Set actor scale
+[2018.01.13-19.39.03:639][548]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush72.BrushComponent0) Component already registered.
+[2018.01.13-19.39.03:639][548]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush18.BrushComponent0) Component already registered.
+[2018.01.13-19.39.03:640][548]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush49_3.BrushComponent0) Component already registered.
+[2018.01.13-19.39.03:646][548]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush56.BrushComponent0) Component already registered.
+[2018.01.13-19.39.03:646][548]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush28.BrushComponent0) Component already registered.
+[2018.01.13-19.39.03:647][548]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush30.BrushComponent0) Component already registered.
+[2018.01.13-19.39.03:648][548]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush17_1.BrushComponent0) Component already registered.
+[2018.01.13-19.39.06:694][890]LogPhysics:Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.01.13-19.39.06:694][890]LogPhysics:Warning: ForeachShape(Convex): [/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PostProcessVolume_1.BrushComponent0] ScaledElem[0] invalid
+[2018.01.13-19.39.07:310][946]Cmd: TRANSACTION UNDO
+[2018.01.13-19.39.07:310][946]LogEditorTransaction: Undo Scale Actors
+[2018.01.13-19.39.07:321][946]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush56.BrushComponent0) Component already registered.
+[2018.01.13-19.39.07:321][946]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush75.BrushComponent0) Component already registered.
+[2018.01.13-19.39.07:326][946]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush47.BrushComponent0) Component already registered.
+[2018.01.13-19.39.07:327][946]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush16.BrushComponent0) Component already registered.
+[2018.01.13-19.39.07:328][946]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush63.BrushComponent0) Component already registered.
+[2018.01.13-19.39.07:329][946]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush6.BrushComponent0) Component already registered.
+[2018.01.13-19.39.07:329][946]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush64.BrushComponent0) Component already registered.
+[2018.01.13-19.39.07:330][946]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush12_3.BrushComponent0) Component already registered.
+[2018.01.13-19.39.07:331][946]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush61_6.BrushComponent0) Component already registered.
+[2018.01.13-19.39.10:871][350]LogPhysics:Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.01.13-19.39.10:871][350]LogPhysics:Warning: ForeachShape(Convex): [/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PostProcessVolume_1.BrushComponent0] ScaledElem[0] invalid
+[2018.01.13-19.39.10:894][350]LogPhysics:Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.01.13-19.39.10:894][350]LogPhysics:Warning: ForeachShape(Convex): [/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PostProcessVolume_1.BrushComponent0] ScaledElem[0] invalid
+[2018.01.13-19.39.14:501][764]LogPhysics:Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.01.13-19.39.14:501][764]LogPhysics:Warning: ForeachShape(Convex): [/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PostProcessVolume_1.BrushComponent0] ScaledElem[0] invalid
+[2018.01.13-19.39.15:256][835]LogPhysics:Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.01.13-19.39.15:256][835]LogPhysics:Warning: ForeachShape(Convex): [/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PostProcessVolume_1.BrushComponent0] ScaledElem[0] invalid
+[2018.01.13-19.39.16:595][959]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush39)
+[2018.01.13-19.39.19:151][259]LogPhysics:Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.01.13-19.39.19:151][259]LogPhysics:Warning: ForeachShape(Convex): [/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PostProcessVolume_1.BrushComponent0] ScaledElem[0] invalid
+[2018.01.13-19.39.23:060][709]LogPhysics:Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.01.13-19.39.23:060][709]LogPhysics:Warning: ForeachShape(Convex): [/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PostProcessVolume_1.BrushComponent0] ScaledElem[0] invalid
+[2018.01.13-19.39.27:647][159]LogPhysics:Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.01.13-19.39.27:647][159]LogPhysics:Warning: ForeachShape(Convex): [/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PostProcessVolume_1.BrushComponent0] ScaledElem[0] invalid
+[2018.01.13-19.39.28:436][235]Cmd: TRANSACTION UNDO
+[2018.01.13-19.39.28:436][235]LogEditorTransaction: Undo Scale Actors
+[2018.01.13-19.39.28:447][235]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush56.BrushComponent0) Component already registered.
+[2018.01.13-19.39.28:447][235]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush75.BrushComponent0) Component already registered.
+[2018.01.13-19.39.28:451][235]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush47.BrushComponent0) Component already registered.
+[2018.01.13-19.39.28:452][235]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush16.BrushComponent0) Component already registered.
+[2018.01.13-19.39.28:453][235]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush63.BrushComponent0) Component already registered.
+[2018.01.13-19.39.28:454][235]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush6.BrushComponent0) Component already registered.
+[2018.01.13-19.39.28:455][235]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush64.BrushComponent0) Component already registered.
+[2018.01.13-19.39.28:455][235]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush12_3.BrushComponent0) Component already registered.
+[2018.01.13-19.39.28:456][235]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush61_6.BrushComponent0) Component already registered.
+[2018.01.13-19.39.30:517][400]LogPhysics:Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.01.13-19.39.30:517][400]LogPhysics:Warning: ForeachShape(Convex): [/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PostProcessVolume_1.BrushComponent0] ScaledElem[0] invalid
+[2018.01.13-19.39.30:540][400]LogPhysics:Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.01.13-19.39.30:540][400]LogPhysics:Warning: ForeachShape(Convex): [/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PostProcessVolume_1.BrushComponent0] ScaledElem[0] invalid
+[2018.01.13-19.39.34:768][887]LogPhysics:Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.01.13-19.39.34:768][887]LogPhysics:Warning: ForeachShape(Convex): [/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PostProcessVolume_1.BrushComponent0] ScaledElem[0] invalid
+[2018.01.13-19.39.34:792][887]LogPhysics:Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.01.13-19.39.34:792][887]LogPhysics:Warning: ForeachShape(Convex): [/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PostProcessVolume_1.BrushComponent0] ScaledElem[0] invalid
+[2018.01.13-19.39.41:190][637]LogPhysics:Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.01.13-19.39.41:190][637]LogPhysics:Warning: ForeachShape(Convex): [/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PostProcessVolume_1.BrushComponent0] ScaledElem[0] invalid
+[2018.01.13-19.39.43:016][834]LogPhysics:Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.01.13-19.39.43:016][834]LogPhysics:Warning: ForeachShape(Convex): [/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PostProcessVolume_1.BrushComponent0] ScaledElem[0] invalid
+[2018.01.13-19.39.45:399][112]LogPhysics:Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.01.13-19.39.45:399][112]LogPhysics:Warning: ForeachShape(Convex): [/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PostProcessVolume_1.BrushComponent0] ScaledElem[0] invalid
+[2018.01.13-19.39.46:795][222]LogPhysics:Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.01.13-19.39.46:795][222]LogPhysics:Warning: ForeachShape(Convex): [/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PostProcessVolume_1.BrushComponent0] ScaledElem[0] invalid
+[2018.01.13-19.39.48:602][430]LogPhysics:Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.01.13-19.39.48:602][430]LogPhysics:Warning: ForeachShape(Convex): [/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PostProcessVolume_1.BrushComponent0] ScaledElem[0] invalid
+[2018.01.13-19.39.49:946][572]LogPhysics:Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.01.13-19.39.49:946][572]LogPhysics:Warning: ForeachShape(Convex): [/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PostProcessVolume_1.BrushComponent0] ScaledElem[0] invalid
+[2018.01.13-19.39.51:641][725]LogPhysics:Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.01.13-19.39.51:641][725]LogPhysics:Warning: ForeachShape(Convex): [/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PostProcessVolume_1.BrushComponent0] ScaledElem[0] invalid
+[2018.01.13-19.39.53:136][897]LogPhysics:Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.01.13-19.39.53:136][897]LogPhysics:Warning: ForeachShape(Convex): [/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PostProcessVolume_1.BrushComponent0] ScaledElem[0] invalid
+[2018.01.13-19.39.54:731][ 81]LogPhysics:Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.01.13-19.39.54:731][ 81]LogPhysics:Warning: ForeachShape(Convex): [/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PostProcessVolume_1.BrushComponent0] ScaledElem[0] invalid
+[2018.01.13-19.39.59:558][592]LogPhysics:Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.01.13-19.39.59:558][592]LogPhysics:Warning: ForeachShape(Convex): [/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PostProcessVolume_1.BrushComponent0] ScaledElem[0] invalid
+[2018.01.13-19.40.02:979][976]LogPhysics:Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.01.13-19.40.02:979][976]LogPhysics:Warning: ForeachShape(Convex): [/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PostProcessVolume_1.BrushComponent0] ScaledElem[0] invalid
+[2018.01.13-19.40.16:314][349]LogPhysics:Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.01.13-19.40.16:314][349]LogPhysics:Warning: ForeachShape(Convex): [/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PostProcessVolume_1.BrushComponent0] ScaledElem[0] invalid
+[2018.01.13-19.40.16:338][349]LogPhysics:Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.01.13-19.40.16:338][349]LogPhysics:Warning: ForeachShape(Convex): [/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PostProcessVolume_1.BrushComponent0] ScaledElem[0] invalid
+[2018.01.13-19.40.21:365][883]LogPhysics:Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.01.13-19.40.21:365][883]LogPhysics:Warning: ForeachShape(Convex): [/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PostProcessVolume_1.BrushComponent0] ScaledElem[0] invalid
+[2018.01.13-19.40.23:116][ 74]LogPhysics:Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.01.13-19.40.23:116][ 74]LogPhysics:Warning: ForeachShape(Convex): [/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PostProcessVolume_1.BrushComponent0] ScaledElem[0] invalid
+[2018.01.13-19.40.23:579][120]Cmd: TRANSACTION UNDO
+[2018.01.13-19.40.23:579][120]LogEditorTransaction: Undo Move Actors
+[2018.01.13-19.40.23:590][120]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush59_24.BrushComponent0) Component already registered.
+[2018.01.13-19.40.23:591][120]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush32_36.BrushComponent0) Component already registered.
+[2018.01.13-19.40.23:591][120]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush54.BrushComponent0) Component already registered.
+[2018.01.13-19.40.23:592][120]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush60.BrushComponent0) Component already registered.
+[2018.01.13-19.40.23:592][120]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush72.BrushComponent0) Component already registered.
+[2018.01.13-19.40.23:596][120]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush28.BrushComponent0) Component already registered.
+[2018.01.13-19.40.23:596][120]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush14.BrushComponent0) Component already registered.
+[2018.01.13-19.40.23:597][120]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush33.BrushComponent0) Component already registered.
+[2018.01.13-19.40.23:598][120]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush30.BrushComponent0) Component already registered.
+[2018.01.13-19.40.23:599][120]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush39.BrushComponent0) Component already registered.
+[2018.01.13-19.40.23:600][120]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush17_1.BrushComponent0) Component already registered.
+[2018.01.13-19.40.23:901][143]Cmd: TRANSACTION UNDO
+[2018.01.13-19.40.23:901][143]LogEditorTransaction: Undo Move Actors
+[2018.01.13-19.40.23:912][143]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush59_24.BrushComponent0) Component already registered.
+[2018.01.13-19.40.23:912][143]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush32_36.BrushComponent0) Component already registered.
+[2018.01.13-19.40.23:912][143]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush54.BrushComponent0) Component already registered.
+[2018.01.13-19.40.23:913][143]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush60.BrushComponent0) Component already registered.
+[2018.01.13-19.40.23:913][143]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush72.BrushComponent0) Component already registered.
+[2018.01.13-19.40.23:917][143]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush28.BrushComponent0) Component already registered.
+[2018.01.13-19.40.23:917][143]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush14.BrushComponent0) Component already registered.
+[2018.01.13-19.40.23:918][143]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush33.BrushComponent0) Component already registered.
+[2018.01.13-19.40.23:919][143]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush30.BrushComponent0) Component already registered.
+[2018.01.13-19.40.23:920][143]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush39.BrushComponent0) Component already registered.
+[2018.01.13-19.40.23:921][143]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush17_1.BrushComponent0) Component already registered.
+[2018.01.13-19.40.24:192][165]Cmd: TRANSACTION UNDO
+[2018.01.13-19.40.24:192][165]LogEditorTransaction: Undo Set actor scale
+[2018.01.13-19.40.24:207][165]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush3.BrushComponent0) Component already registered.
+[2018.01.13-19.40.24:208][165]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush21_5.BrushComponent0) Component already registered.
+[2018.01.13-19.40.24:214][165]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush4.BrushComponent0) Component already registered.
+[2018.01.13-19.40.31:281][800]LogPhysics:Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.01.13-19.40.31:281][800]LogPhysics:Warning: ForeachShape(Convex): [/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PostProcessVolume_1.BrushComponent0] ScaledElem[0] invalid
+[2018.01.13-19.40.31:304][800]LogPhysics:Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.01.13-19.40.31:304][800]LogPhysics:Warning: ForeachShape(Convex): [/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PostProcessVolume_1.BrushComponent0] ScaledElem[0] invalid
+[2018.01.13-19.40.32:715][949]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Modernstand_low4)
+[2018.01.13-19.40.35:461][258]Cmd: DELETE
+[2018.01.13-19.40.35:461][258]Cmd: ACTOR DELETE
+[2018.01.13-19.40.35:463][258]LogEditorActor: Deleted Actor: Brush
+[2018.01.13-19.40.35:491][258]LogPhysics:Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.01.13-19.40.35:491][258]LogPhysics:Warning: ForeachShape(Convex): [/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PostProcessVolume_1.BrushComponent0] ScaledElem[0] invalid
+[2018.01.13-19.40.35:504][258]LogEditorActor: Deleted 1 Actors (0.043 secs)
+[2018.01.13-19.40.36:699][381]LogPhysics:Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.01.13-19.40.36:699][381]LogPhysics:Warning: ForeachShape(Convex): [/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PostProcessVolume_1.BrushComponent0] ScaledElem[0] invalid
+[2018.01.13-19.40.39:378][693]LogPhysics:Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.01.13-19.40.39:378][693]LogPhysics:Warning: ForeachShape(Convex): [/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PostProcessVolume_1.BrushComponent0] ScaledElem[0] invalid
+[2018.01.13-19.40.44:534][254]LogPhysics:Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.01.13-19.40.44:534][254]LogPhysics:Warning: ForeachShape(Convex): [/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PostProcessVolume_1.BrushComponent0] ScaledElem[0] invalid
+[2018.01.13-19.40.46:255][441]LogPhysics:Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.01.13-19.40.46:255][441]LogPhysics:Warning: ForeachShape(Convex): [/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PostProcessVolume_1.BrushComponent0] ScaledElem[0] invalid
+[2018.01.13-19.40.46:642][472]Cmd: TRANSACTION UNDO
+[2018.01.13-19.40.46:642][472]LogEditorTransaction: Undo Move Actors
+[2018.01.13-19.40.46:652][472]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush59_24.BrushComponent0) Component already registered.
+[2018.01.13-19.40.46:652][472]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush32_36.BrushComponent0) Component already registered.
+[2018.01.13-19.40.46:653][472]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush54.BrushComponent0) Component already registered.
+[2018.01.13-19.40.46:653][472]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush60.BrushComponent0) Component already registered.
+[2018.01.13-19.40.46:654][472]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush72.BrushComponent0) Component already registered.
+[2018.01.13-19.40.46:657][472]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush28.BrushComponent0) Component already registered.
+[2018.01.13-19.40.46:658][472]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush14.BrushComponent0) Component already registered.
+[2018.01.13-19.40.46:658][472]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush24_10.BrushComponent0) Component already registered.
+[2018.01.13-19.40.46:659][472]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush63.BrushComponent0) Component already registered.
+[2018.01.13-19.40.46:660][472]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush38.BrushComponent0) Component already registered.
+[2018.01.13-19.40.46:662][472]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush12_3.BrushComponent0) Component already registered.
+[2018.01.13-19.40.46:938][494]Cmd: TRANSACTION UNDO
+[2018.01.13-19.40.46:938][494]LogEditorTransaction: Undo Move Actors
+[2018.01.13-19.40.46:949][494]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush59_24.BrushComponent0) Component already registered.
+[2018.01.13-19.40.46:949][494]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush32_36.BrushComponent0) Component already registered.
+[2018.01.13-19.40.46:950][494]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush54.BrushComponent0) Component already registered.
+[2018.01.13-19.40.46:950][494]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush60.BrushComponent0) Component already registered.
+[2018.01.13-19.40.46:951][494]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush72.BrushComponent0) Component already registered.
+[2018.01.13-19.40.46:954][494]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush28.BrushComponent0) Component already registered.
+[2018.01.13-19.40.46:955][494]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush14.BrushComponent0) Component already registered.
+[2018.01.13-19.40.46:956][494]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush24_10.BrushComponent0) Component already registered.
+[2018.01.13-19.40.46:956][494]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush63.BrushComponent0) Component already registered.
+[2018.01.13-19.40.46:957][494]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush38.BrushComponent0) Component already registered.
+[2018.01.13-19.40.46:959][494]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush12_3.BrushComponent0) Component already registered.
+[2018.01.13-19.40.47:376][533]Cmd: TRANSACTION UNDO
+[2018.01.13-19.40.47:376][533]LogEditorTransaction: Undo Move Actors
+[2018.01.13-19.40.47:391][533]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush2.BrushComponent0) Component already registered.
+[2018.01.13-19.40.47:392][533]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush8.BrushComponent0) Component already registered.
+[2018.01.13-19.40.47:397][533]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush27.BrushComponent0) Component already registered.
+[2018.01.13-19.40.47:397][533]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush4.BrushComponent0) Component already registered.
+[2018.01.13-19.40.51:023][901]Cmd: DELETE
+[2018.01.13-19.40.51:023][901]Cmd: ACTOR DELETE
+[2018.01.13-19.40.51:024][901]LogEditorActor: Deleted Actor: Brush
+[2018.01.13-19.40.51:048][901]LogPhysics:Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.01.13-19.40.51:048][901]LogPhysics:Warning: ForeachShape(Convex): [/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PostProcessVolume_1.BrushComponent0] ScaledElem[0] invalid
+[2018.01.13-19.40.51:062][901]LogEditorActor: Deleted 1 Actors (0.039 secs)
+[2018.01.13-19.40.52:665][ 72]LogPhysics:Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.01.13-19.40.52:665][ 72]LogPhysics:Warning: ForeachShape(Convex): [/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PostProcessVolume_1.BrushComponent0] ScaledElem[0] invalid
+[2018.01.13-19.40.54:124][238]LogPhysics:Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.01.13-19.40.54:124][238]LogPhysics:Warning: ForeachShape(Convex): [/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PostProcessVolume_1.BrushComponent0] ScaledElem[0] invalid
+[2018.01.13-19.41.10:962][ 48]Cmd: TRANSACTION UNDO
+[2018.01.13-19.41.10:962][ 48]LogEditorTransaction: Undo Create Actors
+[2018.01.13-19.41.10:966][ 48]LogPhysics:Warning: FDerivedDataPhysXCooker::BuildTriMesh: Triangle data from '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_6807' invalid (2696 verts, 0 indices).
+[2018.01.13-19.41.19:944][991]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.01.13-19.41.23:141][296]Cmd: TRANSACTION UNDO
+[2018.01.13-19.41.23:141][296]LogEditorTransaction: Undo Create Actors
+[2018.01.13-19.41.23:144][296]LogPhysics:Warning: FDerivedDataPhysXCooker::BuildTriMesh: Triangle data from '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_6807' invalid (2696 verts, 0 indices).
+[2018.01.13-19.41.23:395][309]Cmd: TRANSACTION UNDO
+[2018.01.13-19.41.23:395][309]LogEditorTransaction: Undo Clicking on Actors
+[2018.01.13-19.41.23:600][317]Cmd: TRANSACTION UNDO
+[2018.01.13-19.41.23:600][317]LogEditorTransaction: Undo Select Brush Surface
+[2018.01.13-19.41.23:768][328]Cmd: TRANSACTION UNDO
+[2018.01.13-19.41.23:768][328]LogEditorTransaction: Undo Select Brush Surface
+[2018.01.13-19.41.23:937][344]Cmd: TRANSACTION UNDO
+[2018.01.13-19.41.23:937][344]LogEditorTransaction: Undo Select Brush Surface
+[2018.01.13-19.41.24:130][363]Cmd: TRANSACTION UNDO
+[2018.01.13-19.41.24:130][363]LogEditorTransaction: Undo Select Surfaces
+[2018.01.13-19.41.24:313][378]Cmd: TRANSACTION UNDO
+[2018.01.13-19.41.24:313][378]LogEditorTransaction: Undo Select Brush Surface
+[2018.01.13-19.41.24:499][394]Cmd: TRANSACTION UNDO
+[2018.01.13-19.41.24:499][394]LogEditorTransaction: Undo Select Brush Surface
+[2018.01.13-19.41.24:685][412]Cmd: TRANSACTION UNDO
+[2018.01.13-19.41.24:685][412]LogEditorTransaction: Undo Move Actors
+[2018.01.13-19.41.24:700][412]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush60.BrushComponent0) Component already registered.
+[2018.01.13-19.41.24:700][412]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush18.BrushComponent0) Component already registered.
+[2018.01.13-19.41.24:701][412]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush45.BrushComponent0) Component already registered.
+[2018.01.13-19.41.24:702][412]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush10.BrushComponent0) Component already registered.
+[2018.01.13-19.41.24:707][412]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush47.BrushComponent0) Component already registered.
+[2018.01.13-19.41.24:707][412]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush30.BrushComponent0) Component already registered.
+[2018.01.13-19.41.24:708][412]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush17_1.BrushComponent0) Component already registered.
+[2018.01.13-19.41.24:709][412]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush33.BrushComponent0) Component already registered.
+[2018.01.13-19.41.24:710][412]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush36.BrushComponent0) Component already registered.
+[2018.01.13-19.41.24:875][425]Cmd: TRANSACTION UNDO
+[2018.01.13-19.41.24:875][425]LogEditorTransaction: Undo Select Brush Surface
+[2018.01.13-19.41.25:070][445]Cmd: TRANSACTION UNDO
+[2018.01.13-19.41.25:070][445]LogEditorTransaction: Undo Delete Actors
+[2018.01.13-19.41.25:080][445]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush55_21.BrushComponent0) Component already registered.
+[2018.01.13-19.41.25:081][445]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush74.BrushComponent0) Component already registered.
+[2018.01.13-19.41.25:081][445]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush66_12.BrushComponent0) Component already registered.
+[2018.01.13-19.41.25:083][445]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush9.BrushComponent0) Component already registered.
+[2018.01.13-19.41.25:085][445]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush11.BrushComponent0) Component already registered.
+[2018.01.13-19.41.25:086][445]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush20.BrushComponent0) Component already registered.
+[2018.01.13-19.41.25:087][445]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush31.BrushComponent0) Component already registered.
+[2018.01.13-19.41.25:087][445]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush30.BrushComponent0) Component already registered.
+[2018.01.13-19.41.25:088][445]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush36.BrushComponent0) Component already registered.
+[2018.01.13-19.41.25:089][445]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush2.BrushComponent0) Component already registered.
+[2018.01.13-19.41.25:090][445]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush17_1.BrushComponent0) Component already registered.
+[2018.01.13-19.41.25:270][460]Cmd: TRANSACTION UNDO
+[2018.01.13-19.41.25:270][460]LogEditorTransaction: Undo Select Brush Surface
+[2018.01.13-19.41.25:465][477]Cmd: TRANSACTION UNDO
+[2018.01.13-19.41.25:465][477]LogEditorTransaction: Undo Select Brush Surface
+[2018.01.13-19.41.25:663][499]Cmd: TRANSACTION UNDO
+[2018.01.13-19.41.25:663][499]LogEditorTransaction: Undo Delete Actors
+[2018.01.13-19.41.25:675][499]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush56.BrushComponent0) Component already registered.
+[2018.01.13-19.41.25:680][499]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush46.BrushComponent0) Component already registered.
+[2018.01.13-19.41.25:680][499]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush16.BrushComponent0) Component already registered.
+[2018.01.13-19.41.25:680][499]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush33.BrushComponent0) Component already registered.
+[2018.01.13-19.41.25:681][499]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush30.BrushComponent0) Component already registered.
+[2018.01.13-19.41.25:682][499]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush38.BrushComponent0) Component already registered.
+[2018.01.13-19.41.25:682][499]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush37.BrushComponent0) Component already registered.
+[2018.01.13-19.41.25:683][499]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush17_1.BrushComponent0) Component already registered.
+[2018.01.13-19.41.25:684][499]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush61_6.BrushComponent0) Component already registered.
+[2018.01.13-19.41.25:857][513]Cmd: TRANSACTION UNDO
+[2018.01.13-19.41.25:857][513]LogEditorTransaction: Undo Select Brush Surface
+[2018.01.13-19.41.26:063][531]Cmd: TRANSACTION UNDO
+[2018.01.13-19.41.26:063][531]LogEditorTransaction: Undo Select Brush Surface
+[2018.01.13-19.41.26:259][549]Cmd: TRANSACTION UNDO
+[2018.01.13-19.41.26:259][549]LogEditorTransaction: Undo Clicking on Actors
+[2018.01.13-19.41.26:451][568]Cmd: TRANSACTION UNDO
+[2018.01.13-19.41.26:451][568]LogEditorTransaction: Undo Set actor scale
+[2018.01.13-19.41.26:466][568]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush3.BrushComponent0) Component already registered.
+[2018.01.13-19.41.26:467][568]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush21_5.BrushComponent0) Component already registered.
+[2018.01.13-19.41.26:473][568]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush4.BrushComponent0) Component already registered.
+[2018.01.13-19.41.26:656][582]Cmd: TRANSACTION UNDO
+[2018.01.13-19.41.26:656][582]LogEditorTransaction: Undo Select Brush Surface
+[2018.01.13-19.41.37:616][642]LogPhysics:Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.01.13-19.41.37:616][642]LogPhysics:Warning: ForeachShape(Convex): [/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PostProcessVolume_1.BrushComponent0] ScaledElem[0] invalid
+[2018.01.13-19.41.37:639][642]LogPhysics:Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.01.13-19.41.37:639][642]LogPhysics:Warning: ForeachShape(Convex): [/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PostProcessVolume_1.BrushComponent0] ScaledElem[0] invalid
+[2018.01.13-19.41.44:608][300]LogPhysics:Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.01.13-19.41.44:608][300]LogPhysics:Warning: ForeachShape(Convex): [/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PostProcessVolume_1.BrushComponent0] ScaledElem[0] invalid
+[2018.01.13-19.41.44:633][300]LogPhysics:Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.01.13-19.41.44:633][300]LogPhysics:Warning: ForeachShape(Convex): [/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PostProcessVolume_1.BrushComponent0] ScaledElem[0] invalid
+[2018.01.13-19.41.49:731][883]Cmd: TRANSACTION UNDO
+[2018.01.13-19.41.49:731][883]LogEditorTransaction: Undo Set actor scale
+[2018.01.13-19.41.49:747][883]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush3.BrushComponent0) Component already registered.
+[2018.01.13-19.41.49:747][883]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush21_5.BrushComponent0) Component already registered.
+[2018.01.13-19.41.49:754][883]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush4.BrushComponent0) Component already registered.
+[2018.01.13-19.41.50:116][909]Cmd: TRANSACTION UNDO
+[2018.01.13-19.41.50:116][909]LogEditorTransaction: Undo Select Brush Surface
+[2018.01.13-19.41.50:601][959]Cmd: TRANSACTION UNDO
+[2018.01.13-19.41.50:601][959]LogEditorTransaction: Undo Set actor scale
+[2018.01.13-19.41.50:616][959]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush3.BrushComponent0) Component already registered.
+[2018.01.13-19.41.50:617][959]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush21_5.BrushComponent0) Component already registered.
+[2018.01.13-19.41.50:623][959]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush12_3.BrushComponent0) Component already registered.
+[2018.01.13-19.41.50:623][959]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush24_10.BrushComponent0) Component already registered.
+[2018.01.13-19.42.06:609][789]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight44)
+[2018.01.13-19.42.07:569][896]LogEditorViewport: Clicking on Actor (CTRL LMB): PointLight (PointLight6)
+[2018.01.13-19.42.14:124][676]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight44)
+[2018.01.13-19.42.18:150][128]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight6)
+[2018.01.13-19.42.37:275][725]LogSavePackage: Save=1472.48ms
+[2018.01.13-19.42.37:275][725]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/ThirdPersonExampleMap1B49438C4578378717C78A86F7A40D84.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.01.13-19.42.37:280][725]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2018.01.13-19.42.37:901][725]LogSavePackage: Save=559.28ms
+[2018.01.13-19.42.37:901][725]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/ThirdPersonExampleMap_BuiltDataA08CC68F49C9F6ABBC4438A7CAD1408B.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2018.01.13-19.42.37:908][725]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset
+[2018.01.13-19.42.38:652][794]Cmd: SELECT NONE
