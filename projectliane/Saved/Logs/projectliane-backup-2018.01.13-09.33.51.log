@@ -1,0 +1,1157 @@
+﻿Log file open, 01/13/18 03:13:50
+LogInit:Display: Running engine for game: projectliane
+LogPlatformFile: Not using cached read wrapper
+LogInit:Display: RandInit(-568153468) SRandInit(-568153468).
+LogTaskGraph: Started task graph with 5 named threads and 8 total threads with 1 sets of task threads.
+LogStats: Stats thread started at 0.077942
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.16-CL-3561208
+LogInit: Engine Version: 4.16.3-3561208+++UE4+Release-4.16
+LogInit: Compatible Engine Version: 4.16.0-3452394+++UE4+Release-4.16
+LogInit: Net CL: 3452394
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 9
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 17
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 23
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 15
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 3
+LogInit: Compiled (64-bit): Jul 28 2017 11:49:47
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.16
+LogInit: Command line:  
+LogInit: Base directory: D:/Epic Games/UE_4.16/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.01.13-11.13.50:673][  0]LogInit: Selected Device Profile: [Windows]
+[2018.01.13-11.13.50:674][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.01.13-11.13.50:689][  0]LogInit: Computer: DREAM3D
+[2018.01.13-11.13.50:689][  0]LogInit: User: 3DGuru
+[2018.01.13-11.13.50:689][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.01.13-11.13.50:689][  0]LogInit: High frequency timer resolution =4.101560 MHz
+[2018.01.13-11.13.50:690][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.01.13-11.13.50:690][  0]LogMemory: Platform Memory Stats for Windows
+[2018.01.13-11.13.50:690][  0]LogMemory: Process Physical Memory: 274.07 MB used, 274.07 MB peak
+[2018.01.13-11.13.50:690][  0]LogMemory: Process Virtual Memory: 260.88 MB used, 260.88 MB peak
+[2018.01.13-11.13.50:690][  0]LogMemory: Physical Memory: 7920.93 MB used,  8396.18 MB free, 16317.11 MB total
+[2018.01.13-11.13.50:690][  0]LogMemory: Virtual Memory: 671.51 MB used,  8396.18 MB free, 134217728.00 MB total
+[2018.01.13-11.13.50:917][  0]LogInit: Using OS detected language (en-US).
+[2018.01.13-11.13.50:917][  0]LogInit: Using OS detected locale (en-US).
+[2018.01.13-11.13.50:963][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.01.13-11.13.53:300][  0]LogD3D11RHI: D3D11 adapters:
+[2018.01.13-11.13.53:332][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 960' (Feature Level 11_0)
+[2018.01.13-11.13.53:332][  0]LogD3D11RHI:       4062/0/8158 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.01.13-11.13.53:335][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.01.13-11.13.53:335][  0]LogD3D11RHI:       0/0/8158 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.01.13-11.13.53:335][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.01.13-11.13.53:340][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.01.13-11.13.53:340][  0]LogD3D11RHI:     GPU DeviceId: 0x1401 (for the marketing name, search the web for "GPU Device Id")
+[2018.01.13-11.13.53:340][  0]LogWindows: EnumDisplayDevices:
+[2018.01.13-11.13.53:340][  0]LogWindows:    0. 'NVIDIA GeForce GTX 960' (P:0 D:1)
+[2018.01.13-11.13.53:340][  0]LogWindows:    1. 'NVIDIA GeForce GTX 960' (P:1 D:1)
+[2018.01.13-11.13.53:340][  0]LogWindows:    2. 'NVIDIA GeForce GTX 960' (P:0 D:0)
+[2018.01.13-11.13.53:340][  0]LogWindows:    3. 'NVIDIA GeForce GTX 960' (P:0 D:0)
+[2018.01.13-11.13.53:340][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.01.13-11.13.53:340][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 960
+[2018.01.13-11.13.53:340][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.01.13-11.13.53:340][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.01.13-11.13.53:340][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2018.01.13-11.13.53:355][  0]LogD3D11RHI: Async texture creation enabled
+[2018.01.13-11.13.53:364][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.01.13-11.13.53:411][  0]LogShaderCompilers: Guid format shader working directory is -14 characters bigger than the processId version (../../../../../Project Liane/Liane/projectliane/projectliane/Intermediate/Shaders/WorkingDirectory/14764/).
+[2018.01.13-11.13.53:411][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/3DGuru/AppData/Local/Temp/UnrealShaderWorkingDir/6F6EF1A8428DC32699B04CB85B6A232C/'.
+[2018.01.13-11.13.53:411][  0]LogShaderCompilers:Display: Using Local Shader Compiler.
+[2018.01.13-11.13.54:917][  0]LogTemp:Display: Loaded TP AllDesktopTargetPlatform
+[2018.01.13-11.13.54:944][  0]LogTemp:Display: Loaded TP MacClientTargetPlatform
+[2018.01.13-11.13.54:973][  0]LogTemp:Display: Loaded TP MacNoEditorTargetPlatform
+[2018.01.13-11.13.55:000][  0]LogTemp:Display: Loaded TP MacServerTargetPlatform
+[2018.01.13-11.13.55:032][  0]LogTemp:Display: Loaded TP MacTargetPlatform
+[2018.01.13-11.13.55:060][  0]LogTemp:Display: Loaded TP WindowsClientTargetPlatform
+[2018.01.13-11.13.55:087][  0]LogTemp:Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.01.13-11.13.55:114][  0]LogTemp:Display: Loaded TP WindowsServerTargetPlatform
+[2018.01.13-11.13.55:138][  0]LogTemp:Display: Loaded TP WindowsTargetPlatform
+[2018.01.13-11.13.55:170][  0]LogTemp:Display: Loaded TP AndroidTargetPlatform
+[2018.01.13-11.13.55:197][  0]LogTemp:Display: Loaded TP Android_ASTCTargetPlatform
+[2018.01.13-11.13.55:224][  0]LogTemp:Display: Loaded TP Android_ATCTargetPlatform
+[2018.01.13-11.13.55:253][  0]LogTemp:Display: Loaded TP Android_DXTTargetPlatform
+[2018.01.13-11.13.55:280][  0]LogTemp:Display: Loaded TP Android_ETC1TargetPlatform
+[2018.01.13-11.13.55:307][  0]LogTemp:Display: Loaded TP Android_ETC2TargetPlatform
+[2018.01.13-11.13.55:360][  0]LogTemp:Display: Loaded TP Android_MultiTargetPlatform
+[2018.01.13-11.13.55:360][  0]LogTemp:Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.01.13-11.13.55:381][  0]LogTemp:Display: Loaded TP HTML5TargetPlatform
+[2018.01.13-11.13.55:444][  0]LogTemp:Display: Loaded TP IOSTargetPlatform
+[2018.01.13-11.13.55:460][  0]LogTemp:Display: Loaded TP TVOSTargetPlatform
+[2018.01.13-11.13.55:487][  0]LogTemp:Display: Loaded TP LinuxClientTargetPlatform
+[2018.01.13-11.13.55:513][  0]LogTemp:Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.01.13-11.13.55:540][  0]LogTemp:Display: Loaded TP LinuxServerTargetPlatform
+[2018.01.13-11.13.55:570][  0]LogTemp:Display: Loaded TP LinuxTargetPlatform
+[2018.01.13-11.13.55:570][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2018.01.13-11.13.55:837][  0]LogDerivedDataCache:Display: Max Cache Size: 512 MB
+[2018.01.13-11.13.56:107][  0]LogDerivedDataCache: Loaded boot cache 0.27s 90MB C:/Users/3DGuru/AppData/Local/UnrealEngine/4.16/DerivedDataCache/Boot.ddc.
+[2018.01.13-11.13.56:107][  0]LogDerivedDataCache:Display: Loaded Boot cache: C:/Users/3DGuru/AppData/Local/UnrealEngine/4.16/DerivedDataCache/Boot.ddc
+[2018.01.13-11.13.56:107][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Project Liane/Liane/projectliane/projectliane/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.01.13-11.13.56:107][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.01.13-11.13.56:107][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Project Liane/Liane/projectliane/projectliane/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.01.13-11.13.56:107][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.01.13-11.13.56:120][  0]LogDerivedDataCache:Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.01.13-11.13.56:132][  0]LogDerivedDataCache: Using Local data cache path C:/Users/3DGuru/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.01.13-11.13.56:141][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.01.13-11.13.56:141][  0]LogSlate: Using Freetype 2.6.0
+[2018.01.13-11.13.56:153][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.01.13-11.13.56:153][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.01.13-11.13.57:273][  0]LogInit: Selected Device Profile: [Windows]
+[2018.01.13-11.13.57:329][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2018.01.13-11.13.57:425][  0]LogMeshUtilities: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.01.13-11.13.57:449][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.01.13-11.13.57:473][  0]LogMeshUtilities: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.01.13-11.13.57:473][  0]LogMeshUtilities: No automatic skeletal mesh reduction module available
+[2018.01.13-11.13.57:473][  0]LogMeshUtilities: No automatic mesh merging module available
+[2018.01.13-11.13.57:831][  0]LogNetVersion: projectliane , NetCL: 3452394, EngineNetVer: 2, GameNetVer: 0 (Checksum: 3551988686)
+[2018.01.13-11.13.57:876][  0]LogAssetRegistry: FAssetRegistry took 0.0242 seconds to start up
+[2018.01.13-11.13.57:915][  0]LogPackageLocalizationCache: Processed 4 localized package path(s) for 2 prioritized culture(s) in 0.027561 seconds
+[2018.01.13-11.13.57:920][  0]LogUObjectArray: 34194 objects as part of root set at end of initial load.
+[2018.01.13-11.13.57:920][  0]LogUObjectAllocator: 7260424 out of 0 bytes used by permanent object pool.
+[2018.01.13-11.13.57:920][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.01.13-11.13.57:954][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.01.13-11.14.00:941][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.01.13-11.14.00:968][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.01.13-11.14.01:324][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.01.13-11.14.01:557][  0]SourceControl: Info Source control is disabled
+[2018.01.13-11.14.01:558][  0]SourceControl: Info Source control is disabled
+[2018.01.13-11.14.01:585][  0]SourceControl: Info Source control is disabled
+[2018.01.13-11.14.01:612][  0]SourceControl: Info Source control is disabled
+[2018.01.13-11.14.02:003][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.01.13-11.14.02:345][  0]LogEngine: Initializing Engine...
+[2018.01.13-11.14.02:345][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.01.13-11.14.02:501][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.01.13-11.14.02:501][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.01.13-11.14.02:579][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.01.13-11.14.02:599][  0]LogInit: XAudio2 using 'Headphones (Strix Wireless Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.01.13-11.14.02:632][  0]LogInit: FAudioDevice initialized.
+[2018.01.13-11.14.02:673][  0]LogDerivedDataCache: Saved boot cache 0.04s 90MB C:/Users/3DGuru/AppData/Local/UnrealEngine/4.16/DerivedDataCache/Boot.ddc.
+[2018.01.13-11.14.02:686][  0]LogInit: Texture streaming: Enabled
+[2018.01.13-11.14.02:741][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.01.13-11.14.02:871][  0]LogInit: Transaction tracking system initialized
+[2018.01.13-11.14.03:042][  0]BlueprintLog: New page: Editor Load
+[2018.01.13-11.14.03:565][  0]LocalizationService: Info Localization service is disabled
+[2018.01.13-11.14.03:943][  0]LogConsoleResponse:Display: 
+[2018.01.13-11.14.04:049][  0]LogCook:Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.01.13-11.14.04:049][  0]LogCook:Display: Mobile HDR setting 1
+[2018.01.13-11.14.04:325][  0]LogFileCache: Scanning file cache for directory 'D:/Project Liane/Liane/projectliane/projectliane/Content/' took 0.02s
+[2018.01.13-11.14.04:605][  0]SourceControl: Info Source control is disabled
+[2018.01.13-11.14.04:605][  0]Cmd: MAP LOAD FILE="../../../../../Project Liane/Liane/projectliane/projectliane/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.01.13-11.14.04:606][  0]LightingResults: New page: Lighting Build
+[2018.01.13-11.14.04:627][  0]MapCheck: New page: Map Check
+[2018.01.13-11.14.04:627][  0]LightingResults: New page: Lighting Build
+[2018.01.13-11.14.04:942][  0]LogBlueprint:Warning: [Compiler BP_PhotoPawn] Warning InputAction Event references unknown Action 'ToggleFocusForAdjustmentsWidget' for  InputAction ToggleFocusForAdjustmentsWidget
+[2018.01.13-11.14.04:943][  0]LogBlueprint:Warning: [Compiler BP_PhotoPawn] Warning InputAction Event references unknown Action 'ToggleAdjustmentsWidget' for  InputAction ToggleAdjustmentsWidget
+[2018.01.13-11.14.04:943][  0]LogBlueprint:Warning: [Compiler BP_PhotoPawn] Warning Input Axis Event references unknown Axis 'MoveUp' for  InputAxis MoveUp
+[2018.01.13-11.14.04:947][  0]LogBlueprint:Warning: [Compiler BP_PhotoPawn] Warning [0015.22] Compile of BP_PhotoPawn successful, but with 3 Warning(s) [in 8 ms] (/Game/PhotoMode/Blueprints/BP_PhotoPawn.BP_PhotoPawn)
+[2018.01.13-11.14.04:949][  0]LogBlueprint:Warning: [Compiler BP_PhotoPawn] Warning [0015.22] Compile of BP_PhotoPawn successful, but with 4 Warning(s) [in 1 ms] (/Game/PhotoMode/Blueprints/BP_PhotoPawn.BP_PhotoPawn)
+[2018.01.13-11.14.04:949][  0]LogBlueprint:Warning: [Compiler BP_PhotoPawn] Warning [0015.22] Compile of BP_PhotoPawn successful, but with 5 Warning(s) [in 0 ms] (/Game/PhotoMode/Blueprints/BP_PhotoPawn.BP_PhotoPawn)
+[2018.01.13-11.14.05:271][  0]LogBlueprint:Warning: [Compiler BP_PhotoPawn] Warning InputAction Event references unknown Action 'ToggleFocusForAdjustmentsWidget' for  InputAction ToggleFocusForAdjustmentsWidget
+[2018.01.13-11.14.05:271][  0]LogBlueprint:Warning: [Compiler BP_PhotoPawn] Warning InputAction Event references unknown Action 'ToggleAdjustmentsWidget' for  InputAction ToggleAdjustmentsWidget
+[2018.01.13-11.14.05:272][  0]LogBlueprint:Warning: [Compiler BP_PhotoPawn] Warning Input Axis Event references unknown Axis 'MoveUp' for  InputAxis MoveUp
+[2018.01.13-11.14.05:276][  0]LogBlueprint:Warning: [Compiler BP_PhotoPawn] Warning [0015.55] Compile of BP_PhotoPawn successful, but with 3 Warning(s) [in 8 ms] (/Game/PhotoMode/Blueprints/BP_PhotoPawn.BP_PhotoPawn)
+[2018.01.13-11.14.05:276][  0]LogBlueprint:Warning: [Compiler BP_PhotoPawn] Warning [0015.55] Compile of BP_PhotoPawn successful, but with 4 Warning(s) [in 0 ms] (/Game/PhotoMode/Blueprints/BP_PhotoPawn.BP_PhotoPawn)
+[2018.01.13-11.14.05:278][  0]LogBlueprint:Warning: [Compiler BP_PhotoPawn] Warning [0015.55] Compile of BP_PhotoPawn successful, but with 5 Warning(s) [in 2 ms] (/Game/PhotoMode/Blueprints/BP_PhotoPawn.BP_PhotoPawn)
+[2018.01.13-11.14.05:671][  0]LogLinker:Warning: Asset '../../../../../Project Liane/Liane/projectliane/projectliane/Content/SciFiGlitchPostPro/Textures/Screen/txt_fx_pulse_grid.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.01.13-11.14.07:702][  0]LogMaterial: Missing cached shader map for material Lightframe, compiling. 
+[2018.01.13-11.14.07:703][  0]LogMaterial:Warning: Failed to compile Material /Game/Props/fluorscentlight/Materials/Lightframe.Lightframe for platform PCD3D_SM5, Default Material will be used in game.
+[2018.01.13-11.14.07:703][  0]LogMaterial:Warning: 	(Node TextureSample) TextureSample> Sampler type is Color, should be Linear Color for /Game/Props/fluorscentlight/Textures/Lightframe_Metallic.Lightframe_Metallic
+[2018.01.13-11.14.07:817][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.01.13-11.14.07:825][  0]LogPhysics:Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.01.13-11.14.07:825][  0]LogPhysics:Warning: ForeachShape(Convex): [/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PostProcessVolume_1.BrushComponent0] ScaledElem[0] invalid
+[2018.01.13-11.14.07:826][  0]LogMaterial:Warning: Material /Game/Props/Spotlights/Spot_base.Spot_base needed to have new flag set bUsedWithStaticLighting !
+[2018.01.13-11.14.07:828][  0]LogMaterial: Missing cached shader map for material Spot_base, compiling. 
+[2018.01.13-11.14.07:860][  0]MapCheck:Warning: Warning Spot_base Material /Game/Props/Spotlights/Spot_base.Spot_base was missing the usage flag bUsedWithStaticLighting. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2018.01.13-11.14.07:874][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.01.13-11.14.07:915][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.01.13-11.14.07:983][  0]MapCheck: Info Map check complete: 0 Error(s), 1 Warning(s), took 68.398ms to complete.
+[2018.01.13-11.14.08:004][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 3.398
+[2018.01.13-11.14.08:160][  0]LogCollectionManager: Loaded 0 collections in 0.000529 seconds
+[2018.01.13-11.14.08:225][  0]LogFileCache: Scanning file cache for directory 'D:/Project Liane/Liane/projectliane/projectliane/Saved/Collections/' took 0.01s
+[2018.01.13-11.14.08:225][  0]LogFileCache: Scanning file cache for directory 'D:/Project Liane/Liane/projectliane/projectliane/Content/Developers/3DGuru/Collections/' took 0.01s
+[2018.01.13-11.14.08:225][  0]LogFileCache: Scanning file cache for directory 'D:/Project Liane/Liane/projectliane/projectliane/Content/Collections/' took 0.01s
+[2018.01.13-11.14.08:225][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000002 seconds
+[2018.01.13-11.14.08:234][  0]LogContentBrowser: Native class hierarchy populated in 0.0082 seconds. Added 2329 classes and 491 folders.
+[2018.01.13-11.14.08:281][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2018.01.13-11.14.08:648][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2018.01.13-11.14.08:688][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2018.01.13-11.14.08:718][  0]LogCrashTracker: Crashtracker disabled due to settings.
+[2018.01.13-11.14.08:734][  0]LogSlate: Took 0.006630 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.01.13-11.14.08:742][  0]LogSlate: Took 0.005548 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.01.13-11.14.08:753][  0]LogSlate: Took 0.006183 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.01.13-11.14.08:816][  0]LogSlate: Took 0.005364 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.01.13-11.14.08:878][  0]LogUObjectGlobals:Warning: Failed to find object 'Class None.'
+[2018.01.13-11.14.08:940][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0006 seconds. Added 1 classes and 2 folders.
+[2018.01.13-11.14.08:941][  0]LogLoad: (Engine Initialization) Total time: 19.21 seconds
+[2018.01.13-11.14.08:941][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.61 seconds
+[2018.01.13-11.14.08:941][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2018.01.13-11.14.09:280][  0]LogOcInput: OculusInput pre-init called
+[2018.01.13-11.14.09:280][  0]LogHMD: Starting GearVRController plugin
+[2018.01.13-11.14.09:327][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.01.13-11.14.09:377][  0]LogRenderer: Reallocating scene render targets to support 256x256 NumSamples 1 (Frame:1).
+[2018.01.13-11.14.09:481][  0]LogRenderer: Reallocating scene render targets to support 1208x412 NumSamples 1 (Frame:1).
+[2018.01.13-11.14.09:613][  1]LogFileCache: Retrieving MD5 hashes for directory 'D:/Project Liane/Liane/projectliane/projectliane/Content/' took 0.31s
+[2018.01.13-11.14.09:618][  1]LogScript:Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	Liane3rdAnim_C /Engine/Transient.World_1:PersistentLevel.ThirdPersonCharacter_C_0.CharacterMesh0.Liane3rdAnim_C_0
+	Function /Game/character/Liane3rdAnim.Liane3rdAnim_C:ExecuteUbergraph_Liane3rdAnim:0081
+[2018.01.13-11.14.09:954][  2]LogAssetRegistry: Asset discovery search completed in 12.0998 seconds
+[2018.01.13-11.14.09:957][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.01.13-11.14.09:957][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000030 seconds (updated 0 objects)
+[2018.01.13-11.15.11:974][358]LogLinker:Warning: Can't find file '/Game/Props/Cabinet/Textures/DrawCab_high_initialShadingGroup1_Base_Color'
+[2018.01.13-11.15.11:974][358]LogLinker:Warning: Can't find file for asset '/Game/Props/Cabinet/Textures/DrawCab_high_initialShadingGroup1_Base_Color' while loading ../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/Cabinet/metalpaint.uasset.
+[2018.01.13-11.15.11:974][358]LoadErrors:Error: Error /Game/Props/Cabinet/metalpaint : Can't find file for asset. /Game/Props/Cabinet/Textures/DrawCab_high_initialShadingGroup1_Base_Color
+[2018.01.13-11.15.11:975][358]LogLinker:Warning: Can't find file '/Game/Props/Cabinet/Textures/DrawCab_high_initialShadingGroup1_Mixed_AO'
+[2018.01.13-11.15.11:975][358]LogLinker:Warning: Can't find file for asset '/Game/Props/Cabinet/Textures/DrawCab_high_initialShadingGroup1_Mixed_AO' while loading ../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/Cabinet/metalpaint.uasset.
+[2018.01.13-11.15.11:975][358]LoadErrors:Error: Error /Game/Props/Cabinet/metalpaint : Can't find file for asset. /Game/Props/Cabinet/Textures/DrawCab_high_initialShadingGroup1_Mixed_AO
+[2018.01.13-11.15.11:975][358]LogLinker:Warning: Can't find file '/Game/Props/Cabinet/Textures/DrawCab_high_initialShadingGroup1_Normal_DirectX'
+[2018.01.13-11.15.11:975][358]LogLinker:Warning: Can't find file for asset '/Game/Props/Cabinet/Textures/DrawCab_high_initialShadingGroup1_Normal_DirectX' while loading ../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/Cabinet/metalpaint.uasset.
+[2018.01.13-11.15.11:975][358]LoadErrors:Error: Error /Game/Props/Cabinet/metalpaint : Can't find file for asset. /Game/Props/Cabinet/Textures/DrawCab_high_initialShadingGroup1_Normal_DirectX
+[2018.01.13-11.15.11:976][358]LogLinker:Warning: Can't find file '/Game/Props/Cabinet/Textures/DrawCab_high_initialShadingGroup1_Base_Color'
+[2018.01.13-11.15.11:976][358]LogLinker:Warning: Can't find file for asset '/Game/Props/Cabinet/Textures/DrawCab_high_initialShadingGroup1_Base_Color' while loading ../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/Cabinet/metalpaint.uasset.
+[2018.01.13-11.15.11:976][358]LogLinker:Warning: Can't find file '/Game/Props/Cabinet/Textures/DrawCab_high_initialShadingGroup1_Mixed_AO'
+[2018.01.13-11.15.11:976][358]LogLinker:Warning: Can't find file for asset '/Game/Props/Cabinet/Textures/DrawCab_high_initialShadingGroup1_Mixed_AO' while loading ../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/Cabinet/metalpaint.uasset.
+[2018.01.13-11.15.11:976][358]LogLinker:Warning: Can't find file '/Game/Props/Cabinet/Textures/DrawCab_high_initialShadingGroup1_Normal_DirectX'
+[2018.01.13-11.15.11:976][358]LogLinker:Warning: Can't find file for asset '/Game/Props/Cabinet/Textures/DrawCab_high_initialShadingGroup1_Normal_DirectX' while loading ../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/Cabinet/metalpaint.uasset.
+[2018.01.13-11.15.11:977][358]LogLinker:Warning: Can't find file '/Game/Props/Cabinet/Textures/DrawCab_high_initialShadingGroup1_Base_Color'
+[2018.01.13-11.15.11:977][358]LoadErrors: Info Failed to load /Game/Props/Cabinet/Textures/DrawCab_high_initialShadingGroup1_Base_Color.DrawCab_high_initialShadingGroup1_Base_Color Referenced by MaterialExpressionTextureSample_48
+[2018.01.13-11.15.11:977][358]LogLinker:Warning: Can't find file for asset '/Game/Props/Cabinet/Textures/DrawCab_high_initialShadingGroup1_Base_Color' while loading NULL.
+[2018.01.13-11.15.11:977][358]LogLinker:Warning: Can't find file '/Game/Props/Cabinet/Textures/DrawCab_high_initialShadingGroup1_Normal_DirectX'
+[2018.01.13-11.15.11:977][358]LoadErrors: Info Failed to load /Game/Props/Cabinet/Textures/DrawCab_high_initialShadingGroup1_Normal_DirectX.DrawCab_high_initialShadingGroup1_Normal_DirectX Referenced by MaterialExpressionTextureSample_54
+[2018.01.13-11.15.11:977][358]LogLinker:Warning: Can't find file for asset '/Game/Props/Cabinet/Textures/DrawCab_high_initialShadingGroup1_Normal_DirectX' while loading NULL.
+[2018.01.13-11.15.11:977][358]LogLinker:Warning: Can't find file '/Game/Props/Cabinet/Textures/DrawCab_high_initialShadingGroup1_Mixed_AO'
+[2018.01.13-11.15.11:977][358]LoadErrors: Info Failed to load /Game/Props/Cabinet/Textures/DrawCab_high_initialShadingGroup1_Mixed_AO.DrawCab_high_initialShadingGroup1_Mixed_AO Referenced by MaterialExpressionTextureSample_55
+[2018.01.13-11.15.11:977][358]LogLinker:Warning: Can't find file for asset '/Game/Props/Cabinet/Textures/DrawCab_high_initialShadingGroup1_Mixed_AO' while loading NULL.
+[2018.01.13-11.15.11:984][358]LogMaterial: Missing cached shader map for material metalpaint, compiling. 
+[2018.01.13-11.15.11:985][358]LogMaterial:Warning: Failed to compile Material /Game/Props/Cabinet/metalpaint.metalpaint for platform PCD3D_SM5, Default Material will be used in game.
+[2018.01.13-11.15.11:985][358]LogMaterial:Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.01.13-11.15.11:985][358]LogLinker:Warning: Can't find file '/Game/Props/Cabinet/Textures/DrawCab_high_initialShadingGroup1_Normal_DirectX'
+[2018.01.13-11.15.11:985][358]LogLinker:Warning: Can't find file for asset '/Game/Props/Cabinet/Textures/DrawCab_high_initialShadingGroup1_Normal_DirectX' while loading ../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/Cabinet/metalpaint2.uasset.
+[2018.01.13-11.15.11:985][358]LoadErrors:Error: Error /Game/Props/Cabinet/metalpaint2 : Can't find file for asset. /Game/Props/Cabinet/Textures/DrawCab_high_initialShadingGroup1_Normal_DirectX
+[2018.01.13-11.15.11:985][358]LogLinker:Warning: Can't find file '/Game/Props/Cabinet/Textures2/DrawCab_high_initialShadingGroup1_Base_Color'
+[2018.01.13-11.15.11:985][358]LogLinker:Warning: Can't find file for asset '/Game/Props/Cabinet/Textures2/DrawCab_high_initialShadingGroup1_Base_Color' while loading ../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/Cabinet/metalpaint2.uasset.
+[2018.01.13-11.15.11:985][358]LoadErrors:Error: Error /Game/Props/Cabinet/metalpaint2 : Can't find file for asset. /Game/Props/Cabinet/Textures2/DrawCab_high_initialShadingGroup1_Base_Color
+[2018.01.13-11.15.11:986][358]LogLinker:Warning: Can't find file '/Game/Props/Cabinet/Textures2/DrawCab_high_initialShadingGroup1_Metallic'
+[2018.01.13-11.15.11:986][358]LogLinker:Warning: Can't find file for asset '/Game/Props/Cabinet/Textures2/DrawCab_high_initialShadingGroup1_Metallic' while loading ../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/Cabinet/metalpaint2.uasset.
+[2018.01.13-11.15.11:986][358]LoadErrors:Error: Error /Game/Props/Cabinet/metalpaint2 : Can't find file for asset. /Game/Props/Cabinet/Textures2/DrawCab_high_initialShadingGroup1_Metallic
+[2018.01.13-11.15.11:986][358]LogLinker:Warning: Can't find file '/Game/Props/Cabinet/Textures/DrawCab_high_initialShadingGroup1_Normal_DirectX'
+[2018.01.13-11.15.11:986][358]LogLinker:Warning: Can't find file for asset '/Game/Props/Cabinet/Textures/DrawCab_high_initialShadingGroup1_Normal_DirectX' while loading ../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/Cabinet/metalpaint2.uasset.
+[2018.01.13-11.15.11:986][358]LogLinker:Warning: Can't find file '/Game/Props/Cabinet/Textures2/DrawCab_high_initialShadingGroup1_Base_Color'
+[2018.01.13-11.15.11:986][358]LogLinker:Warning: Can't find file for asset '/Game/Props/Cabinet/Textures2/DrawCab_high_initialShadingGroup1_Base_Color' while loading ../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/Cabinet/metalpaint2.uasset.
+[2018.01.13-11.15.11:987][358]LogLinker:Warning: Can't find file '/Game/Props/Cabinet/Textures2/DrawCab_high_initialShadingGroup1_Metallic'
+[2018.01.13-11.15.11:987][358]LogLinker:Warning: Can't find file for asset '/Game/Props/Cabinet/Textures2/DrawCab_high_initialShadingGroup1_Metallic' while loading ../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/Cabinet/metalpaint2.uasset.
+[2018.01.13-11.15.11:987][358]LogLinker:Warning: Can't find file '/Game/Props/Cabinet/Textures/DrawCab_high_initialShadingGroup1_Normal_DirectX'
+[2018.01.13-11.15.11:987][358]LogLinker:Warning: Can't find file for asset '/Game/Props/Cabinet/Textures/DrawCab_high_initialShadingGroup1_Normal_DirectX' while loading NULL.
+[2018.01.13-11.15.11:987][358]LogLinker:Warning: Can't find file '/Game/Props/Cabinet/Textures2/DrawCab_high_initialShadingGroup1_Base_Color'
+[2018.01.13-11.15.11:987][358]LoadErrors: Info Failed to load /Game/Props/Cabinet/Textures2/DrawCab_high_initialShadingGroup1_Base_Color.DrawCab_high_initialShadingGroup1_Base_Color Referenced by MaterialExpressionTextureSample_57
+[2018.01.13-11.15.11:987][358]LogLinker:Warning: Can't find file for asset '/Game/Props/Cabinet/Textures2/DrawCab_high_initialShadingGroup1_Base_Color' while loading NULL.
+[2018.01.13-11.15.11:987][358]LogLinker:Warning: Can't find file '/Game/Props/Cabinet/Textures2/DrawCab_high_initialShadingGroup1_Metallic'
+[2018.01.13-11.15.11:987][358]LoadErrors: Info Failed to load /Game/Props/Cabinet/Textures2/DrawCab_high_initialShadingGroup1_Metallic.DrawCab_high_initialShadingGroup1_Metallic Referenced by MaterialExpressionTextureSample_58
+[2018.01.13-11.15.11:987][358]LogLinker:Warning: Can't find file for asset '/Game/Props/Cabinet/Textures2/DrawCab_high_initialShadingGroup1_Metallic' while loading NULL.
+[2018.01.13-11.15.11:995][358]LogMaterial: Missing cached shader map for material metalpaint2, compiling. 
+[2018.01.13-11.15.11:995][358]LogMaterial:Warning: Failed to compile Material /Game/Props/Cabinet/metalpaint2.metalpaint2 for platform PCD3D_SM5, Default Material will be used in game.
+[2018.01.13-11.15.11:995][358]LogMaterial:Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.01.13-11.15.12:003][358]LogSlate: Took 0.000136 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.01.13-11.15.12:100][358]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Props/S_Cabinet/metalpaint" FILE="../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_Cabinet/metalpaint.uasset" SILENT=true
+[2018.01.13-11.15.12:114][358]LogSavePackage: Save=13.01ms
+[2018.01.13-11.15.12:114][358]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/metalpaint87B7FC4A46F8466A675BA98687CF2555.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_Cabinet/metalpaint.uasset'
+[2018.01.13-11.15.12:118][358]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_Cabinet/metalpaint.uasset
+[2018.01.13-11.15.12:134][358]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Props/S_Cabinet/metalpaint2" FILE="../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_Cabinet/metalpaint2.uasset" SILENT=true
+[2018.01.13-11.15.12:148][358]LogSavePackage: Save=12.35ms
+[2018.01.13-11.15.12:148][358]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/metalpaint2084DD5E54DBE9AC47C1A78A114AD2750.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_Cabinet/metalpaint2.uasset'
+[2018.01.13-11.15.12:149][358]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_Cabinet/metalpaint2.uasset
+[2018.01.13-11.15.12:174][358]LogSavePackage: Save=14.46ms
+[2018.01.13-11.15.12:174][358]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/DrawCab_high_initialShadingGroup1_MetallicDA52EF664EB4709B9A60F3B442F7F253.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_Cabinet/Textures/DrawCab_high_initialShadingGroup1_Metallic.uasset'
+[2018.01.13-11.15.12:176][358]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_Cabinet/Textures/DrawCab_high_initialShadingGroup1_Metallic.uasset
+[2018.01.13-11.15.12:226][358]LogSavePackage: Save=39.21ms
+[2018.01.13-11.15.12:226][358]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/DrawCab_high_initialShadingGroup1_Roughness3B01DA1C469B149DEB89078689B4C91A.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_Cabinet/Textures/DrawCab_high_initialShadingGroup1_Roughness.uasset'
+[2018.01.13-11.15.12:228][358]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_Cabinet/Textures/DrawCab_high_initialShadingGroup1_Roughness.uasset
+[2018.01.13-11.15.12:273][358]LogSavePackage: Save=29.17ms
+[2018.01.13-11.15.12:273][358]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/DrawCab_high_initialShadingGroup1_Roughness6698B0E343AF60D0325000A254ED8A13.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_Cabinet/Textures2/DrawCab_high_initialShadingGroup1_Roughness.uasset'
+[2018.01.13-11.15.12:275][358]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_Cabinet/Textures2/DrawCab_high_initialShadingGroup1_Roughness.uasset
+[2018.01.13-11.15.19:590][157]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Props/S_Cabinets_Top/Cabinettop" FILE="../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_Cabinets_Top/Cabinettop.uasset" SILENT=true
+[2018.01.13-11.15.19:601][157]LogSavePackage: Save=9.92ms
+[2018.01.13-11.15.19:601][157]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/Cabinettop4232FDF84F00B598C27EEABA2555B0BB.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_Cabinets_Top/Cabinettop.uasset'
+[2018.01.13-11.15.19:602][157]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_Cabinets_Top/Cabinettop.uasset
+[2018.01.13-11.15.19:615][157]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Props/S_Cabinets_Top/Cabinet_top" FILE="../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_Cabinets_Top/Cabinet_top.uasset" SILENT=true
+[2018.01.13-11.15.19:629][157]LogSavePackage: Save=12.41ms
+[2018.01.13-11.15.19:629][157]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/Cabinet_topD2C475BA4D6C27C5CA26BDA0CAE2B1F4.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_Cabinets_Top/Cabinet_top.uasset'
+[2018.01.13-11.15.19:630][157]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_Cabinets_Top/Cabinet_top.uasset
+[2018.01.13-11.15.19:678][157]LogSavePackage: Save=36.37ms
+[2018.01.13-11.15.19:678][157]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/DrawCab_high_MeshSG_Base_ColorC51D824649CC37E697BC938C784C05D8.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_Cabinets_Top/Textures/DrawCab_high_MeshSG_Base_Color.uasset'
+[2018.01.13-11.15.19:680][157]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_Cabinets_Top/Textures/DrawCab_high_MeshSG_Base_Color.uasset
+[2018.01.13-11.15.19:692][157]LogSavePackage: Save=6.67ms
+[2018.01.13-11.15.19:692][157]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/DrawCab_high_MeshSG_Metallic3E4572C040E9A191002C28B4DFAC94EB.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_Cabinets_Top/Textures/DrawCab_high_MeshSG_Metallic.uasset'
+[2018.01.13-11.15.19:693][157]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_Cabinets_Top/Textures/DrawCab_high_MeshSG_Metallic.uasset
+[2018.01.13-11.15.19:714][157]LogSavePackage: Save=9.87ms
+[2018.01.13-11.15.19:714][157]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/DrawCab_high_MeshSG_Mixed_AO545D676B492AB0A8310058BF5F72BB52.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_Cabinets_Top/Textures/DrawCab_high_MeshSG_Mixed_AO.uasset'
+[2018.01.13-11.15.19:715][157]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_Cabinets_Top/Textures/DrawCab_high_MeshSG_Mixed_AO.uasset
+[2018.01.13-11.15.19:735][157]LogSavePackage: Save=9.68ms
+[2018.01.13-11.15.19:735][157]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/DrawCab_high_MeshSG_Normal_DirectXB97E81B84070019F4646239552043FFC.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_Cabinets_Top/Textures/DrawCab_high_MeshSG_Normal_DirectX.uasset'
+[2018.01.13-11.15.19:736][157]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_Cabinets_Top/Textures/DrawCab_high_MeshSG_Normal_DirectX.uasset
+[2018.01.13-11.15.19:771][157]LogSavePackage: Save=25.61ms
+[2018.01.13-11.15.19:771][157]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/DrawCab_high_MeshSG_Roughness3C3EBC314F139633EF55F3B770DDA462.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_Cabinets_Top/Textures/DrawCab_high_MeshSG_Roughness.uasset'
+[2018.01.13-11.15.19:772][157]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_Cabinets_Top/Textures/DrawCab_high_MeshSG_Roughness.uasset
+[2018.01.13-11.15.29:822][199]LogSavePackage: Save=13.62ms
+[2018.01.13-11.15.29:822][199]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/SK_CrashcarSG_Base_Color9B6CDF704060F845D1BF389874952681.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_Crashcart/Textures/SK_CrashcarSG_Base_Color.uasset'
+[2018.01.13-11.15.29:824][199]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_Crashcart/Textures/SK_CrashcarSG_Base_Color.uasset
+[2018.01.13-11.15.29:836][199]LogSavePackage: Save=6.34ms
+[2018.01.13-11.15.29:836][199]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/SK_Crashcart_MetallicCA78B2BC4FEC01638C5D9AB9CFA64B74.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_Crashcart/Textures/SK_Crashcart_Metallic.uasset'
+[2018.01.13-11.15.29:837][199]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_Crashcart/Textures/SK_Crashcart_Metallic.uasset
+[2018.01.13-11.15.29:856][199]LogSavePackage: Save=10.84ms
+[2018.01.13-11.15.29:856][199]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/SK_CrashcartSG_Mixed_AOAC62134744CB422024BDF296582DF7F7.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_Crashcart/Textures/SK_CrashcartSG_Mixed_AO.uasset'
+[2018.01.13-11.15.29:858][199]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_Crashcart/Textures/SK_CrashcartSG_Mixed_AO.uasset
+[2018.01.13-11.15.29:878][199]LogSavePackage: Save=12.03ms
+[2018.01.13-11.15.29:878][199]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/SK_CrashcartSG_Normal_DirectXDA44944C477809DD8564C18282D6959D.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_Crashcart/Textures/SK_CrashcartSG_Normal_DirectX.uasset'
+[2018.01.13-11.15.29:879][199]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_Crashcart/Textures/SK_CrashcartSG_Normal_DirectX.uasset
+[2018.01.13-11.15.29:909][199]LogSavePackage: Save=18.41ms
+[2018.01.13-11.15.29:909][199]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/SK_CrashcartSG_Roughness2921FF7C4CD5AC419F29CF8A15B863A3.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_Crashcart/Textures/SK_CrashcartSG_Roughness.uasset'
+[2018.01.13-11.15.29:911][199]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_Crashcart/Textures/SK_CrashcartSG_Roughness.uasset
+[2018.01.13-11.15.29:927][199]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Props/S_Crashcart/SK_MannequinSG" FILE="../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_Crashcart/SK_MannequinSG.uasset" SILENT=true
+[2018.01.13-11.15.29:941][199]LogSavePackage: Save=12.66ms
+[2018.01.13-11.15.29:941][199]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/SK_MannequinSGE4AABBF248F4022EB0DE2F9FCBBE50DC.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_Crashcart/SK_MannequinSG.uasset'
+[2018.01.13-11.15.29:943][199]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_Crashcart/SK_MannequinSG.uasset
+[2018.01.13-11.15.29:944][199]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Props/Crashcart/SK_MannequinSG" FILE="../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/Crashcart/SK_MannequinSG.uasset" SILENT=true
+[2018.01.13-11.15.29:956][199]LogSavePackage: Save=3.36ms
+[2018.01.13-11.15.29:956][199]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/SK_MannequinSG7C62B0054B78154CE2707C9DB72B2E93.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/Crashcart/SK_MannequinSG.uasset'
+[2018.01.13-11.15.29:957][199]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/Crashcart/SK_MannequinSG.uasset
+[2018.01.13-11.15.29:968][199]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Props/S_Crashcart/crashcart_low" FILE="../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_Crashcart/crashcart_low.uasset" SILENT=true
+[2018.01.13-11.15.29:981][199]LogSavePackage: Save=11.76ms
+[2018.01.13-11.15.29:981][199]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/crashcart_low9FBDD478443176F715F6E78FD75A91D6.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_Crashcart/crashcart_low.uasset'
+[2018.01.13-11.15.29:983][199]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_Crashcart/crashcart_low.uasset
+[2018.01.13-11.15.29:984][199]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Props/Crashcart/crashcart_low" FILE="../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/Crashcart/crashcart_low.uasset" SILENT=true
+[2018.01.13-11.15.29:999][199]LogSavePackage: Save=3.60ms
+[2018.01.13-11.15.29:999][199]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/crashcart_low9004C72A4082E2B84D3F9A88691DC3A7.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/Crashcart/crashcart_low.uasset'
+[2018.01.13-11.15.30:000][199]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/Crashcart/crashcart_low.uasset
+[2018.01.13-11.19.03:286][302]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../Project Liane/Art_assets/Hospital/Props/Exit Sign/Exitsign_low.obj)
+[2018.01.13-11.19.03:306][302]LogFbx: Loading FBX Scene from ../../../../../Project Liane/Art_assets/Hospital/Props/Exit Sign/Exitsign_low.obj
+[2018.01.13-11.19.03:313][302]LogFbx: FBX Scene Loaded Succesfully
+[2018.01.13-11.19.04:507][302]LogFbx: Loading FBX Scene from ../../../../../Project Liane/Art_assets/Hospital/Props/Exit Sign/Exitsign_low.obj
+[2018.01.13-11.19.04:508][302]LogFbx: FBX Scene Loaded Succesfully
+[2018.01.13-11.19.04:511][302]LogLinker: Can't find file '/Game/Props/S_exitSign/initialShadingGroup'
+[2018.01.13-11.19.04:511][302]LogLinker: Can't find file '/Game/Props/S_exitSign/initialShadingGroup'
+[2018.01.13-11.19.04:516][302]LogMaterial: Missing cached shader map for material initialShadingGroup, compiling. 
+[2018.01.13-11.19.04:528][302]LogFbx:Warning: Triangulating static mesh pCube2
+[2018.01.13-11.19.04:533][302]LogFbx:Warning: Triangulating static mesh pCube4
+[2018.01.13-11.19.04:537][302]LogFbx:Warning: Triangulating static mesh pCylinder1
+[2018.01.13-11.19.04:538][302]LogFbx:Warning: Triangulating static mesh pCylinder4
+[2018.01.13-11.19.04:539][302]LogFbx:Warning: Triangulating static mesh polySurface3_pCylinder5
+[2018.01.13-11.19.04:541][302]LogStaticMesh: Building static mesh Exitsign_low...
+[2018.01.13-11.19.04:545][302]LogStaticMesh: Built static mesh [0.00s] /Game/Props/S_exitSign/Exitsign_low.Exitsign_low
+[2018.01.13-11.19.04:557][302]FBXImport:Warning: Warning No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.01.13-11.19.16:173][621]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Props/S_exitSign/M_ExitSign" FILE="../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_exitSign/M_ExitSign.uasset" SILENT=true
+[2018.01.13-11.19.16:186][621]LogSavePackage: Save=11.36ms
+[2018.01.13-11.19.16:186][621]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/M_ExitSignAE94336B4DD47E942CF9F589EE6435FD.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_exitSign/M_ExitSign.uasset'
+[2018.01.13-11.19.16:187][621]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_exitSign/M_ExitSign.uasset
+[2018.01.13-11.19.22:832][ 21]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../Project Liane/Art_assets/Hospital/Props/Exit Sign/Exitsign_low.obj)
+[2018.01.13-11.19.22:838][ 21]LogFbx: Loading FBX Scene from ../../../../../Project Liane/Art_assets/Hospital/Props/Exit Sign/Exitsign_low.obj
+[2018.01.13-11.19.22:840][ 21]LogFbx: FBX Scene Loaded Succesfully
+[2018.01.13-11.19.30:725][ 21]LogFbx: Loading FBX Scene from ../../../../../Project Liane/Art_assets/Hospital/Props/Exit Sign/Exitsign_low.obj
+[2018.01.13-11.19.30:727][ 21]LogFbx: FBX Scene Loaded Succesfully
+[2018.01.13-11.19.30:732][ 21]LogMaterial: Missing cached shader map for material initialShadingGroup, compiling. 
+[2018.01.13-11.19.30:744][ 21]LogFbx:Warning: Triangulating static mesh pCube2
+[2018.01.13-11.19.30:746][ 21]LogFbx:Warning: Triangulating static mesh pCube4
+[2018.01.13-11.19.30:749][ 21]LogFbx:Warning: Triangulating static mesh pCylinder1
+[2018.01.13-11.19.30:750][ 21]LogFbx:Warning: Triangulating static mesh pCylinder4
+[2018.01.13-11.19.30:751][ 21]LogFbx:Warning: Triangulating static mesh polySurface3_pCylinder5
+[2018.01.13-11.19.30:753][ 21]LogStaticMesh: Building static mesh Exitsign_low...
+[2018.01.13-11.19.30:757][ 21]LogStaticMesh: Built static mesh [0.00s] /Game/Props/S_exitSign/Exitsign_low.Exitsign_low
+[2018.01.13-11.19.30:763][ 21]FBXImport:Warning: Warning No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.01.13-11.19.32:924][186]LogRenderer: Reallocating scene render targets to support 1432x1044 NumSamples 1 (Frame:1).
+[2018.01.13-11.19.41:784][789]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../Project Liane/Art_assets/Hospital/Props/Exit Sign/Exitsign_low.obj)
+[2018.01.13-11.19.41:791][789]LogFbx: Loading FBX Scene from ../../../../../Project Liane/Art_assets/Hospital/Props/Exit Sign/Exitsign_low.obj
+[2018.01.13-11.19.41:792][789]LogFbx: FBX Scene Loaded Succesfully
+[2018.01.13-11.19.46:568][789]LogFbx: Loading FBX Scene from ../../../../../Project Liane/Art_assets/Hospital/Props/Exit Sign/Exitsign_low.obj
+[2018.01.13-11.19.46:570][789]LogFbx: FBX Scene Loaded Succesfully
+[2018.01.13-11.19.46:572][789]LogFbx:Warning: Triangulating static mesh pCube2
+[2018.01.13-11.19.46:574][789]LogFbx:Warning: Triangulating static mesh pCube4
+[2018.01.13-11.19.46:577][789]LogFbx:Warning: Triangulating static mesh pCylinder1
+[2018.01.13-11.19.46:578][789]LogFbx:Warning: Triangulating static mesh pCylinder4
+[2018.01.13-11.19.46:579][789]LogFbx:Warning: Triangulating static mesh polySurface3_pCylinder5
+[2018.01.13-11.19.46:580][789]LogStaticMesh: Building static mesh Exitsign_low...
+[2018.01.13-11.19.46:584][789]LogStaticMesh: Built static mesh [0.00s] /Game/Props/S_exitSign/Exitsign_low.Exitsign_low
+[2018.01.13-11.19.46:589][789]FBXImport:Warning: Warning No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.01.13-11.19.51:154][121]LogMaterial: Missing cached shader map for material M_ExitSign, compiling. 
+[2018.01.13-11.19.51:260][121]LogMaterial: Missing cached shader map for material M_ExitSign, compiling. 
+[2018.01.13-11.19.51:271][121]LogMaterial: Missing cached shader map for material M_ExitSign, compiling. 
+[2018.01.13-11.19.51:304][121]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.01.13-11.19.51:320][121]LogSlate: Took 0.005322 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.01.13-11.19.51:465][122]LogSlate: Took 0.005498 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.01.13-11.19.52:372][179]MaterialEditorStats: Info Base pass shader: 80 instructions
+[2018.01.13-11.19.52:372][179]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2018.01.13-11.19.52:372][179]MaterialEditorStats: Info Texture samplers: 1/16
+[2018.01.13-11.19.53:362][257]LogMaterial: Missing cached shader map for material M_ExitSign, compiling. 
+[2018.01.13-11.19.54:702][305]MaterialEditorStats: Info Base pass shader: 78 instructions
+[2018.01.13-11.19.54:702][305]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2018.01.13-11.19.54:702][305]MaterialEditorStats: Info Texture samplers: 1/16
+[2018.01.13-11.20.03:108][722]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../Project Liane/Art_assets/Hospital/Props/Exit Sign/Textures/Exitsign_low_T_signexit_BaseColor.png)
+[2018.01.13-11.20.03:144][722]LogTexture:Display: Building textures: Exitsign_low_T_signexit_BaseColor (AutoDXT, 1024X1024)
+[2018.01.13-11.20.03:269][722]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../Project Liane/Art_assets/Hospital/Props/Exit Sign/Textures/Exitsign_low_T_signexit_Emissive.png)
+[2018.01.13-11.20.03:290][722]LogTexture:Display: Building textures: Exitsign_low_T_signexit_Emissive (AutoDXT, 1024X1024)
+[2018.01.13-11.20.03:362][722]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../Project Liane/Art_assets/Hospital/Props/Exit Sign/Textures/Exitsign_low_T_signexit_Normal.png)
+[2018.01.13-11.20.03:409][722]LogTexture:Display: Building textures: Exitsign_low_T_signexit_Normal (BC5, 1024X1024)
+[2018.01.13-11.20.03:473][722]LogSlate: Took 0.000157 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.01.13-11.20.03:496][722]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../Project Liane/Art_assets/Hospital/Props/Exit Sign/Textures/Exitsign_low_T_signexit_OcclusionRoughnessMetallic.png)
+[2018.01.13-11.20.03:532][722]LogTexture:Display: Building textures: Exitsign_low_T_signexit_OcclusionRoughnessMetallic (AutoDXT, 1024X1024)
+[2018.01.13-11.20.15:250][962]LogContentBrowser: Native class hierarchy updated for 'TextureEditor' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2018.01.13-11.20.18:995][357]LogTexture:Display: Building textures: Exitsign_low_T_signexit_OcclusionRoughnessMetallic (AutoDXT, 1024X1024)
+[2018.01.13-11.20.20:679][502]LogSavePackage: Save=75.67ms
+[2018.01.13-11.20.20:679][502]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/Exitsign_low_T_signexit_OcclusionRoughnessMetallic2CE405804F4376874C7134B2409BB461.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_exitSign/Textures/Exitsign_low_T_signexit_OcclusionRoughnessMetallic.uasset'
+[2018.01.13-11.20.20:680][502]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_exitSign/Textures/Exitsign_low_T_signexit_OcclusionRoughnessMetallic.uasset
+[2018.01.13-11.20.26:591][132]LogMaterial: Missing cached shader map for material M_ExitSign, compiling. 
+[2018.01.13-11.20.26:600][132]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.01.13-11.20.26:631][132]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.01.13-11.20.27:580][205]MaterialEditorStats: Info Base pass shader: 78 instructions
+[2018.01.13-11.20.27:580][205]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2018.01.13-11.20.27:580][205]MaterialEditorStats: Info Texture samplers: 1/16
+[2018.01.13-11.20.46:746][359]LogMaterial: Missing cached shader map for material M_ExitSign, compiling. 
+[2018.01.13-11.20.46:761][359]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.01.13-11.20.47:585][416]MaterialEditorStats: Info Base pass shader: 78 instructions
+[2018.01.13-11.20.47:585][416]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2018.01.13-11.20.47:585][416]MaterialEditorStats: Info Texture samplers: 2/16
+[2018.01.13-11.20.47:585][416]MaterialEditorStats: Info User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.13-11.20.50:300][692]LogMaterial: Missing cached shader map for material M_ExitSign, compiling. 
+[2018.01.13-11.20.50:310][692]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.01.13-11.20.51:130][741]MaterialEditorStats: Info Base pass shader: 80 instructions
+[2018.01.13-11.20.51:130][741]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2018.01.13-11.20.51:130][741]MaterialEditorStats: Info Texture samplers: 2/16
+[2018.01.13-11.20.51:130][741]MaterialEditorStats: Info User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.13-11.20.52:222][846]LogMaterial: Missing cached shader map for material M_ExitSign, compiling. 
+[2018.01.13-11.20.52:239][846]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.01.13-11.20.53:029][890]LogMaterialEditor: Saving and Compiling material M_ExitSign
+[2018.01.13-11.20.53:430][890]LogMaterial: Missing cached shader map for material M_ExitSign, compiling. 
+[2018.01.13-11.20.53:479][890]LogMaterial: Missing cached shader map for material M_ExitSign, compiling. 
+[2018.01.13-11.20.53:498][890]LogMaterial: Missing cached shader map for material M_ExitSign, compiling. 
+[2018.01.13-11.20.53:534][890]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_ExitSign, compiling. 
+[2018.01.13-11.20.54:096][890]TextureStreamingBuild:Display: Compiling optional shaders took 0.571 seconds.
+[2018.01.13-11.20.55:256][890]LogSlate: Took 0.000125 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.01.13-11.20.55:274][890]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Props/S_exitSign/M_ExitSign" FILE="../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_exitSign/M_ExitSign.uasset" SILENT=true
+[2018.01.13-11.20.55:294][890]LogSavePackage: Save=13.58ms
+[2018.01.13-11.20.55:294][890]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/M_ExitSignE3B9FFF64CDDDCDCFFD830A72610B45F.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_exitSign/M_ExitSign.uasset'
+[2018.01.13-11.20.55:295][890]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_exitSign/M_ExitSign.uasset
+[2018.01.13-11.20.55:311][890]MaterialEditorStats: Info Base pass shader: 85 instructions
+[2018.01.13-11.20.55:311][890]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2018.01.13-11.20.55:311][890]MaterialEditorStats: Info Texture samplers: 3/16
+[2018.01.13-11.20.55:311][890]MaterialEditorStats: Info User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.13-11.20.57:126][ 46]LogMaterial: Missing cached shader map for material M_ExitSign, compiling. 
+[2018.01.13-11.20.57:134][ 46]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2018.01.13-11.20.57:164][ 46]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.01.13-11.20.57:168][ 46]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2018.01.13-11.20.58:589][156]LogMaterial: Missing cached shader map for material M_ExitSign, compiling. 
+[2018.01.13-11.20.58:601][156]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2018.01.13-11.20.59:429][205]MaterialEditorStats: Info Base pass shader: 88 instructions
+[2018.01.13-11.20.59:429][205]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2018.01.13-11.20.59:429][205]MaterialEditorStats: Info Texture samplers: 3/16
+[2018.01.13-11.20.59:429][205]MaterialEditorStats: Info User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.13-11.21.00:783][303]LogMaterial: Missing cached shader map for material M_ExitSign, compiling. 
+[2018.01.13-11.21.00:792][303]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.01.13-11.21.00:822][303]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.01.13-11.21.00:825][303]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2018.01.13-11.21.00:829][303]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.01.13-11.21.01:660][354]MaterialEditorStats: Info Base pass shader: 88 instructions
+[2018.01.13-11.21.01:660][354]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2018.01.13-11.21.01:660][354]MaterialEditorStats: Info Texture samplers: 3/16
+[2018.01.13-11.21.01:660][354]MaterialEditorStats: Info User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.13-11.21.02:599][438]LogMaterial: Missing cached shader map for material M_ExitSign, compiling. 
+[2018.01.13-11.21.02:612][438]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.01.13-11.21.03:579][499]MaterialEditorStats: Info Base pass shader: 90 instructions
+[2018.01.13-11.21.03:579][499]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2018.01.13-11.21.03:579][499]MaterialEditorStats: Info Texture samplers: 4/16
+[2018.01.13-11.21.03:579][499]MaterialEditorStats: Info User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.13-11.21.05:076][631]LogMaterial: Missing cached shader map for material M_ExitSign, compiling. 
+[2018.01.13-11.21.05:087][631]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2018.01.13-11.21.05:116][631]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.01.13-11.21.05:120][631]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2018.01.13-11.21.05:123][631]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.01.13-11.21.05:127][631]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2018.01.13-11.21.05:942][676]MaterialEditorStats: Info Base pass shader: 90 instructions
+[2018.01.13-11.21.05:942][676]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2018.01.13-11.21.05:942][676]MaterialEditorStats: Info Texture samplers: 4/16
+[2018.01.13-11.21.05:942][676]MaterialEditorStats: Info User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.13-11.21.06:625][728]LogMaterial: Missing cached shader map for material M_ExitSign, compiling. 
+[2018.01.13-11.21.06:637][728]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2018.01.13-11.21.07:467][771]LogMaterialEditor: Saving and Compiling material M_ExitSign
+[2018.01.13-11.21.07:887][771]LogMaterial: Missing cached shader map for material M_ExitSign, compiling. 
+[2018.01.13-11.21.07:927][771]LogMaterial: Missing cached shader map for material M_ExitSign, compiling. 
+[2018.01.13-11.21.07:947][771]LogMaterial: Missing cached shader map for material M_ExitSign, compiling. 
+[2018.01.13-11.21.07:981][771]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_ExitSign, compiling. 
+[2018.01.13-11.21.08:619][771]TextureStreamingBuild:Display: Compiling optional shaders took 0.643 seconds.
+[2018.01.13-11.21.09:738][771]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Props/S_exitSign/M_ExitSign" FILE="../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_exitSign/M_ExitSign.uasset" SILENT=true
+[2018.01.13-11.21.09:756][771]LogSavePackage: Save=13.60ms
+[2018.01.13-11.21.09:756][771]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/M_ExitSign69464BE345E27A643B70AFAB648B641D.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_exitSign/M_ExitSign.uasset'
+[2018.01.13-11.21.09:757][771]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_exitSign/M_ExitSign.uasset
+[2018.01.13-11.21.09:766][771]MaterialEditorStats: Info Base pass shader: 96 instructions
+[2018.01.13-11.21.09:767][771]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2018.01.13-11.21.09:767][771]MaterialEditorStats: Info Texture samplers: 6/16
+[2018.01.13-11.21.09:767][771]MaterialEditorStats: Info User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.13-11.21.22:664][ 94]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Props/S_exitSign/Exitsign_low" FILE="../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_exitSign/Exitsign_low.uasset" SILENT=true
+[2018.01.13-11.21.22:679][ 94]LogSavePackage: Save=13.11ms
+[2018.01.13-11.21.22:679][ 94]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/Exitsign_low51D61174486434F3671F29BEBA886366.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_exitSign/Exitsign_low.uasset'
+[2018.01.13-11.21.22:680][ 94]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_exitSign/Exitsign_low.uasset
+[2018.01.13-11.21.24:627][279]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.01.13-11.21.24:704][279]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.01.13-11.21.24:714][279]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.01.13-11.21.24:753][279]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2018.01.13-11.21.24:757][279]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.01.13-11.21.24:761][279]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2018.01.13-11.21.24:765][279]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.01.13-11.21.25:987][350]MaterialEditorStats: Info Base pass shader: 96 instructions
+[2018.01.13-11.21.25:987][350]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2018.01.13-11.21.25:987][350]MaterialEditorStats: Info Texture samplers: 5/16
+[2018.01.13-11.21.25:987][350]MaterialEditorStats: Info User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.13-11.21.32:648][ 55]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.01.13-11.21.33:457][116]MaterialEditorStats: Info Base pass shader: 96 instructions
+[2018.01.13-11.21.33:457][116]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2018.01.13-11.21.33:457][116]MaterialEditorStats: Info Texture samplers: 5/16
+[2018.01.13-11.21.33:457][116]MaterialEditorStats: Info User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.13-11.21.34:571][237]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.01.13-11.21.35:392][297]MaterialEditorStats: Info Base pass shader: 89 instructions
+[2018.01.13-11.21.35:392][297]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2018.01.13-11.21.35:392][297]MaterialEditorStats: Info Texture samplers: 5/16
+[2018.01.13-11.21.35:392][297]MaterialEditorStats: Info User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.13-11.21.37:082][464]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.01.13-11.21.37:093][464]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.01.13-11.21.37:969][515]MaterialEditorStats: Info Base pass shader: 96 instructions
+[2018.01.13-11.21.37:969][515]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2018.01.13-11.21.37:969][515]MaterialEditorStats: Info Texture samplers: 5/16
+[2018.01.13-11.21.37:969][515]MaterialEditorStats: Info User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.13-11.21.39:365][648]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.01.13-11.21.39:378][648]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.01.13-11.21.40:215][696]MaterialEditorStats: Info Base pass shader: 96 instructions
+[2018.01.13-11.21.40:215][696]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2018.01.13-11.21.40:215][696]MaterialEditorStats: Info Texture samplers: 5/16
+[2018.01.13-11.21.40:215][696]MaterialEditorStats: Info User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.13-11.21.43:567][ 18]LogMaterialEditor: Saving and Compiling material M_ExitSign
+[2018.01.13-11.21.43:961][ 18]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.01.13-11.21.44:000][ 18]LogMaterial: Missing cached shader map for material M_ExitSign, compiling. 
+[2018.01.13-11.21.44:016][ 18]LogMaterial: Missing cached shader map for material M_ExitSign, compiling. 
+[2018.01.13-11.21.44:052][ 18]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_ExitSign, compiling. 
+[2018.01.13-11.21.44:700][ 18]TextureStreamingBuild:Display: Compiling optional shaders took 0.653 seconds.
+[2018.01.13-11.21.45:755][ 18]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Props/S_exitSign/M_ExitSign" FILE="../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_exitSign/M_ExitSign.uasset" SILENT=true
+[2018.01.13-11.21.45:772][ 18]LogSavePackage: Save=13.08ms
+[2018.01.13-11.21.45:772][ 18]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/M_ExitSign6AB1AD924540959475E0168C5E68C086.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_exitSign/M_ExitSign.uasset'
+[2018.01.13-11.21.45:774][ 18]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_exitSign/M_ExitSign.uasset
+[2018.01.13-11.21.45:783][ 18]MaterialEditorStats: Info Base pass shader: 96 instructions
+[2018.01.13-11.21.45:783][ 18]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2018.01.13-11.21.45:783][ 18]MaterialEditorStats: Info Texture samplers: 6/16
+[2018.01.13-11.21.45:783][ 18]MaterialEditorStats: Info User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.13-11.21.55:558][ 41]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Props/S_exitSign/Exitsign_low" FILE="../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_exitSign/Exitsign_low.uasset" SILENT=true
+[2018.01.13-11.21.55:569][ 41]LogSavePackage: Save=5.76ms
+[2018.01.13-11.21.55:569][ 41]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/Exitsign_lowA25C384744F9B3BACF7793BE937EE5F2.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_exitSign/Exitsign_low.uasset'
+[2018.01.13-11.21.55:570][ 41]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_exitSign/Exitsign_low.uasset
+[2018.01.13-11.22.04:051][995]LogActorFactory: Actor Factory created Exitsign_low
+[2018.01.13-11.22.05:114][ 80]LogActorFactory: Actor Factory created Exitsign_low
+[2018.01.13-11.22.28:993][688]LogSavePackage: Save=975.39ms
+[2018.01.13-11.22.28:993][688]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/ThirdPersonExampleMap6B493B46472C611CDDEF92934ECD7CFE.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.01.13-11.22.28:995][688]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2018.01.13-11.22.29:552][688]LogSavePackage: Save=502.49ms
+[2018.01.13-11.22.29:552][688]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/ThirdPersonExampleMap_BuiltData18912C094DD5BB7C880E35827D0BF9FD.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2018.01.13-11.22.29:555][688]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset
+[2018.01.13-11.23.11:331][277]LogSavePackage: Save=61.27ms
+[2018.01.13-11.23.11:331][277]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/Exitsign_low_T_signexit_BaseColor655AF415484A9AC83CDA81BE127B8303.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_exitSign/Textures/Exitsign_low_T_signexit_BaseColor.uasset'
+[2018.01.13-11.23.11:332][277]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_exitSign/Textures/Exitsign_low_T_signexit_BaseColor.uasset
+[2018.01.13-11.23.11:372][277]LogSavePackage: Save=32.35ms
+[2018.01.13-11.23.11:372][277]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/Exitsign_low_T_signexit_EmissiveA88B029141BB243A046E69AF1D173920.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_exitSign/Textures/Exitsign_low_T_signexit_Emissive.uasset'
+[2018.01.13-11.23.11:373][277]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_exitSign/Textures/Exitsign_low_T_signexit_Emissive.uasset
+[2018.01.13-11.23.11:467][277]LogSavePackage: Save=81.85ms
+[2018.01.13-11.23.11:467][277]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/Exitsign_low_T_signexit_Normal05FE668640D84BA54738EAB5226EB83B.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_exitSign/Textures/Exitsign_low_T_signexit_Normal.uasset'
+[2018.01.13-11.23.11:469][277]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_exitSign/Textures/Exitsign_low_T_signexit_Normal.uasset
+[2018.01.13-11.23.37:421][ 36]LogTexture:Display: Building textures: spotlight_paint_Roughness (AutoDXT, 2048X2048)
+[2018.01.13-11.23.37:860][ 36]LogTexture:Display: Building textures: spotlight_paint_Emissive (AutoDXT, 2048X2048)
+[2018.01.13-11.23.38:163][ 36]LogTexture:Display: Building textures: spotlight_paint_Base_Color (AutoDXT, 2048X2048)
+[2018.01.13-11.23.38:554][ 36]LogTexture:Display: Building textures: spotlight_paint_Metallic (AutoDXT, 2048X2048)
+[2018.01.13-11.23.39:053][ 36]LogTexture:Display: Building textures: spotlight_paint_Normal_DirectX (BC5, 2048X2048)
+[2018.01.13-11.23.39:327][ 36]LogTexture:Display: Building textures: spotlight_paint_Mixed_AO (AutoDXT, 2048X2048)
+[2018.01.13-11.23.39:749][ 36]LogMaterial: Missing cached shader map for material 08___Default, compiling. 
+[2018.01.13-11.23.39:780][ 36]LogTexture:Display: Building textures: spotlight_paint_Height (AutoDXT, 2048X2048)
+[2018.01.13-11.23.40:351][ 36]LogTexture:Display: Building textures: spotlight_paint_Normal (BC5, 2048X2048)
+[2018.01.13-11.23.43:449][ 36]LogMaterial: Missing cached shader map for material Spot_base, compiling. 
+[2018.01.13-11.23.43:450][ 36]LogMaterial:Warning: Failed to compile Material /Game/Props/Spotlights/Spot_base.Spot_base for platform PCD3D_SM5, Default Material will be used in game.
+[2018.01.13-11.23.43:450][ 36]LogMaterial:Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.01.13-11.23.43:452][ 36]LogMaterial: Missing cached shader map for material Spot_base, compiling. 
+[2018.01.13-11.23.43:452][ 36]LogMaterial:Warning: Failed to compile Material /Game/Props/Spotlights/Spot_base.Spot_base for platform PCD3D_SM5, Default Material will be used in game.
+[2018.01.13-11.23.43:452][ 36]LogMaterial:Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.01.13-11.23.43:454][ 36]LogMaterial: Missing cached shader map for material Spot_base, compiling. 
+[2018.01.13-11.23.43:454][ 36]LogMaterial:Warning: Failed to compile Material /Game/Props/Spotlights/Spot_base.Spot_base for platform PCD3D_SM5, Default Material will be used in game.
+[2018.01.13-11.23.43:454][ 36]LogMaterial:Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.01.13-11.23.43:456][ 36]LogMaterial: Missing cached shader map for material Spot_base, compiling. 
+[2018.01.13-11.23.43:456][ 36]LogMaterial:Warning: Failed to compile Material /Game/Props/Spotlights/Spot_base.Spot_base for platform PCD3D_SM5, Default Material will be used in game.
+[2018.01.13-11.23.43:456][ 36]LogMaterial:Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.01.13-11.23.43:458][ 36]LogMaterial: Missing cached shader map for material Spot_base, compiling. 
+[2018.01.13-11.23.43:459][ 36]LogMaterial:Warning: Failed to compile Material /Game/Props/Spotlights/Spot_base.Spot_base for platform PCD3D_SM5, Default Material will be used in game.
+[2018.01.13-11.23.43:459][ 36]LogMaterial:Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.01.13-11.23.43:460][ 36]LogMaterial: Missing cached shader map for material Spot_base, compiling. 
+[2018.01.13-11.23.43:461][ 36]LogMaterial:Warning: Failed to compile Material /Game/Props/Spotlights/Spot_base.Spot_base for platform PCD3D_SM5, Default Material will be used in game.
+[2018.01.13-11.23.43:461][ 36]LogMaterial:Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.01.13-11.23.43:465][ 36]LogMaterial: Missing cached shader map for material 08___Default, compiling. 
+[2018.01.13-11.23.43:465][ 36]LogMaterial:Warning: Failed to compile Material /Game/Props/Spotlights/08___Default.08___Default for platform PCD3D_SM5, Default Material will be used in game.
+[2018.01.13-11.23.43:465][ 36]LogMaterial:Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.01.13-11.23.43:468][ 36]LogMaterial:Warning: FMaterialUniformExpressionTexture had invalid TextureIndex! (3 / 0)
+[2018.01.13-11.23.43:470][ 36]LogMaterial: Missing cached shader map for material 08___Default, compiling. 
+[2018.01.13-11.23.43:471][ 36]LogMaterial:Warning: Failed to compile Material /Game/Props/Spotlights/08___Default.08___Default for platform PCD3D_SM5, Default Material will be used in game.
+[2018.01.13-11.23.43:471][ 36]LogMaterial:Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.01.13-11.23.43:472][ 36]LogMaterial: Missing cached shader map for material 08___Default, compiling. 
+[2018.01.13-11.23.43:473][ 36]LogMaterial:Warning: Failed to compile Material /Game/Props/Spotlights/08___Default.08___Default for platform PCD3D_SM5, Default Material will be used in game.
+[2018.01.13-11.23.43:473][ 36]LogMaterial:Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.01.13-11.23.43:475][ 36]LogMaterial: Missing cached shader map for material 08___Default, compiling. 
+[2018.01.13-11.23.43:475][ 36]LogMaterial:Warning: Failed to compile Material /Game/Props/Spotlights/08___Default.08___Default for platform PCD3D_SM5, Default Material will be used in game.
+[2018.01.13-11.23.43:475][ 36]LogMaterial:Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.01.13-11.23.43:477][ 36]LogMaterial: Missing cached shader map for material 08___Default, compiling. 
+[2018.01.13-11.23.43:477][ 36]LogMaterial:Warning: Failed to compile Material /Game/Props/Spotlights/08___Default.08___Default for platform PCD3D_SM5, Default Material will be used in game.
+[2018.01.13-11.23.43:477][ 36]LogMaterial:Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.01.13-11.23.43:479][ 36]LogMaterial: Missing cached shader map for material 08___Default, compiling. 
+[2018.01.13-11.23.43:479][ 36]LogMaterial:Warning: Failed to compile Material /Game/Props/Spotlights/08___Default.08___Default for platform PCD3D_SM5, Default Material will be used in game.
+[2018.01.13-11.23.43:479][ 36]LogMaterial:Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.01.13-11.24.01:500][987]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.13-11.24.01:500][987]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.13-11.24.01:500][987]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.13-11.24.01:500][987]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.13-11.24.01:508][987]LogEditorActor: Deleted 4 Actors (0.009 secs)
+[2018.01.13-11.24.30:548][735]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../Project Liane/Art_assets/Hospital/Props/S_Modernstand/Modernstand_low.fbx)
+[2018.01.13-11.24.30:555][735]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2018.01.13-11.24.30:555][735]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2018.01.13-11.24.30:555][735]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2018.01.13-11.24.30:555][735]LogFbx: ItemName: NodeAttribute, ItemCount : 1
+[2018.01.13-11.24.30:555][735]LogFbx: ItemName: Model, ItemCount : 14
+[2018.01.13-11.24.30:555][735]LogFbx: ItemName: Material, ItemCount : 1
+[2018.01.13-11.24.30:555][735]LogFbx: ItemName: Geometry, ItemCount : 13
+[2018.01.13-11.24.30:559][735]LogFbx: Loading FBX Scene from ../../../../../Project Liane/Art_assets/Hospital/Props/S_Modernstand/Modernstand_low.fbx
+[2018.01.13-11.24.30:570][735]LogFbx: FBX Scene Loaded Succesfully
+[2018.01.13-11.24.31:793][735]LogFbx: Loading FBX Scene from ../../../../../Project Liane/Art_assets/Hospital/Props/S_Modernstand/Modernstand_low.fbx
+[2018.01.13-11.24.31:801][735]LogFbx: FBX Scene Loaded Succesfully
+[2018.01.13-11.24.31:806][735]LogLinker: Can't find file '/Game/Props/S_ModernStand/defaultPolygonShader'
+[2018.01.13-11.24.31:806][735]LogLinker: Can't find file '/Game/Props/S_ModernStand/defaultPolygonShader'
+[2018.01.13-11.24.31:811][735]LogMaterial: Missing cached shader map for material defaultPolygonShader, compiling. 
+[2018.01.13-11.24.31:829][735]LogStaticMesh: Building static mesh Modernstand_low...
+[2018.01.13-11.24.31:851][735]LogStaticMesh: Built static mesh [0.02s] /Game/Props/S_ModernStand/Modernstand_low.Modernstand_low
+[2018.01.13-11.24.40:666][654]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Props/S_ModernStand/M_ModernStand" FILE="../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_ModernStand/M_ModernStand.uasset" SILENT=true
+[2018.01.13-11.24.40:678][654]LogSavePackage: Save=10.76ms
+[2018.01.13-11.24.40:678][654]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/M_ModernStandDD54D2DB4466B3EF745BA8A9F97717EE.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_ModernStand/M_ModernStand.uasset'
+[2018.01.13-11.24.40:679][654]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_ModernStand/M_ModernStand.uasset
+[2018.01.13-11.24.42:313][770]LogMaterial: Missing cached shader map for material M_ModernStand, compiling. 
+[2018.01.13-11.24.42:392][770]LogMaterial: Missing cached shader map for material M_ModernStand, compiling. 
+[2018.01.13-11.24.42:401][770]LogMaterial: Missing cached shader map for material M_ModernStand, compiling. 
+[2018.01.13-11.24.42:434][770]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.01.13-11.24.43:342][831]MaterialEditorStats: Info Base pass shader: 80 instructions
+[2018.01.13-11.24.43:342][831]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2018.01.13-11.24.43:342][831]MaterialEditorStats: Info Texture samplers: 1/16
+[2018.01.13-11.24.44:676][954]LogMaterial: Missing cached shader map for material M_ModernStand, compiling. 
+[2018.01.13-11.24.45:536][ 24]MaterialEditorStats: Info Base pass shader: 78 instructions
+[2018.01.13-11.24.45:536][ 24]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2018.01.13-11.24.45:536][ 24]MaterialEditorStats: Info Texture samplers: 1/16
+[2018.01.13-11.25.28:649][453]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../Project Liane/Art_assets/Hospital/Props/S_Modernstand/Textures/Modernstand_low_T_ModernStand_BaseColor.png)
+[2018.01.13-11.25.28:790][453]LogTexture:Display: Building textures: Modernstand_low_T_ModernStand_BaseColor (AutoDXT, 2048X2048)
+[2018.01.13-11.25.29:187][453]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../Project Liane/Art_assets/Hospital/Props/S_Modernstand/Textures/Modernstand_low_T_ModernStand_Normal.png)
+[2018.01.13-11.25.29:362][453]LogTexture:Display: Building textures: Modernstand_low_T_ModernStand_Normal (BC5, 2048X2048)
+[2018.01.13-11.25.29:665][453]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../Project Liane/Art_assets/Hospital/Props/S_Modernstand/Textures/Modernstand_low_T_ModernStand_OcclusionRoughnessMetallic.png)
+[2018.01.13-11.25.29:829][453]LogTexture:Display: Building textures: Modernstand_low_T_ModernStand_OcclusionRoughnessMetallic (AutoDXT, 2048X2048)
+[2018.01.13-11.25.33:500][773]LogTexture:Display: Building textures: Modernstand_low_T_ModernStand_OcclusionRoughnessMetallic (AutoDXT, 2048X2048)
+[2018.01.13-11.25.35:264][892]LogSavePackage: Save=200.59ms
+[2018.01.13-11.25.35:264][892]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/Modernstand_low_T_ModernStand_OcclusionRoughnessMetallic0BCC0A354E2CED178DD428BDEAD267B2.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_ModernStand/Textures/Modernstand_low_T_ModernStand_OcclusionRoughnessMetallic.uasset'
+[2018.01.13-11.25.35:265][892]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_ModernStand/Textures/Modernstand_low_T_ModernStand_OcclusionRoughnessMetallic.uasset
+[2018.01.13-11.25.38:328][216]LogMaterial: Missing cached shader map for material M_ModernStand, compiling. 
+[2018.01.13-11.25.38:338][216]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2018.01.13-11.25.38:368][216]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2018.01.13-11.25.39:543][295]MaterialEditorStats: Info Base pass shader: 78 instructions
+[2018.01.13-11.25.39:543][295]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2018.01.13-11.25.39:543][295]MaterialEditorStats: Info Texture samplers: 1/16
+[2018.01.13-11.25.41:160][463]LogMaterial: Missing cached shader map for material M_ModernStand, compiling. 
+[2018.01.13-11.25.41:173][463]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2018.01.13-11.25.42:074][523]MaterialEditorStats: Info Base pass shader: 78 instructions
+[2018.01.13-11.25.42:074][523]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2018.01.13-11.25.42:074][523]MaterialEditorStats: Info Texture samplers: 2/16
+[2018.01.13-11.25.42:074][523]MaterialEditorStats: Info User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.13-11.25.43:808][705]LogMaterial: Missing cached shader map for material M_ModernStand, compiling. 
+[2018.01.13-11.25.43:823][705]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2018.01.13-11.25.44:657][758]MaterialEditorStats: Info Base pass shader: 85 instructions
+[2018.01.13-11.25.44:657][758]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2018.01.13-11.25.44:657][758]MaterialEditorStats: Info Texture samplers: 2/16
+[2018.01.13-11.25.44:657][758]MaterialEditorStats: Info User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.13-11.25.45:624][847]LogMaterial: Missing cached shader map for material M_ModernStand, compiling. 
+[2018.01.13-11.25.45:638][847]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2018.01.13-11.25.46:490][908]MaterialEditorStats: Info Base pass shader: 85 instructions
+[2018.01.13-11.25.46:490][908]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2018.01.13-11.25.46:490][908]MaterialEditorStats: Info Texture samplers: 2/16
+[2018.01.13-11.25.46:490][908]MaterialEditorStats: Info User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.13-11.25.48:353][ 76]LogMaterial: Missing cached shader map for material M_ModernStand, compiling. 
+[2018.01.13-11.25.48:362][ 76]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_5, compiling. 
+[2018.01.13-11.25.48:392][ 76]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2018.01.13-11.25.48:397][ 76]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_5, compiling. 
+[2018.01.13-11.25.49:906][194]LogMaterial: Missing cached shader map for material M_ModernStand, compiling. 
+[2018.01.13-11.25.49:919][194]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_5, compiling. 
+[2018.01.13-11.25.51:621][303]LogMaterial: Missing cached shader map for material M_ModernStand, compiling. 
+[2018.01.13-11.25.51:629][303]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_6, compiling. 
+[2018.01.13-11.25.51:659][303]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2018.01.13-11.25.51:663][303]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_5, compiling. 
+[2018.01.13-11.25.51:667][303]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_6, compiling. 
+[2018.01.13-11.25.53:244][432]LogMaterial: Missing cached shader map for material M_ModernStand, compiling. 
+[2018.01.13-11.25.53:258][432]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_6, compiling. 
+[2018.01.13-11.25.54:099][484]MaterialEditorStats: Info Base pass shader: 94 instructions
+[2018.01.13-11.25.54:099][484]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2018.01.13-11.25.54:099][484]MaterialEditorStats: Info Texture samplers: 4/16
+[2018.01.13-11.25.54:099][484]MaterialEditorStats: Info User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.13-11.25.54:184][493]LogMaterialEditor: Saving and Compiling material M_ModernStand
+[2018.01.13-11.25.54:581][493]LogMaterial: Missing cached shader map for material M_ModernStand, compiling. 
+[2018.01.13-11.25.54:620][493]LogMaterial: Missing cached shader map for material M_ModernStand, compiling. 
+[2018.01.13-11.25.54:636][493]LogMaterial: Missing cached shader map for material M_ModernStand, compiling. 
+[2018.01.13-11.25.54:668][493]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_ModernStand, compiling. 
+[2018.01.13-11.25.55:339][493]TextureStreamingBuild:Display: Compiling optional shaders took 0.676 seconds.
+[2018.01.13-11.25.56:425][493]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Props/S_ModernStand/M_ModernStand" FILE="../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_ModernStand/M_ModernStand.uasset" SILENT=true
+[2018.01.13-11.25.56:443][493]LogSavePackage: Save=12.75ms
+[2018.01.13-11.25.56:444][493]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/M_ModernStand3463FC3F4D0D82897A075E8C9F340D1A.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_ModernStand/M_ModernStand.uasset'
+[2018.01.13-11.25.56:445][493]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_ModernStand/M_ModernStand.uasset
+[2018.01.13-11.25.56:454][493]MaterialEditorStats: Info Base pass shader: 94 instructions
+[2018.01.13-11.25.56:454][493]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2018.01.13-11.25.56:454][493]MaterialEditorStats: Info Texture samplers: 5/16
+[2018.01.13-11.25.56:454][493]MaterialEditorStats: Info User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.13-11.26.07:717][687]LogActorFactory: Actor Factory created Modernstand_low
+[2018.01.13-11.26.08:277][737]LogActorFactory: Actor Factory created Modernstand_low
+[2018.01.13-11.26.19:389][ 14]Cmd: TRANSACTION UNDO
+[2018.01.13-11.26.19:389][ 14]LogEditorTransaction: Undo Move Actors
+[2018.01.13-11.26.26:690][695]LogSavePackage: Save=982.96ms
+[2018.01.13-11.26.26:691][695]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/ThirdPersonExampleMapBFCAE3414134FE98C1D788B490803D30.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.01.13-11.26.26:697][695]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2018.01.13-11.26.26:740][695]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 1.106
+[2018.01.13-11.26.26:755][695]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Props/S_ModernStand/Modernstand_low" FILE="../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_ModernStand/Modernstand_low.uasset" SILENT=true
+[2018.01.13-11.26.26:772][695]LogSavePackage: Save=14.89ms
+[2018.01.13-11.26.26:772][695]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/Modernstand_lowB4B4149B4506460396B77681BDCF97E1.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_ModernStand/Modernstand_low.uasset'
+[2018.01.13-11.26.26:774][695]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_ModernStand/Modernstand_low.uasset
+[2018.01.13-11.26.26:954][695]LogSavePackage: Save=162.25ms
+[2018.01.13-11.26.26:954][695]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/Modernstand_low_T_ModernStand_BaseColorD19140884A8547125BCC3CA62E617B61.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_ModernStand/Textures/Modernstand_low_T_ModernStand_BaseColor.uasset'
+[2018.01.13-11.26.26:956][695]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_ModernStand/Textures/Modernstand_low_T_ModernStand_BaseColor.uasset
+[2018.01.13-11.26.27:257][695]LogSavePackage: Save=289.39ms
+[2018.01.13-11.26.27:257][695]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/Modernstand_low_T_ModernStand_NormalFD6138BD480BF890072981A99361CD7B.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_ModernStand/Textures/Modernstand_low_T_ModernStand_Normal.uasset'
+[2018.01.13-11.26.27:259][695]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_ModernStand/Textures/Modernstand_low_T_ModernStand_Normal.uasset
+[2018.01.13-11.27.10:520][ 43]LogSavePackage: Save=35.87ms
+[2018.01.13-11.27.10:520][ 43]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/desk_desk_base_Base_Color393A85CA469A8074A8257CAF92F1C371.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_woodenDesk/Clean_Textures/desk_desk_base_Base_Color.uasset'
+[2018.01.13-11.27.10:524][ 43]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_woodenDesk/Clean_Textures/desk_desk_base_Base_Color.uasset
+[2018.01.13-11.27.10:536][ 43]LogSavePackage: Save=5.67ms
+[2018.01.13-11.27.10:536][ 43]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/desk_desk_base_Metallic37616A2549975E78B1B679AA86D90EF9.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_woodenDesk/Clean_Textures/desk_desk_base_Metallic.uasset'
+[2018.01.13-11.27.10:537][ 43]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_woodenDesk/Clean_Textures/desk_desk_base_Metallic.uasset
+[2018.01.13-11.27.10:563][ 43]LogSavePackage: Save=15.92ms
+[2018.01.13-11.27.10:563][ 43]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/desk_desk_base_Mixed_AO5FAD35084957C97A6527869C53D4EFF3.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_woodenDesk/Clean_Textures/desk_desk_base_Mixed_AO.uasset'
+[2018.01.13-11.27.10:564][ 43]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_woodenDesk/Clean_Textures/desk_desk_base_Mixed_AO.uasset
+[2018.01.13-11.27.10:608][ 43]LogSavePackage: Save=35.27ms
+[2018.01.13-11.27.10:608][ 43]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/desk_desk_base_Normal_DirectXF6CCC57F4C95C2D170B7108F32BCF392.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_woodenDesk/Clean_Textures/desk_desk_base_Normal_DirectX.uasset'
+[2018.01.13-11.27.10:609][ 43]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_woodenDesk/Clean_Textures/desk_desk_base_Normal_DirectX.uasset
+[2018.01.13-11.27.10:642][ 43]LogSavePackage: Save=23.34ms
+[2018.01.13-11.27.10:642][ 43]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/desk_desk_base_RoughnessB6471B2847639BF99ABCF9938C1BB9F0.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_woodenDesk/Clean_Textures/desk_desk_base_Roughness.uasset'
+[2018.01.13-11.27.10:644][ 43]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_woodenDesk/Clean_Textures/desk_desk_base_Roughness.uasset
+[2018.01.13-11.27.10:657][ 43]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Props/S_woodenDesk/desk_base" FILE="../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_woodenDesk/desk_base.uasset" SILENT=true
+[2018.01.13-11.27.10:670][ 43]LogSavePackage: Save=12.41ms
+[2018.01.13-11.27.10:671][ 43]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/desk_base390F7A194DD7016CC4CFB493870C13AD.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_woodenDesk/desk_base.uasset'
+[2018.01.13-11.27.10:672][ 43]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_woodenDesk/desk_base.uasset
+[2018.01.13-11.27.10:709][ 43]LogSavePackage: Save=28.49ms
+[2018.01.13-11.27.10:709][ 43]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/draws_Base_ColorEECC7305455115C6C7572E976F5DF913.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_woodenDesk/Clean_Textures/draws_Base_Color.uasset'
+[2018.01.13-11.27.10:710][ 43]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_woodenDesk/Clean_Textures/draws_Base_Color.uasset
+[2018.01.13-11.27.10:723][ 43]LogSavePackage: Save=7.12ms
+[2018.01.13-11.27.10:723][ 43]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/draws_MetallicD0F5F4164C9482C199950F94C1F44F93.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_woodenDesk/Clean_Textures/draws_Metallic.uasset'
+[2018.01.13-11.27.10:724][ 43]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_woodenDesk/Clean_Textures/draws_Metallic.uasset
+[2018.01.13-11.27.10:747][ 43]LogSavePackage: Save=13.40ms
+[2018.01.13-11.27.10:747][ 43]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/draws_Mixed_AO7E88FF7F43713CBF95E673AD9A9F5E2E.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_woodenDesk/Clean_Textures/draws_Mixed_AO.uasset'
+[2018.01.13-11.27.10:748][ 43]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_woodenDesk/Clean_Textures/draws_Mixed_AO.uasset
+[2018.01.13-11.27.10:780][ 43]LogSavePackage: Save=22.53ms
+[2018.01.13-11.27.10:780][ 43]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/draws_Normal_DirectX27ADDA0047B5F62983B34D8864895E33.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_woodenDesk/Clean_Textures/draws_Normal_DirectX.uasset'
+[2018.01.13-11.27.10:781][ 43]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_woodenDesk/Clean_Textures/draws_Normal_DirectX.uasset
+[2018.01.13-11.27.10:802][ 43]LogSavePackage: Save=13.48ms
+[2018.01.13-11.27.10:802][ 43]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/draws_RoughnessE7877A324747061B89FDF9867043B0CB.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_woodenDesk/Clean_Textures/draws_Roughness.uasset'
+[2018.01.13-11.27.10:804][ 43]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_woodenDesk/Clean_Textures/draws_Roughness.uasset
+[2018.01.13-11.27.10:817][ 43]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Props/S_woodenDesk/draws" FILE="../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_woodenDesk/draws.uasset" SILENT=true
+[2018.01.13-11.27.10:831][ 43]LogSavePackage: Save=12.70ms
+[2018.01.13-11.27.10:831][ 43]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/draws0771F7C54DF92C65AA9AEBBE9F595E00.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_woodenDesk/draws.uasset'
+[2018.01.13-11.27.10:832][ 43]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_woodenDesk/draws.uasset
+[2018.01.13-11.27.10:850][ 43]LogSavePackage: Save=9.70ms
+[2018.01.13-11.27.10:850][ 43]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/desk_metal2_Base_Color0A5A10E149846CB6684EAC865C2C64F2.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_woodenDesk/Textures/desk_metal2_Base_Color.uasset'
+[2018.01.13-11.27.10:851][ 43]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_woodenDesk/Textures/desk_metal2_Base_Color.uasset
+[2018.01.13-11.27.10:867][ 43]LogSavePackage: Save=7.37ms
+[2018.01.13-11.27.10:867][ 43]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/desk_metal2_Metallic5B1196C64A52C9F4838AF880823F4E25.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_woodenDesk/Textures/desk_metal2_Metallic.uasset'
+[2018.01.13-11.27.10:868][ 43]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_woodenDesk/Textures/desk_metal2_Metallic.uasset
+[2018.01.13-11.27.10:885][ 43]LogSavePackage: Save=8.52ms
+[2018.01.13-11.27.10:885][ 43]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/desk_metal2_Mixed_AO1C68D51F471726BCCE0EE0A880744C3D.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_woodenDesk/Textures/desk_metal2_Mixed_AO.uasset'
+[2018.01.13-11.27.10:886][ 43]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_woodenDesk/Textures/desk_metal2_Mixed_AO.uasset
+[2018.01.13-11.27.10:903][ 43]LogSavePackage: Save=8.75ms
+[2018.01.13-11.27.10:903][ 43]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/desk_metal2_Normal_DirectX10FD7CE843A811D6405EDA8BD1795A8A.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_woodenDesk/Textures/desk_metal2_Normal_DirectX.uasset'
+[2018.01.13-11.27.10:905][ 43]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_woodenDesk/Textures/desk_metal2_Normal_DirectX.uasset
+[2018.01.13-11.27.10:921][ 43]LogSavePackage: Save=7.81ms
+[2018.01.13-11.27.10:921][ 43]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/desk_metal2_Roughness8FAC5B99451CAB43FC28C4B10225B413.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_woodenDesk/Textures/desk_metal2_Roughness.uasset'
+[2018.01.13-11.27.10:922][ 43]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_woodenDesk/Textures/desk_metal2_Roughness.uasset
+[2018.01.13-11.27.10:934][ 43]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Props/S_woodenDesk/metal2" FILE="../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_woodenDesk/metal2.uasset" SILENT=true
+[2018.01.13-11.27.10:947][ 43]LogSavePackage: Save=12.06ms
+[2018.01.13-11.27.10:947][ 43]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/metal2FDF1AB344791DC2AA42A18BB4AB66F2B.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_woodenDesk/metal2.uasset'
+[2018.01.13-11.27.10:948][ 43]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_woodenDesk/metal2.uasset
+[2018.01.13-11.27.10:961][ 43]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Props/S_woodenDesk/Desk1_low" FILE="../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_woodenDesk/Desk1_low.uasset" SILENT=true
+[2018.01.13-11.27.10:974][ 43]LogSavePackage: Save=11.44ms
+[2018.01.13-11.27.10:974][ 43]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/Desk1_lowE83E645D40D4F426208EDA8F6605E923.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_woodenDesk/Desk1_low.uasset'
+[2018.01.13-11.27.10:975][ 43]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_woodenDesk/Desk1_low.uasset
+[2018.01.13-11.27.10:994][ 43]LogSavePackage: Save=9.68ms
+[2018.01.13-11.27.10:994][ 43]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/desk_metal2_Base_ColorB96DB0CE464AEC8435681CBEAC86F0EC.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_woodenDesk/Clean_Textures/desk_metal2_Base_Color.uasset'
+[2018.01.13-11.27.10:996][ 43]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_woodenDesk/Clean_Textures/desk_metal2_Base_Color.uasset
+[2018.01.13-11.27.11:013][ 43]LogSavePackage: Save=7.38ms
+[2018.01.13-11.27.11:013][ 43]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/desk_metal2_Height2F1DCBBE47A19A5ACD2B30938600441E.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_woodenDesk/Clean_Textures/desk_metal2_Height.uasset'
+[2018.01.13-11.27.11:014][ 43]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_woodenDesk/Clean_Textures/desk_metal2_Height.uasset
+[2018.01.13-11.27.11:031][ 43]LogSavePackage: Save=7.44ms
+[2018.01.13-11.27.11:031][ 43]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/desk_metal2_Metallic4134EE9047711E471B4ADA87B86E27E9.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_woodenDesk/Clean_Textures/desk_metal2_Metallic.uasset'
+[2018.01.13-11.27.11:032][ 43]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_woodenDesk/Clean_Textures/desk_metal2_Metallic.uasset
+[2018.01.13-11.27.11:049][ 43]LogSavePackage: Save=8.25ms
+[2018.01.13-11.27.11:049][ 43]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/desk_metal2_Mixed_AO37D843D649D9BF3D8A822BA9A2780266.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_woodenDesk/Clean_Textures/desk_metal2_Mixed_AO.uasset'
+[2018.01.13-11.27.11:051][ 43]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_woodenDesk/Clean_Textures/desk_metal2_Mixed_AO.uasset
+[2018.01.13-11.27.11:068][ 43]LogSavePackage: Save=8.83ms
+[2018.01.13-11.27.11:068][ 43]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/desk_metal2_Normal_DirectX2E1DBE664B19424ACE8B499F1E19500B.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_woodenDesk/Clean_Textures/desk_metal2_Normal_DirectX.uasset'
+[2018.01.13-11.27.11:069][ 43]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_woodenDesk/Clean_Textures/desk_metal2_Normal_DirectX.uasset
+[2018.01.13-11.27.11:086][ 43]LogSavePackage: Save=7.95ms
+[2018.01.13-11.27.11:086][ 43]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/desk_metal2_Roughness5346383142D4D5B4EE7337A8B5D47555.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_woodenDesk/Clean_Textures/desk_metal2_Roughness.uasset'
+[2018.01.13-11.27.11:087][ 43]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_woodenDesk/Clean_Textures/desk_metal2_Roughness.uasset
+[2018.01.13-11.27.11:156][ 43]LogSavePackage: Save=60.53ms
+[2018.01.13-11.27.11:156][ 43]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/desk_desk_base_Base_ColorE264742143AA3D15BE68DCB2A84EE456.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_woodenDesk/Textures/desk_desk_base_Base_Color.uasset'
+[2018.01.13-11.27.11:157][ 43]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_woodenDesk/Textures/desk_desk_base_Base_Color.uasset
+[2018.01.13-11.27.11:168][ 43]LogSavePackage: Save=5.23ms
+[2018.01.13-11.27.11:168][ 43]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/desk_desk_base_Metallic485A55F44CC10343466FCD87836E5122.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_woodenDesk/Textures/desk_desk_base_Metallic.uasset'
+[2018.01.13-11.27.11:169][ 43]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_woodenDesk/Textures/desk_desk_base_Metallic.uasset
+[2018.01.13-11.27.11:196][ 43]LogSavePackage: Save=15.71ms
+[2018.01.13-11.27.11:196][ 43]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/desk_desk_base_Mixed_AO2500AB4C42C49A70C3D36ABB7753A7A3.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_woodenDesk/Textures/desk_desk_base_Mixed_AO.uasset'
+[2018.01.13-11.27.11:198][ 43]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_woodenDesk/Textures/desk_desk_base_Mixed_AO.uasset
+[2018.01.13-11.27.11:237][ 43]LogSavePackage: Save=31.30ms
+[2018.01.13-11.27.11:237][ 43]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/desk_desk_base_Normal_DirectX791E5C6949A6E0A8A24EE890A0DE6D90.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_woodenDesk/Textures/desk_desk_base_Normal_DirectX.uasset'
+[2018.01.13-11.27.11:239][ 43]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_woodenDesk/Textures/desk_desk_base_Normal_DirectX.uasset
+[2018.01.13-11.27.11:253][ 43]LogSavePackage: Save=5.76ms
+[2018.01.13-11.27.11:253][ 43]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/desk_desk_base_RoughnessE36ADF574D5A070FF81F9A973C491CF5.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_woodenDesk/Textures/desk_desk_base_Roughness.uasset'
+[2018.01.13-11.27.11:254][ 43]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_woodenDesk/Textures/desk_desk_base_Roughness.uasset
+[2018.01.13-11.27.11:292][ 43]LogSavePackage: Save=30.08ms
+[2018.01.13-11.27.11:292][ 43]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/draws_Base_ColorBBFEB19B49664218EABDD68166B2D676.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_woodenDesk/Textures/draws_Base_Color.uasset'
+[2018.01.13-11.27.11:294][ 43]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_woodenDesk/Textures/draws_Base_Color.uasset
+[2018.01.13-11.27.11:308][ 43]LogSavePackage: Save=5.70ms
+[2018.01.13-11.27.11:308][ 43]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/draws_MetallicBF845F614346B17BAD415CBFE4B918ED.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_woodenDesk/Textures/draws_Metallic.uasset'
+[2018.01.13-11.27.11:309][ 43]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_woodenDesk/Textures/draws_Metallic.uasset
+[2018.01.13-11.27.11:331][ 43]LogSavePackage: Save=12.60ms
+[2018.01.13-11.27.11:331][ 43]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/draws_Mixed_AO4CC6EA12412B158CD61C3781C5112745.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_woodenDesk/Textures/draws_Mixed_AO.uasset'
+[2018.01.13-11.27.11:332][ 43]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_woodenDesk/Textures/draws_Mixed_AO.uasset
+[2018.01.13-11.27.11:369][ 43]LogSavePackage: Save=28.17ms
+[2018.01.13-11.27.11:369][ 43]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/draws_Normal_DirectX88CF07574AEE5705E170A89566CE8716.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_woodenDesk/Textures/draws_Normal_DirectX.uasset'
+[2018.01.13-11.27.11:371][ 43]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_woodenDesk/Textures/draws_Normal_DirectX.uasset
+[2018.01.13-11.27.11:384][ 43]LogSavePackage: Save=5.37ms
+[2018.01.13-11.27.11:384][ 43]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/draws_Roughness4C5209424B9101EDE5758F915556928D.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_woodenDesk/Textures/draws_Roughness.uasset'
+[2018.01.13-11.27.11:386][ 43]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_woodenDesk/Textures/draws_Roughness.uasset
+[2018.01.13-11.27.12:818][ 43]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/SearchableDesk1" FILE="../../../../../Project Liane/Liane/projectliane/projectliane/Content/Blueprints/SearchableDesk1.uasset" SILENT=true
+[2018.01.13-11.27.12:848][ 43]LogSavePackage: Save=23.79ms
+[2018.01.13-11.27.12:848][ 43]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/SearchableDesk1CEFF4ADB4C39CC8D5475659A1D66A09F.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Content/Blueprints/SearchableDesk1.uasset'
+[2018.01.13-11.27.12:850][ 43]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Content/Blueprints/SearchableDesk1.uasset
+[2018.01.13-11.28.55:641][  9]LogFbx:Warning: FBX version number for this version of the FBX SDK is 7.5.0
+
+
+[2018.01.13-11.38.26:488][ 30]Cmd: QUIT_EDITOR
+[2018.01.13-11.38.26:508][ 30]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2018.01.13-11.38.26:522][ 30]LogExit: Preparing to exit.
+[2018.01.13-11.38.27:333][ 30]LogDirectoryWatcher: A directory notification for 'D:/Project Liane/Liane/projectliane/projectliane/Content/' was aborted.
+[2018.01.13-11.38.27:359][ 30]LogExit: Editor shut down
+[2018.01.13-11.38.27:366][ 30]LogExit: Transaction tracking system shut down
+[2018.01.13-11.38.27:517][ 30]LogObj: Freed 0b from 0 cluster array pools.
+[2018.01.13-11.38.27:517][ 30]LogExit: Object subsystem successfully closed.
+[2018.01.13-11.38.27:537][ 30]LogD3D11RHI: Shutdown
+[2018.01.13-11.38.27:537][ 30]LogD3D11RHI: CleanupD3DDevice
+[2018.01.13-11.38.27:635][ 30]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.01.13-11.38.27:641][ 30]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (532)
+[2018.01.13-11.38.27:642][ 30]LogModuleManager: Shutting down and abandoning module TextureEditor (530)
+[2018.01.13-11.38.27:642][ 30]LogModuleManager: Shutting down and abandoning module MaterialEditor (528)
+[2018.01.13-11.38.27:642][ 30]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (526)
+[2018.01.13-11.38.27:642][ 30]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (524)
+[2018.01.13-11.38.27:642][ 30]LogModuleManager: Shutting down and abandoning module CrashTracker (522)
+[2018.01.13-11.38.27:642][ 30]LogModuleManager: Shutting down and abandoning module SceneOutliner (520)
+[2018.01.13-11.38.27:642][ 30]LogModuleManager: Shutting down and abandoning module AddContentDialog (518)
+[2018.01.13-11.38.27:642][ 30]LogDirectoryWatcher: A directory notification for 'D:/Epic Games/UE_4.16/FeaturePacks/' was aborted.
+[2018.01.13-11.38.27:642][ 30]LogModuleManager: Shutting down and abandoning module WidgetCarousel (517)
+[2018.01.13-11.38.27:642][ 30]LogModuleManager: Shutting down and abandoning module EditorWidgets (514)
+[2018.01.13-11.38.27:642][ 30]LogModuleManager: Shutting down and abandoning module CollectionManager (512)
+[2018.01.13-11.38.27:642][ 30]LogDirectoryWatcher: A directory notification for 'D:/Project Liane/Liane/projectliane/projectliane/Content/Collections/' was aborted.
+[2018.01.13-11.38.27:642][ 30]LogDirectoryWatcher: A directory notification for 'D:/Project Liane/Liane/projectliane/projectliane/Content/Developers/3DGuru/Collections/' was aborted.
+[2018.01.13-11.38.27:642][ 30]LogDirectoryWatcher: A directory notification for 'D:/Project Liane/Liane/projectliane/projectliane/Saved/Collections/' was aborted.
+[2018.01.13-11.38.27:642][ 30]LogModuleManager: Shutting down and abandoning module StatsViewer (510)
+[2018.01.13-11.38.27:642][ 30]LogModuleManager: Shutting down and abandoning module FoliageEdit (508)
+[2018.01.13-11.38.27:642][ 30]LogModuleManager: Shutting down and abandoning module LandscapeEditor (506)
+[2018.01.13-11.38.27:642][ 30]LogModuleManager: Shutting down and abandoning module MeshPaintMode (504)
+[2018.01.13-11.38.27:643][ 30]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (502)
+[2018.01.13-11.38.27:643][ 30]LogModuleManager: Shutting down and abandoning module ActorPickerMode (500)
+[2018.01.13-11.38.27:643][ 30]LogModuleManager: Shutting down and abandoning module GeometryMode (498)
+[2018.01.13-11.38.27:643][ 30]LogModuleManager: Shutting down and abandoning module TextureAlignMode (496)
+[2018.01.13-11.38.27:643][ 30]LogModuleManager: Shutting down and abandoning module BspMode (494)
+[2018.01.13-11.38.27:643][ 30]LogModuleManager: Shutting down and abandoning module HardwareSurvey (492)
+[2018.01.13-11.38.27:643][ 30]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (490)
+[2018.01.13-11.38.27:643][ 30]LogModuleManager: Shutting down and abandoning module AutomationWorker (488)
+[2018.01.13-11.38.27:643][ 30]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (486)
+[2018.01.13-11.38.27:643][ 30]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (484)
+[2018.01.13-11.38.27:643][ 30]LogModuleManager: Shutting down and abandoning module PlacementMode (483)
+[2018.01.13-11.38.27:643][ 30]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (480)
+[2018.01.13-11.38.27:643][ 30]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (478)
+[2018.01.13-11.38.27:643][ 30]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (476)
+[2018.01.13-11.38.27:643][ 30]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (474)
+[2018.01.13-11.38.27:643][ 30]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (472)
+[2018.01.13-11.38.27:643][ 30]LogModuleManager: Shutting down and abandoning module Media (471)
+[2018.01.13-11.38.27:643][ 30]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (468)
+[2018.01.13-11.38.27:643][ 30]LogModuleManager: Shutting down and abandoning module CharacterAI (466)
+[2018.01.13-11.38.27:643][ 30]LogModuleManager: Shutting down and abandoning module AudioCapture (464)
+[2018.01.13-11.38.27:643][ 30]LogModuleManager: Shutting down and abandoning module SequenceRecorder (463)
+[2018.01.13-11.38.27:643][ 30]LogModuleManager: Shutting down and abandoning module SmartSnapping (460)
+[2018.01.13-11.38.27:643][ 30]LogModuleManager: Shutting down and abandoning module SessionServices (458)
+[2018.01.13-11.38.27:643][ 30]LogModuleManager: Shutting down and abandoning module ViewportSnapping (456)
+[2018.01.13-11.38.27:643][ 30]LogModuleManager: Shutting down and abandoning module ViewportInteraction (454)
+[2018.01.13-11.38.27:643][ 30]LogModuleManager: Shutting down and abandoning module ClothPainter (452)
+[2018.01.13-11.38.27:643][ 30]LogModuleManager: Shutting down and abandoning module LogVisualizer (450)
+[2018.01.13-11.38.27:643][ 30]LogModuleManager: Shutting down and abandoning module IntroTutorials (448)
+[2018.01.13-11.38.27:643][ 30]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (447)
+[2018.01.13-11.38.27:643][ 30]LogModuleManager: Shutting down and abandoning module EditorLiveStreaming (444)
+[2018.01.13-11.38.27:643][ 30]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (442)
+[2018.01.13-11.38.27:643][ 30]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (440)
+[2018.01.13-11.38.27:643][ 30]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (438)
+[2018.01.13-11.38.27:643][ 30]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (437)
+[2018.01.13-11.38.28:103][ 30]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (434)
+[2018.01.13-11.38.28:103][ 30]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (432)
+[2018.01.13-11.38.28:103][ 30]LogModuleManager: Shutting down and abandoning module InputBindingEditor (430)
+[2018.01.13-11.38.28:103][ 30]LogModuleManager: Shutting down and abandoning module MergeActors (428)
+[2018.01.13-11.38.28:103][ 30]LogModuleManager: Shutting down and abandoning module SizeMap (426)
+[2018.01.13-11.38.28:103][ 30]LogModuleManager: Shutting down and abandoning module TreeMap (424)
+[2018.01.13-11.38.28:103][ 30]LogModuleManager: Shutting down and abandoning module ReferenceViewer (422)
+[2018.01.13-11.38.28:103][ 30]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (420)
+[2018.01.13-11.38.28:103][ 30]LogModuleManager: Shutting down and abandoning module LocalizationService (419)
+[2018.01.13-11.38.28:103][ 30]LogModuleManager: Shutting down and abandoning module HardwareTargeting (416)
+[2018.01.13-11.38.28:103][ 30]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (414)
+[2018.01.13-11.38.28:103][ 30]LogModuleManager: Shutting down and abandoning module UndoHistory (412)
+[2018.01.13-11.38.28:103][ 30]LogModuleManager: Shutting down and abandoning module UserFeedback (410)
+[2018.01.13-11.38.28:103][ 30]LogModuleManager: Shutting down and abandoning module XmlParser (408)
+[2018.01.13-11.38.28:103][ 30]LogModuleManager: Shutting down and abandoning module Blutility (406)
+[2018.01.13-11.38.28:103][ 30]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (404)
+[2018.01.13-11.38.28:104][ 30]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (403)
+[2018.01.13-11.38.28:104][ 30]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (400)
+[2018.01.13-11.38.28:104][ 30]LogModuleManager: Shutting down and abandoning module SettingsEditor (398)
+[2018.01.13-11.38.28:104][ 30]LogModuleManager: Shutting down and abandoning module ProjectLauncher (396)
+[2018.01.13-11.38.28:104][ 30]LogModuleManager: Shutting down and abandoning module SessionFrontend (394)
+[2018.01.13-11.38.28:104][ 30]LogModuleManager: Shutting down and abandoning module ProfilerClient (392)
+[2018.01.13-11.38.28:104][ 30]LogModuleManager: Shutting down and abandoning module DeviceManager (390)
+[2018.01.13-11.38.28:104][ 30]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (389)
+[2018.01.13-11.38.28:166][ 30]LogModuleManager: Shutting down and abandoning module AutomationController (386)
+[2018.01.13-11.38.28:166][ 30]LogModuleManager: Shutting down and abandoning module AutomationWindow (384)
+[2018.01.13-11.38.28:166][ 30]LogModuleManager: Shutting down and abandoning module Layers (382)
+[2018.01.13-11.38.28:166][ 30]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (380)
+[2018.01.13-11.38.28:166][ 30]LogModuleManager: Shutting down and abandoning module DetailCustomizations (378)
+[2018.01.13-11.38.28:166][ 30]LogModuleManager: Shutting down and abandoning module PackagesDialog (376)
+[2018.01.13-11.38.28:166][ 30]LogModuleManager: Shutting down and abandoning module Persona (374)
+[2018.01.13-11.38.28:166][ 30]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (373)
+[2018.01.13-11.38.28:166][ 30]LogModuleManager: Shutting down and abandoning module AnimGraph (371)
+[2018.01.13-11.38.28:166][ 30]LogModuleManager: Shutting down and abandoning module Kismet (368)
+[2018.01.13-11.38.28:168][ 30]LogModuleManager: Shutting down and abandoning module ClassViewer (366)
+[2018.01.13-11.38.28:168][ 30]LogModuleManager: Shutting down and abandoning module Toolbox (364)
+[2018.01.13-11.38.28:168][ 30]LogModuleManager: Shutting down and abandoning module ModuleUI (362)
+[2018.01.13-11.38.28:168][ 30]LogModuleManager: Shutting down and abandoning module MovieSceneTools (360)
+[2018.01.13-11.38.28:168][ 30]LogModuleManager: Shutting down and abandoning module OutputLog (358)
+[2018.01.13-11.38.28:168][ 30]LogModuleManager: Shutting down and abandoning module GammaUI (356)
+[2018.01.13-11.38.28:168][ 30]LogModuleManager: Shutting down and abandoning module Documentation (354)
+[2018.01.13-11.38.28:168][ 30]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (352)
+[2018.01.13-11.38.28:168][ 30]LogModuleManager: Shutting down and abandoning module MovieScene (350)
+[2018.01.13-11.38.28:168][ 30]LogModuleManager: Shutting down and abandoning module Niagara (348)
+[2018.01.13-11.38.28:168][ 30]LogModuleManager: Shutting down and abandoning module NiagaraEditor (347)
+[2018.01.13-11.38.28:168][ 30]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (344)
+[2018.01.13-11.38.28:168][ 30]LogModuleManager: Shutting down and abandoning module AnalyticsET (342)
+[2018.01.13-11.38.28:168][ 30]LogModuleManager: Shutting down and abandoning module PortalServices (340)
+[2018.01.13-11.38.28:168][ 30]LogModuleManager: Shutting down and abandoning module PortalRpc (338)
+[2018.01.13-11.38.28:168][ 30]LogModuleManager: Shutting down and abandoning module MessagingRpc (336)
+[2018.01.13-11.38.28:168][ 30]LogModuleManager: Shutting down and abandoning module AIModule (334)
+[2018.01.13-11.38.28:168][ 30]LogModuleManager: Shutting down and abandoning module GameplayDebugger (333)
+[2018.01.13-11.38.28:168][ 30]LogModuleManager: Shutting down and abandoning module AITestSuite (331)
+[2018.01.13-11.38.28:168][ 30]LogModuleManager: Shutting down and abandoning module ProfilerService (328)
+[2018.01.13-11.38.28:266][ 30]LogModuleManager: Shutting down and abandoning module TaskGraph (326)
+[2018.01.13-11.38.28:266][ 30]LogModuleManager: Shutting down and abandoning module SteamVRController (324)
+[2018.01.13-11.38.28:266][ 30]LogModuleManager: Shutting down and abandoning module SteamVR (322)
+[2018.01.13-11.38.28:266][ 30]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (320)
+[2018.01.13-11.38.28:266][ 30]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (318)
+[2018.01.13-11.38.28:266][ 30]LogModuleManager: Shutting down and abandoning module OculusLibrary (316)
+[2018.01.13-11.38.28:266][ 30]LogModuleManager: Shutting down and abandoning module OculusInput (314)
+[2018.01.13-11.38.28:266][ 30]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (312)
+[2018.01.13-11.38.28:266][ 30]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (310)
+[2018.01.13-11.38.28:266][ 30]LogModuleManager: Shutting down and abandoning module CableComponent (308)
+[2018.01.13-11.38.28:266][ 30]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (306)
+[2018.01.13-11.38.28:266][ 30]LogModuleManager: Shutting down and abandoning module AndroidPermission (304)
+[2018.01.13-11.38.28:266][ 30]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (300)
+[2018.01.13-11.38.28:266][ 30]LogModuleManager: Shutting down and abandoning module HTML5Networking (298)
+[2018.01.13-11.38.28:266][ 30]LogModuleManager: Shutting down and abandoning module AlembicImporter (296)
+[2018.01.13-11.38.28:266][ 30]LogModuleManager: Shutting down and abandoning module AlembicLibrary (295)
+[2018.01.13-11.38.28:266][ 30]LogModuleManager: Shutting down and abandoning module GeometryCache (294)
+[2018.01.13-11.38.28:266][ 30]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (293)
+[2018.01.13-11.38.28:266][ 30]LogModuleManager: Shutting down and abandoning module SuperSearchEditor (288)
+[2018.01.13-11.38.28:266][ 30]LogModuleManager: Shutting down and abandoning module SuperSearch (287)
+[2018.01.13-11.38.28:266][ 30]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (284)
+[2018.01.13-11.38.28:266][ 30]LogModuleManager: Shutting down and abandoning module PluginBrowser (282)
+[2018.01.13-11.38.28:266][ 30]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (280)
+[2018.01.13-11.38.28:266][ 30]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (278)
+[2018.01.13-11.38.28:266][ 30]LogModuleManager: Shutting down and abandoning module DesktopPlatform (277)
+[2018.01.13-11.38.28:266][ 30]LogModuleManager: Shutting down and abandoning module UObjectPlugin (274)
+[2018.01.13-11.38.28:266][ 30]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (272)
+[2018.01.13-11.38.28:266][ 30]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (270)
+[2018.01.13-11.38.28:266][ 30]LogModuleManager: Shutting down and abandoning module GitSourceControl (268)
+[2018.01.13-11.38.28:266][ 30]LogModuleManager: Shutting down and abandoning module SourceControl (267)
+[2018.01.13-11.38.28:267][ 30]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (264)
+[2018.01.13-11.38.28:267][ 30]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (262)
+[2018.01.13-11.38.28:267][ 30]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (260)
+[2018.01.13-11.38.28:267][ 30]LogModuleManager: Shutting down and abandoning module Paper2DEditor (258)
+[2018.01.13-11.38.28:267][ 30]LogModuleManager: Shutting down and abandoning module MeshPaint (257)
+[2018.01.13-11.38.28:267][ 30]LogModuleManager: Shutting down and abandoning module LevelEditor (255)
+[2018.01.13-11.38.28:267][ 30]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (254)
+[2018.01.13-11.38.28:267][ 30]LogModuleManager: Shutting down and abandoning module MainFrame (252)
+[2018.01.13-11.38.28:267][ 30]LogModuleManager: Shutting down and abandoning module HotReload (251)
+[2018.01.13-11.38.28:267][ 30]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (246)
+[2018.01.13-11.38.28:267][ 30]LogModuleManager: Shutting down and abandoning module PhysXVehicles (244)
+[2018.01.13-11.38.28:267][ 30]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (242)
+[2018.01.13-11.38.28:267][ 30]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (240)
+[2018.01.13-11.38.28:267][ 30]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (238)
+[2018.01.13-11.38.28:267][ 30]LogModuleManager: Shutting down and abandoning module UdpMessaging (236)
+[2018.01.13-11.38.28:368][ 30]LogModuleManager: Shutting down and abandoning module TcpMessaging (234)
+[2018.01.13-11.38.28:468][ 30]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (232)
+[2018.01.13-11.38.28:468][ 30]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (230)
+[2018.01.13-11.38.28:468][ 30]LogModuleManager: Shutting down and abandoning module FacialAnimation (228)
+[2018.01.13-11.38.28:468][ 30]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (226)
+[2018.01.13-11.38.28:468][ 30]LogModuleManager: Shutting down and abandoning module GraphEditor (225)
+[2018.01.13-11.38.28:468][ 30]LogModuleManager: Shutting down and abandoning module ContentBrowser (223)
+[2018.01.13-11.38.28:469][ 30]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (220)
+[2018.01.13-11.38.28:469][ 30]LogModuleManager: Shutting down and abandoning module Paper2D (218)
+[2018.01.13-11.38.28:469][ 30]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (216)
+[2018.01.13-11.38.28:469][ 30]LogModuleManager: Shutting down and abandoning module WmfMedia (214)
+[2018.01.13-11.38.28:472][ 30]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (212)
+[2018.01.13-11.38.28:473][ 30]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (210)
+[2018.01.13-11.38.28:473][ 30]LogModuleManager: Shutting down and abandoning module MediaAssets (208)
+[2018.01.13-11.38.28:473][ 30]LogModuleManager: Shutting down and abandoning module GameLiveStreaming (206)
+[2018.01.13-11.38.28:473][ 30]LogModuleManager: Shutting down and abandoning module VREditor (204)
+[2018.01.13-11.38.28:473][ 30]LogModuleManager: Shutting down and abandoning module StringTableEditor (202)
+[2018.01.13-11.38.28:473][ 30]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (200)
+[2018.01.13-11.38.28:473][ 30]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (198)
+[2018.01.13-11.38.28:473][ 30]LogModuleManager: Shutting down and abandoning module FunctionalTesting (196)
+[2018.01.13-11.38.28:473][ 30]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (194)
+[2018.01.13-11.38.28:473][ 30]LogModuleManager: Shutting down and abandoning module UMG (192)
+[2018.01.13-11.38.28:473][ 30]LogModuleManager: Shutting down and abandoning module UMGEditor (191)
+[2018.01.13-11.38.28:473][ 30]LogModuleManager: Shutting down and abandoning module Sequencer (190)
+[2018.01.13-11.38.28:473][ 30]LogModuleManager: Shutting down and abandoning module AssetTools (188)
+[2018.01.13-11.38.28:473][ 30]LogModuleManager: Shutting down and abandoning module MessageLog (187)
+[2018.01.13-11.38.28:473][ 30]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (186)
+[2018.01.13-11.38.28:473][ 30]LogModuleManager: Shutting down and abandoning module SlateReflector (180)
+[2018.01.13-11.38.28:473][ 30]LogModuleManager: Shutting down and abandoning module Slate (178)
+[2018.01.13-11.38.28:473][ 30]LogModuleManager: Shutting down and abandoning module EditorStyle (176)
+[2018.01.13-11.38.28:474][ 30]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (174)
+[2018.01.13-11.38.28:474][ 30]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (172)
+[2018.01.13-11.38.28:474][ 30]LogModuleManager: Shutting down and abandoning module XAudio2 (170)
+[2018.01.13-11.38.28:474][ 30]LogModuleManager: Shutting down and abandoning module Networking (168)
+[2018.01.13-11.38.28:474][ 30]LogModuleManager: Shutting down and abandoning module Core (164)
+[2018.01.13-11.38.28:474][ 30]LogModuleManager: Shutting down and abandoning module AssetRegistry (162)
+[2018.01.13-11.38.28:670][ 30]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2018.01.13-11.38.28:670][ 30]LogDirectoryWatcher: A directory notification for '../../../../../Project Liane/Liane/projectliane/projectliane/Content/' was aborted.
+[2018.01.13-11.38.28:670][ 30]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2018.01.13-11.38.28:670][ 30]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/GearVR/Content/' was aborted.
+[2018.01.13-11.38.28:674][ 30]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (161)
+[2018.01.13-11.38.28:674][ 30]LogModuleManager: Shutting down and abandoning module KismetCompiler (158)
+[2018.01.13-11.38.28:674][ 30]LogModuleManager: Shutting down and abandoning module LevelSequence (156)
+[2018.01.13-11.38.28:675][ 30]LogModuleManager: Shutting down and abandoning module PhysXFormats (154)
+[2018.01.13-11.38.28:675][ 30]LogModuleManager: Shutting down and abandoning module MeshUtilities (152)
+[2018.01.13-11.38.28:675][ 30]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (151)
+[2018.01.13-11.38.28:675][ 30]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (149)
+[2018.01.13-11.38.28:675][ 30]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (147)
+[2018.01.13-11.38.28:675][ 30]LogModuleManager: Shutting down and abandoning module DerivedDataCache (144)
+[2018.01.13-11.38.28:725][ 30]LogDerivedDataCache: Shutdown
+[2018.01.13-11.38.28:725][ 30]LogModuleManager: Shutting down and abandoning module TargetPlatform (142)
+[2018.01.13-11.38.28:725][ 30]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (141)
+[2018.01.13-11.38.28:725][ 30]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (139)
+[2018.01.13-11.38.28:725][ 30]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (137)
+[2018.01.13-11.38.28:725][ 30]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (135)
+[2018.01.13-11.38.28:725][ 30]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (133)
+[2018.01.13-11.38.28:725][ 30]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (131)
+[2018.01.13-11.38.28:725][ 30]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (129)
+[2018.01.13-11.38.28:725][ 30]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (127)
+[2018.01.13-11.38.28:725][ 30]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (125)
+[2018.01.13-11.38.28:725][ 30]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (123)
+[2018.01.13-11.38.28:725][ 30]LogModuleManager: Shutting down and abandoning module ImageWrapper (122)
+[2018.01.13-11.38.28:725][ 30]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (119)
+[2018.01.13-11.38.28:725][ 30]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (117)
+[2018.01.13-11.38.28:725][ 30]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (115)
+[2018.01.13-11.38.28:725][ 30]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (113)
+[2018.01.13-11.38.28:725][ 30]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (111)
+[2018.01.13-11.38.28:725][ 30]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (109)
+[2018.01.13-11.38.28:725][ 30]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (107)
+[2018.01.13-11.38.28:725][ 30]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (105)
+[2018.01.13-11.38.28:725][ 30]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (103)
+[2018.01.13-11.38.28:725][ 30]LogModuleManager: Shutting down and abandoning module Messaging (101)
+[2018.01.13-11.38.28:725][ 30]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (99)
+[2018.01.13-11.38.28:725][ 30]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (97)
+[2018.01.13-11.38.28:725][ 30]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (95)
+[2018.01.13-11.38.28:725][ 30]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (93)
+[2018.01.13-11.38.28:725][ 30]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (91)
+[2018.01.13-11.38.28:725][ 30]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (89)
+[2018.01.13-11.38.28:725][ 30]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (87)
+[2018.01.13-11.38.28:725][ 30]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (85)
+[2018.01.13-11.38.28:725][ 30]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (83)
+[2018.01.13-11.38.28:725][ 30]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (81)
+[2018.01.13-11.38.28:725][ 30]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (79)
+[2018.01.13-11.38.28:725][ 30]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (77)
+[2018.01.13-11.38.28:725][ 30]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (75)
+[2018.01.13-11.38.28:725][ 30]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (73)
+[2018.01.13-11.38.28:725][ 30]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (71)
+[2018.01.13-11.38.28:725][ 30]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (69)
+[2018.01.13-11.38.28:725][ 30]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (67)
+[2018.01.13-11.38.28:725][ 30]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (65)
+[2018.01.13-11.38.28:725][ 30]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (63)
+[2018.01.13-11.38.28:725][ 30]LogModuleManager: Shutting down and abandoning module InputCore (60)
+[2018.01.13-11.38.28:725][ 30]LogModuleManager: Shutting down and abandoning module Settings (58)
+[2018.01.13-11.38.28:725][ 30]LogModuleManager: Shutting down and abandoning module OculusRift (56)
+[2018.01.13-11.38.28:725][ 30]LogModuleManager: Shutting down and abandoning module GearVRController (54)
+[2018.01.13-11.38.28:725][ 30]LogModuleManager: Shutting down and abandoning module GearVR (52)
+[2018.01.13-11.38.28:725][ 30]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (50)
+[2018.01.13-11.38.28:725][ 30]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2018.01.13-11.38.28:725][ 30]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2018.01.13-11.38.28:725][ 30]LogOnline:Display: Unloading online subsystem: NULL
+[2018.01.13-11.38.28:725][ 30]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2018.01.13-11.38.28:725][ 30]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2018.01.13-11.38.28:725][ 30]LogHttp:Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.01.13-11.38.28:725][ 30]LogHttp:Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BECFA5491-4971-5084-9D2E-B5833E1E6171%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.16.3-3561208%2B%2B%2BUE4%2BRelease-4.16&UserID=709c02a842496b3883880182ae399911%7C4f60e203c4be4c5f998abc638ffc2ebf%7C221ee007-88fa-4364-bc17-c8cc1651df5a&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.01.13-11.38.28:751][ 30]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2018.01.13-11.38.28:752][ 30]LogModuleManager: Shutting down and abandoning module HTTPChunkInstaller (36)
+[2018.01.13-11.38.28:752][ 30]LogModuleManager: Shutting down and abandoning module AnimationModifiers (34)
+[2018.01.13-11.38.28:752][ 30]LogModuleManager: Shutting down and abandoning module PropertyEditor (33)
+[2018.01.13-11.38.28:752][ 30]LogModuleManager: Shutting down and abandoning module AudioEditor (30)
+[2018.01.13-11.38.28:752][ 30]LogModuleManager: Shutting down and abandoning module TextureCompressor (28)
+[2018.01.13-11.38.28:752][ 30]LogModuleManager: Shutting down and abandoning module ShaderCore (26)
+[2018.01.13-11.38.28:752][ 30]LogModuleManager: Shutting down and abandoning module Landscape (24)
+[2018.01.13-11.38.28:752][ 30]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (22)
+[2018.01.13-11.38.28:753][ 30]LogModuleManager: Shutting down and abandoning module OpenGLDrv (20)
+[2018.01.13-11.38.28:753][ 30]LogModuleManager: Shutting down and abandoning module D3D11RHI (18)
+[2018.01.13-11.38.28:753][ 30]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (16)
+[2018.01.13-11.38.28:753][ 30]LogModuleManager: Shutting down and abandoning module Renderer (14)
+[2018.01.13-11.38.28:753][ 30]LogModuleManager: Shutting down and abandoning module Engine (12)
+[2018.01.13-11.38.28:753][ 30]LogModuleManager: Shutting down and abandoning module CoreUObject (10)
+[2018.01.13-11.38.28:753][ 30]LogModuleManager: Shutting down and abandoning module NetworkFile (8)
+[2018.01.13-11.38.28:753][ 30]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.01.13-11.38.28:753][ 30]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.01.13-11.38.28:753][ 30]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.01.13-11.38.28:755][ 30]LogExit: Exiting.
+[2018.01.13-11.38.28:770][ 30]Log file closed, 01/13/18 03:38:28
