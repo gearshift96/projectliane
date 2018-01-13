@@ -546,3 +546,452 @@ LogInit: Object subsystem initialized
 [2018.01.13-17.52.59:488][557]LogSavePackage: Save=495.09ms
 [2018.01.13-17.52.59:488][557]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/ThirdPersonExampleMap_BuiltData057FBBCE40FED212869739B8FDE5A68A.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
 [2018.01.13-17.52.59:490][557]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset
+[2018.01.13-17.54.57:045][620]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../Project Liane/Art_assets/Hospital/Props/Seat/S_sofa_low.fbx)
+[2018.01.13-17.54.57:052][620]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2018.01.13-17.54.57:052][620]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2018.01.13-17.54.57:052][620]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2018.01.13-17.54.57:052][620]LogFbx: ItemName: NodeAttribute, ItemCount : 1
+[2018.01.13-17.54.57:052][620]LogFbx: ItemName: Model, ItemCount : 10
+[2018.01.13-17.54.57:052][620]LogFbx: ItemName: Material, ItemCount : 3
+[2018.01.13-17.54.57:052][620]LogFbx: ItemName: Geometry, ItemCount : 9
+[2018.01.13-17.54.57:055][620]LogFbx: Loading FBX Scene from ../../../../../Project Liane/Art_assets/Hospital/Props/Seat/S_sofa_low.fbx
+[2018.01.13-17.54.57:062][620]LogFbx: FBX Scene Loaded Succesfully
+[2018.01.13-17.54.59:335][620]LogFbx: Loading FBX Scene from ../../../../../Project Liane/Art_assets/Hospital/Props/Seat/S_sofa_low.fbx
+[2018.01.13-17.54.59:341][620]LogFbx: FBX Scene Loaded Succesfully
+[2018.01.13-17.54.59:343][620]LogLinker: Can't find file '/Game/Props/S_Sofa/Metal'
+[2018.01.13-17.54.59:343][620]LogLinker: Can't find file '/Game/Props/S_Sofa/Metal'
+[2018.01.13-17.54.59:346][620]LogMaterial: Missing cached shader map for material Metal, compiling. 
+[2018.01.13-17.54.59:358][620]LogLinker: Can't find file '/Game/Props/S_Sofa/Fabric_M'
+[2018.01.13-17.54.59:358][620]LogLinker: Can't find file '/Game/Props/S_Sofa/Fabric_M'
+[2018.01.13-17.54.59:370][620]LogMaterial: Missing cached shader map for material Fabric_M, compiling. 
+[2018.01.13-17.54.59:385][620]LogLinker: Can't find file '/Game/Props/S_Sofa/Wood_M'
+[2018.01.13-17.54.59:385][620]LogLinker: Can't find file '/Game/Props/S_Sofa/Wood_M'
+[2018.01.13-17.54.59:393][620]LogMaterial: Missing cached shader map for material Wood_M, compiling. 
+[2018.01.13-17.54.59:417][620]LogStaticMesh: Building static mesh S_sofa_low...
+[2018.01.13-17.54.59:427][620]LogStaticMesh: Built static mesh [0.01s] /Game/Props/S_Sofa/S_sofa_low.S_sofa_low
+[2018.01.13-17.55.16:957][221]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../Project Liane/Art_assets/Hospital/Props/Seat/S_sofa_low.fbx)
+[2018.01.13-17.55.16:961][221]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2018.01.13-17.55.16:961][221]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2018.01.13-17.55.16:961][221]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2018.01.13-17.55.16:961][221]LogFbx: ItemName: NodeAttribute, ItemCount : 1
+[2018.01.13-17.55.16:961][221]LogFbx: ItemName: Model, ItemCount : 10
+[2018.01.13-17.55.16:961][221]LogFbx: ItemName: Material, ItemCount : 3
+[2018.01.13-17.55.16:961][221]LogFbx: ItemName: Geometry, ItemCount : 9
+[2018.01.13-17.55.16:965][221]LogFbx: Loading FBX Scene from ../../../../../Project Liane/Art_assets/Hospital/Props/Seat/S_sofa_low.fbx
+[2018.01.13-17.55.16:971][221]LogFbx: FBX Scene Loaded Succesfully
+[2018.01.13-17.55.18:493][221]LogFbx: Loading FBX Scene from ../../../../../Project Liane/Art_assets/Hospital/Props/Seat/S_sofa_low.fbx
+[2018.01.13-17.55.18:499][221]LogFbx: FBX Scene Loaded Succesfully
+[2018.01.13-17.55.18:505][221]LogMaterial: Missing cached shader map for material Metal, compiling. 
+[2018.01.13-17.55.18:524][221]LogMaterial: Missing cached shader map for material Fabric_M, compiling. 
+[2018.01.13-17.55.18:549][221]LogMaterial: Missing cached shader map for material Wood_M, compiling. 
+[2018.01.13-17.55.18:577][221]LogStaticMesh: Building static mesh S_sofa_low...
+[2018.01.13-17.55.18:591][221]LogStaticMesh: Built static mesh [0.01s] /Game/Props/S_Sofa/S_sofa_low.S_sofa_low
+[2018.01.13-17.55.31:892][568]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../Project Liane/Art_assets/Hospital/Props/Seat/Textures/Fabric_T_Base_Color.png)
+[2018.01.13-17.55.32:055][568]LogTexture:Display: Building textures: Fabric_T_Base_Color (AutoDXT, 2048X2048)
+[2018.01.13-17.55.32:758][568]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../Project Liane/Art_assets/Hospital/Props/Seat/Textures/Fabric_T_Metallic.png)
+[2018.01.13-17.55.32:770][568]LogTexture:Display: Building textures: Fabric_T_Metallic (AutoDXT, 2048X2048)
+[2018.01.13-17.55.33:000][568]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../Project Liane/Art_assets/Hospital/Props/Seat/Textures/Fabric_T_Mixed_AO.png)
+[2018.01.13-17.55.33:022][568]LogTexture:Display: Building textures: Fabric_T_Mixed_AO (AutoDXT, 2048X2048)
+[2018.01.13-17.55.33:449][568]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../Project Liane/Art_assets/Hospital/Props/Seat/Textures/Fabric_T_Normal_OpenGL.png)
+[2018.01.13-17.55.33:603][568]LogTexture:Display: Building textures: Fabric_T_Normal_OpenGL (BC5, 2048X2048)
+[2018.01.13-17.55.33:867][568]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../Project Liane/Art_assets/Hospital/Props/Seat/Textures/Fabric_T_Roughness.png)
+[2018.01.13-17.55.33:892][568]LogTexture:Display: Building textures: Fabric_T_Roughness (AutoDXT, 2048X2048)
+[2018.01.13-17.55.34:567][568]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../Project Liane/Art_assets/Hospital/Props/Seat/Textures/Metal_T_Base_Color.png)
+[2018.01.13-17.55.34:729][568]LogTexture:Display: Building textures: Metal_T_Base_Color (AutoDXT, 2048X2048)
+[2018.01.13-17.55.35:079][568]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../Project Liane/Art_assets/Hospital/Props/Seat/Textures/Metal_T_Metallic.png)
+[2018.01.13-17.55.35:093][568]LogTexture:Display: Building textures: Metal_T_Metallic (AutoDXT, 2048X2048)
+[2018.01.13-17.55.35:339][568]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../Project Liane/Art_assets/Hospital/Props/Seat/Textures/Metal_T_Mixed_AO.png)
+[2018.01.13-17.55.35:359][568]LogTexture:Display: Building textures: Metal_T_Mixed_AO (AutoDXT, 2048X2048)
+[2018.01.13-17.55.35:736][568]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../Project Liane/Art_assets/Hospital/Props/Seat/Textures/Metal_T_Normal_OpenGL.png)
+[2018.01.13-17.55.35:892][568]LogTexture:Display: Building textures: Metal_T_Normal_OpenGL (BC5, 2048X2048)
+[2018.01.13-17.55.36:138][568]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../Project Liane/Art_assets/Hospital/Props/Seat/Textures/Metal_T_Roughness.png)
+[2018.01.13-17.55.36:152][568]LogTexture:Display: Building textures: Metal_T_Roughness (AutoDXT, 2048X2048)
+[2018.01.13-17.55.36:478][568]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../Project Liane/Art_assets/Hospital/Props/Seat/Textures/Wood_T_Base_Color.png)
+[2018.01.13-17.55.36:638][568]LogTexture:Display: Building textures: Wood_T_Base_Color (AutoDXT, 2048X2048)
+[2018.01.13-17.55.37:134][568]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../Project Liane/Art_assets/Hospital/Props/Seat/Textures/Wood_T_Metallic.png)
+[2018.01.13-17.55.37:146][568]LogTexture:Display: Building textures: Wood_T_Metallic (AutoDXT, 2048X2048)
+[2018.01.13-17.55.37:360][568]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../Project Liane/Art_assets/Hospital/Props/Seat/Textures/Wood_T_Mixed_AO.png)
+[2018.01.13-17.55.37:379][568]LogTexture:Display: Building textures: Wood_T_Mixed_AO (AutoDXT, 2048X2048)
+[2018.01.13-17.55.37:751][568]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../Project Liane/Art_assets/Hospital/Props/Seat/Textures/Wood_T_Normal_OpenGL.png)
+[2018.01.13-17.55.37:915][568]LogTexture:Display: Building textures: Wood_T_Normal_OpenGL (BC5, 2048X2048)
+[2018.01.13-17.55.38:173][568]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../Project Liane/Art_assets/Hospital/Props/Seat/Textures/Wood_T_Roughness.png)
+[2018.01.13-17.55.38:195][568]LogTexture:Display: Building textures: Wood_T_Roughness (AutoDXT, 2048X2048)
+[2018.01.13-17.55.43:342][821]LogMaterial: Missing cached shader map for material Fabric_M, compiling. 
+[2018.01.13-17.55.43:384][821]LogMaterial: Missing cached shader map for material Fabric_M, compiling. 
+[2018.01.13-17.55.43:393][821]LogMaterial: Missing cached shader map for material Fabric_M, compiling. 
+[2018.01.13-17.55.43:431][821]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.01.13-17.55.44:680][887]MaterialEditorStats: Info Base pass shader: 80 instructions
+[2018.01.13-17.55.44:680][887]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2018.01.13-17.55.44:680][887]MaterialEditorStats: Info Texture samplers: 1/16
+[2018.01.13-17.55.45:813][978]LogMaterial: Missing cached shader map for material Fabric_M, compiling. 
+[2018.01.13-17.55.46:560][ 20]MaterialEditorStats: Info Base pass shader: 78 instructions
+[2018.01.13-17.55.46:560][ 20]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2018.01.13-17.55.46:560][ 20]MaterialEditorStats: Info Texture samplers: 1/16
+[2018.01.13-17.55.50:627][304]LogMaterial: Missing cached shader map for material Fabric_M, compiling. 
+[2018.01.13-17.55.50:636][304]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2018.01.13-17.55.50:668][304]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2018.01.13-17.55.51:423][349]MaterialEditorStats: Info Base pass shader: 78 instructions
+[2018.01.13-17.55.51:423][349]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2018.01.13-17.55.51:423][349]MaterialEditorStats: Info Texture samplers: 1/16
+[2018.01.13-17.55.52:414][454]LogMaterial: Missing cached shader map for material Fabric_M, compiling. 
+[2018.01.13-17.55.52:422][454]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2018.01.13-17.55.53:234][503]MaterialEditorStats: Info Base pass shader: 81 instructions
+[2018.01.13-17.55.53:234][503]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2018.01.13-17.55.53:234][503]MaterialEditorStats: Info Texture samplers: 2/16
+[2018.01.13-17.55.53:234][503]MaterialEditorStats: Info User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.13-17.55.56:326][668]LogMaterial: Missing cached shader map for material Fabric_M, compiling. 
+[2018.01.13-17.55.56:337][668]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2018.01.13-17.55.56:366][668]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2018.01.13-17.55.56:371][668]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2018.01.13-17.55.57:184][711]MaterialEditorStats: Info Base pass shader: 81 instructions
+[2018.01.13-17.55.57:184][711]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2018.01.13-17.55.57:184][711]MaterialEditorStats: Info Texture samplers: 2/16
+[2018.01.13-17.55.57:184][711]MaterialEditorStats: Info User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.13-17.55.58:765][816]LogTexture:Display: Building textures: Fabric_T_Roughness (AutoDXT, 2048X2048)
+[2018.01.13-17.56.00:485][888]LogSavePackage: Save=64.96ms
+[2018.01.13-17.56.00:485][888]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/Fabric_T_Roughness0E86D6F1463D8DD8B8E8C3B107A22AE2.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_Sofa/Textures/Fabric_T_Roughness.uasset'
+[2018.01.13-17.56.00:487][888]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_Sofa/Textures/Fabric_T_Roughness.uasset
+[2018.01.13-17.56.05:537][258]LogMaterial: Missing cached shader map for material Fabric_M, compiling. 
+[2018.01.13-17.56.05:552][258]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2018.01.13-17.56.06:895][368]MaterialEditorStats: Info Base pass shader: 81 instructions
+[2018.01.13-17.56.06:895][368]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2018.01.13-17.56.06:895][368]MaterialEditorStats: Info Texture samplers: 3/16
+[2018.01.13-17.56.06:895][368]MaterialEditorStats: Info User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.13-17.56.09:886][595]LogMaterial: Missing cached shader map for material Fabric_M, compiling. 
+[2018.01.13-17.56.09:899][595]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2018.01.13-17.56.10:774][654]MaterialEditorStats: Info Base pass shader: 81 instructions
+[2018.01.13-17.56.10:774][654]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2018.01.13-17.56.10:774][654]MaterialEditorStats: Info Texture samplers: 3/16
+[2018.01.13-17.56.10:774][654]MaterialEditorStats: Info User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.13-17.56.15:161][ 23]LogMaterial: Missing cached shader map for material Fabric_M, compiling. 
+[2018.01.13-17.56.15:169][ 23]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_5, compiling. 
+[2018.01.13-17.56.15:200][ 23]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2018.01.13-17.56.15:203][ 23]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2018.01.13-17.56.15:207][ 23]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_5, compiling. 
+[2018.01.13-17.56.15:970][ 67]MaterialEditorStats: Info Base pass shader: 81 instructions
+[2018.01.13-17.56.15:970][ 67]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2018.01.13-17.56.15:970][ 67]MaterialEditorStats: Info Texture samplers: 3/16
+[2018.01.13-17.56.15:970][ 67]MaterialEditorStats: Info User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.13-17.56.16:112][ 75]LogMaterial: Missing cached shader map for material Fabric_M, compiling. 
+[2018.01.13-17.56.16:957][123]MaterialEditorStats: Info Base pass shader: 81 instructions
+[2018.01.13-17.56.16:957][123]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2018.01.13-17.56.16:957][123]MaterialEditorStats: Info Texture samplers: 3/16
+[2018.01.13-17.56.16:957][123]MaterialEditorStats: Info User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.13-17.56.17:632][189]LogMaterial: Missing cached shader map for material Fabric_M, compiling. 
+[2018.01.13-17.56.17:640][189]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_6, compiling. 
+[2018.01.13-17.56.17:668][189]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2018.01.13-17.56.17:673][189]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2018.01.13-17.56.17:677][189]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_6, compiling. 
+[2018.01.13-17.56.18:511][238]MaterialEditorStats: Info Base pass shader: 81 instructions
+[2018.01.13-17.56.18:511][238]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2018.01.13-17.56.18:511][238]MaterialEditorStats: Info Texture samplers: 3/16
+[2018.01.13-17.56.18:511][238]MaterialEditorStats: Info User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.13-17.56.19:567][348]LogMaterial: Missing cached shader map for material Fabric_M, compiling. 
+[2018.01.13-17.56.19:580][348]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_6, compiling. 
+[2018.01.13-17.56.20:641][429]MaterialEditorStats: Info Base pass shader: 87 instructions
+[2018.01.13-17.56.20:641][429]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2018.01.13-17.56.20:641][429]MaterialEditorStats: Info Texture samplers: 4/16
+[2018.01.13-17.56.20:641][429]MaterialEditorStats: Info User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.13-17.56.22:162][553]LogMaterial: Missing cached shader map for material Fabric_M, compiling. 
+[2018.01.13-17.56.22:170][553]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_7, compiling. 
+[2018.01.13-17.56.22:199][553]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2018.01.13-17.56.22:204][553]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2018.01.13-17.56.22:208][553]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_6, compiling. 
+[2018.01.13-17.56.22:212][553]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_7, compiling. 
+[2018.01.13-17.56.23:008][598]MaterialEditorStats: Info Base pass shader: 87 instructions
+[2018.01.13-17.56.23:008][598]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2018.01.13-17.56.23:008][598]MaterialEditorStats: Info Texture samplers: 4/16
+[2018.01.13-17.56.23:008][598]MaterialEditorStats: Info User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.13-17.56.28:609][100]LogMaterial: Missing cached shader map for material Fabric_M, compiling. 
+[2018.01.13-17.56.28:624][100]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_7, compiling. 
+[2018.01.13-17.56.29:486][149]MaterialEditorStats: Info Base pass shader: 89 instructions
+[2018.01.13-17.56.29:486][149]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2018.01.13-17.56.29:486][149]MaterialEditorStats: Info Texture samplers: 5/16
+[2018.01.13-17.56.29:486][149]MaterialEditorStats: Info User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.13-17.56.29:928][181]LogMaterialEditor: Saving and Compiling material Fabric_M
+[2018.01.13-17.56.30:300][181]LogMaterial: Missing cached shader map for material Fabric_M, compiling. 
+[2018.01.13-17.56.30:328][181]LogMaterial: Missing cached shader map for material Fabric_M, compiling. 
+[2018.01.13-17.56.30:349][181]LogMaterial: Missing cached shader map for material Fabric_M, compiling. 
+[2018.01.13-17.56.30:383][181]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Fabric_M, compiling. 
+[2018.01.13-17.56.30:963][181]TextureStreamingBuild:Display: Compiling optional shaders took 0.586 seconds.
+[2018.01.13-17.56.31:994][181]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Props/S_Sofa/Fabric_M" FILE="../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_Sofa/Fabric_M.uasset" SILENT=true
+[2018.01.13-17.56.32:009][181]LogSavePackage: Save=13.14ms
+[2018.01.13-17.56.32:009][181]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/Fabric_MEA5B624E457E6E7BC731F0A13E5E1C78.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_Sofa/Fabric_M.uasset'
+[2018.01.13-17.56.32:010][181]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_Sofa/Fabric_M.uasset
+[2018.01.13-17.56.32:015][181]MaterialEditorStats: Info Base pass shader: 89 instructions
+[2018.01.13-17.56.32:015][181]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2018.01.13-17.56.32:015][181]MaterialEditorStats: Info Texture samplers: 6/16
+[2018.01.13-17.56.32:015][181]MaterialEditorStats: Info User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.13-17.56.39:854][700]LogMaterial: Missing cached shader map for material Metal, compiling. 
+[2018.01.13-17.56.39:898][700]LogMaterial: Missing cached shader map for material Metal, compiling. 
+[2018.01.13-17.56.39:907][700]LogMaterial: Missing cached shader map for material Metal, compiling. 
+[2018.01.13-17.56.39:939][700]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.01.13-17.56.40:740][743]MaterialEditorStats: Info Base pass shader: 80 instructions
+[2018.01.13-17.56.40:740][743]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2018.01.13-17.56.40:740][743]MaterialEditorStats: Info Texture samplers: 1/16
+[2018.01.13-17.56.42:698][882]LogMaterial: Missing cached shader map for material Metal, compiling. 
+[2018.01.13-17.56.43:505][923]MaterialEditorStats: Info Base pass shader: 78 instructions
+[2018.01.13-17.56.43:506][923]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2018.01.13-17.56.43:506][923]MaterialEditorStats: Info Texture samplers: 1/16
+[2018.01.13-17.56.48:349][230]LogTexture:Display: Building textures: Metal_T_Roughness (AutoDXT, 2048X2048)
+[2018.01.13-17.56.49:694][303]LogSavePackage: Save=33.49ms
+[2018.01.13-17.56.49:694][303]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/Metal_T_Roughness44E030CC455E719EDE8E819EFDA4DFEC.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_Sofa/Textures/Metal_T_Roughness.uasset'
+[2018.01.13-17.56.49:695][303]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_Sofa/Textures/Metal_T_Roughness.uasset
+[2018.01.13-17.57.17:645][ 96]LogMaterial: Missing cached shader map for material Metal, compiling. 
+[2018.01.13-17.57.17:654][ 96]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_8, compiling. 
+[2018.01.13-17.57.17:682][ 96]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_8, compiling. 
+[2018.01.13-17.57.18:648][159]MaterialEditorStats: Info Base pass shader: 78 instructions
+[2018.01.13-17.57.18:648][159]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2018.01.13-17.57.18:648][159]MaterialEditorStats: Info Texture samplers: 1/16
+[2018.01.13-17.57.19:683][272]LogMaterial: Missing cached shader map for material Metal, compiling. 
+[2018.01.13-17.57.19:694][272]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_8, compiling. 
+[2018.01.13-17.57.20:483][319]MaterialEditorStats: Info Base pass shader: 81 instructions
+[2018.01.13-17.57.20:483][319]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2018.01.13-17.57.20:483][319]MaterialEditorStats: Info Texture samplers: 2/16
+[2018.01.13-17.57.20:483][319]MaterialEditorStats: Info User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.13-17.57.21:619][415]LogMaterial: Missing cached shader map for material Metal, compiling. 
+[2018.01.13-17.57.21:628][415]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_9, compiling. 
+[2018.01.13-17.57.21:658][415]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_8, compiling. 
+[2018.01.13-17.57.21:663][415]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_9, compiling. 
+[2018.01.13-17.57.23:307][550]LogMaterial: Missing cached shader map for material Metal, compiling. 
+[2018.01.13-17.57.23:323][550]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_9, compiling. 
+[2018.01.13-17.57.24:134][598]MaterialEditorStats: Info Base pass shader: 88 instructions
+[2018.01.13-17.57.24:134][598]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2018.01.13-17.57.24:134][598]MaterialEditorStats: Info Texture samplers: 3/16
+[2018.01.13-17.57.24:134][598]MaterialEditorStats: Info User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.13-17.57.25:985][763]LogMaterial: Missing cached shader map for material Metal, compiling. 
+[2018.01.13-17.57.25:993][763]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_10, compiling. 
+[2018.01.13-17.57.26:022][763]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_8, compiling. 
+[2018.01.13-17.57.26:026][763]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_9, compiling. 
+[2018.01.13-17.57.26:030][763]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_10, compiling. 
+[2018.01.13-17.57.26:823][812]MaterialEditorStats: Info Base pass shader: 88 instructions
+[2018.01.13-17.57.26:823][812]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2018.01.13-17.57.26:823][812]MaterialEditorStats: Info Texture samplers: 3/16
+[2018.01.13-17.57.26:823][812]MaterialEditorStats: Info User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.13-17.57.29:092][ 14]LogMaterial: Missing cached shader map for material Metal, compiling. 
+[2018.01.13-17.57.29:103][ 14]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_10, compiling. 
+[2018.01.13-17.57.29:936][ 63]MaterialEditorStats: Info Base pass shader: 88 instructions
+[2018.01.13-17.57.29:936][ 63]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2018.01.13-17.57.29:936][ 63]MaterialEditorStats: Info Texture samplers: 4/16
+[2018.01.13-17.57.29:936][ 63]MaterialEditorStats: Info User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.13-17.57.31:429][181]LogMaterial: Missing cached shader map for material Metal, compiling. 
+[2018.01.13-17.57.31:437][181]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_11, compiling. 
+[2018.01.13-17.57.31:466][181]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_8, compiling. 
+[2018.01.13-17.57.31:470][181]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_9, compiling. 
+[2018.01.13-17.57.31:473][181]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_10, compiling. 
+[2018.01.13-17.57.31:477][181]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_11, compiling. 
+[2018.01.13-17.57.32:233][225]MaterialEditorStats: Info Base pass shader: 88 instructions
+[2018.01.13-17.57.32:233][225]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2018.01.13-17.57.32:233][225]MaterialEditorStats: Info Texture samplers: 4/16
+[2018.01.13-17.57.32:233][225]MaterialEditorStats: Info User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.13-17.57.35:283][505]LogMaterial: Missing cached shader map for material Metal, compiling. 
+[2018.01.13-17.57.35:299][505]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_11, compiling. 
+[2018.01.13-17.57.36:147][555]MaterialEditorStats: Info Base pass shader: 94 instructions
+[2018.01.13-17.57.36:147][555]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2018.01.13-17.57.36:147][555]MaterialEditorStats: Info Texture samplers: 5/16
+[2018.01.13-17.57.36:147][555]MaterialEditorStats: Info User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.13-17.57.44:796][173]LogMaterial: Missing cached shader map for material Metal, compiling. 
+[2018.01.13-17.57.44:804][173]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_12, compiling. 
+[2018.01.13-17.57.44:837][173]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_8, compiling. 
+[2018.01.13-17.57.44:841][173]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_9, compiling. 
+[2018.01.13-17.57.44:844][173]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_10, compiling. 
+[2018.01.13-17.57.44:848][173]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_11, compiling. 
+[2018.01.13-17.57.44:853][173]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_12, compiling. 
+[2018.01.13-17.57.45:979][240]MaterialEditorStats: Info Base pass shader: 94 instructions
+[2018.01.13-17.57.45:979][240]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2018.01.13-17.57.45:979][240]MaterialEditorStats: Info Texture samplers: 5/16
+[2018.01.13-17.57.45:979][240]MaterialEditorStats: Info User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.13-17.57.52:324][795]LogMaterial: Missing cached shader map for material Metal, compiling. 
+[2018.01.13-17.57.52:338][795]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_12, compiling. 
+[2018.01.13-17.57.53:183][842]MaterialEditorStats: Info Base pass shader: 96 instructions
+[2018.01.13-17.57.53:183][842]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2018.01.13-17.57.53:183][842]MaterialEditorStats: Info Texture samplers: 6/16
+[2018.01.13-17.57.53:183][842]MaterialEditorStats: Info User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.13-17.57.53:488][864]LogMaterialEditor: Saving and Compiling material Metal
+[2018.01.13-17.57.53:875][864]LogMaterial: Missing cached shader map for material Metal, compiling. 
+[2018.01.13-17.57.53:906][864]LogMaterial: Missing cached shader map for material Metal, compiling. 
+[2018.01.13-17.57.53:926][864]LogMaterial: Missing cached shader map for material Metal, compiling. 
+[2018.01.13-17.57.53:959][864]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Metal, compiling. 
+[2018.01.13-17.57.54:549][864]TextureStreamingBuild:Display: Compiling optional shaders took 0.595 seconds.
+[2018.01.13-17.57.55:612][864]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Props/S_Sofa/Metal" FILE="../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_Sofa/Metal.uasset" SILENT=true
+[2018.01.13-17.57.55:631][864]LogSavePackage: Save=17.05ms
+[2018.01.13-17.57.55:631][864]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/Metal274F6D2944F315982B0CB1BD58202BFD.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_Sofa/Metal.uasset'
+[2018.01.13-17.57.55:632][864]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_Sofa/Metal.uasset
+[2018.01.13-17.57.55:637][864]MaterialEditorStats: Info Base pass shader: 96 instructions
+[2018.01.13-17.57.55:637][864]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2018.01.13-17.57.55:637][864]MaterialEditorStats: Info Texture samplers: 7/16
+[2018.01.13-17.57.55:637][864]MaterialEditorStats: Info User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.13-17.57.57:697][ 37]LogMaterial: Missing cached shader map for material Metal, compiling. 
+[2018.01.13-17.57.57:707][ 37]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_12, compiling. 
+[2018.01.13-17.57.58:561][ 85]MaterialEditorStats: Info Base pass shader: 96 instructions
+[2018.01.13-17.57.58:561][ 85]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2018.01.13-17.57.58:561][ 85]MaterialEditorStats: Info Texture samplers: 6/16
+[2018.01.13-17.57.58:561][ 85]MaterialEditorStats: Info User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.13-17.57.59:863][171]LogMaterialEditor: Saving and Compiling material Metal
+[2018.01.13-17.58.00:256][171]LogMaterial: Missing cached shader map for material Metal, compiling. 
+[2018.01.13-17.58.00:285][171]LogMaterial: Missing cached shader map for material Metal, compiling. 
+[2018.01.13-17.58.00:301][171]LogMaterial: Missing cached shader map for material Metal, compiling. 
+[2018.01.13-17.58.00:333][171]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Metal, compiling. 
+[2018.01.13-17.58.00:944][171]TextureStreamingBuild:Display: Compiling optional shaders took 0.616 seconds.
+[2018.01.13-17.58.01:992][171]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Props/S_Sofa/Metal" FILE="../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_Sofa/Metal.uasset" SILENT=true
+[2018.01.13-17.58.02:015][171]LogSavePackage: Save=13.32ms
+[2018.01.13-17.58.02:015][171]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/Metal72CE63B14F952B1430AB4895912F29D5.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_Sofa/Metal.uasset'
+[2018.01.13-17.58.02:016][171]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_Sofa/Metal.uasset
+[2018.01.13-17.58.02:020][171]MaterialEditorStats: Info Base pass shader: 96 instructions
+[2018.01.13-17.58.02:020][171]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2018.01.13-17.58.02:020][171]MaterialEditorStats: Info Texture samplers: 7/16
+[2018.01.13-17.58.02:020][171]MaterialEditorStats: Info User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.13-17.58.03:934][350]LogMaterial: Missing cached shader map for material Metal, compiling. 
+[2018.01.13-17.58.03:947][350]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_12, compiling. 
+[2018.01.13-17.58.04:795][398]MaterialEditorStats: Info Base pass shader: 96 instructions
+[2018.01.13-17.58.04:796][398]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2018.01.13-17.58.04:796][398]MaterialEditorStats: Info Texture samplers: 6/16
+[2018.01.13-17.58.04:796][398]MaterialEditorStats: Info User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.13-17.58.05:339][435]LogMaterialEditor: Saving and Compiling material Metal
+[2018.01.13-17.58.05:723][435]LogMaterial: Missing cached shader map for material Metal, compiling. 
+[2018.01.13-17.58.05:751][435]LogMaterial: Missing cached shader map for material Metal, compiling. 
+[2018.01.13-17.58.05:772][435]LogMaterial: Missing cached shader map for material Metal, compiling. 
+[2018.01.13-17.58.05:804][435]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Metal, compiling. 
+[2018.01.13-17.58.06:402][435]TextureStreamingBuild:Display: Compiling optional shaders took 0.603 seconds.
+[2018.01.13-17.58.07:442][435]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Props/S_Sofa/Metal" FILE="../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_Sofa/Metal.uasset" SILENT=true
+[2018.01.13-17.58.07:459][435]LogSavePackage: Save=15.50ms
+[2018.01.13-17.58.07:459][435]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/MetalCBB16D9D48E9416843EA52AD2DBCB26E.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_Sofa/Metal.uasset'
+[2018.01.13-17.58.07:461][435]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_Sofa/Metal.uasset
+[2018.01.13-17.58.07:466][435]MaterialEditorStats: Info Base pass shader: 96 instructions
+[2018.01.13-17.58.07:466][435]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2018.01.13-17.58.07:466][435]MaterialEditorStats: Info Texture samplers: 7/16
+[2018.01.13-17.58.07:466][435]MaterialEditorStats: Info User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.13-17.58.10:243][595]LogMaterial: Missing cached shader map for material Wood_M, compiling. 
+[2018.01.13-17.58.10:292][595]LogMaterial: Missing cached shader map for material Wood_M, compiling. 
+[2018.01.13-17.58.10:301][595]LogMaterial: Missing cached shader map for material Wood_M, compiling. 
+[2018.01.13-17.58.10:338][595]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.01.13-17.58.11:120][634]MaterialEditorStats: Info Base pass shader: 80 instructions
+[2018.01.13-17.58.11:120][634]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2018.01.13-17.58.11:120][634]MaterialEditorStats: Info Texture samplers: 1/16
+[2018.01.13-17.58.12:617][746]LogMaterial: Missing cached shader map for material Wood_M, compiling. 
+[2018.01.13-17.58.13:407][786]MaterialEditorStats: Info Base pass shader: 78 instructions
+[2018.01.13-17.58.13:407][786]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2018.01.13-17.58.13:407][786]MaterialEditorStats: Info Texture samplers: 1/16
+[2018.01.13-17.58.15:439][934]LogMaterial: Missing cached shader map for material Wood_M, compiling. 
+[2018.01.13-17.58.15:447][934]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_13, compiling. 
+[2018.01.13-17.58.15:473][934]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_13, compiling. 
+[2018.01.13-17.58.16:252][981]MaterialEditorStats: Info Base pass shader: 78 instructions
+[2018.01.13-17.58.16:252][981]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2018.01.13-17.58.16:252][981]MaterialEditorStats: Info Texture samplers: 1/16
+[2018.01.13-17.58.17:206][ 76]LogMaterial: Missing cached shader map for material Wood_M, compiling. 
+[2018.01.13-17.58.17:222][ 76]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_13, compiling. 
+[2018.01.13-17.58.18:017][124]MaterialEditorStats: Info Base pass shader: 81 instructions
+[2018.01.13-17.58.18:017][124]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2018.01.13-17.58.18:017][124]MaterialEditorStats: Info Texture samplers: 2/16
+[2018.01.13-17.58.18:017][124]MaterialEditorStats: Info User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.13-17.58.19:073][215]LogMaterial: Missing cached shader map for material Wood_M, compiling. 
+[2018.01.13-17.58.19:081][215]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_14, compiling. 
+[2018.01.13-17.58.19:110][215]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_13, compiling. 
+[2018.01.13-17.58.19:115][215]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_14, compiling. 
+[2018.01.13-17.58.19:931][262]MaterialEditorStats: Info Base pass shader: 81 instructions
+[2018.01.13-17.58.19:931][262]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2018.01.13-17.58.19:932][262]MaterialEditorStats: Info Texture samplers: 2/16
+[2018.01.13-17.58.19:932][262]MaterialEditorStats: Info User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.13-17.58.20:017][267]LogMaterial: Missing cached shader map for material Wood_M, compiling. 
+[2018.01.13-17.58.21:492][397]LogMaterial: Missing cached shader map for material Wood_M, compiling. 
+[2018.01.13-17.58.21:500][397]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_15, compiling. 
+[2018.01.13-17.58.21:532][397]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_13, compiling. 
+[2018.01.13-17.58.21:536][397]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_15, compiling. 
+[2018.01.13-17.58.22:478][458]MaterialEditorStats: Info Base pass shader: 81 instructions
+[2018.01.13-17.58.22:478][458]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2018.01.13-17.58.22:478][458]MaterialEditorStats: Info Texture samplers: 2/16
+[2018.01.13-17.58.22:478][458]MaterialEditorStats: Info User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.13-17.58.24:063][607]LogMaterial: Missing cached shader map for material Wood_M, compiling. 
+[2018.01.13-17.58.24:072][607]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_15, compiling. 
+[2018.01.13-17.58.25:196][687]LogMaterial: Missing cached shader map for material Wood_M, compiling. 
+[2018.01.13-17.58.25:206][687]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_16, compiling. 
+[2018.01.13-17.58.25:234][687]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_13, compiling. 
+[2018.01.13-17.58.25:237][687]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_15, compiling. 
+[2018.01.13-17.58.25:241][687]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_16, compiling. 
+[2018.01.13-17.58.27:333][874]MaterialEditorStats: Info Base pass shader: 81 instructions
+[2018.01.13-17.58.27:333][874]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2018.01.13-17.58.27:333][874]MaterialEditorStats: Info Texture samplers: 3/16
+[2018.01.13-17.58.27:333][874]MaterialEditorStats: Info User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.13-17.58.28:628][992]LogMaterial: Missing cached shader map for material Wood_M, compiling. 
+[2018.01.13-17.58.28:639][992]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_16, compiling. 
+[2018.01.13-17.58.29:801][ 82]MaterialEditorStats: Info Base pass shader: 87 instructions
+[2018.01.13-17.58.29:801][ 82]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2018.01.13-17.58.29:801][ 82]MaterialEditorStats: Info Texture samplers: 4/16
+[2018.01.13-17.58.29:801][ 82]MaterialEditorStats: Info User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.13-17.58.31:616][221]LogMaterial: Missing cached shader map for material Wood_M, compiling. 
+[2018.01.13-17.58.31:625][221]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_17, compiling. 
+[2018.01.13-17.58.31:654][221]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_13, compiling. 
+[2018.01.13-17.58.31:658][221]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_15, compiling. 
+[2018.01.13-17.58.31:662][221]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_16, compiling. 
+[2018.01.13-17.58.31:665][221]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_17, compiling. 
+[2018.01.13-17.58.32:476][268]MaterialEditorStats: Info Base pass shader: 87 instructions
+[2018.01.13-17.58.32:476][268]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2018.01.13-17.58.32:476][268]MaterialEditorStats: Info Texture samplers: 4/16
+[2018.01.13-17.58.32:476][268]MaterialEditorStats: Info User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.13-17.58.35:340][484]LogMaterial: Missing cached shader map for material Wood_M, compiling. 
+[2018.01.13-17.58.35:353][484]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_17, compiling. 
+[2018.01.13-17.58.36:150][530]LogMaterialEditor: Saving and Compiling material Wood_M
+[2018.01.13-17.58.36:539][530]LogMaterial: Missing cached shader map for material Wood_M, compiling. 
+[2018.01.13-17.58.36:567][530]LogMaterial: Missing cached shader map for material Wood_M, compiling. 
+[2018.01.13-17.58.36:583][530]LogMaterial: Missing cached shader map for material Wood_M, compiling. 
+[2018.01.13-17.58.36:618][530]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Wood_M, compiling. 
+[2018.01.13-17.58.37:207][530]TextureStreamingBuild:Display: Compiling optional shaders took 0.595 seconds.
+[2018.01.13-17.58.38:258][530]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Props/S_Sofa/Wood_M" FILE="../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_Sofa/Wood_M.uasset" SILENT=true
+[2018.01.13-17.58.38:274][530]LogSavePackage: Save=13.82ms
+[2018.01.13-17.58.38:274][530]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/Wood_M29C42E7740C7F2E0E8E7A09B0CCD4C01.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_Sofa/Wood_M.uasset'
+[2018.01.13-17.58.38:275][530]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_Sofa/Wood_M.uasset
+[2018.01.13-17.58.38:279][530]MaterialEditorStats: Info Base pass shader: 89 instructions
+[2018.01.13-17.58.38:279][530]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2018.01.13-17.58.38:279][530]MaterialEditorStats: Info Texture samplers: 6/16
+[2018.01.13-17.58.38:279][530]MaterialEditorStats: Info User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.13-17.58.39:684][622]LogMaterialEditor: Saving and Compiling material Wood_M
+[2018.01.13-17.58.39:694][622]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Props/S_Sofa/Wood_M" FILE="../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_Sofa/Wood_M.uasset" SILENT=true
+[2018.01.13-17.58.39:705][622]LogSavePackage: Save=5.80ms
+[2018.01.13-17.58.39:705][622]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/Wood_M6D798D994F8ACAD2CDF6F0A648962FB8.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_Sofa/Wood_M.uasset'
+[2018.01.13-17.58.39:706][622]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_Sofa/Wood_M.uasset
+[2018.01.13-17.58.42:854][821]LogActorFactory: Actor Factory created S_sofa_low
+[2018.01.13-17.58.43:300][848]LogActorFactory: Actor Factory created S_sofa_low
+[2018.01.13-17.59.06:875][336]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (S_sofa_low)
+[2018.01.13-17.59.07:388][361]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (S_sofa_low2)
+[2018.01.13-17.59.19:259][ 73]LogTemp: Repeting last play command: New Editor Window (PIE)
+[2018.01.13-17.59.23:179][ 73]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.01.13-17.59.23:179][ 73]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.13-17.59.23:179][ 73]PIE: New page: PIE session: ThirdPersonExampleMap (Jan 13, 2018, 1:59:23 AM)
+[2018.01.13-17.59.23:179][ 73]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.01.13-17.59.23:215][ 73]LogPlayLevel: PIE: StaticDuplicateObject took: (0.036023s)
+[2018.01.13-17.59.23:216][ 73]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.01.13-17.59.23:216][ 73]LogPlayLevel: PIE: World Init took: (0.000765s)
+[2018.01.13-17.59.23:217][ 73]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.037446s)
+[2018.01.13-17.59.23:250][ 73]LogInit: XAudio2 using 'Headphones (Strix Wireless Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.01.13-17.59.23:276][ 73]LogInit: FAudioDevice initialized.
+[2018.01.13-17.59.23:422][ 73]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.01.13-17.59.23:429][ 73]LogPhysics:Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.01.13-17.59.23:429][ 73]LogPhysics:Warning: ForeachShape(Convex): [/Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PostProcessVolume_1.BrushComponent0] ScaledElem[0] invalid
+[2018.01.13-17.59.23:434][ 73]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.01.13-09.59.23
+[2018.01.13-17.59.23:437][ 73]LogWorld: Bringing up level for play took: 0.010545
+[2018.01.13-17.59.23:459][ 73]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 11 classes and 0 folders.
+[2018.01.13-17.59.23:463][ 73]PIE: Info Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.719
+[2018.01.13-17.59.23:464][ 73]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.01.13-17.59.23:499][ 73]LogRenderer: Reallocating scene render targets to support 1292x756 NumSamples 1 (Frame:1).
+[2018.01.13-17.59.46:933][526]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.01.13-17.59.46:996][526]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.01.13-17.59.50:708][772]LogEditorViewport: Clicking on Actor (LMB): Master_BP_C (Master_BP2)
+[2018.01.13-18.00.25:660][ 59]Cmd: POLY TEXSCALE  UU=0.040000 VV=0.040000
+[2018.01.13-18.00.36:748][723]Cmd: POLY TEXSCALE  UU=0.200000 VV=0.200000
+[2018.01.13-18.00.43:504][133]Cmd: POLY TEXSCALE  UU=0.200000 VV=0.200000
+[2018.01.13-18.00.47:355][375]Cmd: POLY TEXSCALE  UU=0.200000 VV=0.200000
+[2018.01.13-18.00.54:924][833]Cmd: POLY TEXSCALE  UU=0.200000 VV=0.200000
+[2018.01.13-18.01.02:987][327]Cmd: POLY TEXSCALE  UU=0.200000 VV=0.200000
+[2018.01.13-18.01.09:674][745]LogMaterial: Missing cached shader map for material wall, compiling. 
+[2018.01.13-18.01.27:707][ 16]LogPhysics:Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.01.13-18.01.27:707][ 16]LogPhysics:Warning: ForeachShape(Convex): [/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PostProcessVolume_1.BrushComponent0] ScaledElem[0] invalid
+[2018.01.13-18.01.29:748][ 67]LogSavePackage: Save=965.75ms
+[2018.01.13-18.01.29:748][ 67]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/ThirdPersonExampleMapC79705BA40916D819451F687C0099F9C.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.01.13-18.01.29:750][ 67]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2018.01.13-18.01.30:293][ 67]LogSavePackage: Save=493.95ms
+[2018.01.13-18.01.30:294][ 67]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/ThirdPersonExampleMap_BuiltDataA7B3FFB64209BCD2C02321B3EF89854D.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2018.01.13-18.01.30:296][ 67]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset
+[2018.01.13-18.02.00:796][  0]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Props/S_Sofa/S_sofa_low" FILE="../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_Sofa/S_sofa_low.uasset" SILENT=true
+[2018.01.13-18.02.00:809][  0]LogSavePackage: Save=11.18ms
+[2018.01.13-18.02.00:809][  0]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/S_sofa_low704C30874FE5E732523BD1BDA49EF632.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_Sofa/S_sofa_low.uasset'
+[2018.01.13-18.02.00:810][  0]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_Sofa/S_sofa_low.uasset
