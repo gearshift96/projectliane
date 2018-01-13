@@ -8768,3 +8768,1235 @@ Exception rethrown at [0]:
 [2018.01.13-21.20.26:572][307]LogSavePackage: Save=568.33ms
 [2018.01.13-21.20.26:572][307]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/ThirdPersonExampleMap_BuiltData732057624FDE618C892456928B8C832F.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
 [2018.01.13-21.20.26:575][307]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset
+[2018.01.13-21.22.11:504][305]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sign_low2)
+[2018.01.13-21.22.37:747][213]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Environment/Vent/Vent_low" FILE="../../../../../Project Liane/Liane/projectliane/projectliane/Content/Environment/Vent/Vent_low.uasset" SILENT=true
+[2018.01.13-21.22.37:763][213]LogSavePackage: Save=10.48ms
+[2018.01.13-21.22.37:763][213]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/Vent_low33C0BB844498F853A437BFB296BE3683.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Content/Environment/Vent/Vent_low.uasset'
+[2018.01.13-21.22.37:768][213]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Content/Environment/Vent/Vent_low.uasset
+[2018.01.13-21.22.45:182][ 44]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Environment/Vent/Vent_low" FILE="../../../../../Project Liane/Liane/projectliane/projectliane/Content/Environment/Vent/Vent_low.uasset" SILENT=true
+[2018.01.13-21.22.45:192][ 44]LogSavePackage: Save=4.53ms
+[2018.01.13-21.22.45:192][ 44]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/Vent_low8596AAC04B7B83957971EEB42F42BE8A.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Content/Environment/Vent/Vent_low.uasset'
+[2018.01.13-21.22.45:192][ 44]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Content/Environment/Vent/Vent_low.uasset
+[2018.01.13-21.23.05:271][188]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Environment/S_Rails/RailPole" FILE="../../../../../Project Liane/Liane/projectliane/projectliane/Content/Environment/S_Rails/RailPole.uasset" SILENT=true
+[2018.01.13-21.23.05:288][188]LogSavePackage: Save=11.00ms
+[2018.01.13-21.23.05:288][188]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/RailPoleFC48AE9641F211E27AA0528FA96EF658.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Content/Environment/S_Rails/RailPole.uasset'
+[2018.01.13-21.23.05:290][188]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Content/Environment/S_Rails/RailPole.uasset
+[2018.01.13-21.23.31:267][ 75]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Props/S_exitSign/Exitsign_low" FILE="../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_exitSign/Exitsign_low.uasset" SILENT=true
+[2018.01.13-21.23.31:282][ 75]LogSavePackage: Save=10.45ms
+[2018.01.13-21.23.31:282][ 75]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/Exitsign_low629A2D1648651DE03C8C88B08366CDC4.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_exitSign/Exitsign_low.uasset'
+[2018.01.13-21.23.31:284][ 75]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_exitSign/Exitsign_low.uasset
+[2018.01.13-21.23.41:043][ 56]LogSavePackage: Save=1263.79ms
+[2018.01.13-21.23.41:043][ 56]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/ThirdPersonExampleMap9517AACA416AD846E69262944B25CF6F.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.01.13-21.23.41:045][ 56]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2018.01.13-21.23.41:637][ 56]LogSavePackage: Save=556.83ms
+[2018.01.13-21.23.41:637][ 56]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/ThirdPersonExampleMap_BuiltDataB3B6C643465C6C30C14E809179315E49.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2018.01.13-21.23.41:640][ 56]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset
+[2018.01.13-21.23.50:407][932]LogSavePackage: Save=1257.78ms
+[2018.01.13-21.23.50:407][932]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/ThirdPersonExampleMapA9B515AE45E9D8215695B48EC1238068.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.01.13-21.23.50:409][932]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2018.01.13-21.23.50:994][932]LogSavePackage: Save=551.64ms
+[2018.01.13-21.23.50:994][932]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/ThirdPersonExampleMap_BuiltData198FEC2349CA449C66ACDAB6991DB63E.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2018.01.13-21.23.50:997][932]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset
+[2018.01.13-21.23.53:516][229]MapCheck: New page: Map Check
+[2018.01.13-21.23.53:530][229]Cmd: MAP REBUILD ALLVISIBLE
+[2018.01.13-21.23.53:530][229]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2018.01.13-21.23.53:585][229]LogPhysics:Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.01.13-21.23.53:585][229]LogPhysics:Warning: ForeachShape(Convex): [/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PostProcessVolume_1.BrushComponent0] ScaledElem[0] invalid
+[2018.01.13-21.23.53:631][229]LogPhysics:Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.01.13-21.23.53:631][229]LogPhysics:Warning: ForeachShape(Convex): [/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PostProcessVolume_1.BrushComponent0] ScaledElem[0] invalid
+[2018.01.13-21.23.53:753][229]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2018.01.13-21.23.53:757][229]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy 10_-_Default, compiling. 
+[2018.01.13-21.23.53:762][229]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_AssetPlatform, compiling. 
+[2018.01.13-21.23.53:768][229]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy ERwall, compiling. 
+[2018.01.13-21.23.53:773][229]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy celiling_mat, compiling. 
+[2018.01.13-21.23.53:777][229]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy FloorM1, compiling. 
+[2018.01.13-21.23.53:781][229]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_18, compiling. 
+[2018.01.13-21.23.53:786][229]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Wall2, compiling. 
+[2018.01.13-21.23.53:790][229]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy FloorM2, compiling. 
+[2018.01.13-21.23.53:796][229]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy wall, compiling. 
+[2018.01.13-21.23.53:802][229]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy BasicShapeMaterial, compiling. 
+[2018.01.13-21.23.53:807][229]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_circuit, compiling. 
+[2018.01.13-21.23.53:813][229]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy TK_ObjectMat1, compiling. 
+[2018.01.13-21.23.53:819][229]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy BatterySignMat, compiling. 
+[2018.01.13-21.23.53:823][229]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy ElectricitySignMat, compiling. 
+[2018.01.13-21.23.53:829][229]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Door, compiling. 
+[2018.01.13-21.23.53:836][229]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Metal_Gold, compiling. 
+[2018.01.13-21.23.53:841][229]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy lights, compiling. 
+[2018.01.13-21.23.53:846][229]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_fluorsscentlight, compiling. 
+[2018.01.13-21.23.53:851][229]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy fast2A, compiling. 
+[2018.01.13-21.23.53:856][229]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Ventpaint, compiling. 
+[2018.01.13-21.23.53:860][229]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy TK_ObjectMat, compiling. 
+[2018.01.13-21.23.53:864][229]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Tech_Panel, compiling. 
+[2018.01.13-21.23.53:869][229]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy desk_base, compiling. 
+[2018.01.13-21.23.53:873][229]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy metal2, compiling. 
+[2018.01.13-21.23.53:877][229]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy draws, compiling. 
+[2018.01.13-21.23.53:883][229]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy SK_MannequinSG, compiling. 
+[2018.01.13-21.23.53:889][229]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Water_Lake, compiling. 
+[2018.01.13-21.23.53:894][229]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy DefaultTextMaterialOpaque, compiling. 
+[2018.01.13-21.23.53:899][229]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy inner, compiling. 
+[2018.01.13-21.23.53:904][229]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Box, compiling. 
+[2018.01.13-21.23.53:908][229]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Curcuits, compiling. 
+[2018.01.13-21.23.53:912][229]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Cover, compiling. 
+[2018.01.13-21.23.53:917][229]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy lens, compiling. 
+[2018.01.13-21.23.53:922][229]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy bulb, compiling. 
+[2018.01.13-21.23.53:927][229]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy whiteshine, compiling. 
+[2018.01.13-21.23.53:932][229]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy 01_-_Default, compiling. 
+[2018.01.13-21.23.53:937][229]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy metal, compiling. 
+[2018.01.13-21.23.53:943][229]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy plastic, compiling. 
+[2018.01.13-21.23.53:948][229]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy mat, compiling. 
+[2018.01.13-21.23.53:953][229]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_smoke_subUV, compiling. 
+[2018.01.13-21.23.53:957][229]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Radial_Gradient, compiling. 
+[2018.01.13-21.23.53:962][229]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Spark, compiling. 
+[2018.01.13-21.23.53:967][229]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy defaultPolygonShader, compiling. 
+[2018.01.13-21.23.53:972][229]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Moderndesk_M, compiling. 
+[2018.01.13-21.23.53:977][229]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Laptop, compiling. 
+[2018.01.13-21.23.53:983][229]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy keyboard1, compiling. 
+[2018.01.13-21.23.53:989][229]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Book_M, compiling. 
+[2018.01.13-21.23.53:995][229]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Glass, compiling. 
+[2018.01.13-21.23.54:001][229]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_ExitSign, compiling. 
+[2018.01.13-21.23.54:007][229]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_ModernStand, compiling. 
+[2018.01.13-21.23.54:014][229]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Fountain, compiling. 
+[2018.01.13-21.23.54:021][229]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Metal, compiling. 
+[2018.01.13-21.23.54:027][229]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Fabric_M, compiling. 
+[2018.01.13-21.23.54:033][229]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Wood_M, compiling. 
+[2018.01.13-21.23.54:039][229]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_TopCabBot, compiling. 
+[2018.01.13-21.23.54:045][229]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Sign2, compiling. 
+[2018.01.13-21.23.54:051][229]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy GlassNew, compiling. 
+[2018.01.13-21.23.54:058][229]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy GlassDark, compiling. 
+[2018.01.13-21.23.54:065][229]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Rail, compiling. 
+[2018.01.13-21.23.54:071][229]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Fence, compiling. 
+[2018.01.13-21.23.54:078][229]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Bodymat, compiling. 
+[2018.01.13-21.23.54:085][229]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Bodymat_ncl1_1, compiling. 
+[2018.01.13-21.23.54:092][229]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Shoesmat, compiling. 
+[2018.01.13-21.23.54:099][229]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Hairmat, compiling. 
+[2018.01.13-21.23.54:105][229]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Topmat, compiling. 
+[2018.01.13-21.23.54:112][229]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Bottommat, compiling. 
+[2018.01.13-21.23.54:119][229]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Eyewearmat, compiling. 
+[2018.01.13-21.23.54:127][229]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Hatmat, compiling. 
+[2018.01.13-21.23.54:133][229]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Bodymat, compiling. 
+[2018.01.13-21.23.54:140][229]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Glovemat, compiling. 
+[2018.01.13-21.23.54:147][229]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Eyewearmat, compiling. 
+[2018.01.13-21.23.54:154][229]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Shoesmat, compiling. 
+[2018.01.13-21.23.54:161][229]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Bottommat, compiling. 
+[2018.01.13-21.23.54:168][229]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Topmat, compiling. 
+[2018.01.13-21.23.54:175][229]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Hairmat, compiling. 
+[2018.01.13-21.23.54:181][229]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MatineeCam_mat, compiling. 
+[2018.01.13-21.23.57:578][229]TextureStreamingBuild:Display: Compiling optional shaders took 3.829 seconds.
+[2018.01.13-21.23.57:632][229]LogLevel:Display: Export Material TexCoord Scales took 0.053 seconds.
+[2018.01.13-21.23.57:660][229]TextureStreamingBuild:Display: Build Texture Streaming took 0.028 seconds.
+[2018.01.13-21.23.57:672][229]LightingResults: New page: Lighting Build - Jan 13, 2018, 5:23:57 AM
+[2018.01.13-21.23.57:682][229]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.01.13-21.23.57:685][229]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.01.13-21.23.57:685][229]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.01.13-21.23.57:686][229]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.01.13-21.23.57:686][229]LogSwarmInterface: [TryOpenConnection] Local Process ID is 15040
+[2018.01.13-21.24.02:197][229]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.01.13-21.24.02:197][229]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.01.13-21.24.02:197][229]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.01.13-21.24.02:197][229]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.01.13-21.24.02:197][229]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.01.13-21.24.02:299][229]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2018.01.13-21.24.02:299][229]MapCheck: New page: ThirdPersonExampleMap - Jan 13, 2018, 5:24:02 AM
+[2018.01.13-21.24.02:300][229]MapCheck:Error: Error WorldInfo_0 Maps need lighting rebuilt 
+[2018.01.13-21.24.02:380][229]MapCheck: Info Map check complete: 1 Error(s), 0 Warning(s), took 80.966ms to complete.
+[2018.01.13-21.24.02:402][229]LogEditorBuildUtils: Build time 0:08
+[2018.01.13-21.24.47:484][365]Job is a success!
+[2018.01.13-21.24.50:980][366]LogTexture:Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 2048X2048)
+[2018.01.13-21.24.50:980][366]LogTexture:Display: Building textures: LQ_Lightmap_0_1 (DXT1, 2048X2048)
+[2018.01.13-21.24.50:980][366]LogTexture:Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 1024X1024)
+[2018.01.13-21.24.50:980][366]LogTexture:Display: Building textures: LQ_Lightmap_0_2 (DXT1, 1024X1024)
+[2018.01.13-21.24.50:980][366]LogTexture:Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 1024X1024)
+[2018.01.13-21.24.50:980][366]LogTexture:Display: Building textures: LQ_Lightmap_0_3 (DXT1, 1024X1024)
+[2018.01.13-21.24.50:980][366]LogTexture:Display: Building textures: HQ_Lightmap0_4 (AutoDXT, 64X64)
+[2018.01.13-21.24.50:980][366]LogTexture:Display: Building textures: LQ_Lightmap_0_4 (DXT1, 64X64)
+[2018.01.13-21.24.51:195][366]LogTexture:Display: Building textures: ShadowMapTexture2D_59 (BGRA8, 1024X256)
+[2018.01.13-21.24.51:195][366]LogTexture:Display: Building textures: ShadowMapTexture2D_60 (G8, 32X32)
+[2018.01.13-21.24.51:195][366]LogTexture:Display: Building textures: ShadowMapTexture2D_58 (G8, 512X1024)
+[2018.01.13-21.24.51:195][366]LogTexture:Display: Building textures: ShadowMapTexture2D_57 (BGRA8, 1024X1024)
+[2018.01.13-21.24.51:214][366]Lightmass on DREAM3D: 48.0 sec total, 141 ms importing, 46 ms setup, 8.62 sec photons, 39.1 sec processing, 0 ms extra exporting [396/396 mappings]. Threads: 4:34 min total, 3:31 min processing.
+[2018.01.13-21.24.51:261][366]LogStaticLightingSystem: Illumination: 53.2 sec (2.51 sec encoding lightmaps, 218 ms encoding shadowmaps)
+[2018.01.13-21.24.51:261][366]LogStaticLightingSystem: Lightmap texture memory:  12.0 MB (2.0 MB streaming, 10.0 MB non-streaming), 8 textures
+[2018.01.13-21.24.51:261][366]LogStaticLightingSystem: Shadowmap texture memory: 7.3 MB (1.3 MB streaming, 6.0 MB non-streaming), 4 textures
+[2018.01.13-21.24.52:207][366]DumpUnbuiltLightIteractions
+[2018.01.13-21.24.52:207][366]Lights with unbuilt interactions: 0
+[2018.01.13-21.24.52:207][366]
+[2018.01.13-21.24.52:207][366]Primitives with unbuilt interactions: 0
+[2018.01.13-21.24.52:220][367]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.01.13-21.24.52:220][367]MapCheck: New page: ThirdPersonExampleMap - Jan 13, 2018, 5:24:52 AM
+[2018.01.13-21.24.52:574][367]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 353.964ms to complete.
+[2018.01.13-21.25.16:052][581]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2018.01.13-21.25.18:966][893]LogPhysics:Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.01.13-21.25.18:966][893]LogPhysics:Warning: ForeachShape(Convex): [/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PostProcessVolume_1.BrushComponent0] ScaledElem[0] invalid
+[2018.01.13-21.25.20:271][ 20]LogPhysics:Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.01.13-21.25.20:271][ 20]LogPhysics:Warning: ForeachShape(Convex): [/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PostProcessVolume_1.BrushComponent0] ScaledElem[0] invalid
+[2018.01.13-21.25.21:656][173]LogPhysics:Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.01.13-21.25.21:656][173]LogPhysics:Warning: ForeachShape(Convex): [/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PostProcessVolume_1.BrushComponent0] ScaledElem[0] invalid
+[2018.01.13-21.25.22:977][314]LogPhysics:Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.01.13-21.25.22:977][314]LogPhysics:Warning: ForeachShape(Convex): [/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PostProcessVolume_1.BrushComponent0] ScaledElem[0] invalid
+[2018.01.13-21.25.24:699][508]LogPhysics:Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.01.13-21.25.24:699][508]LogPhysics:Warning: ForeachShape(Convex): [/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PostProcessVolume_1.BrushComponent0] ScaledElem[0] invalid
+[2018.01.13-21.25.27:349][815]LogPhysics:Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.01.13-21.25.27:349][815]LogPhysics:Warning: ForeachShape(Convex): [/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PostProcessVolume_1.BrushComponent0] ScaledElem[0] invalid
+[2018.01.13-21.25.28:495][922]LogPhysics:Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.01.13-21.25.28:495][922]LogPhysics:Warning: ForeachShape(Convex): [/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PostProcessVolume_1.BrushComponent0] ScaledElem[0] invalid
+[2018.01.13-21.25.29:421][ 21]LogPhysics:Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.01.13-21.25.29:421][ 21]LogPhysics:Warning: ForeachShape(Convex): [/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PostProcessVolume_1.BrushComponent0] ScaledElem[0] invalid
+[2018.01.13-21.25.30:646][123]LogPhysics:Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.01.13-21.25.30:646][123]LogPhysics:Warning: ForeachShape(Convex): [/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PostProcessVolume_1.BrushComponent0] ScaledElem[0] invalid
+[2018.01.13-21.25.32:778][367]LogPhysics:Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.01.13-21.25.32:778][367]LogPhysics:Warning: ForeachShape(Convex): [/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PostProcessVolume_1.BrushComponent0] ScaledElem[0] invalid
+[2018.01.13-21.25.34:277][518]LogPhysics:Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.01.13-21.25.34:277][518]LogPhysics:Warning: ForeachShape(Convex): [/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PostProcessVolume_1.BrushComponent0] ScaledElem[0] invalid
+[2018.01.13-21.25.35:478][652]LogPhysics:Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.01.13-21.25.35:478][652]LogPhysics:Warning: ForeachShape(Convex): [/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PostProcessVolume_1.BrushComponent0] ScaledElem[0] invalid
+[2018.01.13-21.25.36:505][765]LogPhysics:Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.01.13-21.25.36:505][765]LogPhysics:Warning: ForeachShape(Convex): [/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PostProcessVolume_1.BrushComponent0] ScaledElem[0] invalid
+[2018.01.13-21.25.38:656][  9]LogPhysics:Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.01.13-21.25.38:656][  9]LogPhysics:Warning: ForeachShape(Convex): [/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PostProcessVolume_1.BrushComponent0] ScaledElem[0] invalid
+[2018.01.13-21.25.39:749][114]LogPhysics:Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.01.13-21.25.39:749][114]LogPhysics:Warning: ForeachShape(Convex): [/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PostProcessVolume_1.BrushComponent0] ScaledElem[0] invalid
+[2018.01.13-21.25.43:104][493]LogPhysics:Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.01.13-21.25.43:104][493]LogPhysics:Warning: ForeachShape(Convex): [/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PostProcessVolume_1.BrushComponent0] ScaledElem[0] invalid
+[2018.01.13-21.25.43:507][527]LogPhysics:Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.01.13-21.25.43:507][527]LogPhysics:Warning: ForeachShape(Convex): [/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PostProcessVolume_1.BrushComponent0] ScaledElem[0] invalid
+[2018.01.13-21.25.45:102][696]LogPhysics:Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.01.13-21.25.45:102][696]LogPhysics:Warning: ForeachShape(Convex): [/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PostProcessVolume_1.BrushComponent0] ScaledElem[0] invalid
+[2018.01.13-21.25.47:600][987]LogPhysics:Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.01.13-21.25.47:600][987]LogPhysics:Warning: ForeachShape(Convex): [/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PostProcessVolume_1.BrushComponent0] ScaledElem[0] invalid
+[2018.01.13-21.25.49:715][216]LogPhysics:Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.01.13-21.25.49:715][216]LogPhysics:Warning: ForeachShape(Convex): [/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PostProcessVolume_1.BrushComponent0] ScaledElem[0] invalid
+[2018.01.13-21.25.52:001][457]LogPhysics:Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.01.13-21.25.52:001][457]LogPhysics:Warning: ForeachShape(Convex): [/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PostProcessVolume_1.BrushComponent0] ScaledElem[0] invalid
+[2018.01.13-21.25.55:001][788]LogPhysics:Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.01.13-21.25.55:001][788]LogPhysics:Warning: ForeachShape(Convex): [/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PostProcessVolume_1.BrushComponent0] ScaledElem[0] invalid
+[2018.01.13-21.26.04:740][867]LogPhysics:Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.01.13-21.26.04:740][867]LogPhysics:Warning: ForeachShape(Convex): [/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PostProcessVolume_1.BrushComponent0] ScaledElem[0] invalid
+[2018.01.13-21.26.05:791][967]LogPhysics:Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.01.13-21.26.05:791][967]LogPhysics:Warning: ForeachShape(Convex): [/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PostProcessVolume_1.BrushComponent0] ScaledElem[0] invalid
+[2018.01.13-21.26.07:495][163]LogPhysics:Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.01.13-21.26.07:495][163]LogPhysics:Warning: ForeachShape(Convex): [/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PostProcessVolume_1.BrushComponent0] ScaledElem[0] invalid
+[2018.01.13-21.26.11:272][575]LogPhysics:Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.01.13-21.26.11:272][575]LogPhysics:Warning: ForeachShape(Convex): [/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PostProcessVolume_1.BrushComponent0] ScaledElem[0] invalid
+[2018.01.13-21.26.12:194][661]LogPhysics:Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.01.13-21.26.12:194][661]LogPhysics:Warning: ForeachShape(Convex): [/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PostProcessVolume_1.BrushComponent0] ScaledElem[0] invalid
+[2018.01.13-21.26.13:264][733]LogPhysics:Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.01.13-21.26.13:264][733]LogPhysics:Warning: ForeachShape(Convex): [/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PostProcessVolume_1.BrushComponent0] ScaledElem[0] invalid
+[2018.01.13-21.26.19:007][411]LogPhysics:Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.01.13-21.26.19:007][411]LogPhysics:Warning: ForeachShape(Convex): [/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PostProcessVolume_1.BrushComponent0] ScaledElem[0] invalid
+[2018.01.13-21.26.22:246][547]LogSavePackage: Save=1487.09ms
+[2018.01.13-21.26.22:246][547]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/ThirdPersonExampleMap6E27AD164859EE13DBBCA39AE45F6AF2.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.01.13-21.26.22:248][547]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2018.01.13-21.26.22:847][547]LogSavePackage: Save=541.31ms
+[2018.01.13-21.26.22:847][547]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/ThirdPersonExampleMap_BuiltData426E8356432E4DAA38ED4A9E9BAC7F8E.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2018.01.13-21.26.22:851][547]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset
+[2018.01.13-21.26.26:433][815]LogSavePackage: Save=1252.35ms
+[2018.01.13-21.26.26:433][815]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/ThirdPersonExampleMapCD28863C4B72E49802BA358A2987D0B1.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.01.13-21.26.26:434][815]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2018.01.13-21.26.27:018][815]LogSavePackage: Save=546.71ms
+[2018.01.13-21.26.27:018][815]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/ThirdPersonExampleMap_BuiltData26CF258A4F3422D1B56A239B596B0719.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2018.01.13-21.26.27:021][815]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset
+[2018.01.13-21.26.28:561][997]MapCheck: New page: Map Check
+[2018.01.13-21.26.28:574][997]Cmd: MAP REBUILD ALLVISIBLE
+[2018.01.13-21.26.28:574][997]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2018.01.13-21.26.28:633][997]LogPhysics:Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.01.13-21.26.28:633][997]LogPhysics:Warning: ForeachShape(Convex): [/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PostProcessVolume_1.BrushComponent0] ScaledElem[0] invalid
+[2018.01.13-21.26.28:686][997]LogPhysics:Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.01.13-21.26.28:686][997]LogPhysics:Warning: ForeachShape(Convex): [/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PostProcessVolume_1.BrushComponent0] ScaledElem[0] invalid
+[2018.01.13-21.26.28:840][997]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2018.01.13-21.26.28:845][997]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy 10_-_Default, compiling. 
+[2018.01.13-21.26.28:850][997]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_AssetPlatform, compiling. 
+[2018.01.13-21.26.28:854][997]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy ERwall, compiling. 
+[2018.01.13-21.26.28:859][997]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy celiling_mat, compiling. 
+[2018.01.13-21.26.28:864][997]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy FloorM1, compiling. 
+[2018.01.13-21.26.28:868][997]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_19, compiling. 
+[2018.01.13-21.26.28:873][997]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Wall2, compiling. 
+[2018.01.13-21.26.28:877][997]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy FloorM2, compiling. 
+[2018.01.13-21.26.28:882][997]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy wall, compiling. 
+[2018.01.13-21.26.28:887][997]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy BasicShapeMaterial, compiling. 
+[2018.01.13-21.26.28:892][997]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_circuit, compiling. 
+[2018.01.13-21.26.28:897][997]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy TK_ObjectMat1, compiling. 
+[2018.01.13-21.26.28:903][997]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy BatterySignMat, compiling. 
+[2018.01.13-21.26.28:908][997]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy ElectricitySignMat, compiling. 
+[2018.01.13-21.26.28:914][997]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Door, compiling. 
+[2018.01.13-21.26.28:920][997]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Metal_Gold, compiling. 
+[2018.01.13-21.26.28:926][997]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy lights, compiling. 
+[2018.01.13-21.26.28:931][997]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_fluorsscentlight, compiling. 
+[2018.01.13-21.26.28:937][997]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy fast2A, compiling. 
+[2018.01.13-21.26.28:944][997]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Ventpaint, compiling. 
+[2018.01.13-21.26.28:950][997]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy TK_ObjectMat, compiling. 
+[2018.01.13-21.26.28:954][997]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Tech_Panel, compiling. 
+[2018.01.13-21.26.28:960][997]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy desk_base, compiling. 
+[2018.01.13-21.26.28:965][997]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy metal2, compiling. 
+[2018.01.13-21.26.28:970][997]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy draws, compiling. 
+[2018.01.13-21.26.28:975][997]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy SK_MannequinSG, compiling. 
+[2018.01.13-21.26.28:981][997]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Water_Lake, compiling. 
+[2018.01.13-21.26.28:987][997]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy DefaultTextMaterialOpaque, compiling. 
+[2018.01.13-21.26.28:992][997]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy inner, compiling. 
+[2018.01.13-21.26.28:997][997]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Box, compiling. 
+[2018.01.13-21.26.29:002][997]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Curcuits, compiling. 
+[2018.01.13-21.26.29:008][997]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Cover, compiling. 
+[2018.01.13-21.26.29:014][997]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy lens, compiling. 
+[2018.01.13-21.26.29:019][997]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy bulb, compiling. 
+[2018.01.13-21.26.29:024][997]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy whiteshine, compiling. 
+[2018.01.13-21.26.29:028][997]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy 01_-_Default, compiling. 
+[2018.01.13-21.26.29:033][997]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy metal, compiling. 
+[2018.01.13-21.26.29:038][997]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy plastic, compiling. 
+[2018.01.13-21.26.29:042][997]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy mat, compiling. 
+[2018.01.13-21.26.29:047][997]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_smoke_subUV, compiling. 
+[2018.01.13-21.26.29:051][997]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Radial_Gradient, compiling. 
+[2018.01.13-21.26.29:055][997]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Spark, compiling. 
+[2018.01.13-21.26.29:061][997]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy defaultPolygonShader, compiling. 
+[2018.01.13-21.26.29:065][997]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Moderndesk_M, compiling. 
+[2018.01.13-21.26.29:071][997]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Laptop, compiling. 
+[2018.01.13-21.26.29:077][997]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy keyboard1, compiling. 
+[2018.01.13-21.26.29:083][997]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Book_M, compiling. 
+[2018.01.13-21.26.29:089][997]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Glass, compiling. 
+[2018.01.13-21.26.29:095][997]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_ExitSign, compiling. 
+[2018.01.13-21.26.29:101][997]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_ModernStand, compiling. 
+[2018.01.13-21.26.29:107][997]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Fountain, compiling. 
+[2018.01.13-21.26.29:113][997]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Metal, compiling. 
+[2018.01.13-21.26.29:119][997]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Fabric_M, compiling. 
+[2018.01.13-21.26.29:125][997]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Wood_M, compiling. 
+[2018.01.13-21.26.29:131][997]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_TopCabBot, compiling. 
+[2018.01.13-21.26.29:138][997]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Sign2, compiling. 
+[2018.01.13-21.26.29:143][997]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy GlassNew, compiling. 
+[2018.01.13-21.26.29:150][997]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy GlassDark, compiling. 
+[2018.01.13-21.26.29:157][997]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Rail, compiling. 
+[2018.01.13-21.26.29:164][997]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Fence, compiling. 
+[2018.01.13-21.26.29:170][997]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Bodymat, compiling. 
+[2018.01.13-21.26.29:178][997]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Bodymat_ncl1_1, compiling. 
+[2018.01.13-21.26.29:184][997]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Shoesmat, compiling. 
+[2018.01.13-21.26.29:192][997]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Hairmat, compiling. 
+[2018.01.13-21.26.29:199][997]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Topmat, compiling. 
+[2018.01.13-21.26.29:207][997]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Bottommat, compiling. 
+[2018.01.13-21.26.29:216][997]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Eyewearmat, compiling. 
+[2018.01.13-21.26.29:223][997]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Hatmat, compiling. 
+[2018.01.13-21.26.29:229][997]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Bodymat, compiling. 
+[2018.01.13-21.26.29:236][997]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Glovemat, compiling. 
+[2018.01.13-21.26.29:243][997]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Eyewearmat, compiling. 
+[2018.01.13-21.26.29:250][997]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Shoesmat, compiling. 
+[2018.01.13-21.26.29:257][997]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Bottommat, compiling. 
+[2018.01.13-21.26.29:263][997]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Topmat, compiling. 
+[2018.01.13-21.26.29:270][997]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Hairmat, compiling. 
+[2018.01.13-21.26.29:275][997]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MatineeCam_mat, compiling. 
+[2018.01.13-21.26.32:549][997]TextureStreamingBuild:Display: Compiling optional shaders took 3.712 seconds.
+[2018.01.13-21.26.32:589][997]LogLevel:Display: Export Material TexCoord Scales took 0.041 seconds.
+[2018.01.13-21.26.32:617][997]TextureStreamingBuild:Display: Build Texture Streaming took 0.028 seconds.
+[2018.01.13-21.26.32:628][997]LightingResults: New page: Lighting Build - Jan 13, 2018, 5:26:32 AM
+[2018.01.13-21.26.32:636][997]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.01.13-21.26.32:637][997]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.01.13-21.26.32:637][997]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.01.13-21.26.32:638][997]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.01.13-21.26.32:638][997]LogSwarmInterface: [TryOpenConnection] Local Process ID is 15040
+[2018.01.13-21.26.37:148][997]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.01.13-21.26.37:148][997]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.01.13-21.26.37:148][997]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.01.13-21.26.37:148][997]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.01.13-21.26.37:148][997]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.01.13-21.26.37:228][997]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2018.01.13-21.26.37:228][997]MapCheck: New page: ThirdPersonExampleMap - Jan 13, 2018, 5:26:37 AM
+[2018.01.13-21.26.37:229][997]MapCheck:Error: Error WorldInfo_0 Maps need lighting rebuilt 
+[2018.01.13-21.26.37:303][997]MapCheck: Info Map check complete: 1 Error(s), 0 Warning(s), took 75.507ms to complete.
+[2018.01.13-21.26.37:325][997]LogEditorBuildUtils: Build time 0:08
+[2018.01.13-21.27.30:318][871]Job is a success!
+[2018.01.13-21.27.33:491][872]LogTexture:Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 2048X2048)
+[2018.01.13-21.27.33:491][872]LogTexture:Display: Building textures: LQ_Lightmap_1_1 (DXT1, 2048X2048)
+[2018.01.13-21.27.33:491][872]LogTexture:Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 1024X1024)
+[2018.01.13-21.27.33:491][872]LogTexture:Display: Building textures: LQ_Lightmap_1_2 (DXT1, 1024X1024)
+[2018.01.13-21.27.33:491][872]LogTexture:Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 64X64)
+[2018.01.13-21.27.33:491][872]LogTexture:Display: Building textures: LQ_Lightmap_1_3 (DXT1, 64X64)
+[2018.01.13-21.27.33:700][872]LogTexture:Display: Building textures: ShadowMapTexture2D_63 (BGRA8, 1024X256)
+[2018.01.13-21.27.33:701][872]LogTexture:Display: Building textures: ShadowMapTexture2D_64 (G8, 32X32)
+[2018.01.13-21.27.33:701][872]LogTexture:Display: Building textures: ShadowMapTexture2D_62 (G8, 512X1024)
+[2018.01.13-21.27.33:701][872]LogTexture:Display: Building textures: ShadowMapTexture2D_61 (BGRA8, 1024X1024)
+[2018.01.13-21.27.33:728][872]Lightmass on DREAM3D: 55.9 sec total, 158 ms importing, 53 ms setup, 11.2 sec photons, 44.4 sec processing, 0 ms extra exporting [409/409 mappings]. Threads: 5:10 min total, 4:05 min processing.
+[2018.01.13-21.27.33:757][872]LogStaticLightingSystem: Illumination: 1:00 min (2.22 sec encoding lightmaps, 210 ms encoding shadowmaps)
+[2018.01.13-21.27.33:757][872]LogStaticLightingSystem: Lightmap texture memory:  10.0 MB (2.0 MB streaming, 8.0 MB non-streaming), 6 textures
+[2018.01.13-21.27.33:757][872]LogStaticLightingSystem: Shadowmap texture memory: 7.3 MB (1.3 MB streaming, 6.0 MB non-streaming), 4 textures
+[2018.01.13-21.27.34:159][872]DumpUnbuiltLightIteractions
+[2018.01.13-21.27.34:159][872]Lights with unbuilt interactions: 0
+[2018.01.13-21.27.34:159][872]
+[2018.01.13-21.27.34:159][872]Primitives with unbuilt interactions: 0
+[2018.01.13-21.27.34:169][873]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.01.13-21.27.34:169][873]MapCheck: New page: ThirdPersonExampleMap - Jan 13, 2018, 5:27:34 AM
+[2018.01.13-21.27.34:259][873]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 90.391ms to complete.
+[2018.01.13-21.34.40:644][152]LogTemp: Repeting last play command: New Editor Window (PIE)
+[2018.01.13-21.34.40:664][152]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.01.13-21.34.40:664][152]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.13-21.34.40:664][152]PIE: New page: PIE session: ThirdPersonExampleMap (Jan 13, 2018, 5:34:40 AM)
+[2018.01.13-21.34.40:665][152]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.01.13-21.34.40:704][152]LogPlayLevel: PIE: StaticDuplicateObject took: (0.039683s)
+[2018.01.13-21.34.40:705][152]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.01.13-21.34.40:705][152]LogPlayLevel: PIE: World Init took: (0.000649s)
+[2018.01.13-21.34.40:705][152]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.040628s)
+[2018.01.13-21.34.40:733][152]LogInit: XAudio2 using 'Headphones (Strix Wireless Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.01.13-21.34.40:761][152]LogInit: FAudioDevice initialized.
+[2018.01.13-21.34.40:810][152]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.01.13-21.34.40:815][152]LogPhysics:Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.01.13-21.34.40:815][152]LogPhysics:Warning: ForeachShape(Convex): [/Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PostProcessVolume_1.BrushComponent0] ScaledElem[0] invalid
+[2018.01.13-21.34.40:821][152]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.01.13-13.34.40
+[2018.01.13-21.34.40:823][152]LogWorld: Bringing up level for play took: 0.012538
+[2018.01.13-21.34.40:828][152]PIE: Info Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.083
+[2018.01.13-21.34.40:828][152]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.01.13-21.35.02:717][697]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.01.13-21.35.02:787][697]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.01.13-21.35.06:661][113]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight10)
+[2018.01.13-21.35.14:553][973]LogEditorViewport: Clicking on Actor (LMB): SphereReflectionCapture (SphereReflectionCapture3)
+[2018.01.13-21.35.22:205][477]LogEditorViewport: Clicking on Actor (LMB): SphereReflectionCapture (SphereReflectionCapture5)
+[2018.01.13-21.35.22:661][525]Cmd: DELETE
+[2018.01.13-21.35.22:661][525]Cmd: ACTOR DELETE
+[2018.01.13-21.35.22:662][525]LogEditorActor: Deleted Actor: SphereReflectionCapture
+[2018.01.13-21.35.22:672][525]LogEditorActor: Deleted 1 Actors (0.011 secs)
+[2018.01.13-21.35.24:403][731]LogEditorViewport: Clicking on Actor (LMB): SphereReflectionCapture (SphereReflectionCapture3)
+[2018.01.13-21.35.32:048][307]MapCheck: New page: Map Check
+[2018.01.13-21.35.32:061][307]Cmd: MAP REBUILD ALLVISIBLE
+[2018.01.13-21.35.32:062][307]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2018.01.13-21.35.32:120][307]LogPhysics:Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.01.13-21.35.32:120][307]LogPhysics:Warning: ForeachShape(Convex): [/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PostProcessVolume_1.BrushComponent0] ScaledElem[0] invalid
+[2018.01.13-21.35.32:167][307]LogPhysics:Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.01.13-21.35.32:167][307]LogPhysics:Warning: ForeachShape(Convex): [/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PostProcessVolume_1.BrushComponent0] ScaledElem[0] invalid
+[2018.01.13-21.35.32:278][307]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2018.01.13-21.35.32:283][307]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy 10_-_Default, compiling. 
+[2018.01.13-21.35.32:287][307]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_AssetPlatform, compiling. 
+[2018.01.13-21.35.32:292][307]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy ERwall, compiling. 
+[2018.01.13-21.35.32:297][307]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy celiling_mat, compiling. 
+[2018.01.13-21.35.32:301][307]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy FloorM1, compiling. 
+[2018.01.13-21.35.32:305][307]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_20, compiling. 
+[2018.01.13-21.35.32:310][307]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Wall2, compiling. 
+[2018.01.13-21.35.32:315][307]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy FloorM2, compiling. 
+[2018.01.13-21.35.32:320][307]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy wall, compiling. 
+[2018.01.13-21.35.32:326][307]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy BasicShapeMaterial, compiling. 
+[2018.01.13-21.35.32:331][307]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_circuit, compiling. 
+[2018.01.13-21.35.32:336][307]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy TK_ObjectMat1, compiling. 
+[2018.01.13-21.35.32:342][307]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy BatterySignMat, compiling. 
+[2018.01.13-21.35.32:347][307]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy ElectricitySignMat, compiling. 
+[2018.01.13-21.35.32:351][307]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Door, compiling. 
+[2018.01.13-21.35.32:357][307]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Metal_Gold, compiling. 
+[2018.01.13-21.35.32:363][307]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy lights, compiling. 
+[2018.01.13-21.35.32:368][307]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_fluorsscentlight, compiling. 
+[2018.01.13-21.35.32:374][307]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy fast2A, compiling. 
+[2018.01.13-21.35.32:380][307]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Ventpaint, compiling. 
+[2018.01.13-21.35.32:384][307]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy TK_ObjectMat, compiling. 
+[2018.01.13-21.35.32:389][307]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Tech_Panel, compiling. 
+[2018.01.13-21.35.32:394][307]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy desk_base, compiling. 
+[2018.01.13-21.35.32:399][307]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy metal2, compiling. 
+[2018.01.13-21.35.32:404][307]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy draws, compiling. 
+[2018.01.13-21.35.32:409][307]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy SK_MannequinSG, compiling. 
+[2018.01.13-21.35.32:415][307]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Water_Lake, compiling. 
+[2018.01.13-21.35.32:421][307]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy DefaultTextMaterialOpaque, compiling. 
+[2018.01.13-21.35.32:426][307]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy inner, compiling. 
+[2018.01.13-21.35.32:433][307]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Box, compiling. 
+[2018.01.13-21.35.32:439][307]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Curcuits, compiling. 
+[2018.01.13-21.35.32:445][307]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Cover, compiling. 
+[2018.01.13-21.35.32:451][307]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy lens, compiling. 
+[2018.01.13-21.35.32:457][307]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy bulb, compiling. 
+[2018.01.13-21.35.32:462][307]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy whiteshine, compiling. 
+[2018.01.13-21.35.32:467][307]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy 01_-_Default, compiling. 
+[2018.01.13-21.35.32:473][307]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy metal, compiling. 
+[2018.01.13-21.35.32:478][307]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy plastic, compiling. 
+[2018.01.13-21.35.32:484][307]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy mat, compiling. 
+[2018.01.13-21.35.32:490][307]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_smoke_subUV, compiling. 
+[2018.01.13-21.35.32:495][307]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Radial_Gradient, compiling. 
+[2018.01.13-21.35.32:499][307]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Spark, compiling. 
+[2018.01.13-21.35.32:504][307]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy defaultPolygonShader, compiling. 
+[2018.01.13-21.35.32:511][307]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Moderndesk_M, compiling. 
+[2018.01.13-21.35.32:517][307]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Laptop, compiling. 
+[2018.01.13-21.35.32:523][307]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy keyboard1, compiling. 
+[2018.01.13-21.35.32:529][307]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Book_M, compiling. 
+[2018.01.13-21.35.32:535][307]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Glass, compiling. 
+[2018.01.13-21.35.32:542][307]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_ExitSign, compiling. 
+[2018.01.13-21.35.32:549][307]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_ModernStand, compiling. 
+[2018.01.13-21.35.32:555][307]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Fountain, compiling. 
+[2018.01.13-21.35.32:562][307]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Metal, compiling. 
+[2018.01.13-21.35.32:569][307]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Fabric_M, compiling. 
+[2018.01.13-21.35.32:575][307]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Wood_M, compiling. 
+[2018.01.13-21.35.32:582][307]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_TopCabBot, compiling. 
+[2018.01.13-21.35.32:590][307]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Sign2, compiling. 
+[2018.01.13-21.35.32:597][307]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy GlassNew, compiling. 
+[2018.01.13-21.35.32:604][307]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy GlassDark, compiling. 
+[2018.01.13-21.35.32:612][307]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Rail, compiling. 
+[2018.01.13-21.35.32:618][307]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Fence, compiling. 
+[2018.01.13-21.35.32:625][307]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Bodymat, compiling. 
+[2018.01.13-21.35.32:632][307]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Bodymat_ncl1_1, compiling. 
+[2018.01.13-21.35.32:640][307]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Shoesmat, compiling. 
+[2018.01.13-21.35.32:648][307]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Hairmat, compiling. 
+[2018.01.13-21.35.32:655][307]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Topmat, compiling. 
+[2018.01.13-21.35.32:662][307]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Bottommat, compiling. 
+[2018.01.13-21.35.32:670][307]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Eyewearmat, compiling. 
+[2018.01.13-21.35.32:676][307]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Hatmat, compiling. 
+[2018.01.13-21.35.32:683][307]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Bodymat, compiling. 
+[2018.01.13-21.35.32:690][307]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Glovemat, compiling. 
+[2018.01.13-21.35.32:697][307]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Eyewearmat, compiling. 
+[2018.01.13-21.35.32:704][307]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Shoesmat, compiling. 
+[2018.01.13-21.35.32:712][307]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Bottommat, compiling. 
+[2018.01.13-21.35.32:718][307]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Topmat, compiling. 
+[2018.01.13-21.35.32:725][307]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Hairmat, compiling. 
+[2018.01.13-21.35.32:732][307]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MatineeCam_mat, compiling. 
+[2018.01.13-21.35.36:018][307]TextureStreamingBuild:Display: Compiling optional shaders took 3.744 seconds.
+[2018.01.13-21.35.36:070][307]LogLevel:Display: Export Material TexCoord Scales took 0.052 seconds.
+[2018.01.13-21.35.36:098][307]TextureStreamingBuild:Display: Build Texture Streaming took 0.028 seconds.
+[2018.01.13-21.35.36:109][307]LightingResults: New page: Lighting Build - Jan 13, 2018, 5:35:36 AM
+[2018.01.13-21.35.36:117][307]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.01.13-21.35.36:119][307]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.01.13-21.35.36:119][307]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.01.13-21.35.36:119][307]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.01.13-21.35.36:119][307]LogSwarmInterface: [TryOpenConnection] Local Process ID is 15040
+[2018.01.13-21.35.40:629][307]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.01.13-21.35.40:629][307]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.01.13-21.35.40:629][307]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.01.13-21.35.40:629][307]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.01.13-21.35.40:629][307]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.01.13-21.35.40:712][307]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2018.01.13-21.35.40:712][307]MapCheck: New page: ThirdPersonExampleMap - Jan 13, 2018, 5:35:40 AM
+[2018.01.13-21.35.40:714][307]MapCheck:Error: Error WorldInfo_0 Maps need lighting rebuilt 
+[2018.01.13-21.35.40:790][307]MapCheck: Info Map check complete: 1 Error(s), 0 Warning(s), took 77.776ms to complete.
+[2018.01.13-21.35.40:812][307]LogEditorBuildUtils: Build time 0:08
+[2018.01.13-21.36.27:082][888]Job is a success!
+[2018.01.13-21.36.30:365][889]LogTexture:Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 2048X2048)
+[2018.01.13-21.36.30:365][889]LogTexture:Display: Building textures: LQ_Lightmap_0_1 (DXT1, 2048X2048)
+[2018.01.13-21.36.30:365][889]LogTexture:Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 1024X1024)
+[2018.01.13-21.36.30:365][889]LogTexture:Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 64X64)
+[2018.01.13-21.36.30:365][889]LogTexture:Display: Building textures: LQ_Lightmap_0_3 (DXT1, 64X64)
+[2018.01.13-21.36.30:365][889]LogTexture:Display: Building textures: LQ_Lightmap_0_2 (DXT1, 1024X1024)
+[2018.01.13-21.36.30:586][889]LogTexture:Display: Building textures: ShadowMapTexture2D_67 (BGRA8, 1024X256)
+[2018.01.13-21.36.30:586][889]LogTexture:Display: Building textures: ShadowMapTexture2D_68 (G8, 32X32)
+[2018.01.13-21.36.30:586][889]LogTexture:Display: Building textures: ShadowMapTexture2D_66 (G8, 512X1024)
+[2018.01.13-21.36.30:586][889]LogTexture:Display: Building textures: ShadowMapTexture2D_65 (BGRA8, 1024X1024)
+[2018.01.13-21.36.30:604][889]Lightmass on DREAM3D: 49.2 sec total, 164 ms importing, 54 ms setup, 11.0 sec photons, 37.9 sec processing, 0 ms extra exporting [409/409 mappings]. Threads: 4:25 min total, 3:24 min processing.
+[2018.01.13-21.36.30:650][889]LogStaticLightingSystem: Illumination: 54.2 sec (2.31 sec encoding lightmaps, 221 ms encoding shadowmaps)
+[2018.01.13-21.36.30:650][889]LogStaticLightingSystem: Lightmap texture memory:  10.0 MB (2.0 MB streaming, 8.0 MB non-streaming), 6 textures
+[2018.01.13-21.36.30:650][889]LogStaticLightingSystem: Shadowmap texture memory: 7.3 MB (1.3 MB streaming, 6.0 MB non-streaming), 4 textures
+[2018.01.13-21.36.31:640][889]DumpUnbuiltLightIteractions
+[2018.01.13-21.36.31:640][889]Lights with unbuilt interactions: 0
+[2018.01.13-21.36.31:640][889]
+[2018.01.13-21.36.31:640][889]Primitives with unbuilt interactions: 0
+[2018.01.13-21.36.31:649][890]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.01.13-21.36.31:649][890]MapCheck: New page: ThirdPersonExampleMap - Jan 13, 2018, 5:36:31 AM
+[2018.01.13-21.36.32:050][890]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 401.31ms to complete.
+[2018.01.13-21.36.57:784][963]LogSavePackage: Save=1358.71ms
+[2018.01.13-21.36.57:784][963]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/ThirdPersonExampleMap_Auto18C3E235148E09B5CBDC6158C781230DA.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto1.umap'
+[2018.01.13-21.36.57:785][963]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto1.umap
+[2018.01.13-21.36.57:788][963]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 1.384
+[2018.01.13-21.36.57:788][963]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.384
+[2018.01.13-21.36.57:790][963]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData] ([1] browsable assets)...
+[2018.01.13-21.36.57:790][963]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData]
+[2018.01.13-21.36.57:856][963]LogSavePackage: Save=45.75ms
+[2018.01.13-21.36.57:856][963]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/ThirdPersonExampleMap_BuiltData_Auto160B1C4A943EED9CC9FE233AF2AF69264.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData_Auto1.uasset'
+[2018.01.13-21.36.57:857][963]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData_Auto1.uasset
+[2018.01.13-21.36.57:857][963]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Props/Signs/Sign2Textures/Sign_low_01_-_Default_BaseColor] ([1] browsable assets)...
+[2018.01.13-21.36.57:862][963]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Props/Signs/Sign2Textures/Sign_low_01_-_Default_BaseColor.Sign_low_01_-_Default_BaseColor]
+[2018.01.13-21.36.57:862][963]OBJ SavePackage: Finished generating thumbnails for package [/Game/Props/Signs/Sign2Textures/Sign_low_01_-_Default_BaseColor]
+[2018.01.13-21.36.57:875][963]LogSavePackage: Save=11.39ms
+[2018.01.13-21.36.57:875][963]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/Sign_low_01_-_Default_BaseColor_Auto10F4394D640E9E9BDB149FAA73BEC0AA8.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/Autosaves/Game/Props/Signs/Sign2Textures/Sign_low_01_-_Default_BaseColor_Auto1.uasset'
+[2018.01.13-21.36.57:875][963]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Saved/Autosaves/Game/Props/Signs/Sign2Textures/Sign_low_01_-_Default_BaseColor_Auto1.uasset
+[2018.01.13-21.36.57:876][963]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Props/Signs/Sign2Textures/Sign_low_01_-_Default_Emissive] ([1] browsable assets)...
+[2018.01.13-21.36.57:880][963]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Props/Signs/Sign2Textures/Sign_low_01_-_Default_Emissive.Sign_low_01_-_Default_Emissive]
+[2018.01.13-21.36.57:880][963]OBJ SavePackage: Finished generating thumbnails for package [/Game/Props/Signs/Sign2Textures/Sign_low_01_-_Default_Emissive]
+[2018.01.13-21.36.57:892][963]LogSavePackage: Save=10.80ms
+[2018.01.13-21.36.57:892][963]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/Sign_low_01_-_Default_Emissive_Auto1ECC356C74BED2F85723E4DB4D136ACB8.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/Autosaves/Game/Props/Signs/Sign2Textures/Sign_low_01_-_Default_Emissive_Auto1.uasset'
+[2018.01.13-21.36.57:892][963]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Saved/Autosaves/Game/Props/Signs/Sign2Textures/Sign_low_01_-_Default_Emissive_Auto1.uasset
+[2018.01.13-21.36.57:893][963]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Props/Signs/Sign2Textures/Sign_low_01_-_Default_Normal] ([1] browsable assets)...
+[2018.01.13-21.36.57:899][963]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Props/Signs/Sign2Textures/Sign_low_01_-_Default_Normal.Sign_low_01_-_Default_Normal]
+[2018.01.13-21.36.57:899][963]OBJ SavePackage: Finished generating thumbnails for package [/Game/Props/Signs/Sign2Textures/Sign_low_01_-_Default_Normal]
+[2018.01.13-21.36.57:912][963]LogSavePackage: Save=11.69ms
+[2018.01.13-21.36.57:912][963]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/Sign_low_01_-_Default_Normal_Auto1F25917A34C79F85B273A989CE5B6BEFE.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/Autosaves/Game/Props/Signs/Sign2Textures/Sign_low_01_-_Default_Normal_Auto1.uasset'
+[2018.01.13-21.36.57:912][963]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Saved/Autosaves/Game/Props/Signs/Sign2Textures/Sign_low_01_-_Default_Normal_Auto1.uasset
+[2018.01.13-21.36.57:912][963]LogFileHelpers: Auto-saving content packages took 0.123
+[2018.01.13-21.37.01:264][974]LogTemp: Repeting last play command: New Editor Window (PIE)
+[2018.01.13-21.37.01:283][974]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.01.13-21.37.01:283][974]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.13-21.37.01:283][974]PIE: New page: PIE session: ThirdPersonExampleMap (Jan 13, 2018, 5:37:01 AM)
+[2018.01.13-21.37.01:283][974]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.01.13-21.37.01:381][974]LogPlayLevel: PIE: StaticDuplicateObject took: (0.097779s)
+[2018.01.13-21.37.01:382][974]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.01.13-21.37.01:382][974]LogPlayLevel: PIE: World Init took: (0.000799s)
+[2018.01.13-21.37.01:382][974]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.098925s)
+[2018.01.13-21.37.01:411][974]LogInit: XAudio2 using 'Headphones (Strix Wireless Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.01.13-21.37.01:439][974]LogInit: FAudioDevice initialized.
+[2018.01.13-21.37.01:491][974]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.01.13-21.37.01:496][974]LogPhysics:Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.01.13-21.37.01:496][974]LogPhysics:Warning: ForeachShape(Convex): [/Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PostProcessVolume_1.BrushComponent0] ScaledElem[0] invalid
+[2018.01.13-21.37.01:500][974]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.01.13-13.37.01
+[2018.01.13-21.37.01:502][974]LogWorld: Bringing up level for play took: 0.010792
+[2018.01.13-21.37.01:507][974]PIE: Info Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.763
+[2018.01.13-21.37.01:507][974]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.01.13-21.37.11:294][132]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.01.13-21.37.11:352][132]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.01.13-21.37.14:407][466]LogEditorViewport: Clicking on Actor (LMB): SearchableDesk1_C (SearchableDesk1)
+[2018.01.13-21.37.36:919][829]LogSavePackage: Save=1340.43ms
+[2018.01.13-21.37.36:919][829]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/ThirdPersonExampleMapD98A247845F2434BB508CC9C04C814F3.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.01.13-21.37.36:924][829]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2018.01.13-21.37.37:463][829]LogSavePackage: Save=504.81ms
+[2018.01.13-21.37.37:463][829]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/ThirdPersonExampleMap_BuiltData5E742E774F27B4F8201EE3ABB123E7F2.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2018.01.13-21.37.37:471][829]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset
+[2018.01.13-21.37.53:763][716]LogSavePackage: Save=140.31ms
+[2018.01.13-21.37.53:763][716]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/Sign_low_01_-_Default_BaseColor021FB823444F74FD7F50CD90817A7727.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/Signs/Sign2Textures/Sign_low_01_-_Default_BaseColor.uasset'
+[2018.01.13-21.37.53:769][716]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/Signs/Sign2Textures/Sign_low_01_-_Default_BaseColor.uasset
+[2018.01.13-21.37.53:903][716]LogSavePackage: Save=124.77ms
+[2018.01.13-21.37.53:903][716]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/T_Fence_Base_Color188E84644036FF7B22B62C9AE1F3357B.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Content/Environment/S_Fence/Textures/T_Fence_Base_Color.uasset'
+[2018.01.13-21.37.53:908][716]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Content/Environment/S_Fence/Textures/T_Fence_Base_Color.uasset
+[2018.01.13-21.37.53:926][716]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Environment/S_Fence/S_Fence" FILE="../../../../../Project Liane/Liane/projectliane/projectliane/Content/Environment/S_Fence/S_Fence.uasset" SILENT=true
+[2018.01.13-21.37.53:940][716]LogSavePackage: Save=11.64ms
+[2018.01.13-21.37.53:940][716]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/S_Fence9FCA00C64E3F925BB4B2E08E5BFE975E.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Content/Environment/S_Fence/S_Fence.uasset'
+[2018.01.13-21.37.53:945][716]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Content/Environment/S_Fence/S_Fence.uasset
+[2018.01.13-21.37.53:989][716]LogSavePackage: Save=36.28ms
+[2018.01.13-21.37.53:989][716]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/T_Fence_Metallic8465FB174837CC72A92DE7A48A4FA566.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Content/Environment/S_Fence/Textures/T_Fence_Metallic.uasset'
+[2018.01.13-21.37.53:994][716]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Content/Environment/S_Fence/Textures/T_Fence_Metallic.uasset
+[2018.01.13-21.37.53:996][716]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Environment/S_Fence/M_Fence" FILE="../../../../../Project Liane/Liane/projectliane/projectliane/Content/Environment/S_Fence/M_Fence.uasset" SILENT=true
+[2018.01.13-21.37.54:006][716]LogSavePackage: Save=5.14ms
+[2018.01.13-21.37.54:006][716]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/M_Fence7AF1C4FA41440FC2CD2430AC15803D62.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Content/Environment/S_Fence/M_Fence.uasset'
+[2018.01.13-21.37.54:011][716]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Content/Environment/S_Fence/M_Fence.uasset
+[2018.01.13-21.37.54:146][716]LogSavePackage: Save=126.25ms
+[2018.01.13-21.37.54:146][716]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/T_Fence_Normal37B28CD040E93AC9B3DCF982FF701FE0.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Content/Environment/S_Fence/Textures/T_Fence_Normal.uasset'
+[2018.01.13-21.37.54:151][716]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Content/Environment/S_Fence/Textures/T_Fence_Normal.uasset
+[2018.01.13-21.37.54:312][716]LogSavePackage: Save=150.51ms
+[2018.01.13-21.37.54:312][716]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/T_Fence_Normal_OpenGLD5CE5EF94BC4678C65988A90650DFBED.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Content/Environment/S_Fence/Textures/T_Fence_Normal_OpenGL.uasset'
+[2018.01.13-21.37.54:317][716]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Content/Environment/S_Fence/Textures/T_Fence_Normal_OpenGL.uasset
+[2018.01.13-21.37.54:367][716]LogSavePackage: Save=39.10ms
+[2018.01.13-21.37.54:367][716]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/T_Fence_Opacity9253B2C04739A4E9DD9130BEFA4A2446.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Content/Environment/S_Fence/Textures/T_Fence_Opacity.uasset'
+[2018.01.13-21.37.54:372][716]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Content/Environment/S_Fence/Textures/T_Fence_Opacity.uasset
+[2018.01.13-21.37.54:495][716]LogSavePackage: Save=116.70ms
+[2018.01.13-21.37.54:495][716]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/Sign_low_01_-_Default_Emissive41780412413DEE41269C18B7ED05E5EC.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/Signs/Sign2Textures/Sign_low_01_-_Default_Emissive.uasset'
+[2018.01.13-21.37.54:499][716]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/Signs/Sign2Textures/Sign_low_01_-_Default_Emissive.uasset
+[2018.01.13-21.37.54:642][716]LogSavePackage: Save=134.90ms
+[2018.01.13-21.37.54:642][716]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/Sign_low_01_-_Default_Normal53B945BC4473313060E19F97122B13F0.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/Signs/Sign2Textures/Sign_low_01_-_Default_Normal.uasset'
+[2018.01.13-21.37.54:646][716]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/Signs/Sign2Textures/Sign_low_01_-_Default_Normal.uasset
+[2018.01.13-21.37.57:456][ 51]MapCheck: New page: Map Check
+[2018.01.13-21.37.57:471][ 51]Cmd: MAP REBUILD ALLVISIBLE
+[2018.01.13-21.37.57:471][ 51]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2018.01.13-21.37.57:528][ 51]LogPhysics:Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.01.13-21.37.57:528][ 51]LogPhysics:Warning: ForeachShape(Convex): [/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PostProcessVolume_1.BrushComponent0] ScaledElem[0] invalid
+[2018.01.13-21.37.57:574][ 51]LogPhysics:Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.01.13-21.37.57:574][ 51]LogPhysics:Warning: ForeachShape(Convex): [/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PostProcessVolume_1.BrushComponent0] ScaledElem[0] invalid
+[2018.01.13-21.37.57:689][ 51]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2018.01.13-21.37.57:694][ 51]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy 10_-_Default, compiling. 
+[2018.01.13-21.37.57:698][ 51]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_AssetPlatform, compiling. 
+[2018.01.13-21.37.57:703][ 51]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy ERwall, compiling. 
+[2018.01.13-21.37.57:708][ 51]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy celiling_mat, compiling. 
+[2018.01.13-21.37.57:713][ 51]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy FloorM1, compiling. 
+[2018.01.13-21.37.57:717][ 51]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_21, compiling. 
+[2018.01.13-21.37.57:723][ 51]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Wall2, compiling. 
+[2018.01.13-21.37.57:728][ 51]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy FloorM2, compiling. 
+[2018.01.13-21.37.57:733][ 51]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy wall, compiling. 
+[2018.01.13-21.37.57:739][ 51]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy BasicShapeMaterial, compiling. 
+[2018.01.13-21.37.57:743][ 51]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_circuit, compiling. 
+[2018.01.13-21.37.57:748][ 51]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy TK_ObjectMat1, compiling. 
+[2018.01.13-21.37.57:754][ 51]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy BatterySignMat, compiling. 
+[2018.01.13-21.37.57:759][ 51]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy ElectricitySignMat, compiling. 
+[2018.01.13-21.37.57:764][ 51]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Door, compiling. 
+[2018.01.13-21.37.57:771][ 51]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Metal_Gold, compiling. 
+[2018.01.13-21.37.57:777][ 51]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy lights, compiling. 
+[2018.01.13-21.37.57:783][ 51]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_fluorsscentlight, compiling. 
+[2018.01.13-21.37.57:788][ 51]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy fast2A, compiling. 
+[2018.01.13-21.37.57:793][ 51]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Ventpaint, compiling. 
+[2018.01.13-21.37.57:798][ 51]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy TK_ObjectMat, compiling. 
+[2018.01.13-21.37.57:802][ 51]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Tech_Panel, compiling. 
+[2018.01.13-21.37.57:808][ 51]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy desk_base, compiling. 
+[2018.01.13-21.37.57:815][ 51]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy metal2, compiling. 
+[2018.01.13-21.37.57:820][ 51]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy draws, compiling. 
+[2018.01.13-21.37.57:824][ 51]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy SK_MannequinSG, compiling. 
+[2018.01.13-21.37.57:828][ 51]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Water_Lake, compiling. 
+[2018.01.13-21.37.57:833][ 51]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy DefaultTextMaterialOpaque, compiling. 
+[2018.01.13-21.37.57:838][ 51]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy inner, compiling. 
+[2018.01.13-21.37.57:843][ 51]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Box, compiling. 
+[2018.01.13-21.37.57:847][ 51]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Curcuits, compiling. 
+[2018.01.13-21.37.57:853][ 51]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Cover, compiling. 
+[2018.01.13-21.37.57:859][ 51]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy lens, compiling. 
+[2018.01.13-21.37.57:865][ 51]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy bulb, compiling. 
+[2018.01.13-21.37.57:871][ 51]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy whiteshine, compiling. 
+[2018.01.13-21.37.57:877][ 51]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy 01_-_Default, compiling. 
+[2018.01.13-21.37.57:881][ 51]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy metal, compiling. 
+[2018.01.13-21.37.57:887][ 51]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy plastic, compiling. 
+[2018.01.13-21.37.57:893][ 51]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy mat, compiling. 
+[2018.01.13-21.37.57:899][ 51]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_smoke_subUV, compiling. 
+[2018.01.13-21.37.57:903][ 51]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Radial_Gradient, compiling. 
+[2018.01.13-21.37.57:907][ 51]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Spark, compiling. 
+[2018.01.13-21.37.57:911][ 51]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy defaultPolygonShader, compiling. 
+[2018.01.13-21.37.57:917][ 51]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Moderndesk_M, compiling. 
+[2018.01.13-21.37.57:923][ 51]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Laptop, compiling. 
+[2018.01.13-21.37.57:929][ 51]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy keyboard1, compiling. 
+[2018.01.13-21.37.57:935][ 51]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Book_M, compiling. 
+[2018.01.13-21.37.57:942][ 51]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Glass, compiling. 
+[2018.01.13-21.37.57:949][ 51]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_ExitSign, compiling. 
+[2018.01.13-21.37.57:955][ 51]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_ModernStand, compiling. 
+[2018.01.13-21.37.57:962][ 51]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Fountain, compiling. 
+[2018.01.13-21.37.57:969][ 51]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Metal, compiling. 
+[2018.01.13-21.37.57:975][ 51]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Fabric_M, compiling. 
+[2018.01.13-21.37.57:982][ 51]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Wood_M, compiling. 
+[2018.01.13-21.37.57:989][ 51]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_TopCabBot, compiling. 
+[2018.01.13-21.37.57:996][ 51]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Sign2, compiling. 
+[2018.01.13-21.37.58:002][ 51]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy GlassNew, compiling. 
+[2018.01.13-21.37.58:009][ 51]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy GlassDark, compiling. 
+[2018.01.13-21.37.58:018][ 51]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Rail, compiling. 
+[2018.01.13-21.37.58:025][ 51]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Fence, compiling. 
+[2018.01.13-21.37.58:032][ 51]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Bodymat, compiling. 
+[2018.01.13-21.37.58:039][ 51]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Bodymat_ncl1_1, compiling. 
+[2018.01.13-21.37.58:045][ 51]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Shoesmat, compiling. 
+[2018.01.13-21.37.58:053][ 51]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Hairmat, compiling. 
+[2018.01.13-21.37.58:060][ 51]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Topmat, compiling. 
+[2018.01.13-21.37.58:067][ 51]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Bottommat, compiling. 
+[2018.01.13-21.37.58:073][ 51]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Eyewearmat, compiling. 
+[2018.01.13-21.37.58:080][ 51]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Hatmat, compiling. 
+[2018.01.13-21.37.58:088][ 51]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Bodymat, compiling. 
+[2018.01.13-21.37.58:093][ 51]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Glovemat, compiling. 
+[2018.01.13-21.37.58:100][ 51]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Eyewearmat, compiling. 
+[2018.01.13-21.37.58:107][ 51]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Shoesmat, compiling. 
+[2018.01.13-21.37.58:114][ 51]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Bottommat, compiling. 
+[2018.01.13-21.37.58:122][ 51]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Topmat, compiling. 
+[2018.01.13-21.37.58:129][ 51]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Hairmat, compiling. 
+[2018.01.13-21.37.58:136][ 51]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MatineeCam_mat, compiling. 
+[2018.01.13-21.38.01:489][ 51]TextureStreamingBuild:Display: Compiling optional shaders took 3.804 seconds.
+[2018.01.13-21.38.01:527][ 51]LogLevel:Display: Export Material TexCoord Scales took 0.037 seconds.
+[2018.01.13-21.38.01:553][ 51]TextureStreamingBuild:Display: Build Texture Streaming took 0.026 seconds.
+[2018.01.13-21.38.01:566][ 51]LightingResults: New page: Lighting Build - Jan 13, 2018, 5:38:01 AM
+[2018.01.13-21.38.01:576][ 51]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.01.13-21.38.01:577][ 51]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.01.13-21.38.01:577][ 51]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.01.13-21.38.01:578][ 51]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.01.13-21.38.01:578][ 51]LogSwarmInterface: [TryOpenConnection] Local Process ID is 15040
+[2018.01.13-21.38.06:089][ 51]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.01.13-21.38.06:089][ 51]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.01.13-21.38.06:089][ 51]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.01.13-21.38.06:089][ 51]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.01.13-21.38.06:089][ 51]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.01.13-21.38.06:171][ 51]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2018.01.13-21.38.06:171][ 51]MapCheck: New page: ThirdPersonExampleMap - Jan 13, 2018, 5:38:06 AM
+[2018.01.13-21.38.06:172][ 51]MapCheck:Error: Error WorldInfo_0 Maps need lighting rebuilt 
+[2018.01.13-21.38.06:250][ 51]MapCheck: Info Map check complete: 1 Error(s), 0 Warning(s), took 79.133ms to complete.
+[2018.01.13-21.38.06:273][ 51]LogEditorBuildUtils: Build time 0:08
+[2018.01.13-21.39.00:214][ 81]Job is a success!
+[2018.01.13-21.39.03:613][ 82]LogTexture:Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 2048X2048)
+[2018.01.13-21.39.03:613][ 82]LogTexture:Display: Building textures: LQ_Lightmap_1_1 (DXT1, 2048X2048)
+[2018.01.13-21.39.03:613][ 82]LogTexture:Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 1024X1024)
+[2018.01.13-21.39.03:613][ 82]LogTexture:Display: Building textures: LQ_Lightmap_1_2 (DXT1, 1024X1024)
+[2018.01.13-21.39.03:613][ 82]LogTexture:Display: Building textures: LQ_Lightmap_1_3 (DXT1, 64X64)
+[2018.01.13-21.39.03:613][ 82]LogTexture:Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 64X64)
+[2018.01.13-21.39.03:835][ 82]LogTexture:Display: Building textures: ShadowMapTexture2D_71 (BGRA8, 1024X256)
+[2018.01.13-21.39.03:835][ 82]LogTexture:Display: Building textures: ShadowMapTexture2D_72 (G8, 32X32)
+[2018.01.13-21.39.03:835][ 82]LogTexture:Display: Building textures: ShadowMapTexture2D_70 (G8, 512X1024)
+[2018.01.13-21.39.03:835][ 82]LogTexture:Display: Building textures: ShadowMapTexture2D_69 (BGRA8, 1024X1024)
+[2018.01.13-21.39.03:848][ 82]Lightmass on DREAM3D: 57.0 sec total, 161 ms importing, 54 ms setup, 11.7 sec photons, 45.1 sec processing, 0 ms extra exporting [409/409 mappings]. Threads: 5:15 min total, 4:07 min processing.
+[2018.01.13-21.39.03:899][ 82]LogStaticLightingSystem: Illumination: 1:01 min (2.41 sec encoding lightmaps, 222 ms encoding shadowmaps)
+[2018.01.13-21.39.03:899][ 82]LogStaticLightingSystem: Lightmap texture memory:  10.0 MB (2.0 MB streaming, 8.0 MB non-streaming), 6 textures
+[2018.01.13-21.39.03:899][ 82]LogStaticLightingSystem: Shadowmap texture memory: 7.3 MB (1.3 MB streaming, 6.0 MB non-streaming), 4 textures
+[2018.01.13-21.39.04:100][ 82]DumpUnbuiltLightIteractions
+[2018.01.13-21.39.04:100][ 82]Lights with unbuilt interactions: 0
+[2018.01.13-21.39.04:100][ 82]
+[2018.01.13-21.39.04:100][ 82]Primitives with unbuilt interactions: 0
+[2018.01.13-21.39.04:121][ 83]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.01.13-21.39.04:121][ 83]MapCheck: New page: ThirdPersonExampleMap - Jan 13, 2018, 5:39:04 AM
+[2018.01.13-21.39.04:247][ 83]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 126.649ms to complete.
+[2018.01.13-21.47.41:312][630]LogSavePackage: Save=1354.20ms
+[2018.01.13-21.47.41:312][630]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/ThirdPersonExampleMap_Auto2115C32A645DB04786E8E35B551CF6A07.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto2.umap'
+[2018.01.13-21.47.41:313][630]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto2.umap
+[2018.01.13-21.47.41:314][630]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 1.379
+[2018.01.13-21.47.41:314][630]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.379
+[2018.01.13-21.47.41:316][630]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData] ([1] browsable assets)...
+[2018.01.13-21.47.41:316][630]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData]
+[2018.01.13-21.47.41:389][630]LogSavePackage: Save=50.39ms
+[2018.01.13-21.47.41:389][630]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/ThirdPersonExampleMap_BuiltData_Auto2709C307445389ED769EEE5B2867E0171.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData_Auto2.uasset'
+[2018.01.13-21.47.41:389][630]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData_Auto2.uasset
+[2018.01.13-21.47.41:389][630]LogFileHelpers: Auto-saving content packages took 0.073
+[2018.01.13-21.57.05:294][689]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../Project Liane/Art_assets/Hospital/Props/S_InterTable/Textures/InterTable_low_T_InterTable_BaseColor.png)
+[2018.01.13-21.57.05:455][689]LogTexture:Display: Building textures: InterTable_low_T_InterTable_BaseColor (AutoDXT, 2048X2048)
+[2018.01.13-21.57.06:098][689]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../Project Liane/Art_assets/Hospital/Props/S_InterTable/Textures/InterTable_low_T_InterTable_Normal.png)
+[2018.01.13-21.57.06:281][689]LogTexture:Display: Building textures: InterTable_low_T_InterTable_Normal (BC5, 2048X2048)
+[2018.01.13-21.57.06:565][689]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../Project Liane/Art_assets/Hospital/Props/S_InterTable/Textures/InterTable_low_T_InterTable_OcclusionRoughnessMetallic.png)
+[2018.01.13-21.57.06:715][689]LogTexture:Display: Building textures: InterTable_low_T_InterTable_OcclusionRoughnessMetallic (AutoDXT, 2048X2048)
+[2018.01.13-21.57.10:365][993]LogTexture:Display: Building textures: InterTable_low_T_InterTable_OcclusionRoughnessMetallic (AutoDXT, 2048X2048)
+[2018.01.13-21.57.11:602][ 56]LogSavePackage: Save=167.45ms
+[2018.01.13-21.57.11:602][ 56]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/InterTable_low_T_InterTable_OcclusionRoughnessMetallic8D82E2634BA1AB93257B9A9E3B7BB319.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_InterTable/Textures/InterTable_low_T_InterTable_OcclusionRoughnessMetallic.uasset'
+[2018.01.13-21.57.11:604][ 56]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_InterTable/Textures/InterTable_low_T_InterTable_OcclusionRoughnessMetallic.uasset
+[2018.01.13-21.57.17:267][417]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../Project Liane/Art_assets/Hospital/Props/S_InterTable/InterTable_low.fbx)
+[2018.01.13-21.57.17:272][417]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2018.01.13-21.57.17:272][417]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2018.01.13-21.57.17:272][417]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2018.01.13-21.57.17:272][417]LogFbx: ItemName: NodeAttribute, ItemCount : 1
+[2018.01.13-21.57.17:272][417]LogFbx: ItemName: Model, ItemCount : 4
+[2018.01.13-21.57.17:272][417]LogFbx: ItemName: Material, ItemCount : 1
+[2018.01.13-21.57.17:272][417]LogFbx: ItemName: Geometry, ItemCount : 3
+[2018.01.13-21.57.17:275][417]LogFbx: Loading FBX Scene from ../../../../../Project Liane/Art_assets/Hospital/Props/S_InterTable/InterTable_low.fbx
+[2018.01.13-21.57.17:281][417]LogFbx: FBX Scene Loaded Succesfully
+[2018.01.13-21.57.18:344][417]LogFbx: Loading FBX Scene from ../../../../../Project Liane/Art_assets/Hospital/Props/S_InterTable/InterTable_low.fbx
+[2018.01.13-21.57.18:350][417]LogFbx: FBX Scene Loaded Succesfully
+[2018.01.13-21.57.18:352][417]LogLinker: Can't find file '/Game/Props/S_InterTable/defaultPolygonShader'
+[2018.01.13-21.57.18:352][417]LogLinker: Can't find file '/Game/Props/S_InterTable/defaultPolygonShader'
+[2018.01.13-21.57.18:356][417]LogMaterial: Missing cached shader map for material defaultPolygonShader, compiling. 
+[2018.01.13-21.57.18:378][417]LogStaticMesh: Building static mesh InterTable_low...
+[2018.01.13-21.57.18:383][417]LogStaticMesh: Built static mesh [0.01s] /Game/Props/S_InterTable/InterTable_low.InterTable_low
+[2018.01.13-21.57.26:347][283]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Props/S_InterTable/M_InterTable" FILE="../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_InterTable/M_InterTable.uasset" SILENT=true
+[2018.01.13-21.57.26:359][283]LogSavePackage: Save=10.85ms
+[2018.01.13-21.57.26:359][283]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/M_InterTable1839F5694D4FCC01ABCD0AB963892FC6.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_InterTable/M_InterTable.uasset'
+[2018.01.13-21.57.26:360][283]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_InterTable/M_InterTable.uasset
+[2018.01.13-21.57.29:372][520]LogMaterial: Missing cached shader map for material M_InterTable, compiling. 
+[2018.01.13-21.57.29:450][520]LogMaterial: Missing cached shader map for material M_InterTable, compiling. 
+[2018.01.13-21.57.29:461][520]LogMaterial: Missing cached shader map for material M_InterTable, compiling. 
+[2018.01.13-21.57.29:498][520]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.01.13-21.57.30:609][576]MaterialEditorStats: Info Base pass shader: 80 instructions
+[2018.01.13-21.57.30:609][576]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2018.01.13-21.57.30:609][576]MaterialEditorStats: Info Texture samplers: 1/16
+[2018.01.13-21.57.32:030][698]LogMaterial: Missing cached shader map for material M_InterTable, compiling. 
+[2018.01.13-21.57.32:888][741]MaterialEditorStats: Info Base pass shader: 78 instructions
+[2018.01.13-21.57.32:888][741]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2018.01.13-21.57.32:888][741]MaterialEditorStats: Info Texture samplers: 1/16
+[2018.01.13-21.57.33:922][824]LogMaterial: Missing cached shader map for material M_InterTable, compiling. 
+[2018.01.13-21.57.33:930][824]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_50, compiling. 
+[2018.01.13-21.57.33:959][824]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_50, compiling. 
+[2018.01.13-21.57.34:726][863]MaterialEditorStats: Info Base pass shader: 78 instructions
+[2018.01.13-21.57.34:726][863]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2018.01.13-21.57.34:726][863]MaterialEditorStats: Info Texture samplers: 1/16
+[2018.01.13-21.57.39:446][308]LogMaterial: Missing cached shader map for material M_InterTable, compiling. 
+[2018.01.13-21.57.39:456][308]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_50, compiling. 
+[2018.01.13-21.57.40:307][357]MaterialEditorStats: Info Base pass shader: 78 instructions
+[2018.01.13-21.57.40:307][357]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2018.01.13-21.57.40:307][357]MaterialEditorStats: Info Texture samplers: 2/16
+[2018.01.13-21.57.40:307][357]MaterialEditorStats: Info User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.13-21.57.47:702][ 80]LogMaterial: Missing cached shader map for material M_InterTable, compiling. 
+[2018.01.13-21.57.47:716][ 80]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_50, compiling. 
+[2018.01.13-21.57.48:522][126]MaterialEditorStats: Info Base pass shader: 80 instructions
+[2018.01.13-21.57.48:522][126]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2018.01.13-21.57.48:522][126]MaterialEditorStats: Info Texture samplers: 2/16
+[2018.01.13-21.57.48:522][126]MaterialEditorStats: Info User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.13-21.57.53:321][587]LogMaterial: Missing cached shader map for material M_InterTable, compiling. 
+[2018.01.13-21.57.53:334][587]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_50, compiling. 
+[2018.01.13-21.57.54:453][659]MaterialEditorStats: Info Base pass shader: 85 instructions
+[2018.01.13-21.57.54:453][659]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2018.01.13-21.57.54:453][659]MaterialEditorStats: Info Texture samplers: 2/16
+[2018.01.13-21.57.54:453][659]MaterialEditorStats: Info User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.13-21.57.56:701][864]LogMaterial: Missing cached shader map for material M_InterTable, compiling. 
+[2018.01.13-21.57.56:709][864]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_51, compiling. 
+[2018.01.13-21.57.56:738][864]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_50, compiling. 
+[2018.01.13-21.57.56:743][864]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_51, compiling. 
+[2018.01.13-21.57.57:562][908]MaterialEditorStats: Info Base pass shader: 85 instructions
+[2018.01.13-21.57.57:562][908]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2018.01.13-21.57.57:562][908]MaterialEditorStats: Info Texture samplers: 2/16
+[2018.01.13-21.57.57:562][908]MaterialEditorStats: Info User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.13-21.58.00:574][185]LogMaterial: Missing cached shader map for material M_InterTable, compiling. 
+[2018.01.13-21.58.00:587][185]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_51, compiling. 
+[2018.01.13-21.58.02:001][269]LogMaterial: Missing cached shader map for material M_InterTable, compiling. 
+[2018.01.13-21.58.02:009][269]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_52, compiling. 
+[2018.01.13-21.58.02:039][269]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_50, compiling. 
+[2018.01.13-21.58.02:042][269]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_51, compiling. 
+[2018.01.13-21.58.02:046][269]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_52, compiling. 
+[2018.01.13-21.58.02:909][311]MaterialEditorStats: Info Base pass shader: 91 instructions
+[2018.01.13-21.58.02:909][311]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2018.01.13-21.58.02:909][311]MaterialEditorStats: Info Texture samplers: 3/16
+[2018.01.13-21.58.02:909][311]MaterialEditorStats: Info User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.13-21.58.04:071][409]LogMaterial: Missing cached shader map for material M_InterTable, compiling. 
+[2018.01.13-21.58.04:080][409]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_52, compiling. 
+[2018.01.13-21.58.05:037][462]LogMaterialEditor: Saving and Compiling material M_InterTable
+[2018.01.13-21.58.05:484][462]LogMaterial: Missing cached shader map for material M_InterTable, compiling. 
+[2018.01.13-21.58.05:521][462]LogMaterial: Missing cached shader map for material M_InterTable, compiling. 
+[2018.01.13-21.58.05:538][462]LogMaterial: Missing cached shader map for material M_InterTable, compiling. 
+[2018.01.13-21.58.05:574][462]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_InterTable, compiling. 
+[2018.01.13-21.58.06:203][462]TextureStreamingBuild:Display: Compiling optional shaders took 0.635 seconds.
+[2018.01.13-21.58.07:309][462]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Props/S_InterTable/M_InterTable" FILE="../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_InterTable/M_InterTable.uasset" SILENT=true
+[2018.01.13-21.58.07:329][462]LogSavePackage: Save=15.66ms
+[2018.01.13-21.58.07:329][462]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/M_InterTable875B467B470F7F2BDB81DE89A39CF59D.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_InterTable/M_InterTable.uasset'
+[2018.01.13-21.58.07:331][462]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_InterTable/M_InterTable.uasset
+[2018.01.13-21.58.07:338][462]MaterialEditorStats: Info Base pass shader: 94 instructions
+[2018.01.13-21.58.07:338][462]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2018.01.13-21.58.07:338][462]MaterialEditorStats: Info Texture samplers: 5/16
+[2018.01.13-21.58.07:338][462]MaterialEditorStats: Info User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.13-21.58.11:481][883]LogActorFactory: Actor Factory created InterTable_low
+[2018.01.13-21.58.12:753][999]LogActorFactory: Actor Factory created InterTable_low
+[2018.01.13-21.58.32:946][288]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (InterTable_low2)
+[2018.01.13-21.58.33:140][309]Cmd: DELETE
+[2018.01.13-21.58.33:140][309]Cmd: ACTOR DELETE
+[2018.01.13-21.58.33:142][309]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.13-21.58.33:152][309]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2018.01.13-21.58.34:616][483]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (InterTable_low)
+[2018.01.13-21.58.50:810][270]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (InterTable_low)
+[2018.01.13-21.58.51:262][316]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (S_waitchair_low12)
+[2018.01.13-21.58.51:897][387]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (S_waitchair_low11)
+[2018.01.13-21.58.54:385][676]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (InterTable_low)
+[2018.01.13-21.59.25:304][978]LogSavePackage: Save=1370.24ms
+[2018.01.13-21.59.25:304][978]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/ThirdPersonExampleMap528D16DA48EDE76D34B050A91FD2D68F.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.01.13-21.59.25:308][978]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2018.01.13-21.59.25:871][978]LogSavePackage: Save=510.03ms
+[2018.01.13-21.59.25:871][978]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/ThirdPersonExampleMap_BuiltData5B6608224BF11C86C7841093B14D7900.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2018.01.13-21.59.25:874][978]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset
+[2018.01.13-21.59.27:291][145]MapCheck: New page: Map Check
+[2018.01.13-21.59.27:304][145]Cmd: MAP REBUILD ALLVISIBLE
+[2018.01.13-21.59.27:304][145]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2018.01.13-21.59.27:362][145]LogPhysics:Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.01.13-21.59.27:362][145]LogPhysics:Warning: ForeachShape(Convex): [/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PostProcessVolume_1.BrushComponent0] ScaledElem[0] invalid
+[2018.01.13-21.59.27:405][145]LogPhysics:Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.01.13-21.59.27:405][145]LogPhysics:Warning: ForeachShape(Convex): [/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PostProcessVolume_1.BrushComponent0] ScaledElem[0] invalid
+[2018.01.13-21.59.27:554][145]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2018.01.13-21.59.27:559][145]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy 10_-_Default, compiling. 
+[2018.01.13-21.59.27:563][145]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_AssetPlatform, compiling. 
+[2018.01.13-21.59.27:568][145]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy ERwall, compiling. 
+[2018.01.13-21.59.27:572][145]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy celiling_mat, compiling. 
+[2018.01.13-21.59.27:577][145]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy FloorM1, compiling. 
+[2018.01.13-21.59.27:581][145]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_22, compiling. 
+[2018.01.13-21.59.27:586][145]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Wall2, compiling. 
+[2018.01.13-21.59.27:591][145]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy FloorM2, compiling. 
+[2018.01.13-21.59.27:596][145]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy wall, compiling. 
+[2018.01.13-21.59.27:601][145]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy BasicShapeMaterial, compiling. 
+[2018.01.13-21.59.27:606][145]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_circuit, compiling. 
+[2018.01.13-21.59.27:612][145]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy TK_ObjectMat1, compiling. 
+[2018.01.13-21.59.27:618][145]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy BatterySignMat, compiling. 
+[2018.01.13-21.59.27:624][145]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy ElectricitySignMat, compiling. 
+[2018.01.13-21.59.27:629][145]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Door, compiling. 
+[2018.01.13-21.59.27:635][145]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Metal_Gold, compiling. 
+[2018.01.13-21.59.27:641][145]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy lights, compiling. 
+[2018.01.13-21.59.27:646][145]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_fluorsscentlight, compiling. 
+[2018.01.13-21.59.27:652][145]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy fast2A, compiling. 
+[2018.01.13-21.59.27:658][145]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Ventpaint, compiling. 
+[2018.01.13-21.59.27:662][145]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy TK_ObjectMat, compiling. 
+[2018.01.13-21.59.27:667][145]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Tech_Panel, compiling. 
+[2018.01.13-21.59.27:672][145]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy desk_base, compiling. 
+[2018.01.13-21.59.27:677][145]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy metal2, compiling. 
+[2018.01.13-21.59.27:682][145]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy draws, compiling. 
+[2018.01.13-21.59.27:687][145]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy SK_MannequinSG, compiling. 
+[2018.01.13-21.59.27:691][145]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Water_Lake, compiling. 
+[2018.01.13-21.59.27:700][145]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy DefaultTextMaterialOpaque, compiling. 
+[2018.01.13-21.59.27:704][145]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy inner, compiling. 
+[2018.01.13-21.59.27:709][145]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Box, compiling. 
+[2018.01.13-21.59.27:715][145]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Curcuits, compiling. 
+[2018.01.13-21.59.27:720][145]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Cover, compiling. 
+[2018.01.13-21.59.27:727][145]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy lens, compiling. 
+[2018.01.13-21.59.27:733][145]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy bulb, compiling. 
+[2018.01.13-21.59.27:739][145]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy whiteshine, compiling. 
+[2018.01.13-21.59.27:744][145]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy 01_-_Default, compiling. 
+[2018.01.13-21.59.27:750][145]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy metal, compiling. 
+[2018.01.13-21.59.27:755][145]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy plastic, compiling. 
+[2018.01.13-21.59.27:761][145]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy mat, compiling. 
+[2018.01.13-21.59.27:767][145]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_smoke_subUV, compiling. 
+[2018.01.13-21.59.27:772][145]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Radial_Gradient, compiling. 
+[2018.01.13-21.59.27:776][145]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Spark, compiling. 
+[2018.01.13-21.59.27:783][145]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy defaultPolygonShader, compiling. 
+[2018.01.13-21.59.27:789][145]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Moderndesk_M, compiling. 
+[2018.01.13-21.59.27:795][145]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Laptop, compiling. 
+[2018.01.13-21.59.27:802][145]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy keyboard1, compiling. 
+[2018.01.13-21.59.27:808][145]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Book_M, compiling. 
+[2018.01.13-21.59.27:820][145]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Glass, compiling. 
+[2018.01.13-21.59.27:827][145]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_ExitSign, compiling. 
+[2018.01.13-21.59.27:834][145]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_ModernStand, compiling. 
+[2018.01.13-21.59.27:841][145]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Fountain, compiling. 
+[2018.01.13-21.59.27:849][145]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Metal, compiling. 
+[2018.01.13-21.59.27:855][145]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Fabric_M, compiling. 
+[2018.01.13-21.59.27:862][145]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Wood_M, compiling. 
+[2018.01.13-21.59.27:868][145]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_TopCabBot, compiling. 
+[2018.01.13-21.59.27:874][145]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Sign2, compiling. 
+[2018.01.13-21.59.27:880][145]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy GlassNew, compiling. 
+[2018.01.13-21.59.27:887][145]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy GlassDark, compiling. 
+[2018.01.13-21.59.27:894][145]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Rail, compiling. 
+[2018.01.13-21.59.27:900][145]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Fence, compiling. 
+[2018.01.13-21.59.27:907][145]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_InterTable, compiling. 
+[2018.01.13-21.59.27:914][145]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Bodymat, compiling. 
+[2018.01.13-21.59.27:921][145]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Bodymat_ncl1_1, compiling. 
+[2018.01.13-21.59.27:927][145]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Shoesmat, compiling. 
+[2018.01.13-21.59.27:934][145]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Hairmat, compiling. 
+[2018.01.13-21.59.27:941][145]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Topmat, compiling. 
+[2018.01.13-21.59.27:949][145]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Bottommat, compiling. 
+[2018.01.13-21.59.27:956][145]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Eyewearmat, compiling. 
+[2018.01.13-21.59.27:962][145]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Hatmat, compiling. 
+[2018.01.13-21.59.27:968][145]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Bodymat, compiling. 
+[2018.01.13-21.59.27:974][145]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Glovemat, compiling. 
+[2018.01.13-21.59.27:980][145]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Eyewearmat, compiling. 
+[2018.01.13-21.59.27:987][145]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Shoesmat, compiling. 
+[2018.01.13-21.59.27:995][145]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Bottommat, compiling. 
+[2018.01.13-21.59.28:004][145]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Topmat, compiling. 
+[2018.01.13-21.59.28:011][145]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Hairmat, compiling. 
+[2018.01.13-21.59.28:019][145]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MatineeCam_mat, compiling. 
+[2018.01.13-21.59.31:292][145]TextureStreamingBuild:Display: Compiling optional shaders took 3.760 seconds.
+[2018.01.13-21.59.31:329][145]LogLevel:Display: Export Material TexCoord Scales took 0.037 seconds.
+[2018.01.13-21.59.31:359][145]TextureStreamingBuild:Display: Build Texture Streaming took 0.030 seconds.
+[2018.01.13-21.59.31:372][145]LightingResults: New page: Lighting Build - Jan 13, 2018, 5:59:31 AM
+[2018.01.13-21.59.31:379][145]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.01.13-21.59.31:381][145]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.01.13-21.59.31:381][145]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.01.13-21.59.31:382][145]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.01.13-21.59.31:382][145]LogSwarmInterface: [TryOpenConnection] Local Process ID is 15040
+[2018.01.13-21.59.35:892][145]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.01.13-21.59.35:892][145]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.01.13-21.59.35:892][145]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.01.13-21.59.35:892][145]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.01.13-21.59.35:892][145]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.01.13-21.59.35:980][145]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2018.01.13-21.59.35:980][145]MapCheck: New page: ThirdPersonExampleMap - Jan 13, 2018, 5:59:35 AM
+[2018.01.13-21.59.35:981][145]MapCheck:Error: Error WorldInfo_0 Maps need lighting rebuilt 
+[2018.01.13-21.59.36:055][145]MapCheck: Info Map check complete: 1 Error(s), 0 Warning(s), took 75.11ms to complete.
+[2018.01.13-21.59.36:077][145]LogEditorBuildUtils: Build time 0:08
+[2018.01.13-21.59.36:112][145]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_InterTable, compiling. 
+[2018.01.13-21.59.36:117][145]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_InterTable, compiling. 
+[2018.01.13-22.00.33:457][177]Job is a success!
+[2018.01.13-22.00.34:081][178]LogMaterial:Warning: Material /Game/Props/S_InterTable/M_InterTable.M_InterTable needed to have new flag set bUsedWithStaticLighting !
+[2018.01.13-22.00.34:083][178]LogMaterial: Missing cached shader map for material M_InterTable, compiling. 
+[2018.01.13-22.00.36:746][178]LogTexture:Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 2048X2048)
+[2018.01.13-22.00.36:746][178]LogTexture:Display: Building textures: LQ_Lightmap_0_1 (DXT1, 2048X2048)
+[2018.01.13-22.00.36:746][178]LogTexture:Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 1024X1024)
+[2018.01.13-22.00.36:746][178]LogTexture:Display: Building textures: LQ_Lightmap_0_2 (DXT1, 1024X1024)
+[2018.01.13-22.00.36:746][178]LogTexture:Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 64X64)
+[2018.01.13-22.00.36:746][178]LogTexture:Display: Building textures: LQ_Lightmap_0_3 (DXT1, 64X64)
+[2018.01.13-22.00.36:946][178]LogTexture:Display: Building textures: ShadowMapTexture2D_75 (BGRA8, 1024X256)
+[2018.01.13-22.00.36:946][178]LogTexture:Display: Building textures: ShadowMapTexture2D_76 (G8, 32X32)
+[2018.01.13-22.00.36:946][178]LogTexture:Display: Building textures: ShadowMapTexture2D_74 (G8, 512X1024)
+[2018.01.13-22.00.37:052][178]LogTexture:Display: Building textures: ShadowMapTexture2D_73 (BGRA8, 1024X1024)
+[2018.01.13-22.00.37:118][178]Lightmass on DREAM3D: 1:00 min total, 169 ms importing, 54 ms setup, 11.0 sec photons, 48.8 sec processing, 0 ms extra exporting [415/415 mappings]. Threads: 5:42 min total, 4:31 min processing.
+[2018.01.13-22.00.37:126][178]LogStaticLightingSystem: Illumination: 1:05 min (2.62 sec encoding lightmaps, 304 ms encoding shadowmaps)
+[2018.01.13-22.00.37:126][178]LogStaticLightingSystem: Lightmap texture memory:  10.0 MB (2.0 MB streaming, 8.0 MB non-streaming), 6 textures
+[2018.01.13-22.00.37:126][178]LogStaticLightingSystem: Shadowmap texture memory: 7.3 MB (1.3 MB streaming, 6.0 MB non-streaming), 4 textures
+[2018.01.13-22.00.37:903][178]DumpUnbuiltLightIteractions
+[2018.01.13-22.00.37:903][178]Lights with unbuilt interactions: 0
+[2018.01.13-22.00.37:903][178]
+[2018.01.13-22.00.37:903][178]Primitives with unbuilt interactions: 0
+[2018.01.13-22.00.37:918][179]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.01.13-22.00.37:919][179]MapCheck: New page: ThirdPersonExampleMap - Jan 13, 2018, 6:00:37 AM
+[2018.01.13-22.00.38:271][179]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 352.749ms to complete.
+[2018.01.13-22.01.02:552][ 59]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Door25)
+[2018.01.13-22.01.06:403][493]LogPhysics:Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.01.13-22.01.06:403][493]LogPhysics:Warning: ForeachShape(Convex): [/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PostProcessVolume_1.BrushComponent0] ScaledElem[0] invalid
+[2018.01.13-22.01.06:951][539]LogPhysics:Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.01.13-22.01.06:951][539]LogPhysics:Warning: ForeachShape(Convex): [/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PostProcessVolume_1.BrushComponent0] ScaledElem[0] invalid
+[2018.01.13-22.01.09:931][883]LogPhysics:Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.01.13-22.01.09:931][883]LogPhysics:Warning: ForeachShape(Convex): [/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PostProcessVolume_1.BrushComponent0] ScaledElem[0] invalid
+[2018.01.13-22.01.11:846][ 88]LogPhysics:Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.01.13-22.01.11:846][ 88]LogPhysics:Warning: ForeachShape(Convex): [/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PostProcessVolume_1.BrushComponent0] ScaledElem[0] invalid
+[2018.01.13-22.01.13:865][306]LogPhysics:Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.01.13-22.01.13:865][306]LogPhysics:Warning: ForeachShape(Convex): [/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PostProcessVolume_1.BrushComponent0] ScaledElem[0] invalid
+[2018.01.13-22.01.15:642][497]LogPhysics:Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.01.13-22.01.15:642][497]LogPhysics:Warning: ForeachShape(Convex): [/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PostProcessVolume_1.BrushComponent0] ScaledElem[0] invalid
+[2018.01.13-22.01.17:457][659]LogPhysics:Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.01.13-22.01.17:457][659]LogPhysics:Warning: ForeachShape(Convex): [/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PostProcessVolume_1.BrushComponent0] ScaledElem[0] invalid
+[2018.01.13-22.01.21:065][ 22]LogPhysics:Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.01.13-22.01.21:065][ 22]LogPhysics:Warning: ForeachShape(Convex): [/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PostProcessVolume_1.BrushComponent0] ScaledElem[0] invalid
+[2018.01.13-22.01.22:855][213]LogPhysics:Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.01.13-22.01.22:855][213]LogPhysics:Warning: ForeachShape(Convex): [/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PostProcessVolume_1.BrushComponent0] ScaledElem[0] invalid
+[2018.01.13-22.01.26:440][575]LogPhysics:Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.01.13-22.01.26:440][575]LogPhysics:Warning: ForeachShape(Convex): [/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PostProcessVolume_1.BrushComponent0] ScaledElem[0] invalid
+[2018.01.13-22.01.33:411][334]LogPhysics:Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.01.13-22.01.33:411][334]LogPhysics:Warning: ForeachShape(Convex): [/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PostProcessVolume_1.BrushComponent0] ScaledElem[0] invalid
+[2018.01.13-22.01.47:039][720]Cmd: TRANSACTION UNDO
+[2018.01.13-22.01.47:039][720]LogEditorTransaction: Undo Create Actors
+[2018.01.13-22.01.47:058][720]LogPhysics:Warning: FDerivedDataPhysXCooker::BuildTriMesh: Triangle data from '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_11507' invalid (2897 verts, 0 indices).
+[2018.01.13-22.02.00:403][106]LogPhysics:Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.01.13-22.02.00:403][106]LogPhysics:Warning: ForeachShape(Convex): [/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PostProcessVolume_1.BrushComponent0] ScaledElem[0] invalid
+[2018.01.13-22.02.03:565][407]LogPhysics:Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.01.13-22.02.03:565][407]LogPhysics:Warning: ForeachShape(Convex): [/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PostProcessVolume_1.BrushComponent0] ScaledElem[0] invalid
+[2018.01.13-22.02.07:143][777]LogPhysics:Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.01.13-22.02.07:143][777]LogPhysics:Warning: ForeachShape(Convex): [/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PostProcessVolume_1.BrushComponent0] ScaledElem[0] invalid
+[2018.01.13-22.02.07:704][823]LogPhysics:Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.01.13-22.02.07:704][823]LogPhysics:Warning: ForeachShape(Convex): [/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PostProcessVolume_1.BrushComponent0] ScaledElem[0] invalid
+[2018.01.13-22.02.10:623][156]LogPhysics:Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.01.13-22.02.10:623][156]LogPhysics:Warning: ForeachShape(Convex): [/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PostProcessVolume_1.BrushComponent0] ScaledElem[0] invalid
+[2018.01.13-22.02.12:979][411]LogPhysics:Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.01.13-22.02.12:979][411]LogPhysics:Warning: ForeachShape(Convex): [/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PostProcessVolume_1.BrushComponent0] ScaledElem[0] invalid
+[2018.01.13-22.02.14:370][553]LogPhysics:Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.01.13-22.02.14:370][553]LogPhysics:Warning: ForeachShape(Convex): [/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PostProcessVolume_1.BrushComponent0] ScaledElem[0] invalid
+[2018.01.13-22.02.16:622][812]LogPhysics:Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.01.13-22.02.16:622][812]LogPhysics:Warning: ForeachShape(Convex): [/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PostProcessVolume_1.BrushComponent0] ScaledElem[0] invalid
+[2018.01.13-22.02.19:936][143]LogPhysics:Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.01.13-22.02.19:936][143]LogPhysics:Warning: ForeachShape(Convex): [/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PostProcessVolume_1.BrushComponent0] ScaledElem[0] invalid
+[2018.01.13-22.02.22:646][443]LogPhysics:Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.01.13-22.02.22:646][443]LogPhysics:Warning: ForeachShape(Convex): [/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PostProcessVolume_1.BrushComponent0] ScaledElem[0] invalid
+[2018.01.13-22.02.24:567][647]LogPhysics:Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.01.13-22.02.24:567][647]LogPhysics:Warning: ForeachShape(Convex): [/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PostProcessVolume_1.BrushComponent0] ScaledElem[0] invalid
+[2018.01.13-22.02.26:302][830]LogPhysics:Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.01.13-22.02.26:302][830]LogPhysics:Warning: ForeachShape(Convex): [/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PostProcessVolume_1.BrushComponent0] ScaledElem[0] invalid
+[2018.01.13-22.02.29:200][169]LogPhysics:Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.01.13-22.02.29:200][169]LogPhysics:Warning: ForeachShape(Convex): [/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PostProcessVolume_1.BrushComponent0] ScaledElem[0] invalid
+[2018.01.13-22.02.32:557][512]LogPhysics:Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.01.13-22.02.32:557][512]LogPhysics:Warning: ForeachShape(Convex): [/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PostProcessVolume_1.BrushComponent0] ScaledElem[0] invalid
+[2018.01.13-22.02.34:089][671]LogPhysics:Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.01.13-22.02.34:089][671]LogPhysics:Warning: ForeachShape(Convex): [/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PostProcessVolume_1.BrushComponent0] ScaledElem[0] invalid
+[2018.01.13-22.02.39:599][280]LogPhysics:Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.01.13-22.02.39:599][280]LogPhysics:Warning: ForeachShape(Convex): [/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PostProcessVolume_1.BrushComponent0] ScaledElem[0] invalid
+[2018.01.13-22.02.44:435][804]LogPhysics:Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.01.13-22.02.44:435][804]LogPhysics:Warning: ForeachShape(Convex): [/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PostProcessVolume_1.BrushComponent0] ScaledElem[0] invalid
+[2018.01.13-22.02.44:861][839]LogPhysics:Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.01.13-22.02.44:861][839]LogPhysics:Warning: ForeachShape(Convex): [/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PostProcessVolume_1.BrushComponent0] ScaledElem[0] invalid
+[2018.01.13-22.02.51:162][475]LogPhysics:Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.01.13-22.02.51:162][475]LogPhysics:Warning: ForeachShape(Convex): [/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PostProcessVolume_1.BrushComponent0] ScaledElem[0] invalid
+[2018.01.13-22.02.59:948][375]Cmd: TRANSACTION UNDO
+[2018.01.13-22.02.59:948][375]LogEditorTransaction: Undo Create Actors
+[2018.01.13-22.03.01:055][476]LogPhysics:Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.01.13-22.03.01:055][476]LogPhysics:Warning: ForeachShape(Convex): [/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PostProcessVolume_1.BrushComponent0] ScaledElem[0] invalid
+[2018.01.13-22.03.06:331][ 22]LogPhysics:Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.01.13-22.03.06:331][ 22]LogPhysics:Warning: ForeachShape(Convex): [/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PostProcessVolume_1.BrushComponent0] ScaledElem[0] invalid
+[2018.01.13-22.03.14:331][920]MapCheck: New page: Map Check
+[2018.01.13-22.03.14:345][920]Cmd: MAP REBUILD ALLVISIBLE
+[2018.01.13-22.03.14:353][920]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2018.01.13-22.03.14:424][920]LogPhysics:Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.01.13-22.03.14:424][920]LogPhysics:Warning: ForeachShape(Convex): [/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PostProcessVolume_1.BrushComponent0] ScaledElem[0] invalid
+[2018.01.13-22.03.14:471][920]LogPhysics:Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.01.13-22.03.14:471][920]LogPhysics:Warning: ForeachShape(Convex): [/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PostProcessVolume_1.BrushComponent0] ScaledElem[0] invalid
+[2018.01.13-22.03.14:497][920]LogEditorServer: Cleared 4 NULL BSP materials after rebuild.
+[2018.01.13-22.03.14:644][920]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2018.01.13-22.03.14:649][920]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy 10_-_Default, compiling. 
+[2018.01.13-22.03.14:654][920]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_AssetPlatform, compiling. 
+[2018.01.13-22.03.14:658][920]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy ERwall, compiling. 
+[2018.01.13-22.03.14:663][920]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy celiling_mat, compiling. 
+[2018.01.13-22.03.14:668][920]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy FloorM1, compiling. 
+[2018.01.13-22.03.14:672][920]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_23, compiling. 
+[2018.01.13-22.03.14:677][920]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Wall2, compiling. 
+[2018.01.13-22.03.14:682][920]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy FloorM2, compiling. 
+[2018.01.13-22.03.14:688][920]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy wall, compiling. 
+[2018.01.13-22.03.14:694][920]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy BasicShapeMaterial, compiling. 
+[2018.01.13-22.03.14:700][920]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_circuit, compiling. 
+[2018.01.13-22.03.14:705][920]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy TK_ObjectMat1, compiling. 
+[2018.01.13-22.03.14:709][920]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy BatterySignMat, compiling. 
+[2018.01.13-22.03.14:715][920]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy ElectricitySignMat, compiling. 
+[2018.01.13-22.03.14:720][920]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Door, compiling. 
+[2018.01.13-22.03.14:727][920]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Metal_Gold, compiling. 
+[2018.01.13-22.03.14:733][920]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy lights, compiling. 
+[2018.01.13-22.03.14:739][920]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_fluorsscentlight, compiling. 
+[2018.01.13-22.03.14:744][920]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy fast2A, compiling. 
+[2018.01.13-22.03.14:749][920]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Ventpaint, compiling. 
+[2018.01.13-22.03.14:755][920]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy TK_ObjectMat, compiling. 
+[2018.01.13-22.03.14:760][920]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Tech_Panel, compiling. 
+[2018.01.13-22.03.14:764][920]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy desk_base, compiling. 
+[2018.01.13-22.03.14:771][920]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy metal2, compiling. 
+[2018.01.13-22.03.14:777][920]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy draws, compiling. 
+[2018.01.13-22.03.14:783][920]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy SK_MannequinSG, compiling. 
+[2018.01.13-22.03.14:789][920]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Water_Lake, compiling. 
+[2018.01.13-22.03.14:795][920]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy DefaultTextMaterialOpaque, compiling. 
+[2018.01.13-22.03.14:800][920]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy inner, compiling. 
+[2018.01.13-22.03.14:804][920]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Box, compiling. 
+[2018.01.13-22.03.14:809][920]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Curcuits, compiling. 
+[2018.01.13-22.03.14:815][920]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Cover, compiling. 
+[2018.01.13-22.03.14:820][920]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy lens, compiling. 
+[2018.01.13-22.03.14:826][920]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy bulb, compiling. 
+[2018.01.13-22.03.14:833][920]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy whiteshine, compiling. 
+[2018.01.13-22.03.14:838][920]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy 01_-_Default, compiling. 
+[2018.01.13-22.03.14:845][920]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy metal, compiling. 
+[2018.01.13-22.03.14:850][920]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy plastic, compiling. 
+[2018.01.13-22.03.14:856][920]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy mat, compiling. 
+[2018.01.13-22.03.14:862][920]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_smoke_subUV, compiling. 
+[2018.01.13-22.03.14:868][920]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Radial_Gradient, compiling. 
+[2018.01.13-22.03.14:873][920]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Spark, compiling. 
+[2018.01.13-22.03.14:879][920]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy defaultPolygonShader, compiling. 
+[2018.01.13-22.03.14:885][920]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Moderndesk_M, compiling. 
+[2018.01.13-22.03.14:890][920]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Laptop, compiling. 
+[2018.01.13-22.03.14:896][920]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy keyboard1, compiling. 
+[2018.01.13-22.03.14:903][920]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Book_M, compiling. 
+[2018.01.13-22.03.14:909][920]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Glass, compiling. 
+[2018.01.13-22.03.14:916][920]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_ExitSign, compiling. 
+[2018.01.13-22.03.14:922][920]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_ModernStand, compiling. 
+[2018.01.13-22.03.14:929][920]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Fountain, compiling. 
+[2018.01.13-22.03.14:936][920]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Metal, compiling. 
+[2018.01.13-22.03.14:941][920]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Fabric_M, compiling. 
+[2018.01.13-22.03.14:948][920]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Wood_M, compiling. 
+[2018.01.13-22.03.14:955][920]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_TopCabBot, compiling. 
+[2018.01.13-22.03.14:962][920]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Sign2, compiling. 
+[2018.01.13-22.03.14:969][920]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy GlassNew, compiling. 
+[2018.01.13-22.03.14:975][920]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy GlassDark, compiling. 
+[2018.01.13-22.03.14:983][920]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Rail, compiling. 
+[2018.01.13-22.03.14:988][920]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Fence, compiling. 
+[2018.01.13-22.03.14:994][920]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_InterTable, compiling. 
+[2018.01.13-22.03.15:001][920]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Bodymat, compiling. 
+[2018.01.13-22.03.15:009][920]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Bodymat_ncl1_1, compiling. 
+[2018.01.13-22.03.15:016][920]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Shoesmat, compiling. 
+[2018.01.13-22.03.15:023][920]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Hairmat, compiling. 
+[2018.01.13-22.03.15:031][920]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Topmat, compiling. 
+[2018.01.13-22.03.15:037][920]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Bottommat, compiling. 
+[2018.01.13-22.03.15:044][920]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Eyewearmat, compiling. 
+[2018.01.13-22.03.15:051][920]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Hatmat, compiling. 
+[2018.01.13-22.03.15:058][920]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Bodymat, compiling. 
+[2018.01.13-22.03.15:066][920]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Glovemat, compiling. 
+[2018.01.13-22.03.15:074][920]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Eyewearmat, compiling. 
+[2018.01.13-22.03.15:081][920]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Shoesmat, compiling. 
+[2018.01.13-22.03.15:088][920]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Bottommat, compiling. 
+[2018.01.13-22.03.15:095][920]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Topmat, compiling. 
+[2018.01.13-22.03.15:102][920]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Hairmat, compiling. 
+[2018.01.13-22.03.15:108][920]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MatineeCam_mat, compiling. 
+[2018.01.13-22.03.18:374][920]TextureStreamingBuild:Display: Compiling optional shaders took 3.733 seconds.
+[2018.01.13-22.03.18:412][920]LogLevel:Display: Export Material TexCoord Scales took 0.038 seconds.
+[2018.01.13-22.03.18:440][920]TextureStreamingBuild:Display: Build Texture Streaming took 0.028 seconds.
+[2018.01.13-22.03.18:451][920]LightingResults: New page: Lighting Build - Jan 13, 2018, 6:03:18 AM
+[2018.01.13-22.03.18:459][920]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.01.13-22.03.18:461][920]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.01.13-22.03.18:461][920]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.01.13-22.03.18:462][920]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.01.13-22.03.18:462][920]LogSwarmInterface: [TryOpenConnection] Local Process ID is 15040
+[2018.01.13-22.03.22:972][920]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.01.13-22.03.22:972][920]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.01.13-22.03.22:972][920]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.01.13-22.03.22:972][920]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.01.13-22.03.22:972][920]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.01.13-22.03.23:056][920]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2018.01.13-22.03.23:057][920]MapCheck: New page: ThirdPersonExampleMap - Jan 13, 2018, 6:03:23 AM
+[2018.01.13-22.03.23:058][920]MapCheck:Error: Error WorldInfo_0 Maps need lighting rebuilt 
+[2018.01.13-22.03.23:132][920]MapCheck: Info Map check complete: 1 Error(s), 0 Warning(s), took 75.667ms to complete.
+[2018.01.13-22.03.23:154][920]LogEditorBuildUtils: Build time 0:08
+[2018.01.13-22.03.23:191][920]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_InterTable, compiling. 
+[2018.01.13-22.03.23:196][920]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_InterTable, compiling. 
+[2018.01.13-22.04.20:611][163]Job is a success!
+[2018.01.13-22.04.23:744][164]LogTexture:Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 2048X2048)
+[2018.01.13-22.04.23:744][164]LogTexture:Display: Building textures: LQ_Lightmap_1_1 (DXT1, 2048X2048)
+[2018.01.13-22.04.23:744][164]LogTexture:Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 1024X1024)
+[2018.01.13-22.04.23:744][164]LogTexture:Display: Building textures: LQ_Lightmap_1_2 (DXT1, 1024X1024)
+[2018.01.13-22.04.23:744][164]LogTexture:Display: Building textures: LQ_Lightmap_1_3 (DXT1, 64X64)
+[2018.01.13-22.04.23:744][164]LogTexture:Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 64X64)
+[2018.01.13-22.04.23:965][164]LogTexture:Display: Building textures: ShadowMapTexture2D_79 (BGRA8, 1024X256)
+[2018.01.13-22.04.23:965][164]LogTexture:Display: Building textures: ShadowMapTexture2D_80 (G8, 32X32)
+[2018.01.13-22.04.23:965][164]LogTexture:Display: Building textures: ShadowMapTexture2D_78 (G8, 512X1024)
+[2018.01.13-22.04.23:965][164]LogTexture:Display: Building textures: ShadowMapTexture2D_77 (BGRA8, 1024X1024)
+[2018.01.13-22.04.23:992][164]Lightmass on DREAM3D: 59.9 sec total, 168 ms importing, 56 ms setup, 10.7 sec photons, 48.9 sec processing, 0 ms extra exporting [431/431 mappings]. Threads: 5:42 min total, 4:32 min processing.
+[2018.01.13-22.04.24:026][164]LogStaticLightingSystem: Illumination: 1:05 min (2.48 sec encoding lightmaps, 221 ms encoding shadowmaps)
+[2018.01.13-22.04.24:026][164]LogStaticLightingSystem: Lightmap texture memory:  10.0 MB (2.0 MB streaming, 8.0 MB non-streaming), 6 textures
+[2018.01.13-22.04.24:026][164]LogStaticLightingSystem: Shadowmap texture memory: 7.3 MB (1.3 MB streaming, 6.0 MB non-streaming), 4 textures
+[2018.01.13-22.04.24:984][164]DumpUnbuiltLightIteractions
+[2018.01.13-22.04.24:984][164]Lights with unbuilt interactions: 0
+[2018.01.13-22.04.24:984][164]
+[2018.01.13-22.04.24:984][164]Primitives with unbuilt interactions: 0
+[2018.01.13-22.04.24:993][165]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.01.13-22.04.24:993][165]MapCheck: New page: ThirdPersonExampleMap - Jan 13, 2018, 6:04:24 AM
+[2018.01.13-22.04.25:336][165]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 343.2ms to complete.
+[2018.01.13-22.09.34:643][ 36]LogSavePackage: Save=1348.57ms
+[2018.01.13-22.09.34:643][ 36]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/ThirdPersonExampleMap_Auto3225724B64407BDFCA14D13A3BEFF7CEE.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto3.umap'
+[2018.01.13-22.09.34:644][ 36]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto3.umap
+[2018.01.13-22.09.34:645][ 36]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 1.375
+[2018.01.13-22.09.34:645][ 36]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.375
+[2018.01.13-22.09.34:647][ 36]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData] ([1] browsable assets)...
+[2018.01.13-22.09.34:647][ 36]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData]
+[2018.01.13-22.09.34:720][ 36]LogSavePackage: Save=45.41ms
+[2018.01.13-22.09.34:720][ 36]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/ThirdPersonExampleMap_BuiltData_Auto3D2007C024E2C3514EFDD90B5859AC9EA.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData_Auto3.uasset'
+[2018.01.13-22.09.34:720][ 36]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData_Auto3.uasset
+[2018.01.13-22.09.34:721][ 36]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Props/S_InterTable/Textures/InterTable_low_T_InterTable_BaseColor] ([1] browsable assets)...
+[2018.01.13-22.09.34:726][ 36]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Props/S_InterTable/Textures/InterTable_low_T_InterTable_BaseColor.InterTable_low_T_InterTable_BaseColor]
+[2018.01.13-22.09.34:726][ 36]OBJ SavePackage: Finished generating thumbnails for package [/Game/Props/S_InterTable/Textures/InterTable_low_T_InterTable_BaseColor]
+[2018.01.13-22.09.34:740][ 36]LogSavePackage: Save=12.09ms
+[2018.01.13-22.09.34:740][ 36]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/InterTable_low_T_InterTable_BaseColor_Auto31F51FB7648AA33D08673F8B61F0DDD9B.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/Autosaves/Game/Props/S_InterTable/Textures/InterTable_low_T_InterTable_BaseColor_Auto3.uasset'
+[2018.01.13-22.09.34:740][ 36]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Saved/Autosaves/Game/Props/S_InterTable/Textures/InterTable_low_T_InterTable_BaseColor_Auto3.uasset
+[2018.01.13-22.09.34:741][ 36]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Props/S_InterTable/Textures/InterTable_low_T_InterTable_Normal] ([1] browsable assets)...
+[2018.01.13-22.09.34:747][ 36]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Props/S_InterTable/Textures/InterTable_low_T_InterTable_Normal.InterTable_low_T_InterTable_Normal]
+[2018.01.13-22.09.34:747][ 36]OBJ SavePackage: Finished generating thumbnails for package [/Game/Props/S_InterTable/Textures/InterTable_low_T_InterTable_Normal]
+[2018.01.13-22.09.34:777][ 36]LogSavePackage: Save=28.91ms
+[2018.01.13-22.09.34:777][ 36]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/InterTable_low_T_InterTable_Normal_Auto3CEE29A93418A8114AD6A5A8DB1B4226C.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/Autosaves/Game/Props/S_InterTable/Textures/InterTable_low_T_InterTable_Normal_Auto3.uasset'
+[2018.01.13-22.09.34:777][ 36]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Saved/Autosaves/Game/Props/S_InterTable/Textures/InterTable_low_T_InterTable_Normal_Auto3.uasset
+[2018.01.13-22.09.34:778][ 36]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Props/S_InterTable/InterTable_low] ([1] browsable assets)...
+[2018.01.13-22.09.34:794][ 36]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Props/S_InterTable/InterTable_low.InterTable_low]
+[2018.01.13-22.09.34:794][ 36]OBJ SavePackage: Finished generating thumbnails for package [/Game/Props/S_InterTable/InterTable_low]
+[2018.01.13-22.09.34:807][ 36]LogSavePackage: Save=10.79ms
+[2018.01.13-22.09.34:807][ 36]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/InterTable_low_Auto35BBD87604A80CE893C627498F00FE1D9.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/Autosaves/Game/Props/S_InterTable/InterTable_low_Auto3.uasset'
+[2018.01.13-22.09.34:807][ 36]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Saved/Autosaves/Game/Props/S_InterTable/InterTable_low_Auto3.uasset
+[2018.01.13-22.09.34:807][ 36]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Props/S_InterTable/M_InterTable] ([1] browsable assets)...
+[2018.01.13-22.09.34:807][ 36]OBJ SavePackage: Finished generating thumbnails for package [/Game/Props/S_InterTable/M_InterTable]
+[2018.01.13-22.09.34:818][ 36]LogSavePackage: Save=5.53ms
+[2018.01.13-22.09.34:818][ 36]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/M_InterTable_Auto3538B7D414241977A9D31418F2A437D6A.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/Autosaves/Game/Props/S_InterTable/M_InterTable_Auto3.uasset'
+[2018.01.13-22.09.34:819][ 36]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Saved/Autosaves/Game/Props/S_InterTable/M_InterTable_Auto3.uasset
+[2018.01.13-22.09.34:819][ 36]LogFileHelpers: Auto-saving content packages took 0.172
+[2018.01.13-22.11.17:438][136]LogSavePackage: Save=1351.87ms
+[2018.01.13-22.11.17:438][136]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/ThirdPersonExampleMap5C8722B64A32D99E755E4CA7AF430589.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.01.13-22.11.17:445][136]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2018.01.13-22.11.17:477][136]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 1.481
+[2018.01.13-22.11.18:024][136]LogSavePackage: Save=543.95ms
+[2018.01.13-22.11.18:024][136]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/ThirdPersonExampleMap_BuiltDataA8F266E946490DF4740198B1F3C738F4.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2018.01.13-22.11.18:031][136]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset
+[2018.01.13-22.11.18:238][136]LogSavePackage: Save=196.21ms
+[2018.01.13-22.11.18:238][136]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/InterTable_low_T_InterTable_BaseColorE6EEC38F4A4DDF7C12656DA0BA7B7EEA.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_InterTable/Textures/InterTable_low_T_InterTable_BaseColor.uasset'
+[2018.01.13-22.11.18:245][136]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_InterTable/Textures/InterTable_low_T_InterTable_BaseColor.uasset
+[2018.01.13-22.11.18:490][136]LogSavePackage: Save=235.21ms
+[2018.01.13-22.11.18:490][136]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/InterTable_low_T_InterTable_NormalDBBEA4EF46F7B3B1AFF043A6BE781E5E.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_InterTable/Textures/InterTable_low_T_InterTable_Normal.uasset'
+[2018.01.13-22.11.18:494][136]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_InterTable/Textures/InterTable_low_T_InterTable_Normal.uasset
+[2018.01.13-22.11.18:523][136]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Props/S_InterTable/InterTable_low" FILE="../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_InterTable/InterTable_low.uasset" SILENT=true
+[2018.01.13-22.11.18:535][136]LogSavePackage: Save=11.11ms
+[2018.01.13-22.11.18:535][136]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/InterTable_low9C9531894F3FB6DB39C0568738E70262.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_InterTable/InterTable_low.uasset'
+[2018.01.13-22.11.18:538][136]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_InterTable/InterTable_low.uasset
+[2018.01.13-22.11.18:540][136]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Props/S_InterTable/M_InterTable" FILE="../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_InterTable/M_InterTable.uasset" SILENT=true
+[2018.01.13-22.11.18:546][136]LogSavePackage: Save=5.15ms
+[2018.01.13-22.11.18:546][136]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/M_InterTable39056BD24D36A0FE6D12CC93AEEB6750.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_InterTable/M_InterTable.uasset'
+[2018.01.13-22.11.18:550][136]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_InterTable/M_InterTable.uasset
