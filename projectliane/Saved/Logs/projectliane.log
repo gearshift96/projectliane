@@ -576,3 +576,178 @@ LogInit: Object subsystem initialized
 [2018.01.13-11.22.29:552][688]LogSavePackage: Save=502.49ms
 [2018.01.13-11.22.29:552][688]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/ThirdPersonExampleMap_BuiltData18912C094DD5BB7C880E35827D0BF9FD.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
 [2018.01.13-11.22.29:555][688]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset
+[2018.01.13-11.23.11:331][277]LogSavePackage: Save=61.27ms
+[2018.01.13-11.23.11:331][277]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/Exitsign_low_T_signexit_BaseColor655AF415484A9AC83CDA81BE127B8303.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_exitSign/Textures/Exitsign_low_T_signexit_BaseColor.uasset'
+[2018.01.13-11.23.11:332][277]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_exitSign/Textures/Exitsign_low_T_signexit_BaseColor.uasset
+[2018.01.13-11.23.11:372][277]LogSavePackage: Save=32.35ms
+[2018.01.13-11.23.11:372][277]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/Exitsign_low_T_signexit_EmissiveA88B029141BB243A046E69AF1D173920.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_exitSign/Textures/Exitsign_low_T_signexit_Emissive.uasset'
+[2018.01.13-11.23.11:373][277]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_exitSign/Textures/Exitsign_low_T_signexit_Emissive.uasset
+[2018.01.13-11.23.11:467][277]LogSavePackage: Save=81.85ms
+[2018.01.13-11.23.11:467][277]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/Exitsign_low_T_signexit_Normal05FE668640D84BA54738EAB5226EB83B.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_exitSign/Textures/Exitsign_low_T_signexit_Normal.uasset'
+[2018.01.13-11.23.11:469][277]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_exitSign/Textures/Exitsign_low_T_signexit_Normal.uasset
+[2018.01.13-11.23.37:421][ 36]LogTexture:Display: Building textures: spotlight_paint_Roughness (AutoDXT, 2048X2048)
+[2018.01.13-11.23.37:860][ 36]LogTexture:Display: Building textures: spotlight_paint_Emissive (AutoDXT, 2048X2048)
+[2018.01.13-11.23.38:163][ 36]LogTexture:Display: Building textures: spotlight_paint_Base_Color (AutoDXT, 2048X2048)
+[2018.01.13-11.23.38:554][ 36]LogTexture:Display: Building textures: spotlight_paint_Metallic (AutoDXT, 2048X2048)
+[2018.01.13-11.23.39:053][ 36]LogTexture:Display: Building textures: spotlight_paint_Normal_DirectX (BC5, 2048X2048)
+[2018.01.13-11.23.39:327][ 36]LogTexture:Display: Building textures: spotlight_paint_Mixed_AO (AutoDXT, 2048X2048)
+[2018.01.13-11.23.39:749][ 36]LogMaterial: Missing cached shader map for material 08___Default, compiling. 
+[2018.01.13-11.23.39:780][ 36]LogTexture:Display: Building textures: spotlight_paint_Height (AutoDXT, 2048X2048)
+[2018.01.13-11.23.40:351][ 36]LogTexture:Display: Building textures: spotlight_paint_Normal (BC5, 2048X2048)
+[2018.01.13-11.23.43:449][ 36]LogMaterial: Missing cached shader map for material Spot_base, compiling. 
+[2018.01.13-11.23.43:450][ 36]LogMaterial:Warning: Failed to compile Material /Game/Props/Spotlights/Spot_base.Spot_base for platform PCD3D_SM5, Default Material will be used in game.
+[2018.01.13-11.23.43:450][ 36]LogMaterial:Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.01.13-11.23.43:452][ 36]LogMaterial: Missing cached shader map for material Spot_base, compiling. 
+[2018.01.13-11.23.43:452][ 36]LogMaterial:Warning: Failed to compile Material /Game/Props/Spotlights/Spot_base.Spot_base for platform PCD3D_SM5, Default Material will be used in game.
+[2018.01.13-11.23.43:452][ 36]LogMaterial:Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.01.13-11.23.43:454][ 36]LogMaterial: Missing cached shader map for material Spot_base, compiling. 
+[2018.01.13-11.23.43:454][ 36]LogMaterial:Warning: Failed to compile Material /Game/Props/Spotlights/Spot_base.Spot_base for platform PCD3D_SM5, Default Material will be used in game.
+[2018.01.13-11.23.43:454][ 36]LogMaterial:Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.01.13-11.23.43:456][ 36]LogMaterial: Missing cached shader map for material Spot_base, compiling. 
+[2018.01.13-11.23.43:456][ 36]LogMaterial:Warning: Failed to compile Material /Game/Props/Spotlights/Spot_base.Spot_base for platform PCD3D_SM5, Default Material will be used in game.
+[2018.01.13-11.23.43:456][ 36]LogMaterial:Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.01.13-11.23.43:458][ 36]LogMaterial: Missing cached shader map for material Spot_base, compiling. 
+[2018.01.13-11.23.43:459][ 36]LogMaterial:Warning: Failed to compile Material /Game/Props/Spotlights/Spot_base.Spot_base for platform PCD3D_SM5, Default Material will be used in game.
+[2018.01.13-11.23.43:459][ 36]LogMaterial:Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.01.13-11.23.43:460][ 36]LogMaterial: Missing cached shader map for material Spot_base, compiling. 
+[2018.01.13-11.23.43:461][ 36]LogMaterial:Warning: Failed to compile Material /Game/Props/Spotlights/Spot_base.Spot_base for platform PCD3D_SM5, Default Material will be used in game.
+[2018.01.13-11.23.43:461][ 36]LogMaterial:Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.01.13-11.23.43:465][ 36]LogMaterial: Missing cached shader map for material 08___Default, compiling. 
+[2018.01.13-11.23.43:465][ 36]LogMaterial:Warning: Failed to compile Material /Game/Props/Spotlights/08___Default.08___Default for platform PCD3D_SM5, Default Material will be used in game.
+[2018.01.13-11.23.43:465][ 36]LogMaterial:Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.01.13-11.23.43:468][ 36]LogMaterial:Warning: FMaterialUniformExpressionTexture had invalid TextureIndex! (3 / 0)
+[2018.01.13-11.23.43:470][ 36]LogMaterial: Missing cached shader map for material 08___Default, compiling. 
+[2018.01.13-11.23.43:471][ 36]LogMaterial:Warning: Failed to compile Material /Game/Props/Spotlights/08___Default.08___Default for platform PCD3D_SM5, Default Material will be used in game.
+[2018.01.13-11.23.43:471][ 36]LogMaterial:Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.01.13-11.23.43:472][ 36]LogMaterial: Missing cached shader map for material 08___Default, compiling. 
+[2018.01.13-11.23.43:473][ 36]LogMaterial:Warning: Failed to compile Material /Game/Props/Spotlights/08___Default.08___Default for platform PCD3D_SM5, Default Material will be used in game.
+[2018.01.13-11.23.43:473][ 36]LogMaterial:Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.01.13-11.23.43:475][ 36]LogMaterial: Missing cached shader map for material 08___Default, compiling. 
+[2018.01.13-11.23.43:475][ 36]LogMaterial:Warning: Failed to compile Material /Game/Props/Spotlights/08___Default.08___Default for platform PCD3D_SM5, Default Material will be used in game.
+[2018.01.13-11.23.43:475][ 36]LogMaterial:Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.01.13-11.23.43:477][ 36]LogMaterial: Missing cached shader map for material 08___Default, compiling. 
+[2018.01.13-11.23.43:477][ 36]LogMaterial:Warning: Failed to compile Material /Game/Props/Spotlights/08___Default.08___Default for platform PCD3D_SM5, Default Material will be used in game.
+[2018.01.13-11.23.43:477][ 36]LogMaterial:Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.01.13-11.23.43:479][ 36]LogMaterial: Missing cached shader map for material 08___Default, compiling. 
+[2018.01.13-11.23.43:479][ 36]LogMaterial:Warning: Failed to compile Material /Game/Props/Spotlights/08___Default.08___Default for platform PCD3D_SM5, Default Material will be used in game.
+[2018.01.13-11.23.43:479][ 36]LogMaterial:Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.01.13-11.24.01:500][987]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.13-11.24.01:500][987]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.13-11.24.01:500][987]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.13-11.24.01:500][987]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.13-11.24.01:508][987]LogEditorActor: Deleted 4 Actors (0.009 secs)
+[2018.01.13-11.24.30:548][735]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../Project Liane/Art_assets/Hospital/Props/S_Modernstand/Modernstand_low.fbx)
+[2018.01.13-11.24.30:555][735]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2018.01.13-11.24.30:555][735]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2018.01.13-11.24.30:555][735]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2018.01.13-11.24.30:555][735]LogFbx: ItemName: NodeAttribute, ItemCount : 1
+[2018.01.13-11.24.30:555][735]LogFbx: ItemName: Model, ItemCount : 14
+[2018.01.13-11.24.30:555][735]LogFbx: ItemName: Material, ItemCount : 1
+[2018.01.13-11.24.30:555][735]LogFbx: ItemName: Geometry, ItemCount : 13
+[2018.01.13-11.24.30:559][735]LogFbx: Loading FBX Scene from ../../../../../Project Liane/Art_assets/Hospital/Props/S_Modernstand/Modernstand_low.fbx
+[2018.01.13-11.24.30:570][735]LogFbx: FBX Scene Loaded Succesfully
+[2018.01.13-11.24.31:793][735]LogFbx: Loading FBX Scene from ../../../../../Project Liane/Art_assets/Hospital/Props/S_Modernstand/Modernstand_low.fbx
+[2018.01.13-11.24.31:801][735]LogFbx: FBX Scene Loaded Succesfully
+[2018.01.13-11.24.31:806][735]LogLinker: Can't find file '/Game/Props/S_ModernStand/defaultPolygonShader'
+[2018.01.13-11.24.31:806][735]LogLinker: Can't find file '/Game/Props/S_ModernStand/defaultPolygonShader'
+[2018.01.13-11.24.31:811][735]LogMaterial: Missing cached shader map for material defaultPolygonShader, compiling. 
+[2018.01.13-11.24.31:829][735]LogStaticMesh: Building static mesh Modernstand_low...
+[2018.01.13-11.24.31:851][735]LogStaticMesh: Built static mesh [0.02s] /Game/Props/S_ModernStand/Modernstand_low.Modernstand_low
+[2018.01.13-11.24.40:666][654]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Props/S_ModernStand/M_ModernStand" FILE="../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_ModernStand/M_ModernStand.uasset" SILENT=true
+[2018.01.13-11.24.40:678][654]LogSavePackage: Save=10.76ms
+[2018.01.13-11.24.40:678][654]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/M_ModernStandDD54D2DB4466B3EF745BA8A9F97717EE.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_ModernStand/M_ModernStand.uasset'
+[2018.01.13-11.24.40:679][654]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_ModernStand/M_ModernStand.uasset
+[2018.01.13-11.24.42:313][770]LogMaterial: Missing cached shader map for material M_ModernStand, compiling. 
+[2018.01.13-11.24.42:392][770]LogMaterial: Missing cached shader map for material M_ModernStand, compiling. 
+[2018.01.13-11.24.42:401][770]LogMaterial: Missing cached shader map for material M_ModernStand, compiling. 
+[2018.01.13-11.24.42:434][770]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.01.13-11.24.43:342][831]MaterialEditorStats: Info Base pass shader: 80 instructions
+[2018.01.13-11.24.43:342][831]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2018.01.13-11.24.43:342][831]MaterialEditorStats: Info Texture samplers: 1/16
+[2018.01.13-11.24.44:676][954]LogMaterial: Missing cached shader map for material M_ModernStand, compiling. 
+[2018.01.13-11.24.45:536][ 24]MaterialEditorStats: Info Base pass shader: 78 instructions
+[2018.01.13-11.24.45:536][ 24]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2018.01.13-11.24.45:536][ 24]MaterialEditorStats: Info Texture samplers: 1/16
+[2018.01.13-11.25.28:649][453]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../Project Liane/Art_assets/Hospital/Props/S_Modernstand/Textures/Modernstand_low_T_ModernStand_BaseColor.png)
+[2018.01.13-11.25.28:790][453]LogTexture:Display: Building textures: Modernstand_low_T_ModernStand_BaseColor (AutoDXT, 2048X2048)
+[2018.01.13-11.25.29:187][453]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../Project Liane/Art_assets/Hospital/Props/S_Modernstand/Textures/Modernstand_low_T_ModernStand_Normal.png)
+[2018.01.13-11.25.29:362][453]LogTexture:Display: Building textures: Modernstand_low_T_ModernStand_Normal (BC5, 2048X2048)
+[2018.01.13-11.25.29:665][453]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../Project Liane/Art_assets/Hospital/Props/S_Modernstand/Textures/Modernstand_low_T_ModernStand_OcclusionRoughnessMetallic.png)
+[2018.01.13-11.25.29:829][453]LogTexture:Display: Building textures: Modernstand_low_T_ModernStand_OcclusionRoughnessMetallic (AutoDXT, 2048X2048)
+[2018.01.13-11.25.33:500][773]LogTexture:Display: Building textures: Modernstand_low_T_ModernStand_OcclusionRoughnessMetallic (AutoDXT, 2048X2048)
+[2018.01.13-11.25.35:264][892]LogSavePackage: Save=200.59ms
+[2018.01.13-11.25.35:264][892]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/Modernstand_low_T_ModernStand_OcclusionRoughnessMetallic0BCC0A354E2CED178DD428BDEAD267B2.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_ModernStand/Textures/Modernstand_low_T_ModernStand_OcclusionRoughnessMetallic.uasset'
+[2018.01.13-11.25.35:265][892]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_ModernStand/Textures/Modernstand_low_T_ModernStand_OcclusionRoughnessMetallic.uasset
+[2018.01.13-11.25.38:328][216]LogMaterial: Missing cached shader map for material M_ModernStand, compiling. 
+[2018.01.13-11.25.38:338][216]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2018.01.13-11.25.38:368][216]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2018.01.13-11.25.39:543][295]MaterialEditorStats: Info Base pass shader: 78 instructions
+[2018.01.13-11.25.39:543][295]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2018.01.13-11.25.39:543][295]MaterialEditorStats: Info Texture samplers: 1/16
+[2018.01.13-11.25.41:160][463]LogMaterial: Missing cached shader map for material M_ModernStand, compiling. 
+[2018.01.13-11.25.41:173][463]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2018.01.13-11.25.42:074][523]MaterialEditorStats: Info Base pass shader: 78 instructions
+[2018.01.13-11.25.42:074][523]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2018.01.13-11.25.42:074][523]MaterialEditorStats: Info Texture samplers: 2/16
+[2018.01.13-11.25.42:074][523]MaterialEditorStats: Info User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.13-11.25.43:808][705]LogMaterial: Missing cached shader map for material M_ModernStand, compiling. 
+[2018.01.13-11.25.43:823][705]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2018.01.13-11.25.44:657][758]MaterialEditorStats: Info Base pass shader: 85 instructions
+[2018.01.13-11.25.44:657][758]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2018.01.13-11.25.44:657][758]MaterialEditorStats: Info Texture samplers: 2/16
+[2018.01.13-11.25.44:657][758]MaterialEditorStats: Info User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.13-11.25.45:624][847]LogMaterial: Missing cached shader map for material M_ModernStand, compiling. 
+[2018.01.13-11.25.45:638][847]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2018.01.13-11.25.46:490][908]MaterialEditorStats: Info Base pass shader: 85 instructions
+[2018.01.13-11.25.46:490][908]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2018.01.13-11.25.46:490][908]MaterialEditorStats: Info Texture samplers: 2/16
+[2018.01.13-11.25.46:490][908]MaterialEditorStats: Info User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.13-11.25.48:353][ 76]LogMaterial: Missing cached shader map for material M_ModernStand, compiling. 
+[2018.01.13-11.25.48:362][ 76]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_5, compiling. 
+[2018.01.13-11.25.48:392][ 76]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2018.01.13-11.25.48:397][ 76]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_5, compiling. 
+[2018.01.13-11.25.49:906][194]LogMaterial: Missing cached shader map for material M_ModernStand, compiling. 
+[2018.01.13-11.25.49:919][194]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_5, compiling. 
+[2018.01.13-11.25.51:621][303]LogMaterial: Missing cached shader map for material M_ModernStand, compiling. 
+[2018.01.13-11.25.51:629][303]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_6, compiling. 
+[2018.01.13-11.25.51:659][303]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2018.01.13-11.25.51:663][303]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_5, compiling. 
+[2018.01.13-11.25.51:667][303]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_6, compiling. 
+[2018.01.13-11.25.53:244][432]LogMaterial: Missing cached shader map for material M_ModernStand, compiling. 
+[2018.01.13-11.25.53:258][432]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_6, compiling. 
+[2018.01.13-11.25.54:099][484]MaterialEditorStats: Info Base pass shader: 94 instructions
+[2018.01.13-11.25.54:099][484]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2018.01.13-11.25.54:099][484]MaterialEditorStats: Info Texture samplers: 4/16
+[2018.01.13-11.25.54:099][484]MaterialEditorStats: Info User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.13-11.25.54:184][493]LogMaterialEditor: Saving and Compiling material M_ModernStand
+[2018.01.13-11.25.54:581][493]LogMaterial: Missing cached shader map for material M_ModernStand, compiling. 
+[2018.01.13-11.25.54:620][493]LogMaterial: Missing cached shader map for material M_ModernStand, compiling. 
+[2018.01.13-11.25.54:636][493]LogMaterial: Missing cached shader map for material M_ModernStand, compiling. 
+[2018.01.13-11.25.54:668][493]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_ModernStand, compiling. 
+[2018.01.13-11.25.55:339][493]TextureStreamingBuild:Display: Compiling optional shaders took 0.676 seconds.
+[2018.01.13-11.25.56:425][493]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Props/S_ModernStand/M_ModernStand" FILE="../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_ModernStand/M_ModernStand.uasset" SILENT=true
+[2018.01.13-11.25.56:443][493]LogSavePackage: Save=12.75ms
+[2018.01.13-11.25.56:444][493]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/M_ModernStand3463FC3F4D0D82897A075E8C9F340D1A.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_ModernStand/M_ModernStand.uasset'
+[2018.01.13-11.25.56:445][493]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_ModernStand/M_ModernStand.uasset
+[2018.01.13-11.25.56:454][493]MaterialEditorStats: Info Base pass shader: 94 instructions
+[2018.01.13-11.25.56:454][493]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2018.01.13-11.25.56:454][493]MaterialEditorStats: Info Texture samplers: 5/16
+[2018.01.13-11.25.56:454][493]MaterialEditorStats: Info User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.13-11.26.07:717][687]LogActorFactory: Actor Factory created Modernstand_low
+[2018.01.13-11.26.08:277][737]LogActorFactory: Actor Factory created Modernstand_low
+[2018.01.13-11.26.19:389][ 14]Cmd: TRANSACTION UNDO
+[2018.01.13-11.26.19:389][ 14]LogEditorTransaction: Undo Move Actors
+[2018.01.13-11.26.26:690][695]LogSavePackage: Save=982.96ms
+[2018.01.13-11.26.26:691][695]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/ThirdPersonExampleMapBFCAE3414134FE98C1D788B490803D30.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.01.13-11.26.26:697][695]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2018.01.13-11.26.26:740][695]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 1.106
+[2018.01.13-11.26.26:755][695]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Props/S_ModernStand/Modernstand_low" FILE="../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_ModernStand/Modernstand_low.uasset" SILENT=true
+[2018.01.13-11.26.26:772][695]LogSavePackage: Save=14.89ms
+[2018.01.13-11.26.26:772][695]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/Modernstand_lowB4B4149B4506460396B77681BDCF97E1.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_ModernStand/Modernstand_low.uasset'
+[2018.01.13-11.26.26:774][695]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_ModernStand/Modernstand_low.uasset
+[2018.01.13-11.26.26:954][695]LogSavePackage: Save=162.25ms
+[2018.01.13-11.26.26:954][695]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/Modernstand_low_T_ModernStand_BaseColorD19140884A8547125BCC3CA62E617B61.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_ModernStand/Textures/Modernstand_low_T_ModernStand_BaseColor.uasset'
+[2018.01.13-11.26.26:956][695]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_ModernStand/Textures/Modernstand_low_T_ModernStand_BaseColor.uasset
+[2018.01.13-11.26.27:257][695]LogSavePackage: Save=289.39ms
+[2018.01.13-11.26.27:257][695]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/Modernstand_low_T_ModernStand_NormalFD6138BD480BF890072981A99361CD7B.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_ModernStand/Textures/Modernstand_low_T_ModernStand_Normal.uasset'
+[2018.01.13-11.26.27:259][695]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_ModernStand/Textures/Modernstand_low_T_ModernStand_Normal.uasset
