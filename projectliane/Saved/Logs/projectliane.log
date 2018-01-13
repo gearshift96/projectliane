@@ -751,3 +751,407 @@ LogInit: Object subsystem initialized
 [2018.01.13-11.26.27:257][695]LogSavePackage: Save=289.39ms
 [2018.01.13-11.26.27:257][695]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/Modernstand_low_T_ModernStand_NormalFD6138BD480BF890072981A99361CD7B.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_ModernStand/Textures/Modernstand_low_T_ModernStand_Normal.uasset'
 [2018.01.13-11.26.27:259][695]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_ModernStand/Textures/Modernstand_low_T_ModernStand_Normal.uasset
+[2018.01.13-11.27.10:520][ 43]LogSavePackage: Save=35.87ms
+[2018.01.13-11.27.10:520][ 43]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/desk_desk_base_Base_Color393A85CA469A8074A8257CAF92F1C371.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_woodenDesk/Clean_Textures/desk_desk_base_Base_Color.uasset'
+[2018.01.13-11.27.10:524][ 43]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_woodenDesk/Clean_Textures/desk_desk_base_Base_Color.uasset
+[2018.01.13-11.27.10:536][ 43]LogSavePackage: Save=5.67ms
+[2018.01.13-11.27.10:536][ 43]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/desk_desk_base_Metallic37616A2549975E78B1B679AA86D90EF9.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_woodenDesk/Clean_Textures/desk_desk_base_Metallic.uasset'
+[2018.01.13-11.27.10:537][ 43]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_woodenDesk/Clean_Textures/desk_desk_base_Metallic.uasset
+[2018.01.13-11.27.10:563][ 43]LogSavePackage: Save=15.92ms
+[2018.01.13-11.27.10:563][ 43]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/desk_desk_base_Mixed_AO5FAD35084957C97A6527869C53D4EFF3.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_woodenDesk/Clean_Textures/desk_desk_base_Mixed_AO.uasset'
+[2018.01.13-11.27.10:564][ 43]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_woodenDesk/Clean_Textures/desk_desk_base_Mixed_AO.uasset
+[2018.01.13-11.27.10:608][ 43]LogSavePackage: Save=35.27ms
+[2018.01.13-11.27.10:608][ 43]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/desk_desk_base_Normal_DirectXF6CCC57F4C95C2D170B7108F32BCF392.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_woodenDesk/Clean_Textures/desk_desk_base_Normal_DirectX.uasset'
+[2018.01.13-11.27.10:609][ 43]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_woodenDesk/Clean_Textures/desk_desk_base_Normal_DirectX.uasset
+[2018.01.13-11.27.10:642][ 43]LogSavePackage: Save=23.34ms
+[2018.01.13-11.27.10:642][ 43]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/desk_desk_base_RoughnessB6471B2847639BF99ABCF9938C1BB9F0.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_woodenDesk/Clean_Textures/desk_desk_base_Roughness.uasset'
+[2018.01.13-11.27.10:644][ 43]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_woodenDesk/Clean_Textures/desk_desk_base_Roughness.uasset
+[2018.01.13-11.27.10:657][ 43]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Props/S_woodenDesk/desk_base" FILE="../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_woodenDesk/desk_base.uasset" SILENT=true
+[2018.01.13-11.27.10:670][ 43]LogSavePackage: Save=12.41ms
+[2018.01.13-11.27.10:671][ 43]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/desk_base390F7A194DD7016CC4CFB493870C13AD.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_woodenDesk/desk_base.uasset'
+[2018.01.13-11.27.10:672][ 43]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_woodenDesk/desk_base.uasset
+[2018.01.13-11.27.10:709][ 43]LogSavePackage: Save=28.49ms
+[2018.01.13-11.27.10:709][ 43]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/draws_Base_ColorEECC7305455115C6C7572E976F5DF913.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_woodenDesk/Clean_Textures/draws_Base_Color.uasset'
+[2018.01.13-11.27.10:710][ 43]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_woodenDesk/Clean_Textures/draws_Base_Color.uasset
+[2018.01.13-11.27.10:723][ 43]LogSavePackage: Save=7.12ms
+[2018.01.13-11.27.10:723][ 43]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/draws_MetallicD0F5F4164C9482C199950F94C1F44F93.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_woodenDesk/Clean_Textures/draws_Metallic.uasset'
+[2018.01.13-11.27.10:724][ 43]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_woodenDesk/Clean_Textures/draws_Metallic.uasset
+[2018.01.13-11.27.10:747][ 43]LogSavePackage: Save=13.40ms
+[2018.01.13-11.27.10:747][ 43]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/draws_Mixed_AO7E88FF7F43713CBF95E673AD9A9F5E2E.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_woodenDesk/Clean_Textures/draws_Mixed_AO.uasset'
+[2018.01.13-11.27.10:748][ 43]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_woodenDesk/Clean_Textures/draws_Mixed_AO.uasset
+[2018.01.13-11.27.10:780][ 43]LogSavePackage: Save=22.53ms
+[2018.01.13-11.27.10:780][ 43]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/draws_Normal_DirectX27ADDA0047B5F62983B34D8864895E33.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_woodenDesk/Clean_Textures/draws_Normal_DirectX.uasset'
+[2018.01.13-11.27.10:781][ 43]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_woodenDesk/Clean_Textures/draws_Normal_DirectX.uasset
+[2018.01.13-11.27.10:802][ 43]LogSavePackage: Save=13.48ms
+[2018.01.13-11.27.10:802][ 43]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/draws_RoughnessE7877A324747061B89FDF9867043B0CB.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_woodenDesk/Clean_Textures/draws_Roughness.uasset'
+[2018.01.13-11.27.10:804][ 43]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_woodenDesk/Clean_Textures/draws_Roughness.uasset
+[2018.01.13-11.27.10:817][ 43]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Props/S_woodenDesk/draws" FILE="../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_woodenDesk/draws.uasset" SILENT=true
+[2018.01.13-11.27.10:831][ 43]LogSavePackage: Save=12.70ms
+[2018.01.13-11.27.10:831][ 43]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/draws0771F7C54DF92C65AA9AEBBE9F595E00.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_woodenDesk/draws.uasset'
+[2018.01.13-11.27.10:832][ 43]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_woodenDesk/draws.uasset
+[2018.01.13-11.27.10:850][ 43]LogSavePackage: Save=9.70ms
+[2018.01.13-11.27.10:850][ 43]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/desk_metal2_Base_Color0A5A10E149846CB6684EAC865C2C64F2.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_woodenDesk/Textures/desk_metal2_Base_Color.uasset'
+[2018.01.13-11.27.10:851][ 43]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_woodenDesk/Textures/desk_metal2_Base_Color.uasset
+[2018.01.13-11.27.10:867][ 43]LogSavePackage: Save=7.37ms
+[2018.01.13-11.27.10:867][ 43]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/desk_metal2_Metallic5B1196C64A52C9F4838AF880823F4E25.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_woodenDesk/Textures/desk_metal2_Metallic.uasset'
+[2018.01.13-11.27.10:868][ 43]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_woodenDesk/Textures/desk_metal2_Metallic.uasset
+[2018.01.13-11.27.10:885][ 43]LogSavePackage: Save=8.52ms
+[2018.01.13-11.27.10:885][ 43]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/desk_metal2_Mixed_AO1C68D51F471726BCCE0EE0A880744C3D.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_woodenDesk/Textures/desk_metal2_Mixed_AO.uasset'
+[2018.01.13-11.27.10:886][ 43]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_woodenDesk/Textures/desk_metal2_Mixed_AO.uasset
+[2018.01.13-11.27.10:903][ 43]LogSavePackage: Save=8.75ms
+[2018.01.13-11.27.10:903][ 43]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/desk_metal2_Normal_DirectX10FD7CE843A811D6405EDA8BD1795A8A.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_woodenDesk/Textures/desk_metal2_Normal_DirectX.uasset'
+[2018.01.13-11.27.10:905][ 43]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_woodenDesk/Textures/desk_metal2_Normal_DirectX.uasset
+[2018.01.13-11.27.10:921][ 43]LogSavePackage: Save=7.81ms
+[2018.01.13-11.27.10:921][ 43]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/desk_metal2_Roughness8FAC5B99451CAB43FC28C4B10225B413.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_woodenDesk/Textures/desk_metal2_Roughness.uasset'
+[2018.01.13-11.27.10:922][ 43]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_woodenDesk/Textures/desk_metal2_Roughness.uasset
+[2018.01.13-11.27.10:934][ 43]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Props/S_woodenDesk/metal2" FILE="../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_woodenDesk/metal2.uasset" SILENT=true
+[2018.01.13-11.27.10:947][ 43]LogSavePackage: Save=12.06ms
+[2018.01.13-11.27.10:947][ 43]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/metal2FDF1AB344791DC2AA42A18BB4AB66F2B.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_woodenDesk/metal2.uasset'
+[2018.01.13-11.27.10:948][ 43]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_woodenDesk/metal2.uasset
+[2018.01.13-11.27.10:961][ 43]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Props/S_woodenDesk/Desk1_low" FILE="../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_woodenDesk/Desk1_low.uasset" SILENT=true
+[2018.01.13-11.27.10:974][ 43]LogSavePackage: Save=11.44ms
+[2018.01.13-11.27.10:974][ 43]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/Desk1_lowE83E645D40D4F426208EDA8F6605E923.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_woodenDesk/Desk1_low.uasset'
+[2018.01.13-11.27.10:975][ 43]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_woodenDesk/Desk1_low.uasset
+[2018.01.13-11.27.10:994][ 43]LogSavePackage: Save=9.68ms
+[2018.01.13-11.27.10:994][ 43]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/desk_metal2_Base_ColorB96DB0CE464AEC8435681CBEAC86F0EC.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_woodenDesk/Clean_Textures/desk_metal2_Base_Color.uasset'
+[2018.01.13-11.27.10:996][ 43]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_woodenDesk/Clean_Textures/desk_metal2_Base_Color.uasset
+[2018.01.13-11.27.11:013][ 43]LogSavePackage: Save=7.38ms
+[2018.01.13-11.27.11:013][ 43]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/desk_metal2_Height2F1DCBBE47A19A5ACD2B30938600441E.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_woodenDesk/Clean_Textures/desk_metal2_Height.uasset'
+[2018.01.13-11.27.11:014][ 43]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_woodenDesk/Clean_Textures/desk_metal2_Height.uasset
+[2018.01.13-11.27.11:031][ 43]LogSavePackage: Save=7.44ms
+[2018.01.13-11.27.11:031][ 43]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/desk_metal2_Metallic4134EE9047711E471B4ADA87B86E27E9.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_woodenDesk/Clean_Textures/desk_metal2_Metallic.uasset'
+[2018.01.13-11.27.11:032][ 43]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_woodenDesk/Clean_Textures/desk_metal2_Metallic.uasset
+[2018.01.13-11.27.11:049][ 43]LogSavePackage: Save=8.25ms
+[2018.01.13-11.27.11:049][ 43]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/desk_metal2_Mixed_AO37D843D649D9BF3D8A822BA9A2780266.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_woodenDesk/Clean_Textures/desk_metal2_Mixed_AO.uasset'
+[2018.01.13-11.27.11:051][ 43]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_woodenDesk/Clean_Textures/desk_metal2_Mixed_AO.uasset
+[2018.01.13-11.27.11:068][ 43]LogSavePackage: Save=8.83ms
+[2018.01.13-11.27.11:068][ 43]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/desk_metal2_Normal_DirectX2E1DBE664B19424ACE8B499F1E19500B.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_woodenDesk/Clean_Textures/desk_metal2_Normal_DirectX.uasset'
+[2018.01.13-11.27.11:069][ 43]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_woodenDesk/Clean_Textures/desk_metal2_Normal_DirectX.uasset
+[2018.01.13-11.27.11:086][ 43]LogSavePackage: Save=7.95ms
+[2018.01.13-11.27.11:086][ 43]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/desk_metal2_Roughness5346383142D4D5B4EE7337A8B5D47555.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_woodenDesk/Clean_Textures/desk_metal2_Roughness.uasset'
+[2018.01.13-11.27.11:087][ 43]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_woodenDesk/Clean_Textures/desk_metal2_Roughness.uasset
+[2018.01.13-11.27.11:156][ 43]LogSavePackage: Save=60.53ms
+[2018.01.13-11.27.11:156][ 43]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/desk_desk_base_Base_ColorE264742143AA3D15BE68DCB2A84EE456.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_woodenDesk/Textures/desk_desk_base_Base_Color.uasset'
+[2018.01.13-11.27.11:157][ 43]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_woodenDesk/Textures/desk_desk_base_Base_Color.uasset
+[2018.01.13-11.27.11:168][ 43]LogSavePackage: Save=5.23ms
+[2018.01.13-11.27.11:168][ 43]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/desk_desk_base_Metallic485A55F44CC10343466FCD87836E5122.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_woodenDesk/Textures/desk_desk_base_Metallic.uasset'
+[2018.01.13-11.27.11:169][ 43]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_woodenDesk/Textures/desk_desk_base_Metallic.uasset
+[2018.01.13-11.27.11:196][ 43]LogSavePackage: Save=15.71ms
+[2018.01.13-11.27.11:196][ 43]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/desk_desk_base_Mixed_AO2500AB4C42C49A70C3D36ABB7753A7A3.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_woodenDesk/Textures/desk_desk_base_Mixed_AO.uasset'
+[2018.01.13-11.27.11:198][ 43]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_woodenDesk/Textures/desk_desk_base_Mixed_AO.uasset
+[2018.01.13-11.27.11:237][ 43]LogSavePackage: Save=31.30ms
+[2018.01.13-11.27.11:237][ 43]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/desk_desk_base_Normal_DirectX791E5C6949A6E0A8A24EE890A0DE6D90.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_woodenDesk/Textures/desk_desk_base_Normal_DirectX.uasset'
+[2018.01.13-11.27.11:239][ 43]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_woodenDesk/Textures/desk_desk_base_Normal_DirectX.uasset
+[2018.01.13-11.27.11:253][ 43]LogSavePackage: Save=5.76ms
+[2018.01.13-11.27.11:253][ 43]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/desk_desk_base_RoughnessE36ADF574D5A070FF81F9A973C491CF5.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_woodenDesk/Textures/desk_desk_base_Roughness.uasset'
+[2018.01.13-11.27.11:254][ 43]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_woodenDesk/Textures/desk_desk_base_Roughness.uasset
+[2018.01.13-11.27.11:292][ 43]LogSavePackage: Save=30.08ms
+[2018.01.13-11.27.11:292][ 43]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/draws_Base_ColorBBFEB19B49664218EABDD68166B2D676.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_woodenDesk/Textures/draws_Base_Color.uasset'
+[2018.01.13-11.27.11:294][ 43]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_woodenDesk/Textures/draws_Base_Color.uasset
+[2018.01.13-11.27.11:308][ 43]LogSavePackage: Save=5.70ms
+[2018.01.13-11.27.11:308][ 43]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/draws_MetallicBF845F614346B17BAD415CBFE4B918ED.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_woodenDesk/Textures/draws_Metallic.uasset'
+[2018.01.13-11.27.11:309][ 43]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_woodenDesk/Textures/draws_Metallic.uasset
+[2018.01.13-11.27.11:331][ 43]LogSavePackage: Save=12.60ms
+[2018.01.13-11.27.11:331][ 43]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/draws_Mixed_AO4CC6EA12412B158CD61C3781C5112745.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_woodenDesk/Textures/draws_Mixed_AO.uasset'
+[2018.01.13-11.27.11:332][ 43]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_woodenDesk/Textures/draws_Mixed_AO.uasset
+[2018.01.13-11.27.11:369][ 43]LogSavePackage: Save=28.17ms
+[2018.01.13-11.27.11:369][ 43]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/draws_Normal_DirectX88CF07574AEE5705E170A89566CE8716.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_woodenDesk/Textures/draws_Normal_DirectX.uasset'
+[2018.01.13-11.27.11:371][ 43]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_woodenDesk/Textures/draws_Normal_DirectX.uasset
+[2018.01.13-11.27.11:384][ 43]LogSavePackage: Save=5.37ms
+[2018.01.13-11.27.11:384][ 43]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/draws_Roughness4C5209424B9101EDE5758F915556928D.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_woodenDesk/Textures/draws_Roughness.uasset'
+[2018.01.13-11.27.11:386][ 43]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Content/Props/S_woodenDesk/Textures/draws_Roughness.uasset
+[2018.01.13-11.27.12:818][ 43]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/SearchableDesk1" FILE="../../../../../Project Liane/Liane/projectliane/projectliane/Content/Blueprints/SearchableDesk1.uasset" SILENT=true
+[2018.01.13-11.27.12:848][ 43]LogSavePackage: Save=23.79ms
+[2018.01.13-11.27.12:848][ 43]LogSavePackage: Moving '../../../../../Project Liane/Liane/projectliane/projectliane/Saved/SearchableDesk1CEFF4ADB4C39CC8D5475659A1D66A09F.tmp' to '../../../../../Project Liane/Liane/projectliane/projectliane/Content/Blueprints/SearchableDesk1.uasset'
+[2018.01.13-11.27.12:850][ 43]LogSavePackage:Display: Finished SavePackage ../../../../../Project Liane/Liane/projectliane/projectliane/Content/Blueprints/SearchableDesk1.uasset
+[2018.01.13-11.28.55:641][  9]LogFbx:Warning: FBX version number for this version of the FBX SDK is 7.5.0
+
+
+[2018.01.13-11.38.26:488][ 30]Cmd: QUIT_EDITOR
+[2018.01.13-11.38.26:508][ 30]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2018.01.13-11.38.26:522][ 30]LogExit: Preparing to exit.
+[2018.01.13-11.38.27:333][ 30]LogDirectoryWatcher: A directory notification for 'D:/Project Liane/Liane/projectliane/projectliane/Content/' was aborted.
+[2018.01.13-11.38.27:359][ 30]LogExit: Editor shut down
+[2018.01.13-11.38.27:366][ 30]LogExit: Transaction tracking system shut down
+[2018.01.13-11.38.27:517][ 30]LogObj: Freed 0b from 0 cluster array pools.
+[2018.01.13-11.38.27:517][ 30]LogExit: Object subsystem successfully closed.
+[2018.01.13-11.38.27:537][ 30]LogD3D11RHI: Shutdown
+[2018.01.13-11.38.27:537][ 30]LogD3D11RHI: CleanupD3DDevice
+[2018.01.13-11.38.27:635][ 30]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.01.13-11.38.27:641][ 30]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (532)
+[2018.01.13-11.38.27:642][ 30]LogModuleManager: Shutting down and abandoning module TextureEditor (530)
+[2018.01.13-11.38.27:642][ 30]LogModuleManager: Shutting down and abandoning module MaterialEditor (528)
+[2018.01.13-11.38.27:642][ 30]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (526)
+[2018.01.13-11.38.27:642][ 30]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (524)
+[2018.01.13-11.38.27:642][ 30]LogModuleManager: Shutting down and abandoning module CrashTracker (522)
+[2018.01.13-11.38.27:642][ 30]LogModuleManager: Shutting down and abandoning module SceneOutliner (520)
+[2018.01.13-11.38.27:642][ 30]LogModuleManager: Shutting down and abandoning module AddContentDialog (518)
+[2018.01.13-11.38.27:642][ 30]LogDirectoryWatcher: A directory notification for 'D:/Epic Games/UE_4.16/FeaturePacks/' was aborted.
+[2018.01.13-11.38.27:642][ 30]LogModuleManager: Shutting down and abandoning module WidgetCarousel (517)
+[2018.01.13-11.38.27:642][ 30]LogModuleManager: Shutting down and abandoning module EditorWidgets (514)
+[2018.01.13-11.38.27:642][ 30]LogModuleManager: Shutting down and abandoning module CollectionManager (512)
+[2018.01.13-11.38.27:642][ 30]LogDirectoryWatcher: A directory notification for 'D:/Project Liane/Liane/projectliane/projectliane/Content/Collections/' was aborted.
+[2018.01.13-11.38.27:642][ 30]LogDirectoryWatcher: A directory notification for 'D:/Project Liane/Liane/projectliane/projectliane/Content/Developers/3DGuru/Collections/' was aborted.
+[2018.01.13-11.38.27:642][ 30]LogDirectoryWatcher: A directory notification for 'D:/Project Liane/Liane/projectliane/projectliane/Saved/Collections/' was aborted.
+[2018.01.13-11.38.27:642][ 30]LogModuleManager: Shutting down and abandoning module StatsViewer (510)
+[2018.01.13-11.38.27:642][ 30]LogModuleManager: Shutting down and abandoning module FoliageEdit (508)
+[2018.01.13-11.38.27:642][ 30]LogModuleManager: Shutting down and abandoning module LandscapeEditor (506)
+[2018.01.13-11.38.27:642][ 30]LogModuleManager: Shutting down and abandoning module MeshPaintMode (504)
+[2018.01.13-11.38.27:643][ 30]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (502)
+[2018.01.13-11.38.27:643][ 30]LogModuleManager: Shutting down and abandoning module ActorPickerMode (500)
+[2018.01.13-11.38.27:643][ 30]LogModuleManager: Shutting down and abandoning module GeometryMode (498)
+[2018.01.13-11.38.27:643][ 30]LogModuleManager: Shutting down and abandoning module TextureAlignMode (496)
+[2018.01.13-11.38.27:643][ 30]LogModuleManager: Shutting down and abandoning module BspMode (494)
+[2018.01.13-11.38.27:643][ 30]LogModuleManager: Shutting down and abandoning module HardwareSurvey (492)
+[2018.01.13-11.38.27:643][ 30]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (490)
+[2018.01.13-11.38.27:643][ 30]LogModuleManager: Shutting down and abandoning module AutomationWorker (488)
+[2018.01.13-11.38.27:643][ 30]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (486)
+[2018.01.13-11.38.27:643][ 30]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (484)
+[2018.01.13-11.38.27:643][ 30]LogModuleManager: Shutting down and abandoning module PlacementMode (483)
+[2018.01.13-11.38.27:643][ 30]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (480)
+[2018.01.13-11.38.27:643][ 30]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (478)
+[2018.01.13-11.38.27:643][ 30]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (476)
+[2018.01.13-11.38.27:643][ 30]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (474)
+[2018.01.13-11.38.27:643][ 30]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (472)
+[2018.01.13-11.38.27:643][ 30]LogModuleManager: Shutting down and abandoning module Media (471)
+[2018.01.13-11.38.27:643][ 30]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (468)
+[2018.01.13-11.38.27:643][ 30]LogModuleManager: Shutting down and abandoning module CharacterAI (466)
+[2018.01.13-11.38.27:643][ 30]LogModuleManager: Shutting down and abandoning module AudioCapture (464)
+[2018.01.13-11.38.27:643][ 30]LogModuleManager: Shutting down and abandoning module SequenceRecorder (463)
+[2018.01.13-11.38.27:643][ 30]LogModuleManager: Shutting down and abandoning module SmartSnapping (460)
+[2018.01.13-11.38.27:643][ 30]LogModuleManager: Shutting down and abandoning module SessionServices (458)
+[2018.01.13-11.38.27:643][ 30]LogModuleManager: Shutting down and abandoning module ViewportSnapping (456)
+[2018.01.13-11.38.27:643][ 30]LogModuleManager: Shutting down and abandoning module ViewportInteraction (454)
+[2018.01.13-11.38.27:643][ 30]LogModuleManager: Shutting down and abandoning module ClothPainter (452)
+[2018.01.13-11.38.27:643][ 30]LogModuleManager: Shutting down and abandoning module LogVisualizer (450)
+[2018.01.13-11.38.27:643][ 30]LogModuleManager: Shutting down and abandoning module IntroTutorials (448)
+[2018.01.13-11.38.27:643][ 30]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (447)
+[2018.01.13-11.38.27:643][ 30]LogModuleManager: Shutting down and abandoning module EditorLiveStreaming (444)
+[2018.01.13-11.38.27:643][ 30]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (442)
+[2018.01.13-11.38.27:643][ 30]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (440)
+[2018.01.13-11.38.27:643][ 30]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (438)
+[2018.01.13-11.38.27:643][ 30]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (437)
+[2018.01.13-11.38.28:103][ 30]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (434)
+[2018.01.13-11.38.28:103][ 30]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (432)
+[2018.01.13-11.38.28:103][ 30]LogModuleManager: Shutting down and abandoning module InputBindingEditor (430)
+[2018.01.13-11.38.28:103][ 30]LogModuleManager: Shutting down and abandoning module MergeActors (428)
+[2018.01.13-11.38.28:103][ 30]LogModuleManager: Shutting down and abandoning module SizeMap (426)
+[2018.01.13-11.38.28:103][ 30]LogModuleManager: Shutting down and abandoning module TreeMap (424)
+[2018.01.13-11.38.28:103][ 30]LogModuleManager: Shutting down and abandoning module ReferenceViewer (422)
+[2018.01.13-11.38.28:103][ 30]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (420)
+[2018.01.13-11.38.28:103][ 30]LogModuleManager: Shutting down and abandoning module LocalizationService (419)
+[2018.01.13-11.38.28:103][ 30]LogModuleManager: Shutting down and abandoning module HardwareTargeting (416)
+[2018.01.13-11.38.28:103][ 30]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (414)
+[2018.01.13-11.38.28:103][ 30]LogModuleManager: Shutting down and abandoning module UndoHistory (412)
+[2018.01.13-11.38.28:103][ 30]LogModuleManager: Shutting down and abandoning module UserFeedback (410)
+[2018.01.13-11.38.28:103][ 30]LogModuleManager: Shutting down and abandoning module XmlParser (408)
+[2018.01.13-11.38.28:103][ 30]LogModuleManager: Shutting down and abandoning module Blutility (406)
+[2018.01.13-11.38.28:103][ 30]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (404)
+[2018.01.13-11.38.28:104][ 30]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (403)
+[2018.01.13-11.38.28:104][ 30]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (400)
+[2018.01.13-11.38.28:104][ 30]LogModuleManager: Shutting down and abandoning module SettingsEditor (398)
+[2018.01.13-11.38.28:104][ 30]LogModuleManager: Shutting down and abandoning module ProjectLauncher (396)
+[2018.01.13-11.38.28:104][ 30]LogModuleManager: Shutting down and abandoning module SessionFrontend (394)
+[2018.01.13-11.38.28:104][ 30]LogModuleManager: Shutting down and abandoning module ProfilerClient (392)
+[2018.01.13-11.38.28:104][ 30]LogModuleManager: Shutting down and abandoning module DeviceManager (390)
+[2018.01.13-11.38.28:104][ 30]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (389)
+[2018.01.13-11.38.28:166][ 30]LogModuleManager: Shutting down and abandoning module AutomationController (386)
+[2018.01.13-11.38.28:166][ 30]LogModuleManager: Shutting down and abandoning module AutomationWindow (384)
+[2018.01.13-11.38.28:166][ 30]LogModuleManager: Shutting down and abandoning module Layers (382)
+[2018.01.13-11.38.28:166][ 30]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (380)
+[2018.01.13-11.38.28:166][ 30]LogModuleManager: Shutting down and abandoning module DetailCustomizations (378)
+[2018.01.13-11.38.28:166][ 30]LogModuleManager: Shutting down and abandoning module PackagesDialog (376)
+[2018.01.13-11.38.28:166][ 30]LogModuleManager: Shutting down and abandoning module Persona (374)
+[2018.01.13-11.38.28:166][ 30]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (373)
+[2018.01.13-11.38.28:166][ 30]LogModuleManager: Shutting down and abandoning module AnimGraph (371)
+[2018.01.13-11.38.28:166][ 30]LogModuleManager: Shutting down and abandoning module Kismet (368)
+[2018.01.13-11.38.28:168][ 30]LogModuleManager: Shutting down and abandoning module ClassViewer (366)
+[2018.01.13-11.38.28:168][ 30]LogModuleManager: Shutting down and abandoning module Toolbox (364)
+[2018.01.13-11.38.28:168][ 30]LogModuleManager: Shutting down and abandoning module ModuleUI (362)
+[2018.01.13-11.38.28:168][ 30]LogModuleManager: Shutting down and abandoning module MovieSceneTools (360)
+[2018.01.13-11.38.28:168][ 30]LogModuleManager: Shutting down and abandoning module OutputLog (358)
+[2018.01.13-11.38.28:168][ 30]LogModuleManager: Shutting down and abandoning module GammaUI (356)
+[2018.01.13-11.38.28:168][ 30]LogModuleManager: Shutting down and abandoning module Documentation (354)
+[2018.01.13-11.38.28:168][ 30]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (352)
+[2018.01.13-11.38.28:168][ 30]LogModuleManager: Shutting down and abandoning module MovieScene (350)
+[2018.01.13-11.38.28:168][ 30]LogModuleManager: Shutting down and abandoning module Niagara (348)
+[2018.01.13-11.38.28:168][ 30]LogModuleManager: Shutting down and abandoning module NiagaraEditor (347)
+[2018.01.13-11.38.28:168][ 30]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (344)
+[2018.01.13-11.38.28:168][ 30]LogModuleManager: Shutting down and abandoning module AnalyticsET (342)
+[2018.01.13-11.38.28:168][ 30]LogModuleManager: Shutting down and abandoning module PortalServices (340)
+[2018.01.13-11.38.28:168][ 30]LogModuleManager: Shutting down and abandoning module PortalRpc (338)
+[2018.01.13-11.38.28:168][ 30]LogModuleManager: Shutting down and abandoning module MessagingRpc (336)
+[2018.01.13-11.38.28:168][ 30]LogModuleManager: Shutting down and abandoning module AIModule (334)
+[2018.01.13-11.38.28:168][ 30]LogModuleManager: Shutting down and abandoning module GameplayDebugger (333)
+[2018.01.13-11.38.28:168][ 30]LogModuleManager: Shutting down and abandoning module AITestSuite (331)
+[2018.01.13-11.38.28:168][ 30]LogModuleManager: Shutting down and abandoning module ProfilerService (328)
+[2018.01.13-11.38.28:266][ 30]LogModuleManager: Shutting down and abandoning module TaskGraph (326)
+[2018.01.13-11.38.28:266][ 30]LogModuleManager: Shutting down and abandoning module SteamVRController (324)
+[2018.01.13-11.38.28:266][ 30]LogModuleManager: Shutting down and abandoning module SteamVR (322)
+[2018.01.13-11.38.28:266][ 30]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (320)
+[2018.01.13-11.38.28:266][ 30]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (318)
+[2018.01.13-11.38.28:266][ 30]LogModuleManager: Shutting down and abandoning module OculusLibrary (316)
+[2018.01.13-11.38.28:266][ 30]LogModuleManager: Shutting down and abandoning module OculusInput (314)
+[2018.01.13-11.38.28:266][ 30]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (312)
+[2018.01.13-11.38.28:266][ 30]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (310)
+[2018.01.13-11.38.28:266][ 30]LogModuleManager: Shutting down and abandoning module CableComponent (308)
+[2018.01.13-11.38.28:266][ 30]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (306)
+[2018.01.13-11.38.28:266][ 30]LogModuleManager: Shutting down and abandoning module AndroidPermission (304)
+[2018.01.13-11.38.28:266][ 30]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (300)
+[2018.01.13-11.38.28:266][ 30]LogModuleManager: Shutting down and abandoning module HTML5Networking (298)
+[2018.01.13-11.38.28:266][ 30]LogModuleManager: Shutting down and abandoning module AlembicImporter (296)
+[2018.01.13-11.38.28:266][ 30]LogModuleManager: Shutting down and abandoning module AlembicLibrary (295)
+[2018.01.13-11.38.28:266][ 30]LogModuleManager: Shutting down and abandoning module GeometryCache (294)
+[2018.01.13-11.38.28:266][ 30]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (293)
+[2018.01.13-11.38.28:266][ 30]LogModuleManager: Shutting down and abandoning module SuperSearchEditor (288)
+[2018.01.13-11.38.28:266][ 30]LogModuleManager: Shutting down and abandoning module SuperSearch (287)
+[2018.01.13-11.38.28:266][ 30]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (284)
+[2018.01.13-11.38.28:266][ 30]LogModuleManager: Shutting down and abandoning module PluginBrowser (282)
+[2018.01.13-11.38.28:266][ 30]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (280)
+[2018.01.13-11.38.28:266][ 30]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (278)
+[2018.01.13-11.38.28:266][ 30]LogModuleManager: Shutting down and abandoning module DesktopPlatform (277)
+[2018.01.13-11.38.28:266][ 30]LogModuleManager: Shutting down and abandoning module UObjectPlugin (274)
+[2018.01.13-11.38.28:266][ 30]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (272)
+[2018.01.13-11.38.28:266][ 30]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (270)
+[2018.01.13-11.38.28:266][ 30]LogModuleManager: Shutting down and abandoning module GitSourceControl (268)
+[2018.01.13-11.38.28:266][ 30]LogModuleManager: Shutting down and abandoning module SourceControl (267)
+[2018.01.13-11.38.28:267][ 30]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (264)
+[2018.01.13-11.38.28:267][ 30]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (262)
+[2018.01.13-11.38.28:267][ 30]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (260)
+[2018.01.13-11.38.28:267][ 30]LogModuleManager: Shutting down and abandoning module Paper2DEditor (258)
+[2018.01.13-11.38.28:267][ 30]LogModuleManager: Shutting down and abandoning module MeshPaint (257)
+[2018.01.13-11.38.28:267][ 30]LogModuleManager: Shutting down and abandoning module LevelEditor (255)
+[2018.01.13-11.38.28:267][ 30]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (254)
+[2018.01.13-11.38.28:267][ 30]LogModuleManager: Shutting down and abandoning module MainFrame (252)
+[2018.01.13-11.38.28:267][ 30]LogModuleManager: Shutting down and abandoning module HotReload (251)
+[2018.01.13-11.38.28:267][ 30]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (246)
+[2018.01.13-11.38.28:267][ 30]LogModuleManager: Shutting down and abandoning module PhysXVehicles (244)
+[2018.01.13-11.38.28:267][ 30]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (242)
+[2018.01.13-11.38.28:267][ 30]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (240)
+[2018.01.13-11.38.28:267][ 30]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (238)
+[2018.01.13-11.38.28:267][ 30]LogModuleManager: Shutting down and abandoning module UdpMessaging (236)
+[2018.01.13-11.38.28:368][ 30]LogModuleManager: Shutting down and abandoning module TcpMessaging (234)
+[2018.01.13-11.38.28:468][ 30]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (232)
+[2018.01.13-11.38.28:468][ 30]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (230)
+[2018.01.13-11.38.28:468][ 30]LogModuleManager: Shutting down and abandoning module FacialAnimation (228)
+[2018.01.13-11.38.28:468][ 30]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (226)
+[2018.01.13-11.38.28:468][ 30]LogModuleManager: Shutting down and abandoning module GraphEditor (225)
+[2018.01.13-11.38.28:468][ 30]LogModuleManager: Shutting down and abandoning module ContentBrowser (223)
+[2018.01.13-11.38.28:469][ 30]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (220)
+[2018.01.13-11.38.28:469][ 30]LogModuleManager: Shutting down and abandoning module Paper2D (218)
+[2018.01.13-11.38.28:469][ 30]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (216)
+[2018.01.13-11.38.28:469][ 30]LogModuleManager: Shutting down and abandoning module WmfMedia (214)
+[2018.01.13-11.38.28:472][ 30]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (212)
+[2018.01.13-11.38.28:473][ 30]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (210)
+[2018.01.13-11.38.28:473][ 30]LogModuleManager: Shutting down and abandoning module MediaAssets (208)
+[2018.01.13-11.38.28:473][ 30]LogModuleManager: Shutting down and abandoning module GameLiveStreaming (206)
+[2018.01.13-11.38.28:473][ 30]LogModuleManager: Shutting down and abandoning module VREditor (204)
+[2018.01.13-11.38.28:473][ 30]LogModuleManager: Shutting down and abandoning module StringTableEditor (202)
+[2018.01.13-11.38.28:473][ 30]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (200)
+[2018.01.13-11.38.28:473][ 30]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (198)
+[2018.01.13-11.38.28:473][ 30]LogModuleManager: Shutting down and abandoning module FunctionalTesting (196)
+[2018.01.13-11.38.28:473][ 30]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (194)
+[2018.01.13-11.38.28:473][ 30]LogModuleManager: Shutting down and abandoning module UMG (192)
+[2018.01.13-11.38.28:473][ 30]LogModuleManager: Shutting down and abandoning module UMGEditor (191)
+[2018.01.13-11.38.28:473][ 30]LogModuleManager: Shutting down and abandoning module Sequencer (190)
+[2018.01.13-11.38.28:473][ 30]LogModuleManager: Shutting down and abandoning module AssetTools (188)
+[2018.01.13-11.38.28:473][ 30]LogModuleManager: Shutting down and abandoning module MessageLog (187)
+[2018.01.13-11.38.28:473][ 30]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (186)
+[2018.01.13-11.38.28:473][ 30]LogModuleManager: Shutting down and abandoning module SlateReflector (180)
+[2018.01.13-11.38.28:473][ 30]LogModuleManager: Shutting down and abandoning module Slate (178)
+[2018.01.13-11.38.28:473][ 30]LogModuleManager: Shutting down and abandoning module EditorStyle (176)
+[2018.01.13-11.38.28:474][ 30]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (174)
+[2018.01.13-11.38.28:474][ 30]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (172)
+[2018.01.13-11.38.28:474][ 30]LogModuleManager: Shutting down and abandoning module XAudio2 (170)
+[2018.01.13-11.38.28:474][ 30]LogModuleManager: Shutting down and abandoning module Networking (168)
+[2018.01.13-11.38.28:474][ 30]LogModuleManager: Shutting down and abandoning module Core (164)
+[2018.01.13-11.38.28:474][ 30]LogModuleManager: Shutting down and abandoning module AssetRegistry (162)
+[2018.01.13-11.38.28:670][ 30]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2018.01.13-11.38.28:670][ 30]LogDirectoryWatcher: A directory notification for '../../../../../Project Liane/Liane/projectliane/projectliane/Content/' was aborted.
+[2018.01.13-11.38.28:670][ 30]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2018.01.13-11.38.28:670][ 30]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/GearVR/Content/' was aborted.
+[2018.01.13-11.38.28:674][ 30]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (161)
+[2018.01.13-11.38.28:674][ 30]LogModuleManager: Shutting down and abandoning module KismetCompiler (158)
+[2018.01.13-11.38.28:674][ 30]LogModuleManager: Shutting down and abandoning module LevelSequence (156)
+[2018.01.13-11.38.28:675][ 30]LogModuleManager: Shutting down and abandoning module PhysXFormats (154)
+[2018.01.13-11.38.28:675][ 30]LogModuleManager: Shutting down and abandoning module MeshUtilities (152)
+[2018.01.13-11.38.28:675][ 30]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (151)
+[2018.01.13-11.38.28:675][ 30]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (149)
+[2018.01.13-11.38.28:675][ 30]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (147)
+[2018.01.13-11.38.28:675][ 30]LogModuleManager: Shutting down and abandoning module DerivedDataCache (144)
+[2018.01.13-11.38.28:725][ 30]LogDerivedDataCache: Shutdown
+[2018.01.13-11.38.28:725][ 30]LogModuleManager: Shutting down and abandoning module TargetPlatform (142)
+[2018.01.13-11.38.28:725][ 30]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (141)
+[2018.01.13-11.38.28:725][ 30]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (139)
+[2018.01.13-11.38.28:725][ 30]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (137)
+[2018.01.13-11.38.28:725][ 30]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (135)
+[2018.01.13-11.38.28:725][ 30]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (133)
+[2018.01.13-11.38.28:725][ 30]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (131)
+[2018.01.13-11.38.28:725][ 30]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (129)
+[2018.01.13-11.38.28:725][ 30]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (127)
+[2018.01.13-11.38.28:725][ 30]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (125)
+[2018.01.13-11.38.28:725][ 30]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (123)
+[2018.01.13-11.38.28:725][ 30]LogModuleManager: Shutting down and abandoning module ImageWrapper (122)
+[2018.01.13-11.38.28:725][ 30]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (119)
+[2018.01.13-11.38.28:725][ 30]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (117)
+[2018.01.13-11.38.28:725][ 30]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (115)
+[2018.01.13-11.38.28:725][ 30]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (113)
+[2018.01.13-11.38.28:725][ 30]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (111)
+[2018.01.13-11.38.28:725][ 30]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (109)
+[2018.01.13-11.38.28:725][ 30]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (107)
+[2018.01.13-11.38.28:725][ 30]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (105)
+[2018.01.13-11.38.28:725][ 30]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (103)
+[2018.01.13-11.38.28:725][ 30]LogModuleManager: Shutting down and abandoning module Messaging (101)
+[2018.01.13-11.38.28:725][ 30]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (99)
+[2018.01.13-11.38.28:725][ 30]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (97)
+[2018.01.13-11.38.28:725][ 30]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (95)
+[2018.01.13-11.38.28:725][ 30]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (93)
+[2018.01.13-11.38.28:725][ 30]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (91)
+[2018.01.13-11.38.28:725][ 30]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (89)
+[2018.01.13-11.38.28:725][ 30]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (87)
+[2018.01.13-11.38.28:725][ 30]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (85)
+[2018.01.13-11.38.28:725][ 30]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (83)
+[2018.01.13-11.38.28:725][ 30]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (81)
+[2018.01.13-11.38.28:725][ 30]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (79)
+[2018.01.13-11.38.28:725][ 30]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (77)
+[2018.01.13-11.38.28:725][ 30]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (75)
+[2018.01.13-11.38.28:725][ 30]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (73)
+[2018.01.13-11.38.28:725][ 30]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (71)
+[2018.01.13-11.38.28:725][ 30]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (69)
+[2018.01.13-11.38.28:725][ 30]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (67)
+[2018.01.13-11.38.28:725][ 30]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (65)
+[2018.01.13-11.38.28:725][ 30]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (63)
+[2018.01.13-11.38.28:725][ 30]LogModuleManager: Shutting down and abandoning module InputCore (60)
+[2018.01.13-11.38.28:725][ 30]LogModuleManager: Shutting down and abandoning module Settings (58)
+[2018.01.13-11.38.28:725][ 30]LogModuleManager: Shutting down and abandoning module OculusRift (56)
+[2018.01.13-11.38.28:725][ 30]LogModuleManager: Shutting down and abandoning module GearVRController (54)
+[2018.01.13-11.38.28:725][ 30]LogModuleManager: Shutting down and abandoning module GearVR (52)
+[2018.01.13-11.38.28:725][ 30]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (50)
+[2018.01.13-11.38.28:725][ 30]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2018.01.13-11.38.28:725][ 30]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2018.01.13-11.38.28:725][ 30]LogOnline:Display: Unloading online subsystem: NULL
+[2018.01.13-11.38.28:725][ 30]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2018.01.13-11.38.28:725][ 30]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2018.01.13-11.38.28:725][ 30]LogHttp:Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.01.13-11.38.28:725][ 30]LogHttp:Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BECFA5491-4971-5084-9D2E-B5833E1E6171%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.16.3-3561208%2B%2B%2BUE4%2BRelease-4.16&UserID=709c02a842496b3883880182ae399911%7C4f60e203c4be4c5f998abc638ffc2ebf%7C221ee007-88fa-4364-bc17-c8cc1651df5a&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.01.13-11.38.28:751][ 30]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2018.01.13-11.38.28:752][ 30]LogModuleManager: Shutting down and abandoning module HTTPChunkInstaller (36)
+[2018.01.13-11.38.28:752][ 30]LogModuleManager: Shutting down and abandoning module AnimationModifiers (34)
+[2018.01.13-11.38.28:752][ 30]LogModuleManager: Shutting down and abandoning module PropertyEditor (33)
+[2018.01.13-11.38.28:752][ 30]LogModuleManager: Shutting down and abandoning module AudioEditor (30)
+[2018.01.13-11.38.28:752][ 30]LogModuleManager: Shutting down and abandoning module TextureCompressor (28)
+[2018.01.13-11.38.28:752][ 30]LogModuleManager: Shutting down and abandoning module ShaderCore (26)
+[2018.01.13-11.38.28:752][ 30]LogModuleManager: Shutting down and abandoning module Landscape (24)
+[2018.01.13-11.38.28:752][ 30]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (22)
+[2018.01.13-11.38.28:753][ 30]LogModuleManager: Shutting down and abandoning module OpenGLDrv (20)
+[2018.01.13-11.38.28:753][ 30]LogModuleManager: Shutting down and abandoning module D3D11RHI (18)
+[2018.01.13-11.38.28:753][ 30]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (16)
+[2018.01.13-11.38.28:753][ 30]LogModuleManager: Shutting down and abandoning module Renderer (14)
+[2018.01.13-11.38.28:753][ 30]LogModuleManager: Shutting down and abandoning module Engine (12)
+[2018.01.13-11.38.28:753][ 30]LogModuleManager: Shutting down and abandoning module CoreUObject (10)
+[2018.01.13-11.38.28:753][ 30]LogModuleManager: Shutting down and abandoning module NetworkFile (8)
+[2018.01.13-11.38.28:753][ 30]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.01.13-11.38.28:753][ 30]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.01.13-11.38.28:753][ 30]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.01.13-11.38.28:755][ 30]LogExit: Exiting.
+[2018.01.13-11.38.28:770][ 30]Log file closed, 01/13/18 03:38:28
